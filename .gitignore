@@ -2,6 +2,7 @@
 /dataset/
 /Volumes/
 /TuckER/data/nyt10/
+*.ipynb_checkpoints
 
 
 /.git/objects/pack/tmp_pack_ED5Yfh
@@ -15,6 +16,7 @@
 /.git/objects/c5/tmp_obj_wSWlyF
 /.git/objects/92/097e642e17c71836c087705aafbe0bb01be743
 /.git/objects/95/2d8fb804bf959574ebf5a0b3cc9f5fe72a4f69
+/playground.ipynb
 /TuckER/data/FB60K-NYT10/raw_data/nyt10_test_raw.json
 /TuckER/data/FB60K-NYT10/raw_data/nyt10_train_raw.json
 /TuckER/output/Wiki27K.tucker.256.test.link_prediction.txt

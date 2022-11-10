@@ -3,8 +3,8 @@
 /Volumes/
 /TuckER/data/nyt10/
 *.ipynb_checkpoints
-*__pycache__
-*.idea
+__pycache__
+.idea
 .ipynb_checkpoints
 
 

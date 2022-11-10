@@ -32,8 +32,8 @@ sh run.sh
 Copy the following generated files into the appropriate folder.
 
 ``` bash
-cp Wiki27K.tucker.256.kge_neg.txt ../dataset/Wiki27K
-cp Wiki27K.tucker.256.test.link_prediction.txt ../dataset/Wiki27K
+cp output/FB60K-NYT10.tucker.256.kge_neg.txt ../dataset/FB60K-NYT10
+cp output/FB60K-NYT10.tucker.256.test.link_prediction.txt ../dataset/FB60K-NYT10
 ```
 
 Move to `dataset/Wiki27K` folder and run generation script to generate negative files and link prediction files.

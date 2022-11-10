@@ -1,6 +1,6 @@
-export CUDA_VISIBLE_DEVICES=7
+export CUDA_VISIBLE_DEVICES=0,1,2,3
 
-python3 cli.py \
+python3 -m torch.distributed.launch --nproc_per_node=4 cli.py \
 --model_name roberta-large \
 --pseudo_token [PROMPT] \
 --template \(1,1,1,1,1,1\) \
@@ -22,6 +22,5 @@ python3 cli.py \
 --neg_K 30 \
 --random_neg_ratio 0.5 \
 --keg_neg all \
---test_open \
 --link_prediction \
 --add_definition \

@@ -1,10 +1,10 @@
-export CUDA_VISIBLE_DEVICES=3
+export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7
 
 python3 cli.py \
 --model_name roberta-large \
 --pseudo_token [PROMPT] \
 --template \(1,1,1,1,1,1\) \
---max_epoch 100 \
+--max_epoch 10 \
 --batch_size 16 \
 --early_stop 20 \
 --lr 5e-5 \
@@ -22,6 +22,5 @@ python3 cli.py \
 --neg_K 30 \
 --random_neg_ratio 0.5 \
 --keg_neg all \
---test_open \
 --link_prediction \
 --add_definition \

@@ -1,6 +1,9 @@
 from torch.utils.data import DataLoader
 from data_utils.dataset import *
 from os.path import join, abspath, dirname
+import torch
+from torch import distributed as dist
+
 
 def get_dataloader(args, tokenizer):
     basic_data = BasicDataWiki(args, tokenizer)
@@ -66,4 +69,4 @@ def get_dataloader(args, tokenizer):
         link_loader_head = None
         link_dataset_tail = None
         link_dataset_head = None
-    return train_loader, dev_loader, test_loader, ch_test_loader, oh_test_loader, o_test_loader, link_loader_head, link_loader_tail, len(basic_data.relation2idx), link_dataset_head, link_dataset_tail
+    return train_set, train_loader,  dev_loader, test_loader, ch_test_loader, oh_test_loader, o_test_loader, link_loader_head, link_loader_tail, len(basic_data.relation2idx), link_dataset_head, link_dataset_tail

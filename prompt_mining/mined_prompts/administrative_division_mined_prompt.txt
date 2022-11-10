@@ -1,0 +1,10 @@
+located in [X], [Y].
+in [X] ([Y]).
+was born in [X], [Y].
+is a city in [X], [Y].
+[X], located in [Y].
+[X], a city district in [Y].
+the province of [Y], [X].
+[X] is a province of [Y].
+the governments of [X] and [Y].
+the government of [X] in [Y].

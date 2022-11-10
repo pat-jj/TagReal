@@ -15,6 +15,7 @@ from data_utils.dataset import *
 from data_utils.utils import *
 from p_tuning.modeling import PTuneForLAMA
 from transformers import LukeTokenizer
+from torch import distributed as dist
 
 SUPPORT_MODELS = ['bert-base-cased', 'bert-large-cased', 'bert-base-uncased', 'bert-large-uncased',
                   'gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl',
@@ -27,6 +28,14 @@ def set_seed(args):
     torch.manual_seed(args.seed)
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(args.seed)
+
+
+def reduce_mean(tensor, nprocs):  # 用于平均所有gpu上的运行结果，比如loss
+    rt = tensor.clone()
+    dist.all_reduce(rt, op=dist.ReduceOp.SUM)
+    rt /= nprocs
+    return rt
+
 
 def construct_generation_args():
     parser = argparse.ArgumentParser()
@@ -69,6 +78,8 @@ def construct_generation_args():
     parser.add_argument("--out_dir", type=str, default='./dataset')
     parser.add_argument("--load_dir", type=str, default='')
 
+    parser.add_argument("--local_rank", default=os.getenv('LOCAL_RANK', -1), type=int)
+
     args = parser.parse_args()
 
     # post-parsing args
@@ -85,9 +96,21 @@ def construct_generation_args():
 
 
 class Trainer(object):
+    def prepare_gpu(self, n_gpu_use):
+        n_gpu = torch.cuda.device_count()
+        #         print('Num of available GPUs: ', n_gpu)
+        if n_gpu_use > 0 and n_gpu == 0:
+            n_gpu_use = 0
+        if n_gpu_use > n_gpu:
+            n_gpu_use = n_gpu
+        device = torch.device('cuda:0' if n_gpu_use > 0 else 'cpu')
+        list_ids = list(range(n_gpu_use))
+        return device, list_ids
+
     def __init__(self, args):
         self.args = args
-        self.device = 'cuda:0'
+        self.device = torch.device('cuda')
+        self.devices, self.device_ids = self.prepare_gpu(8)
 
         # load tokenizer
         tokenizer_src = self.args.model_name
@@ -99,8 +122,11 @@ class Trainer(object):
         else:
             self.tokenizer = AutoTokenizer.from_pretrained(self.args.model_name)
         os.makedirs(self.get_save_path(), exist_ok=True)
-        self.train_loader, self.dev_loader, self.test_loader, self.ch_test_loader, self.oh_test_loader, self.o_test_loader, self.link_loader_head, self.link_loader_tail, relation_num, self.link_dataset_head, self.link_dataset_tail = get_dataloader(args, self.tokenizer)
-        self.model = PTuneForLAMA(args, self.device, self.args.template, self.tokenizer, relation_num)
+        self.train_set, self.train_loader, self.dev_loader, self.test_loader, self.ch_test_loader, self.oh_test_loader, self.o_test_loader, self.link_loader_head, self.link_loader_tail, relation_num, self.link_dataset_head, self.link_dataset_tail = get_dataloader(
+            args, self.tokenizer)
+        self.model = PTuneForLAMA(args, self.device, self.device_ids, self.args.template, self.tokenizer, relation_num)
+
+        self.model.cuda()
         if self.args.load_dir != '':
             self.load(self.args.load_dir)
 
@@ -143,23 +169,43 @@ class Trainer(object):
         optimizer = torch.optim.Adam(params, lr=self.args.lr, weight_decay=self.args.weight_decay)
         my_lr_scheduler = torch.optim.lr_scheduler.ExponentialLR(optimizer=optimizer, gamma=self.args.decay_rate)
 
+        # multi-gpus
+        self.train_sampler = torch.utils.data.distributed.DistributedSampler(self.train_set)
+        self.train_loader = torch.utils.data.DataLoader(self.train_set,
+                                                        batch_size=self.args.batch_size,
+                                                        shuffle=False,
+                                                        num_workers=16,
+                                                        pin_memory=True,
+                                                        drop_last=True,
+                                                        sampler=self.train_sampler)
+
         for epoch_idx in range(self.args.max_epoch):
             # run training
+            self.train_sampler.set_epoch(epoch_idx)  # 这句莫忘，否则相当于没有shuffle数据
             pbar = tqdm(self.train_loader)
             for batch_idx, batch in enumerate(pbar):
                 self.model.train()
+
+                optimizer.zero_grad()
+
                 loss, acc, _ = self.model.forward_classification(batch[0], batch[1], batch[2])
                 pbar.set_description(f"Loss {float(loss.mean()):.6g}, acc {acc:.4g}")
 
+                #                 print("\n begin back propagation for epoch", epoch_idx)
+                # modified
                 loss.backward()
+
+                #                 print("\n end back propagation for epoch", epoch_idx)
+
                 optimizer.step()
-                optimizer.zero_grad()
+
+                loss = reduce_mean(loss, dist.get_world_size())
 
                 # check early stopping
                 if batch_idx % self.args.valid_step == 0:
                     # Triple Classification
                     dev_results, test_results = evaluate_classification_using_classification(self, epoch_idx)
-                    
+
                     # Link Prediction
                     if self.args.link_prediction and not (batch_idx == 0 and epoch_idx == 0):
                         evaluate_link_prediction_using_classification(self, epoch_idx, batch_idx, output_scores=False)

@@ -9,23 +9,49 @@ from transformers import AutoTokenizer
 from p_tuning.models import get_embedding_layer, create_model
 from data_utils.vocab import get_vocab_by_strategy, token_wrapper
 from p_tuning.prompt_encoder import *
+from torch import distributed as dist
+
 
 
 class PTuneForLAMA(torch.nn.Module):
 
-    def __init__(self, args, device, template, tokenizer_src, relation_num):
+    def __init__(self, args, device, device_ids, template, tokenizer_src, relation_num):
         super().__init__()
         self.args = args
         self.device = device
         self.relation_num = relation_num
         self.tokenizer = tokenizer_src
         self.template = template
+        self.device_ids = device_ids
 
         self.model = create_model(self.args)
-        self.model = self.model.to(self.device)
+        
+        ##modified
+        print(torch.cuda.device_count())  # 打印gpu数量
+        torch.distributed.init_process_group(backend="nccl", init_method='env://')
+        print('world_size', torch.distributed.get_world_size()) # 打印当前进程数
+        torch.cuda.set_device(self.args.local_rank)
+        
+        
+        if len(self.device_ids) > 1:
+            self.model = self.model.cuda(args.local_rank)
+#             self.model = torch.nn.parallel.DistributedDataParallel(self.model, device_ids=self.device_ids)
+            self.model = torch.nn.parallel.DistributedDataParallel(self.model, 
+                                                     device_ids=[args.local_rank], 
+                                                     output_device=args.local_rank, 
+                                                     find_unused_parameters=False, 
+                                                     broadcast_buffers=False)
+            
+        self.model.module.to(self.device)
+        self.model.to(self.device)
+        
+        
+        
         for param in self.model.parameters():
             param.requires_grad = self.args.use_lm_finetune
-        self.embeddings = get_embedding_layer(self.args, self.model)
+            
+        ## modified
+        self.embeddings = get_embedding_layer(self.args, self.model.module)
 
         # set allowed vocab set
         self.vocab = self.tokenizer.get_vocab()

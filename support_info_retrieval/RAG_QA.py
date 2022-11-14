@@ -81,8 +81,10 @@ def add_len(example):
 
 
 def build_corpus_dataset(load_available_dataset=False):
+
     if load_available_dataset:
-        dataset = load_dataset('pat-jj/nyt10_corpus')
+        dataset = load_dataset('pat-jj/nyt10_corpus')['train']
+
     else:
         f = open('../Volumes/Aux/Downloaded/Data-Upload/FB60K+NYT10/text/train.json')
         data_corpus = json.load(f)
@@ -130,15 +132,15 @@ def build_corpus_dataset(load_available_dataset=False):
             features=new_features,
         )
 
-        faiss_num_dim = 768
-        faiss_num_links = 128
-
-        index = faiss.IndexHNSWFlat(faiss_num_dim, faiss_num_links, faiss.METRIC_INNER_PRODUCT)
-        dataset.add_faiss_index("embeddings", custom_index=index)
         try:
             dataset.push_to_hub('pat-jj/nyt10_corpus')
         except:
-            raise Exception('Fail to push the dataset to model hub')
+            print('Fail to push the dataset to model hub')
+
+    faiss_num_dim = 768
+    faiss_num_links = 128
+    index = faiss.IndexHNSWFlat(faiss_num_dim, faiss_num_links, faiss.METRIC_INNER_PRODUCT)
+    dataset.add_faiss_index("embeddings", custom_index=index)
 
     return dataset
 
@@ -147,28 +149,26 @@ def load_retriever_and_generator(dataset, load_model=False):
     rag_model_name = "facebook/rag-token-nq"
 
     if load_model:
-        retriever = RagRetriever.from_pretrained("TagReal/nyt10-finetuned-rag-retriever", index_name="exact")
-        model = RagTokenForGeneration.from_pretrained("TagReal/nyt10-finetuned-rag-generator", index_name="exact")
+        retriever = RagRetriever.from_pretrained("pat-jj/nyt10-finetuned-rag-retriever", index_name="exact")
+        model = RagTokenForGeneration.from_pretrained("pat-jj/nyt10-finetuned-rag-generator", index_name="exact")
     else:
         retriever = RagRetriever.from_pretrained(
             rag_model_name, index_name="custom", indexed_dataset=dataset
         )
-        try:
-            retriever.push_to_hub("TagReal/nyt10-finetuned-rag-retriever")
-            print("Successfully push the retriever to the model hub!")
-        except:
-            raise Exception("fail to push the retriever to model hub")
         # initialize with RagRetriever to do everything in one forward call
         model = RagTokenForGeneration.from_pretrained(rag_model_name, retriever=retriever).to(device)
-        try:
-            model.push_to_hub("TagReal/nyt10-finetuned-rag-generator")
-            print("Successfully push the generator to the model hub!")
-        except:
-            raise Exception("fail to push the generator to model hub")
+
+        # try:
+        #     retriever.push_to_hub("pat-jj/nyt10-finetuned-rag-retriever")
+        #     print("Successfully push the retriever to the model hub!")
+        #     model.push_to_hub("pat-jj/nyt10-finetuned-rag-generator")
+        #     print("Successfully push the generator to the model hub!")
+        # except:
+        #     print("fail to push the retriever/generator to model hub")
 
     tokenizer = RagTokenizer.from_pretrained(rag_model_name)
 
-    return model, tokenizer
+    return model, tokenizer, retriever
 
 
 def ask_question(model, tokenizer, question):
@@ -214,18 +214,46 @@ def ask_question(model, tokenizer, question):
         'titles': titles
     }
 
+def get_prompt_for_relation_qa(head, tail, relation):
+
+    prompt = None
+    prompts = {
+        '/people/person/nationality': "Nationality of [placeholder]?",
+        '/location/location/contains': "Where is [placeholder] located?",
+        # '/people/person/place_lived',
+        # '/people/deceased_person/place_of_death',
+        # '/people/person/ethnicity',
+        # '/people/ethnicity/people',
+        # '/business/person/company',
+        # '/people/person/religion',
+        # '/location/neighborhood/neighborhood_of',
+        # '/business/company/founders',
+        # '/people/person/children',
+        # '/location/administrative_division/country',
+        # '/location/country/administrative_divisions',
+        # '/business/company/place_founded',
+        # '/location/us_county/county_seat'
+    }
+    prompt = prompts[relation]
+
+    return prompt
+
+
+def build_question_for_triple(triple):
+    head, relation, tail = triple[0], triple[1], triple[2]
+    question = get_prompt_for_relation_qa(head, tail, relation)
+    return question
+
 
 def main():
-    dataset = build_corpus_dataset()
-    model, tokenizer = load_retriever_and_generator(dataset=dataset, load_model=True)
+    dataset = build_corpus_dataset(load_available_dataset=True)
+    model, tokenizer, retriever = load_retriever_and_generator(dataset=dataset, load_model=False)
 
     questions = [
-        "Who is the president of the United States in 2018?",
-        "How far away is the moon from Earth?",
-        "Where do dolphins live?",
-        "What do monkeys like to eat?",
-        "In what stadium does Manchester United play?",
-        "What is Microsoft?",
+        "When was Google founded?",
+        "Where is Hunan located?",
+        "Who founded Microsoft?",
+        "Who founded Netflix?"
     ]
 
     for q in questions:

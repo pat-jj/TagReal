@@ -3,6 +3,7 @@ from functools import partial
 from transformers import RagTokenizer, RagRetriever, RagTokenForGeneration, DPRContextEncoder, \
     DPRContextEncoderTokenizer
 from datasets import load_dataset, load_from_disk, Features, Value, Sequence
+import faiss
 
 import torch
 import re
@@ -79,64 +80,93 @@ def add_len(example):
     return example
 
 
-def build_corpus_dataset():
-    f = open('../Volumes/Aux/Downloaded/Data-Upload/FB60K+NYT10/text/train.json')
-    data_corpus = json.load(f)
+def build_corpus_dataset(load_available_dataset=False):
+    if load_available_dataset:
+        dataset = load_dataset('pat-jj/nyt10_corpus')
+    else:
+        f = open('../Volumes/Aux/Downloaded/Data-Upload/FB60K+NYT10/text/train.json')
+        data_corpus = json.load(f)
 
-    f = open('../Volumes/Aux/Downloaded/Data-Upload/FB60K+NYT10/text/test.json')
-    tmp = json.load(f)
+        f = open('../Volumes/Aux/Downloaded/Data-Upload/FB60K+NYT10/text/test.json')
+        tmp = json.load(f)
 
-    data_corpus = data_corpus + tmp
+        data_corpus = data_corpus + tmp
 
-    corpus_filename = 'nyt10_corpus.json'
-    chunked_filename = 'nyt10_corpus_chunked.json'
-    with open(corpus_filename, 'w') as dump_file:
-        json.dump(data_corpus, dump_file)
+        corpus_filename = 'nyt10_corpus.json'
+        chunked_filename = 'nyt10_corpus_chunked.json'
+        with open(corpus_filename, 'w') as dump_file:
+            json.dump(data_corpus, dump_file)
 
-    make_chunked_file(
-        chunked_filename=chunked_filename,
-        corpus_filename=corpus_filename,
-        split_func=split_into_sentences
-    )
+        make_chunked_file(
+            chunked_filename=chunked_filename,
+            corpus_filename=corpus_filename,
+            split_func=split_into_sentences
+        )
 
-    dataset = load_dataset(
-        "json",
-        data_files=chunked_filename,
-        split="train",
-    )
-    dataset = dataset.map(add_len).sort("len").remove_columns(["len"])
+        dataset = load_dataset(
+            "json",
+            data_files=chunked_filename,
+            split="train",
+        )
+        dataset = dataset.map(add_len).sort("len").remove_columns(["len"])
 
-    torch.set_grad_enabled(False)
+        torch.set_grad_enabled(False)
 
-    dpr_model_name = "facebook/dpr-ctx_encoder-multiset-base"
-    batch_size = 32
+        dpr_model_name = "facebook/dpr-ctx_encoder-multiset-base"
+        batch_size = 32
 
-    ctx_encoder = DPRContextEncoder.from_pretrained(dpr_model_name).to(device=device)
-    ctx_tokenizer = DPRContextEncoderTokenizer.from_pretrained(dpr_model_name)
-    new_features = Features({
-        "text": Value("string"),
-        "title": Value("string"),
-        "embeddings": Sequence(Value("float32")),
-    })
+        ctx_encoder = DPRContextEncoder.from_pretrained(dpr_model_name).to(device=device)
+        ctx_tokenizer = DPRContextEncoderTokenizer.from_pretrained(dpr_model_name)
+        new_features = Features({
+            "text": Value("string"),
+            "title": Value("string"),
+            "embeddings": Sequence(Value("float32")),
+        })
 
-    dataset = dataset.map(
-        partial(embed, ctx_encoder=ctx_encoder, ctx_tokenizer=ctx_tokenizer),
-        batched=True,
-        batch_size=batch_size,
-        features=new_features,
-    )
+        dataset = dataset.map(
+            partial(embed, ctx_encoder=ctx_encoder, ctx_tokenizer=ctx_tokenizer),
+            batched=True,
+            batch_size=batch_size,
+            features=new_features,
+        )
+
+        faiss_num_dim = 768
+        faiss_num_links = 128
+
+        index = faiss.IndexHNSWFlat(faiss_num_dim, faiss_num_links, faiss.METRIC_INNER_PRODUCT)
+        dataset.add_faiss_index("embeddings", custom_index=index)
+        try:
+            dataset.push_to_hub('pat-jj/nyt10_corpus')
+        except:
+            raise Exception('Fail to push the dataset to model hub')
 
     return dataset
 
 
-def load_retriever_and_generator(dataset):
+def load_retriever_and_generator(dataset, load_model=False):
     rag_model_name = "facebook/rag-token-nq"
+
+    if load_model:
+        retriever = RagRetriever.from_pretrained("TagReal/nyt10-finetuned-rag-retriever", index_name="exact")
+        model = RagTokenForGeneration.from_pretrained("TagReal/nyt10-finetuned-rag-generator", index_name="exact")
+    else:
+        retriever = RagRetriever.from_pretrained(
+            rag_model_name, index_name="custom", indexed_dataset=dataset
+        )
+        try:
+            retriever.push_to_hub("TagReal/nyt10-finetuned-rag-retriever")
+            print("Successfully push the retriever to the model hub!")
+        except:
+            raise Exception("fail to push the retriever to model hub")
+        # initialize with RagRetriever to do everything in one forward call
+        model = RagTokenForGeneration.from_pretrained(rag_model_name, retriever=retriever).to(device)
+        try:
+            model.push_to_hub("TagReal/nyt10-finetuned-rag-generator")
+            print("Successfully push the generator to the model hub!")
+        except:
+            raise Exception("fail to push the generator to model hub")
+
     tokenizer = RagTokenizer.from_pretrained(rag_model_name)
-    retriever = RagRetriever.from_pretrained(
-        rag_model_name, index_name="custom", indexed_dataset=dataset
-    )
-    # initialize with RagRetriever to do everything in one forward call
-    model = RagTokenForGeneration.from_pretrained(rag_model_name, retriever=retriever).to(device)
 
     return model, tokenizer
 
@@ -187,7 +217,7 @@ def ask_question(model, tokenizer, question):
 
 def main():
     dataset = build_corpus_dataset()
-    model, tokenizer = load_retriever_and_generator(dataset=dataset)
+    model, tokenizer = load_retriever_and_generator(dataset=dataset, load_model=True)
 
     questions = [
         "Who is the president of the United States in 2018?",

@@ -126,32 +126,38 @@ def mine_triple_text_from_corpus(triples, corpus, relation, n=500, max_lines=100
     return mined_text
 
 
-def label_x_and_y_with_categories(text_before, head_name, tail_name):
+def label_x_and_y_with_categories(text_before, head_name, tail_name, limit=False, max_length=40000):
     text_after = ""
-    with open(text_before) as f:
+    with open('./prompt_mining/mined_text_big/' + text_before) as f:
         lines = f.readlines()
 
+    cnt = 0
+    random.shuffle(lines)
     for line in lines:
-        line = \
-            line.replace('[X]', f'<{head_name}>[X]</{head_name}>') \
-                .replace('[Y]', f'<{tail_name}>[Y]</{tail_name}>')
-        text_after += line
+        if line != '\n':
+            line = \
+                line.replace('[X]', f'<{head_name}>[X]</{head_name}>') \
+                    .replace('[Y]', f'<{tail_name}>[Y]</{tail_name}>')
+            text_after += line
+            cnt += 1
+        if limit and cnt > max_length:
+            break
 
-    out_path = text_before[:-4] + '_.txt'
+    out_path = './prompt_mining/mined_text_big/grained/' + text_before[:-4] + '_.txt'
     out_file = open(out_path, 'w', encoding='utf-8')
     print(text_after, file=out_file)
 
 
 def main():
-    corpus = "../../../data/pj20/corpus_text_low.txt"
-    relation_set = get_relation_set()
-    for relation in [*relation_set]:
-        print('Begin Text Mining for Relation: ', relation)
-        triples = get_triples_for_relation(relation)
-        mine_triple_text_from_corpus(triples, corpus, relation)
+    # corpus = "../../../data/pj20/corpus_text_low.txt"
+    # relation_set = get_relation_set()
+    # for relation in [*relation_set]:
+    #     print('Begin Text Mining for Relation: ', relation)
+    #     triples = get_triples_for_relation(relation)
+    #     mine_triple_text_from_corpus(triples, corpus, relation)
 
-    # label_x_and_y_with_categories('./prompt_mining/mined_text_big/mined_text_location_neighborhood_neighborhood_of.txt',
-    #                               'LOCATION', 'NEIGHBOR')
+    label_x_and_y_with_categories('mined_text_location_location_contains.txt',
+                                  'LOCATIONL', 'LOCATIONS', limit=True, max_length=20000)
 
 
 if __name__ == '__main__':

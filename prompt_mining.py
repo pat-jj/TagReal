@@ -26,14 +26,14 @@ def get_relation_set():
     valid_relation_set = set()
 
     rel_list = [
-        '/people/person/nationality',
+        # '/people/person/nationality',
         # '/location/location/contains',
-        '/people/person/place_lived',
-        # '/people/deceased_person/place_of_death',
+        # '/people/person/place_lived',
+        '/people/deceased_person/place_of_death',
         # '/people/person/ethnicity',
         # '/people/ethnicity/people',
         # '/business/person/company',
-        '/people/person/religion',
+        # '/people/person/religion',
         # '/location/neighborhood/neighborhood_of',
         # '/business/company/founders',
         # '/people/person/children',
@@ -51,7 +51,7 @@ def get_relation_set():
 
 def get_triples_for_relation(relation,
                              # n=500
-                             ):                  # small: 80  big: 500
+                             ):  # small: 80  big: 500
     original_triples_path = "./prompt_mining/triples_nyt10.txt"
 
     random_selected_triples = ""
@@ -116,6 +116,8 @@ def mine_triple_text_from_corpus(triples, corpus, relation, n=500, max_lines=100
                     cnt = 0
                     break
 
+        print(f'Currently mined {num_lines} sentences')
+
     relation_ = relation.replace('/', '_')
     st_path = "./prompt_mining/mined_text_big/mined_text" + relation_ + ".txt"
     mined_text_file = open(st_path, 'w', encoding='utf-8')
@@ -125,14 +127,13 @@ def mine_triple_text_from_corpus(triples, corpus, relation, n=500, max_lines=100
 
 
 def label_x_and_y_with_categories(text_before, head_name, tail_name):
-
     text_after = ""
     with open(text_before) as f:
         lines = f.readlines()
 
     for line in lines:
         line = \
-            line.replace('[X]', f'<{head_name}>[X]</{head_name}>')\
+            line.replace('[X]', f'<{head_name}>[X]</{head_name}>') \
                 .replace('[Y]', f'<{tail_name}>[Y]</{tail_name}>')
         text_after += line
 
@@ -142,7 +143,6 @@ def label_x_and_y_with_categories(text_before, head_name, tail_name):
 
 
 def main():
-
     corpus = "../../../data/pj20/corpus_text_low.txt"
     relation_set = get_relation_set()
     for relation in [*relation_set]:

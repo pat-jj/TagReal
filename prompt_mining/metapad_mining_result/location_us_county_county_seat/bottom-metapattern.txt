@@ -1,0 +1,543 @@
+<US_COUNTY></US_COUNTY> , <COUNTY_SEAT></COUNTY_SEAT>	0.9172835124	$US_COUNTY , $COUNTY_SEAT
+<COUNTY_SEAT></COUNTY_SEAT> and <US_COUNTY></US_COUNTY>	0.8509188747	$COUNTY_SEAT and $US_COUNTY
+<US_COUNTY></US_COUNTY>  <US_COUNTY></US_COUNTY>	0.8234962167	$US_COUNTY  $US_COUNTY
+<US_COUNTY></US_COUNTY> 	0.7786513811	$US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> , new	0.7355263161	$COUNTY_SEAT , new
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY>	0.7355263161	$COUNTY_SEAT – $US_COUNTY
+<US_COUNTY></US_COUNTY> , connecticut	0.7295263161	$US_COUNTY , connecticut
+<US_COUNTY></US_COUNTY> , colorado	0.7295263161	$US_COUNTY , colorado
+el <US_COUNTY></US_COUNTY> ,	0.7295263161	el $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> stadium||l,	0.7156668538	$COUNTY_SEAT – $US_COUNTY stadium||l,
+el <US_COUNTY></US_COUNTY> county,	0.7156668538	el $US_COUNTY county,
+el <US_COUNTY></US_COUNTY> hills	0.7156668538	el $US_COUNTY hills
+railway stations in <US_COUNTY></US_COUNTY> , texas. railway stations	0.7156668538	railway stations in $US_COUNTY , texas. railway stations
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> stadium||w,	0.7156668538	$COUNTY_SEAT – $US_COUNTY stadium||w,
+ the <US_COUNTY></US_COUNTY>	0.6926371783	 the $US_COUNTY
+ in <US_COUNTY></US_COUNTY>	0.6926371783	 in $US_COUNTY
+  <US_COUNTY></US_COUNTY>	0.6926371783	  $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> <US_COUNTY></US_COUNTY>	0.6926371783	$COUNTY_SEAT $US_COUNTY
+ the <COUNTY_SEAT></COUNTY_SEAT>	0.6590120501	 the $COUNTY_SEAT
+ <US_COUNTY></US_COUNTY>	0.6547923427	 $US_COUNTY
+<US_COUNTY></US_COUNTY> , florida  <US_COUNTY></US_COUNTY> listings at national register of historic places	0.6513022161	$US_COUNTY , florida  $US_COUNTY listings at national register of historic places
+florida  <US_COUNTY></US_COUNTY> listings at national register of historic places	0.6513022161	florida  $US_COUNTY listings at national register of historic places
+secondary education programs offered by the <US_COUNTY></US_COUNTY> technical schools, which include the <US_COUNTY></US_COUNTY> academies in <COUNTY_SEAT></COUNTY_SEAT>	0.6513022161	secondary education programs offered by the $US_COUNTY technical schools, which include the $US_COUNTY academies in $COUNTY_SEAT
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY>	0.6512835124	$COUNTY_SEAT , $US_COUNTY
+<US_COUNTY></US_COUNTY> bay	0.6233168428	$US_COUNTY bay
+<US_COUNTY></US_COUNTY> county	0.6138668636	$US_COUNTY county
+ <US_COUNTY></US_COUNTY> county	0.6138668636	 $US_COUNTY county
+ by <US_COUNTY></US_COUNTY>	0.6138668636	 by $US_COUNTY
+<US_COUNTY></US_COUNTY> island	0.6094573805	$US_COUNTY island
+juan <US_COUNTY></US_COUNTY>	0.6094573805	juan $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY>	0.5899188747	$COUNTY_SEAT in $US_COUNTY
+<US_COUNTY></US_COUNTY> and <COUNTY_SEAT></COUNTY_SEAT>	0.5899188747	$US_COUNTY and $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> , new	0.5550905397	$US_COUNTY , new
+el <US_COUNTY></US_COUNTY>	0.53530264	el $US_COUNTY
+ el <US_COUNTY></US_COUNTY>	0.53530264	 el $US_COUNTY
+ <US_COUNTY></US_COUNTY> island	0.53530264	 $US_COUNTY island
+<US_COUNTY></US_COUNTY> land	0.53530264	$US_COUNTY land
+<US_COUNTY></US_COUNTY> bay,	0.5214431777	$US_COUNTY bay,
+<US_COUNTY></US_COUNTY> bay.	0.5214431777	$US_COUNTY bay.
+ <US_COUNTY></US_COUNTY> listings at national register of historic places  <US_COUNTY></US_COUNTY>	0.5214431777	 $US_COUNTY listings at national register of historic places  $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> , the <US_COUNTY></US_COUNTY>	0.51164455	$COUNTY_SEAT , the $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> ,	0.4972947349	$COUNTY_SEAT , $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> , california	0.4815263161	$COUNTY_SEAT , california
+<US_COUNTY></US_COUNTY> , alabama	0.4805263161	$US_COUNTY , alabama
+<COUNTY_SEAT></COUNTY_SEAT> , in <US_COUNTY></US_COUNTY> ,	0.4715967639	$COUNTY_SEAT , in $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY> ,	0.4525366227	$COUNTY_SEAT in $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new jersey, united states.	0.4441472296	$COUNTY_SEAT , $US_COUNTY , new jersey, united states.
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , north carolina.	0.4441472296	$COUNTY_SEAT , $US_COUNTY , north carolina.
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new york.	0.4441472296	$COUNTY_SEAT , $US_COUNTY , new york.
+<US_COUNTY></US_COUNTY> , new york.	0.4441472296	$US_COUNTY , new york.
+ <US_COUNTY></US_COUNTY> ,	0.4426371783	 $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> stadium in <COUNTY_SEAT></COUNTY_SEAT> october	0.4403639478	$COUNTY_SEAT – $US_COUNTY stadium in $COUNTY_SEAT october
+<COUNTY_SEAT></COUNTY_SEAT> , new jersey,	0.4403639478	$COUNTY_SEAT , new jersey,
+| <COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> coliseum	0.4403639478	| $COUNTY_SEAT – $US_COUNTY coliseum
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> stadium,	0.4403639478	$COUNTY_SEAT – $US_COUNTY stadium,
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> coliseum,	0.4403639478	$COUNTY_SEAT – $US_COUNTY coliseum,
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> coliseum	0.4403639478	$COUNTY_SEAT – $US_COUNTY coliseum
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> stadium	0.4403639478	$COUNTY_SEAT – $US_COUNTY stadium
+<US_COUNTY></US_COUNTY> , south carolina	0.4403639478	$US_COUNTY , south carolina
+<US_COUNTY></US_COUNTY> stadium in <COUNTY_SEAT></COUNTY_SEAT>	0.4184492585	$US_COUNTY stadium in $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> academies in <COUNTY_SEAT></COUNTY_SEAT>	0.4184492585	$US_COUNTY academies in $COUNTY_SEAT
+national register of historic places in <US_COUNTY></US_COUNTY> , florida  <US_COUNTY></US_COUNTY> listings	0.4146659768	national register of historic places in $US_COUNTY , florida  $US_COUNTY listings
+<US_COUNTY></US_COUNTY> , 	0.4136513811	$US_COUNTY , 
+– <US_COUNTY></US_COUNTY>	0.4092143998	– $US_COUNTY
+<US_COUNTY></US_COUNTY> de león	0.4073022161	$US_COUNTY de león
+ in <COUNTY_SEAT></COUNTY_SEAT>	0.4070120501	 in $COUNTY_SEAT
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new york	0.3899281911	$COUNTY_SEAT , $US_COUNTY , new york
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new york,	0.3899281911	$COUNTY_SEAT , $US_COUNTY , new york,
+<US_COUNTY></US_COUNTY> coliseum	0.3863168428	$US_COUNTY coliseum
+<US_COUNTY></US_COUNTY> , california	0.3854238731	$US_COUNTY , california
+ <COUNTY_SEAT></COUNTY_SEAT> ,	0.3738668636	 $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> , south	0.3685263161	$US_COUNTY , south
+<US_COUNTY></US_COUNTY> , north	0.3685263161	$US_COUNTY , north
+city in <US_COUNTY></US_COUNTY>	0.3647259021	city in $US_COUNTY
+city of <US_COUNTY></US_COUNTY>	0.3647259021	city of $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> - <US_COUNTY></US_COUNTY>	0.3635263161	$COUNTY_SEAT - $US_COUNTY
+<US_COUNTY></US_COUNTY> , west	0.3635263161	$US_COUNTY , west
+<COUNTY_SEAT></COUNTY_SEAT> , north	0.3625263161	$COUNTY_SEAT , north
+<US_COUNTY></US_COUNTY> , puerto	0.3625263161	$US_COUNTY , puerto
+national register of historic places in <US_COUNTY></US_COUNTY> ,	0.3612302201	national register of historic places in $US_COUNTY ,
+ <US_COUNTY></US_COUNTY> listings	0.3612302201	 $US_COUNTY listings
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> stadium in <COUNTY_SEAT></COUNTY_SEAT>	0.3612302201	$COUNTY_SEAT – $US_COUNTY stadium in $COUNTY_SEAT
+historic home located at <COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY> ,	0.3612302201	historic home located at $COUNTY_SEAT in $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , connecticut transportation in <US_COUNTY></US_COUNTY> ,	0.3612302201	$US_COUNTY , connecticut transportation in $US_COUNTY ,
+historic home located at <COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY> , new	0.3612302201	historic home located at $COUNTY_SEAT in $US_COUNTY , new
+<US_COUNTY></US_COUNTY> , texas. railway stations in <US_COUNTY></US_COUNTY> ,	0.3574469384	$US_COUNTY , texas. railway stations in $US_COUNTY ,
+county, <US_COUNTY></US_COUNTY> ,	0.3545263161	county, $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , pennsylvania, united states.	0.3536668538	$US_COUNTY , pennsylvania, united states.
+<US_COUNTY></US_COUNTY> , connecticut.	0.3536668538	$US_COUNTY , connecticut.
+<US_COUNTY></US_COUNTY> , california,	0.3495263161	$US_COUNTY , california,
+<US_COUNTY></US_COUNTY> ( <COUNTY_SEAT></COUNTY_SEAT>	0.3495263161	$US_COUNTY ( $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> , virginia	0.3495263161	$US_COUNTY , virginia
+<US_COUNTY></US_COUNTY> , home	0.3495263161	$US_COUNTY , home
+southern <US_COUNTY></US_COUNTY> ,	0.3495263161	southern $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> 's <US_COUNTY></US_COUNTY>	0.3495263161	$COUNTY_SEAT 's $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> ( <US_COUNTY></US_COUNTY>	0.3495263161	$COUNTY_SEAT ( $US_COUNTY
+<US_COUNTY></US_COUNTY> , california.	0.3485263161	$US_COUNTY , california.
+<COUNTY_SEAT></COUNTY_SEAT> , california,	0.3485263161	$COUNTY_SEAT , california,
+<COUNTY_SEAT></COUNTY_SEAT> , california.	0.3485263161	$COUNTY_SEAT , california.
+<US_COUNTY></US_COUNTY> , texas	0.3485263161	$US_COUNTY , texas
+thomas <US_COUNTY></US_COUNTY> ,	0.3485263161	thomas $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , pennsylvania	0.3485263161	$US_COUNTY , pennsylvania
+western <US_COUNTY></US_COUNTY> ,	0.3485263161	western $US_COUNTY ,
+downtown <COUNTY_SEAT></COUNTY_SEAT> ,	0.3485263161	downtown $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> , pennsylvania,	0.3485263161	$US_COUNTY , pennsylvania,
+<US_COUNTY></US_COUNTY> , pennsylvania.	0.3485263161	$US_COUNTY , pennsylvania.
+<US_COUNTY></US_COUNTY> , ohio	0.3485263161	$US_COUNTY , ohio
+eastern <US_COUNTY></US_COUNTY> ,	0.3485263161	eastern $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , texas,	0.3485263161	$US_COUNTY , texas,
+central <US_COUNTY></US_COUNTY> ,	0.3485263161	central $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , virginia.	0.3485263161	$US_COUNTY , virginia.
+<US_COUNTY></US_COUNTY> , virginia,	0.3485263161	$US_COUNTY , virginia,
+<US_COUNTY></US_COUNTY> , florida	0.3485263161	$US_COUNTY , florida
+<COUNTY_SEAT></COUNTY_SEAT> & <US_COUNTY></US_COUNTY>	0.3485263161	$COUNTY_SEAT & $US_COUNTY
+northern <US_COUNTY></US_COUNTY> ,	0.3485263161	northern $US_COUNTY ,
+township, <US_COUNTY></US_COUNTY> ,	0.3485263161	township, $US_COUNTY ,
+ <COUNTY_SEAT></COUNTY_SEAT>	0.344022028	 $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> bay. 	0.3429322419	$US_COUNTY bay. 
+<US_COUNTY></US_COUNTY> , iowa	0.3396668538	$US_COUNTY , iowa
+<US_COUNTY></US_COUNTY> , missouri	0.3396668538	$US_COUNTY , missouri
+<US_COUNTY></US_COUNTY> , arizona,	0.3396668538	$US_COUNTY , arizona,
+<COUNTY_SEAT></COUNTY_SEAT> , texas,	0.3396668538	$COUNTY_SEAT , texas,
+<COUNTY_SEAT></COUNTY_SEAT> , texas.	0.3396668538	$COUNTY_SEAT , texas.
+( <COUNTY_SEAT></COUNTY_SEAT> ),	0.3396668538	( $COUNTY_SEAT ),
+<US_COUNTY></US_COUNTY> , alabama,	0.3396668538	$US_COUNTY , alabama,
+<US_COUNTY></US_COUNTY> , alabama.	0.3396668538	$US_COUNTY , alabama.
+<US_COUNTY></US_COUNTY> , maryland,	0.3396668538	$US_COUNTY , maryland,
+<COUNTY_SEAT></COUNTY_SEAT> , georgia,	0.3396668538	$COUNTY_SEAT , georgia,
+<COUNTY_SEAT></COUNTY_SEAT> public library	0.3396668538	$COUNTY_SEAT public library
+<US_COUNTY></US_COUNTY> , va	0.3396668538	$US_COUNTY , va
+<US_COUNTY></US_COUNTY> high school	0.3396668538	$US_COUNTY high school
+<US_COUNTY></US_COUNTY> , georgia	0.3396668538	$US_COUNTY , georgia
+<COUNTY_SEAT></COUNTY_SEAT> international airport	0.3396668538	$COUNTY_SEAT international airport
+<COUNTY_SEAT></COUNTY_SEAT> , pennsylvania,	0.3396668538	$COUNTY_SEAT , pennsylvania,
+<COUNTY_SEAT></COUNTY_SEAT> , pennsylvania.	0.3396668538	$COUNTY_SEAT , pennsylvania.
+<US_COUNTY></US_COUNTY> center, <COUNTY_SEAT></COUNTY_SEAT>	0.3396668538	$US_COUNTY center, $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> courthouse, <COUNTY_SEAT></COUNTY_SEAT>	0.3396668538	$US_COUNTY courthouse, $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> , pennsylvania, united states,	0.3396668538	$US_COUNTY , pennsylvania, united states,
+<US_COUNTY></US_COUNTY> , alabama, united states.	0.3396668538	$US_COUNTY , alabama, united states.
+<US_COUNTY></US_COUNTY> public library	0.3396668538	$US_COUNTY public library
+<COUNTY_SEAT></COUNTY_SEAT> , georgia	0.3396668538	$COUNTY_SEAT , georgia
+<US_COUNTY></US_COUNTY> , illinois,	0.3396668538	$US_COUNTY , illinois,
+<US_COUNTY></US_COUNTY> public school	0.3396668538	$US_COUNTY public school
+<COUNTY_SEAT></COUNTY_SEAT> , florida,	0.3396668538	$COUNTY_SEAT , florida,
+<COUNTY_SEAT></COUNTY_SEAT> high school	0.3396668538	$COUNTY_SEAT high school
+<US_COUNTY></US_COUNTY> , nevada,	0.3396668538	$US_COUNTY , nevada,
+<US_COUNTY></US_COUNTY> , nevada.	0.3396668538	$US_COUNTY , nevada.
+<US_COUNTY></US_COUNTY> , montana	0.3396668538	$US_COUNTY , montana
+<US_COUNTY></US_COUNTY> , colorado.	0.3396668538	$US_COUNTY , colorado.
+<US_COUNTY></US_COUNTY> , nevada	0.3396668538	$US_COUNTY , nevada
+<US_COUNTY></US_COUNTY> , arizona	0.3396668538	$US_COUNTY , arizona
+<US_COUNTY></US_COUNTY> , connecticut,	0.3396668538	$US_COUNTY , connecticut,
+<US_COUNTY></US_COUNTY> , colorado,	0.3396668538	$US_COUNTY , colorado,
+<US_COUNTY></US_COUNTY> , ohio.	0.3396668538	$US_COUNTY , ohio.
+<US_COUNTY></US_COUNTY> , colorado <US_COUNTY></US_COUNTY> website census-designated places in <US_COUNTY></US_COUNTY> , colorado	0.3396668538	$US_COUNTY , colorado $US_COUNTY website census-designated places in $US_COUNTY , colorado
+<COUNTY_SEAT></COUNTY_SEAT> , texas	0.3396668538	$COUNTY_SEAT , texas
+<US_COUNTY></US_COUNTY> , new york, united states.	0.3396668538	$US_COUNTY , new york, united states.
+<US_COUNTY></US_COUNTY> community college	0.3396668538	$US_COUNTY community college
+<COUNTY_SEAT></COUNTY_SEAT> , ohio.	0.3396668538	$COUNTY_SEAT , ohio.
+<COUNTY_SEAT></COUNTY_SEAT> , ohio,	0.3396668538	$COUNTY_SEAT , ohio,
+<COUNTY_SEAT></COUNTY_SEAT> , ohio	0.3396668538	$COUNTY_SEAT , ohio
+<US_COUNTY></US_COUNTY> , ohio,	0.3396668538	$US_COUNTY , ohio,
+<US_COUNTY></US_COUNTY> , florida,	0.3396668538	$US_COUNTY , florida,
+<US_COUNTY></US_COUNTY> international airport	0.3396668538	$US_COUNTY international airport
+<COUNTY_SEAT></COUNTY_SEAT> / <US_COUNTY></US_COUNTY>	0.3396668538	$COUNTY_SEAT / $US_COUNTY
+<US_COUNTY></US_COUNTY> , ohio, united states,	0.3396668538	$US_COUNTY , ohio, united states,
+present-day <US_COUNTY></US_COUNTY> ,	0.3396668538	present-day $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , texas.	0.3396668538	$US_COUNTY , texas.
+<US_COUNTY></US_COUNTY> public schools	0.3396668538	$US_COUNTY public schools
+<US_COUNTY></US_COUNTY> , georgia.	0.3396668538	$US_COUNTY , georgia.
+<US_COUNTY></US_COUNTY> , georgia,	0.3396668538	$US_COUNTY , georgia,
+<US_COUNTY></US_COUNTY> , illinois	0.3396668538	$US_COUNTY , illinois
+county ( <US_COUNTY></US_COUNTY>	0.3396668538	county ( $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> city council	0.3396668538	$COUNTY_SEAT city council
+<COUNTY_SEAT></COUNTY_SEAT> , pennsylvania	0.3396668538	$COUNTY_SEAT , pennsylvania
+<COUNTY_SEAT></COUNTY_SEAT> , florida	0.3396668538	$COUNTY_SEAT , florida
+( <US_COUNTY></US_COUNTY> ),	0.3396668538	( $US_COUNTY ),
+<US_COUNTY></US_COUNTY> , nebraska	0.3396668538	$US_COUNTY , nebraska
+house, <COUNTY_SEAT></COUNTY_SEAT> ,	0.3396668538	house, $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> , wyoming,	0.3396668538	$US_COUNTY , wyoming,
+<US_COUNTY></US_COUNTY> , florida.	0.3396668538	$US_COUNTY , florida.
+center, <COUNTY_SEAT></COUNTY_SEAT> ,	0.3396668538	center, $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> , kansas	0.3396668538	$US_COUNTY , kansas
+<US_COUNTY></US_COUNTY> at 	0.3318810664	$US_COUNTY at 
+<COUNTY_SEAT></COUNTY_SEAT> , in <US_COUNTY></US_COUNTY>	0.3275028383	$COUNTY_SEAT , in $US_COUNTY
+ <COUNTY_SEAT></COUNTY_SEAT> and <US_COUNTY></US_COUNTY>	0.3275028383	 $COUNTY_SEAT and $US_COUNTY
+school in <US_COUNTY></US_COUNTY>	0.3130592354	school in $US_COUNTY
+county and <US_COUNTY></US_COUNTY>	0.3130592354	county and $US_COUNTY
+ in <US_COUNTY></US_COUNTY> ,	0.3109102457	 in $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> - <US_COUNTY></US_COUNTY> coliseum	0.3039555504	$COUNTY_SEAT - $US_COUNTY coliseum
+|| <COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> coliseum	0.3039555504	|| $COUNTY_SEAT – $US_COUNTY coliseum
+|| <COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> stadium	0.3039555504	|| $COUNTY_SEAT – $US_COUNTY stadium
+<COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY> , new york.	0.3039555504	$COUNTY_SEAT in $US_COUNTY , new york.
+| <COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> coliseum arena	0.3039555504	| $COUNTY_SEAT – $US_COUNTY coliseum arena
+|| <COUNTY_SEAT></COUNTY_SEAT> - <US_COUNTY></US_COUNTY>	0.2989555504	|| $COUNTY_SEAT - $US_COUNTY
+| <COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> coliseum arena |	0.2989555504	| $COUNTY_SEAT – $US_COUNTY coliseum arena |
+west of <US_COUNTY></US_COUNTY>	0.2961616785	west of $US_COUNTY
+part of <US_COUNTY></US_COUNTY>	0.2961616785	part of $US_COUNTY
+california, in <US_COUNTY></US_COUNTY>	0.2961616785	california, in $US_COUNTY
+north of <US_COUNTY></US_COUNTY>	0.2961616785	north of $US_COUNTY
+community in <US_COUNTY></US_COUNTY>	0.2961616785	community in $US_COUNTY
+places in <US_COUNTY></US_COUNTY>	0.2961616785	places in $US_COUNTY
+city of <COUNTY_SEAT></COUNTY_SEAT>	0.2961616785	city of $COUNTY_SEAT
+town in <US_COUNTY></US_COUNTY>	0.2961616785	town in $US_COUNTY
+landforms of <US_COUNTY></US_COUNTY>	0.2943022161	landforms of $US_COUNTY
+library of <COUNTY_SEAT></COUNTY_SEAT> and <US_COUNTY></US_COUNTY>	0.2912575794	library of $COUNTY_SEAT and $US_COUNTY
+transportation in <US_COUNTY></US_COUNTY> , connecticut	0.2912575794	transportation in $US_COUNTY , connecticut
+railway stations in <US_COUNTY></US_COUNTY> ,	0.2912575794	railway stations in $US_COUNTY ,
+national register of historic places in <US_COUNTY></US_COUNTY> , florida	0.2912575794	national register of historic places in $US_COUNTY , florida
+university of <US_COUNTY></US_COUNTY>	0.2911616785	university of $US_COUNTY
+school in <COUNTY_SEAT></COUNTY_SEAT>	0.2911616785	school in $COUNTY_SEAT
+cities in <US_COUNTY></US_COUNTY>	0.2911616785	cities in $US_COUNTY
+center of <US_COUNTY></US_COUNTY>	0.2911616785	center of $US_COUNTY
+river in <US_COUNTY></US_COUNTY>	0.2911616785	river in $US_COUNTY
+place in <US_COUNTY></US_COUNTY>	0.2911616785	place in $US_COUNTY
+park in <US_COUNTY></US_COUNTY>	0.2911616785	park in $US_COUNTY
+airport in <US_COUNTY></US_COUNTY>	0.2911616785	airport in $US_COUNTY
+town of <US_COUNTY></US_COUNTY>	0.2911616785	town of $US_COUNTY
+center in <US_COUNTY></US_COUNTY>	0.2911616785	center in $US_COUNTY
+university in <US_COUNTY></US_COUNTY>	0.2911616785	university in $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new	0.2910721642	$COUNTY_SEAT , $US_COUNTY , new
+parks in <US_COUNTY></US_COUNTY>	0.2901616785	parks in $US_COUNTY
+borough of <US_COUNTY></US_COUNTY>	0.2901616785	borough of $US_COUNTY
+college of <US_COUNTY></US_COUNTY>	0.2901616785	college of $US_COUNTY
+towns in <US_COUNTY></US_COUNTY>	0.2901616785	towns in $US_COUNTY
+seat of <US_COUNTY></US_COUNTY>	0.2901616785	seat of $US_COUNTY
+residents of <US_COUNTY></US_COUNTY>	0.2901616785	residents of $US_COUNTY
+east of <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	east of $COUNTY_SEAT
+portions of <US_COUNTY></US_COUNTY>	0.2901616785	portions of $US_COUNTY
+court of <US_COUNTY></US_COUNTY>	0.2901616785	court of $US_COUNTY
+airport in <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	airport in $COUNTY_SEAT
+borough in <US_COUNTY></US_COUNTY>	0.2901616785	borough in $US_COUNTY
+authority of <US_COUNTY></US_COUNTY>	0.2901616785	authority of $US_COUNTY
+areas of <US_COUNTY></US_COUNTY>	0.2901616785	areas of $US_COUNTY
+part of <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	part of $COUNTY_SEAT
+listings in <US_COUNTY></US_COUNTY>	0.2901616785	listings in $US_COUNTY
+history of <US_COUNTY></US_COUNTY>	0.2901616785	history of $US_COUNTY
+university of <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	university of $COUNTY_SEAT
+township in <US_COUNTY></US_COUNTY>	0.2901616785	township in $US_COUNTY
+west of <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	west of $COUNTY_SEAT
+attorney of <US_COUNTY></US_COUNTY>	0.2901616785	attorney of $US_COUNTY
+south of <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	south of $COUNTY_SEAT
+town of <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	town of $COUNTY_SEAT
+mountains of <US_COUNTY></US_COUNTY>	0.2901616785	mountains of $US_COUNTY
+center in <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	center in $COUNTY_SEAT
+portion of <US_COUNTY></US_COUNTY>	0.2901616785	portion of $US_COUNTY
+transportation in <US_COUNTY></US_COUNTY>	0.2901616785	transportation in $US_COUNTY
+communities in <US_COUNTY></US_COUNTY>	0.2901616785	communities in $US_COUNTY
+village in <US_COUNTY></US_COUNTY>	0.2901616785	village in $US_COUNTY
+education in <US_COUNTY></US_COUNTY>	0.2901616785	education in $US_COUNTY
+schools in <US_COUNTY></US_COUNTY>	0.2901616785	schools in $US_COUNTY
+parts of <US_COUNTY></US_COUNTY>	0.2901616785	parts of $US_COUNTY
+north of <COUNTY_SEAT></COUNTY_SEAT>	0.2901616785	north of $COUNTY_SEAT
+mayor of <US_COUNTY></US_COUNTY>	0.2901616785	mayor of $US_COUNTY
+<US_COUNTY></US_COUNTY> , california 	0.288381803	$US_COUNTY , california 
+city of <COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY>	0.2840408598	city of $COUNTY_SEAT , $US_COUNTY
+street in <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	street in $COUNTY_SEAT
+airports in <US_COUNTY></US_COUNTY>	0.2813022161	airports in $US_COUNTY
+municipality of <US_COUNTY></US_COUNTY>	0.2813022161	municipality of $US_COUNTY
+stadium in <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	stadium in $COUNTY_SEAT
+people from <US_COUNTY></US_COUNTY>	0.2813022161	people from $US_COUNTY
+jail in <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	jail in $COUNTY_SEAT
+duke of <US_COUNTY></US_COUNTY>	0.2813022161	duke of $US_COUNTY
+landmarks in <US_COUNTY></US_COUNTY>	0.2813022161	landmarks in $US_COUNTY
+southeast of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	southeast of $COUNTY_SEAT
+hospital in <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	hospital in $COUNTY_SEAT
+library of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	library of $COUNTY_SEAT
+northwest of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	northwest of $COUNTY_SEAT
+portions of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	portions of $COUNTY_SEAT
+mountain ranges of <US_COUNTY></US_COUNTY>	0.2813022161	mountain ranges of $US_COUNTY
+universities and colleges in <US_COUNTY></US_COUNTY>	0.2813022161	universities and colleges in $US_COUNTY
+colleges in <US_COUNTY></US_COUNTY>	0.2813022161	colleges in $US_COUNTY
+bridges in <US_COUNTY></US_COUNTY>	0.2813022161	bridges in $US_COUNTY
+home to <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	home to $COUNTY_SEAT
+geography of <US_COUNTY></US_COUNTY>	0.2813022161	geography of $US_COUNTY
+sheriff of <US_COUNTY></US_COUNTY>	0.2813022161	sheriff of $US_COUNTY
+suburb of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	suburb of $COUNTY_SEAT
+townships in <US_COUNTY></US_COUNTY>	0.2813022161	townships in $US_COUNTY
+region of <US_COUNTY></US_COUNTY>	0.2813022161	region of $US_COUNTY
+neighborhood of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	neighborhood of $COUNTY_SEAT
+museums in <US_COUNTY></US_COUNTY>	0.2813022161	museums in $US_COUNTY
+corner of <US_COUNTY></US_COUNTY>	0.2813022161	corner of $US_COUNTY
+suburbs of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	suburbs of $COUNTY_SEAT
+courthouse in <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	courthouse in $COUNTY_SEAT
+mayor of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	mayor of $COUNTY_SEAT
+stations in <US_COUNTY></US_COUNTY>	0.2813022161	stations in $US_COUNTY
+southwest of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	southwest of $COUNTY_SEAT
+history of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	history of $COUNTY_SEAT
+northeast of <COUNTY_SEAT></COUNTY_SEAT>	0.2813022161	northeast of $COUNTY_SEAT
+attractions in <US_COUNTY></US_COUNTY>	0.2813022161	attractions in $US_COUNTY
+borders the <US_COUNTY></US_COUNTY>	0.2813022161	borders the $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> public	0.278038541	$COUNTY_SEAT public
+<US_COUNTY></US_COUNTY> , colorado 	0.2754960979	$US_COUNTY , colorado 
+<COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY> , new york. 	0.2691604458	$COUNTY_SEAT in $US_COUNTY , new york. 
+<US_COUNTY></US_COUNTY> ) 	0.2603168428	$US_COUNTY ) 
+<US_COUNTY></US_COUNTY> airport	0.2603168428	$US_COUNTY airport
+<US_COUNTY></US_COUNTY> courthouse	0.2593168428	$US_COUNTY courthouse
+<US_COUNTY></US_COUNTY> museum	0.2593168428	$US_COUNTY museum
+<US_COUNTY></US_COUNTY> department	0.2593168428	$US_COUNTY department
+<US_COUNTY></US_COUNTY> board	0.2593168428	$US_COUNTY board
+<US_COUNTY></US_COUNTY> hospital	0.2593168428	$US_COUNTY hospital
+<US_COUNTY></US_COUNTY> city	0.2558668636	$US_COUNTY city
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new york) was an american lawyer	0.2504573805	$COUNTY_SEAT , $US_COUNTY , new york) was an american lawyer
+<US_COUNTY></US_COUNTY> line. 	0.2504573805	$US_COUNTY line. 
+<US_COUNTY></US_COUNTY> jail	0.2504573805	$US_COUNTY jail
+<US_COUNTY></US_COUNTY> athletic hall	0.2504573805	$US_COUNTY athletic hall
+<US_COUNTY></US_COUNTY> ). 	0.2504573805	$US_COUNTY ). 
+<US_COUNTY></US_COUNTY> , puerto rico.	0.2432584564	$US_COUNTY , puerto rico.
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new york –	0.1951472296	$COUNTY_SEAT , $US_COUNTY , new york –
+<COUNTY_SEAT></COUNTY_SEAT> , new york	0.1951472296	$COUNTY_SEAT , new york
+<US_COUNTY></US_COUNTY> public	0.193200197	$US_COUNTY public
+ <US_COUNTY></US_COUNTY> –	0.193200197	 $US_COUNTY –
+<US_COUNTY></US_COUNTY> school	0.193200197	$US_COUNTY school
+ships built in <US_COUNTY></US_COUNTY> , virginia	0.1913639478	ships built in $US_COUNTY , virginia
+<COUNTY_SEAT></COUNTY_SEAT> , new jersey	0.1913639478	$COUNTY_SEAT , new jersey
+<US_COUNTY></US_COUNTY> county,	0.18730264	$US_COUNTY county,
+<COUNTY_SEAT></COUNTY_SEAT> city	0.18730264	$COUNTY_SEAT city
+<US_COUNTY></US_COUNTY> , new jersey, united states. 	0.1790659695	$US_COUNTY , new jersey, united states. 
+<US_COUNTY></US_COUNTY> stadium in <COUNTY_SEAT></COUNTY_SEAT> ,	0.1774492585	$US_COUNTY stadium in $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> community	0.17630264	$US_COUNTY community
+<US_COUNTY></US_COUNTY> observatory	0.1734431777	$US_COUNTY observatory
+municipality,  by <US_COUNTY></US_COUNTY>	0.1734431777	municipality,  by $US_COUNTY
+central <US_COUNTY></US_COUNTY>	0.17130264	central $US_COUNTY
+southern <US_COUNTY></US_COUNTY>	0.17130264	southern $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> –	0.17130264	$COUNTY_SEAT –
+northern <US_COUNTY></US_COUNTY>	0.17130264	northern $US_COUNTY
+western <US_COUNTY></US_COUNTY>	0.17130264	western $US_COUNTY
+<US_COUNTY></US_COUNTY> metropolitan	0.17130264	$US_COUNTY metropolitan
+academies in <COUNTY_SEAT></COUNTY_SEAT>	0.1706659768	academies in $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> , new york) was an american	0.1706659768	$US_COUNTY , new york) was an american
+eastern <US_COUNTY></US_COUNTY>	0.17030264	eastern $US_COUNTY
+<US_COUNTY></US_COUNTY> line	0.17030264	$US_COUNTY line
+<COUNTY_SEAT></COUNTY_SEAT> metropolitan	0.17030264	$COUNTY_SEAT metropolitan
+<US_COUNTY></US_COUNTY> government	0.17030264	$US_COUNTY government
+downtown <COUNTY_SEAT></COUNTY_SEAT>	0.17030264	downtown $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> sheriff's	0.17030264	$US_COUNTY sheriff's
+<US_COUNTY></US_COUNTY> project	0.17030264	$US_COUNTY project
+<US_COUNTY></US_COUNTY> library	0.17030264	$US_COUNTY library
+<US_COUNTY></US_COUNTY> democratic	0.17030264	$US_COUNTY democratic
+name <US_COUNTY></US_COUNTY>	0.17030264	name $US_COUNTY
+<US_COUNTY></US_COUNTY> historical	0.17030264	$US_COUNTY historical
+<US_COUNTY></US_COUNTY> fire	0.17030264	$US_COUNTY fire
+<US_COUNTY></US_COUNTY> court	0.17030264	$US_COUNTY court
+<COUNTY_SEAT></COUNTY_SEAT> river	0.17030264	$COUNTY_SEAT river
+area in <US_COUNTY></US_COUNTY>	0.1630191006	area in $US_COUNTY
+<US_COUNTY></US_COUNTY> area	0.1630191006	$US_COUNTY area
+area of <US_COUNTY></US_COUNTY>	0.1630191006	area of $US_COUNTY
+present-day <US_COUNTY></US_COUNTY>	0.1624431777	present-day $US_COUNTY
+greater <COUNTY_SEAT></COUNTY_SEAT>	0.1624431777	greater $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> ).	0.1624431777	$US_COUNTY ).
+<US_COUNTY></US_COUNTY> technical	0.1624431777	$US_COUNTY technical
+<US_COUNTY></US_COUNTY> courthouse,	0.1624431777	$US_COUNTY courthouse,
+<COUNTY_SEAT></COUNTY_SEAT> police	0.1624431777	$COUNTY_SEAT police
+southeastern <US_COUNTY></US_COUNTY>	0.1624431777	southeastern $US_COUNTY
+<US_COUNTY></US_COUNTY> naval	0.1624431777	$US_COUNTY naval
+<US_COUNTY></US_COUNTY> seat,	0.1624431777	$US_COUNTY seat,
+<COUNTY_SEAT></COUNTY_SEAT> , new york. 	0.1621512803	$COUNTY_SEAT , new york. 
+<US_COUNTY></US_COUNTY> and the city of <COUNTY_SEAT></COUNTY_SEAT>	0.1584515774	$US_COUNTY and the city of $COUNTY_SEAT
+<COUNTY_SEAT></COUNTY_SEAT> area	0.1580191006	$COUNTY_SEAT area
+area of <COUNTY_SEAT></COUNTY_SEAT>	0.1580191006	area of $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> , new jersey	0.1511472296	$US_COUNTY , new jersey
+<US_COUNTY></US_COUNTY> , new jersey,	0.1511472296	$US_COUNTY , new jersey,
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new jersey,	0.1499281911	$COUNTY_SEAT , $US_COUNTY , new jersey,
+<US_COUNTY></US_COUNTY> , south carolina.	0.1493639478	$US_COUNTY , south carolina.
+<US_COUNTY></US_COUNTY> , new jersey, united states.	0.1493639478	$US_COUNTY , new jersey, united states.
+<COUNTY_SEAT></COUNTY_SEAT> , new york,	0.1493639478	$COUNTY_SEAT , new york,
+<US_COUNTY></US_COUNTY> , north carolina	0.1493639478	$US_COUNTY , north carolina
+|align=left| <US_COUNTY></US_COUNTY> center, <COUNTY_SEAT></COUNTY_SEAT> , new york, u.	0.1493639478	|align=left| $US_COUNTY center, $COUNTY_SEAT , new york, u.
+historic home located at <COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> ,	0.1441472296	historic home located at $COUNTY_SEAT , $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , california history of <US_COUNTY></US_COUNTY> , california	0.1441472296	$US_COUNTY , california history of $US_COUNTY , california
+<US_COUNTY></US_COUNTY> courthouse, <COUNTY_SEAT></COUNTY_SEAT> ,	0.1441472296	$US_COUNTY courthouse, $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> , new york,	0.1441472296	$US_COUNTY , new york,
+place (cdp) in <US_COUNTY></US_COUNTY> , california, united states.	0.1423639478	place (cdp) in $US_COUNTY , california, united states.
+<US_COUNTY></US_COUNTY> , north carolina.	0.1423639478	$US_COUNTY , north carolina.
+<US_COUNTY></US_COUNTY> , north carolina,	0.1423639478	$US_COUNTY , north carolina,
+<US_COUNTY></US_COUNTY> , colorado, united states.	0.1423639478	$US_COUNTY , colorado, united states.
+<US_COUNTY></US_COUNTY> , south carolina,	0.1423639478	$US_COUNTY , south carolina,
+people from <US_COUNTY></US_COUNTY> , puerto rico	0.1423639478	people from $US_COUNTY , puerto rico
+<US_COUNTY></US_COUNTY> , puerto rico,	0.1423639478	$US_COUNTY , puerto rico,
+<US_COUNTY></US_COUNTY> , new jersey, united states,	0.1423639478	$US_COUNTY , new jersey, united states,
+<US_COUNTY></US_COUNTY> , texas, united states,	0.1423639478	$US_COUNTY , texas, united states,
+<US_COUNTY></US_COUNTY> , texas, united states.	0.1423639478	$US_COUNTY , texas, united states.
+( <COUNTY_SEAT></COUNTY_SEAT> , new york),	0.1423639478	( $COUNTY_SEAT , new york),
+<US_COUNTY></US_COUNTY> , california, united states,	0.1423639478	$US_COUNTY , california, united states,
+<US_COUNTY></US_COUNTY> , illinois, united states.	0.1423639478	$US_COUNTY , illinois, united states.
+<US_COUNTY></US_COUNTY> , california, united states.	0.1423639478	$US_COUNTY , california, united states.
+<COUNTY_SEAT></COUNTY_SEAT> and <US_COUNTY></US_COUNTY> naval & military	0.1423639478	$COUNTY_SEAT and $US_COUNTY naval & military
+<US_COUNTY></US_COUNTY> sheriff's department	0.1423639478	$US_COUNTY sheriff's department
+<US_COUNTY></US_COUNTY> public school system	0.1423639478	$US_COUNTY public school system
+<US_COUNTY></US_COUNTY> , puerto rico	0.1423639478	$US_COUNTY , puerto rico
+<US_COUNTY></US_COUNTY> , california, united states. census-designated places in <US_COUNTY></US_COUNTY> , california	0.1423639478	$US_COUNTY , california, united states. census-designated places in $US_COUNTY , california
+|align=left| <US_COUNTY></US_COUNTY> center, <COUNTY_SEAT></COUNTY_SEAT> , new	0.1423639478	|align=left| $US_COUNTY center, $COUNTY_SEAT , new
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new york)	0.1358492513	$COUNTY_SEAT , $US_COUNTY , new york)
+<COUNTY_SEAT></COUNTY_SEAT> , the seat of <US_COUNTY></US_COUNTY>	0.1307849107	$COUNTY_SEAT , the seat of $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> , the county seat	0.1304492585	$COUNTY_SEAT , the county seat
+<COUNTY_SEAT></COUNTY_SEAT> , in <US_COUNTY></US_COUNTY> , new jersey,	0.1292302201	$COUNTY_SEAT , in $US_COUNTY , new jersey,
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , new york) was an american	0.1286659768	$COUNTY_SEAT , $US_COUNTY , new york) was an american
+<US_COUNTY></US_COUNTY> courthouse in <COUNTY_SEAT></COUNTY_SEAT> ,	0.1264492585	$US_COUNTY courthouse in $COUNTY_SEAT ,
+<COUNTY_SEAT></COUNTY_SEAT> , the county seat of <US_COUNTY></US_COUNTY>	0.1264492585	$COUNTY_SEAT , the county seat of $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> , new york.	0.1262302201	$COUNTY_SEAT , new york.
+county seat of <US_COUNTY></US_COUNTY>	0.1234492585	county seat of $US_COUNTY
+high school in <US_COUNTY></US_COUNTY> ,	0.1234492585	high school in $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> , the <US_COUNTY></US_COUNTY> seat,	0.1234492585	$COUNTY_SEAT , the $US_COUNTY seat,
+<US_COUNTY></US_COUNTY> , california companies based in <US_COUNTY></US_COUNTY> ,	0.1234492585	$US_COUNTY , california companies based in $US_COUNTY ,
+<US_COUNTY></US_COUNTY> academies in <COUNTY_SEAT></COUNTY_SEAT> ,	0.1234492585	$US_COUNTY academies in $COUNTY_SEAT ,
+people from <US_COUNTY></US_COUNTY> ,	0.1234492585	people from $US_COUNTY ,
+<US_COUNTY></US_COUNTY> courthouse in <COUNTY_SEAT></COUNTY_SEAT>	0.1234492585	$US_COUNTY courthouse in $COUNTY_SEAT
+public library of <COUNTY_SEAT></COUNTY_SEAT> and <US_COUNTY></US_COUNTY>	0.1234492585	public library of $COUNTY_SEAT and $US_COUNTY
+county seat of <US_COUNTY></US_COUNTY> ,	0.1234492585	county seat of $US_COUNTY ,
+high schools in <US_COUNTY></US_COUNTY> ,	0.1234492585	high schools in $US_COUNTY ,
+high school in <COUNTY_SEAT></COUNTY_SEAT> ,	0.1234492585	high school in $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> jail in <COUNTY_SEAT></COUNTY_SEAT>	0.1234492585	$US_COUNTY jail in $COUNTY_SEAT
+national register of historic places listings in <US_COUNTY></US_COUNTY> ,	0.1216659768	national register of historic places listings in $US_COUNTY ,
+mountain ranges of <US_COUNTY></US_COUNTY> ,	0.1216659768	mountain ranges of $US_COUNTY ,
+school districts in <US_COUNTY></US_COUNTY> ,	0.1216659768	school districts in $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , new york) was an american lawyer and politician from new york.	0.1216659768	$US_COUNTY , new york) was an american lawyer and politician from new york.
+port authority of <US_COUNTY></US_COUNTY>	0.1216659768	port authority of $US_COUNTY
+sportspeople from <US_COUNTY></US_COUNTY> , california	0.1216659768	sportspeople from $US_COUNTY , california
+tourist attractions in <US_COUNTY></US_COUNTY>	0.1216659768	tourist attractions in $US_COUNTY
+universities and colleges in <US_COUNTY></US_COUNTY> , california	0.1216659768	universities and colleges in $US_COUNTY , california
+national register of historic places listings in <US_COUNTY></US_COUNTY>	0.1216659768	national register of historic places listings in $US_COUNTY
+<COUNTY_SEAT></COUNTY_SEAT> , texas, listed on the nrhp in <US_COUNTY></US_COUNTY>	0.1216659768	$COUNTY_SEAT , texas, listed on the nrhp in $US_COUNTY
+<US_COUNTY></US_COUNTY> museum of art	0.1216659768	$US_COUNTY museum of art
+companies based in <US_COUNTY></US_COUNTY> , california	0.1216659768	companies based in $US_COUNTY , california
+<COUNTY_SEAT></COUNTY_SEAT> , the seat	0.1181512803	$COUNTY_SEAT , the seat
+<US_COUNTY></US_COUNTY> , new jersey. 	0.1151512803	$US_COUNTY , new jersey. 
+<US_COUNTY></US_COUNTY> , texas. 	0.1151512803	$US_COUNTY , texas. 
+<US_COUNTY></US_COUNTY> , puerto rico. 	0.1133679985	$US_COUNTY , puerto rico. 
+borders the <US_COUNTY></US_COUNTY> municipalities	0.1133679985	borders the $US_COUNTY municipalities
+city of <COUNTY_SEAT></COUNTY_SEAT> and <US_COUNTY></US_COUNTY>	0.110232539	city of $COUNTY_SEAT and $US_COUNTY
+city of <COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY>	0.110232539	city of $COUNTY_SEAT in $US_COUNTY
+city in <US_COUNTY></US_COUNTY> ,	0.103232539	city in $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , virginia, united states.	0.0959281911	$US_COUNTY , virginia, united states.
+<US_COUNTY></US_COUNTY> , new jersey.	0.0822302201	$US_COUNTY , new jersey.
+<US_COUNTY></US_COUNTY> , texas 	0.081267894	$US_COUNTY , texas 
+<US_COUNTY></US_COUNTY> technical schools,	0.0804469384	$US_COUNTY technical schools,
+town in <US_COUNTY></US_COUNTY> ,	0.0782302201	town in $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , new york	0.0782302201	$US_COUNTY , new york
+borough in <US_COUNTY></US_COUNTY> ,	0.0752302201	borough in $US_COUNTY ,
+village in <US_COUNTY></US_COUNTY> ,	0.0752302201	village in $US_COUNTY ,
+<US_COUNTY></US_COUNTY> sheriff's office	0.0734469384	$US_COUNTY sheriff's office
+national register of historic places in <US_COUNTY></US_COUNTY>	0.0734469384	national register of historic places in $US_COUNTY
+central business district of <COUNTY_SEAT></COUNTY_SEAT> ,	0.0734469384	central business district of $COUNTY_SEAT ,
+<COUNTY_SEAT></COUNTY_SEAT> police department	0.0734469384	$COUNTY_SEAT police department
+city limits of <COUNTY_SEAT></COUNTY_SEAT>	0.0734469384	city limits of $COUNTY_SEAT
+<COUNTY_SEAT></COUNTY_SEAT> metropolitan area.	0.0734469384	$COUNTY_SEAT metropolitan area.
+<US_COUNTY></US_COUNTY> fire department	0.0734469384	$US_COUNTY fire department
+<US_COUNTY></US_COUNTY> , virginia. 	0.0709322419	$US_COUNTY , virginia. 
+cities of <COUNTY_SEAT></COUNTY_SEAT>	0.0709322419	cities of $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> municipalities	0.0679322419	$US_COUNTY municipalities
+<US_COUNTY></US_COUNTY> , <COUNTY_SEAT></COUNTY_SEAT> ,	0.0611030558	$US_COUNTY , $COUNTY_SEAT ,
+<COUNTY_SEAT></COUNTY_SEAT> and <US_COUNTY></US_COUNTY> ,	0.0534050848	$COUNTY_SEAT and $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , new york –	0.0499555504	$US_COUNTY , new york –
+street in <COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> ,	0.0499555504	street in $COUNTY_SEAT , $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY> , new jersey,	0.0499555504	$COUNTY_SEAT in $US_COUNTY , new jersey,
+<US_COUNTY></US_COUNTY> and the city	0.0492598983	$US_COUNTY and the city
+city of <COUNTY_SEAT></COUNTY_SEAT> ,	0.047381803	city of $COUNTY_SEAT ,
+places in <US_COUNTY></US_COUNTY> , colorado	0.0472575794	places in $US_COUNTY , colorado
+|align=left| <US_COUNTY></US_COUNTY> center, <COUNTY_SEAT></COUNTY_SEAT> , new york,	0.0459555504	|align=left| $US_COUNTY center, $COUNTY_SEAT , new york,
+<COUNTY_SEAT></COUNTY_SEAT> – <US_COUNTY></US_COUNTY> stadium.	0.0459555504	$COUNTY_SEAT – $US_COUNTY stadium.
+national historic district located at <COUNTY_SEAT></COUNTY_SEAT>	0.0459555504	national historic district located at $COUNTY_SEAT
+<COUNTY_SEAT></COUNTY_SEAT> & <US_COUNTY></US_COUNTY> public	0.0459555504	$COUNTY_SEAT & $US_COUNTY public
+<COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY> , pennsylvania.	0.045736512	$COUNTY_SEAT , $US_COUNTY , pennsylvania.
+<US_COUNTY></US_COUNTY> , puerto rico 	0.0453794842	$US_COUNTY , puerto rico 
+city of <COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY> ,	0.0450408598	city of $COUNTY_SEAT in $US_COUNTY ,
+city of <US_COUNTY></US_COUNTY> ,	0.0450408598	city of $US_COUNTY ,
+part of the <COUNTY_SEAT></COUNTY_SEAT>	0.043038541	part of the $COUNTY_SEAT
+universities and colleges in <US_COUNTY></US_COUNTY> ,	0.0412575794	universities and colleges in $US_COUNTY ,
+cities in <US_COUNTY></US_COUNTY> , california	0.0412575794	cities in $US_COUNTY , california
+history of <US_COUNTY></US_COUNTY> , california	0.0412575794	history of $US_COUNTY , california
+people from <US_COUNTY></US_COUNTY> , virginia	0.0412575794	people from $US_COUNTY , virginia
+cities in <US_COUNTY></US_COUNTY> , texas	0.0412575794	cities in $US_COUNTY , texas
+companies based in <US_COUNTY></US_COUNTY> ,	0.0412575794	companies based in $US_COUNTY ,
+people from <US_COUNTY></US_COUNTY> , california	0.0412575794	people from $US_COUNTY , california
+school districts in <US_COUNTY></US_COUNTY>	0.0412575794	school districts in $US_COUNTY
+<US_COUNTY></US_COUNTY> , new york. 	0.0411604458	$US_COUNTY , new york. 
+<US_COUNTY></US_COUNTY> , alabama 	0.0411604458	$US_COUNTY , alabama 
+york. <COUNTY_SEAT></COUNTY_SEAT>	0.0409555504	york. $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> center, <COUNTY_SEAT></COUNTY_SEAT> ,	0.0409555504	$US_COUNTY center, $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> academies	0.0409555504	$US_COUNTY academies
+<COUNTY_SEAT></COUNTY_SEAT> - <US_COUNTY></US_COUNTY> public	0.0409555504	$COUNTY_SEAT - $US_COUNTY public
+township, <US_COUNTY></US_COUNTY> , pennsylvania,	0.0409555504	township, $US_COUNTY , pennsylvania,
+house, <COUNTY_SEAT></COUNTY_SEAT> , texas,	0.0409555504	house, $COUNTY_SEAT , texas,
+house ( <COUNTY_SEAT></COUNTY_SEAT> ,	0.0409555504	house ( $COUNTY_SEAT ,
+<US_COUNTY></US_COUNTY> is part	0.0407151364	$US_COUNTY is part
+school in <US_COUNTY></US_COUNTY> ,	0.0402598983	school in $US_COUNTY ,
+<COUNTY_SEAT></COUNTY_SEAT> , the county	0.0395932316	$COUNTY_SEAT , the county
+part of <US_COUNTY></US_COUNTY> ,	0.0395932316	part of $US_COUNTY ,
+part of the <US_COUNTY></US_COUNTY>	0.0395932316	part of the $US_COUNTY
+community in <US_COUNTY></US_COUNTY> ,	0.0395932316	community in $US_COUNTY ,
+<US_COUNTY></US_COUNTY> is home	0.0393794842	$US_COUNTY is home
+north of <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	north of $COUNTY_SEAT ,
+schools in <US_COUNTY></US_COUNTY> , california	0.0382575794	schools in $US_COUNTY , california
+university in <US_COUNTY></US_COUNTY> ,	0.0382575794	university in $US_COUNTY ,
+towns in <US_COUNTY></US_COUNTY> ,	0.0382575794	towns in $US_COUNTY ,
+business district of <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	business district of $COUNTY_SEAT ,
+museums in <US_COUNTY></US_COUNTY> ,	0.0382575794	museums in $US_COUNTY ,
+airport in <US_COUNTY></US_COUNTY> ,	0.0382575794	airport in $US_COUNTY ,
+areas of <US_COUNTY></US_COUNTY> ,	0.0382575794	areas of $US_COUNTY ,
+places in <US_COUNTY></US_COUNTY> , california	0.0382575794	places in $US_COUNTY , california
+school in <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	school in $COUNTY_SEAT ,
+river in <US_COUNTY></US_COUNTY> ,	0.0382575794	river in $US_COUNTY ,
+communities in <US_COUNTY></US_COUNTY> ,	0.0382575794	communities in $US_COUNTY ,
+place in <US_COUNTY></US_COUNTY> ,	0.0382575794	place in $US_COUNTY ,
+schools in <US_COUNTY></US_COUNTY> ,	0.0382575794	schools in $US_COUNTY ,
+places in <US_COUNTY></US_COUNTY> , texas	0.0382575794	places in $US_COUNTY , texas
+airport in <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	airport in $COUNTY_SEAT ,
+township in <US_COUNTY></US_COUNTY> ,	0.0382575794	township in $US_COUNTY ,
+rivers of <US_COUNTY></US_COUNTY> ,	0.0382575794	rivers of $US_COUNTY ,
+neighborhood of <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	neighborhood of $COUNTY_SEAT ,
+media in <US_COUNTY></US_COUNTY> ,	0.0382575794	media in $US_COUNTY ,
+street in <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	street in $COUNTY_SEAT ,
+geography of <US_COUNTY></US_COUNTY> ,	0.0382575794	geography of $US_COUNTY ,
+companies based in <US_COUNTY></US_COUNTY>	0.0382575794	companies based in $US_COUNTY
+transportation in <US_COUNTY></US_COUNTY> , california	0.0382575794	transportation in $US_COUNTY , california
+transportation in <US_COUNTY></US_COUNTY> ,	0.0382575794	transportation in $US_COUNTY ,
+landforms of <US_COUNTY></US_COUNTY> ,	0.0382575794	landforms of $US_COUNTY ,
+stations in <US_COUNTY></US_COUNTY> ,	0.0382575794	stations in $US_COUNTY ,
+center in <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	center in $COUNTY_SEAT ,
+<COUNTY_SEAT></COUNTY_SEAT> in <US_COUNTY></US_COUNTY> , illinois,	0.0382575794	$COUNTY_SEAT in $US_COUNTY , illinois,
+seat of <US_COUNTY></US_COUNTY> ,	0.0382575794	seat of $US_COUNTY ,
+public library of <COUNTY_SEAT></COUNTY_SEAT>	0.0382575794	public library of $COUNTY_SEAT
+member of the <COUNTY_SEAT></COUNTY_SEAT>	0.0382575794	member of the $COUNTY_SEAT
+ships built in <US_COUNTY></US_COUNTY>	0.0382575794	ships built in $US_COUNTY
+townships in <US_COUNTY></US_COUNTY> ,	0.0382575794	townships in $US_COUNTY ,
+geography of <US_COUNTY></US_COUNTY> , california	0.0382575794	geography of $US_COUNTY , california
+branch of the <US_COUNTY></US_COUNTY>	0.0382575794	branch of the $US_COUNTY
+city in <US_COUNTY></US_COUNTY> , california,	0.0382575794	city in $US_COUNTY , california,
+history of <US_COUNTY></US_COUNTY> ,	0.0382575794	history of $US_COUNTY ,
+cities in <US_COUNTY></US_COUNTY> ,	0.0382575794	cities in $US_COUNTY ,
+mayor of <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	mayor of $COUNTY_SEAT ,
+street in <COUNTY_SEAT></COUNTY_SEAT> , <US_COUNTY></US_COUNTY>	0.0382575794	street in $COUNTY_SEAT , $US_COUNTY
+courthouse in <COUNTY_SEAT></COUNTY_SEAT> ,	0.0382575794	courthouse in $COUNTY_SEAT ,
+member of the <US_COUNTY></US_COUNTY>	0.0382575794	member of the $US_COUNTY
+<US_COUNTY></US_COUNTY> , california. 	0.0377151364	$US_COUNTY , california. 
+<US_COUNTY></US_COUNTY> , new york 	0.0363794842	$US_COUNTY , new york 
+<US_COUNTY></US_COUNTY> , virginia 	0.0341627646	$US_COUNTY , virginia 
+ national register of historic places listings in <US_COUNTY></US_COUNTY>	0.034038541	 national register of historic places listings in $US_COUNTY
+central business district of <COUNTY_SEAT></COUNTY_SEAT>	0.034038541	central business district of $COUNTY_SEAT
+<US_COUNTY></US_COUNTY> board of supervisors	0.034038541	$US_COUNTY board of supervisors
+borough in <US_COUNTY></US_COUNTY> , pennsylvania,	0.034038541	borough in $US_COUNTY , pennsylvania,
+area of <US_COUNTY></US_COUNTY> ,	0.0336396733	area of $US_COUNTY ,
+<US_COUNTY></US_COUNTY> , florida 	0.0321604458	$US_COUNTY , florida 

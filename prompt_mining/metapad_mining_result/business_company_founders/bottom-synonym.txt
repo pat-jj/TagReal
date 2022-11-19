@@ -1,0 +1,76 @@
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	1.0	1.0
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	 <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	1.0	1.0
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	 <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	1.0	1.0
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	1.0	1.0
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	1.0	1.0
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	1.0	1.0
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	 <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	 <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	 <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	 <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	 <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	 <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	 <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	 <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	1.0	1.0
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	1.0	1.0
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	 <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	 <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	1.0	1.0
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	1.0	1.0
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	 <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	1.0	1.0
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	1.0	1.0
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	1.0	1.0
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	1.0	1.0
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	1.0	1.0
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	1.0	1.0
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	 <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	1.0	1.0
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	1.0	1.0
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	1.0	1.0
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	1.0	1.0
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	1.0	1.0
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	1.0	1.0
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	1.0	1.0
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	 <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	1.0	1.0
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	 <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	1.0	1.0
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	1.0	1.0
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	1.0	1.0
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	1.0	1.0
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	1.0	1.0
+permanent representative of <FOUNDER></FOUNDER>	<FOUNDER></FOUNDER> 's permanent representative	-1	-1
+<FOUNDER></FOUNDER> 's permanent representative	permanent representative of <FOUNDER></FOUNDER>	-1	-1
+situation in <FOUNDER></FOUNDER> ,	situation in <FOUNDER></FOUNDER>	-1	-1
+situation in <FOUNDER></FOUNDER>	situation in <FOUNDER></FOUNDER> ,	-1	-1

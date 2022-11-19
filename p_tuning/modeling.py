@@ -12,7 +12,6 @@ from p_tuning.prompt_encoder import *
 from torch import distributed as dist
 
 
-
 class PTuneForLAMA(torch.nn.Module):
 
     def __init__(self, args, device, device_ids, template, tokenizer_src, relation_num):

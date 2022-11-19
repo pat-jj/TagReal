@@ -1,6 +1,10 @@
 from datasets import load_dataset
 from tqdm import tqdm
 import random
+import nltk
+
+nltk.download('words')
+words = set(nltk.corpus.words.words())
 
 
 def get_wiki_corpus():
@@ -29,11 +33,11 @@ def get_relation_set():
         # '/people/person/nationality',
         # '/location/location/contains',
         # '/people/person/place_lived',
-        '/people/deceased_person/place_of_death',
+        # '/people/deceased_person/place_of_death',
         # '/people/person/ethnicity',
         # '/people/ethnicity/people',
         # '/business/person/company',
-        # '/people/person/religion',
+        '/people/person/religion',
         # '/location/neighborhood/neighborhood_of',
         # '/business/company/founders',
         # '/people/person/children',
@@ -74,7 +78,7 @@ def get_triples_for_relation(relation,
     return random_selected_triples
 
 
-def mine_triple_text_from_corpus(triples, corpus, relation, n=500, max_lines=100000, triples_path=None):
+def mine_triple_text_from_corpus(triples, corpus, relation, n=2000, max_lines=100000, triples_path=None):
     mined_text = ""
 
     with open(corpus) as f:
@@ -126,38 +130,60 @@ def mine_triple_text_from_corpus(triples, corpus, relation, n=500, max_lines=100
     return mined_text
 
 
-def label_x_and_y_with_categories(text_before, head_name, tail_name, limit=False, max_length=40000):
+def label_x_and_y_with_categories(relation, head_name, tail_name, limit=False, max_length=40000):
+    text_before = './prompt_mining/mined_text_big/mined_text_' + relation + ".txt"
     text_after = ""
-    with open('./prompt_mining/mined_text_big/' + text_before) as f:
+    with open(text_before) as f:
         lines = f.readlines()
 
     cnt = 0
-    random.shuffle(lines)
+    # random.shuffle(lines)
     for line in lines:
         if line != '\n':
+            line = " ".join(w for w in nltk.wordpunct_tokenize(line) if w.lower() in words or not w.isalpha())
+
             line = \
-                line.replace('[X]', f'<{head_name}>[X]</{head_name}>') \
-                    .replace('[Y]', f'<{tail_name}>[Y]</{tail_name}>')
-            text_after += line
+                line.replace('[ X ]', f'<{head_name}>[X]</{head_name}>') \
+                    .replace('[ Y ]', f'<{tail_name}>[Y]</{tail_name}>')
+
+            text_after += line + '\n'
             cnt += 1
         if limit and cnt > max_length:
             break
 
-    out_path = './prompt_mining/mined_text_big/grained/' + text_before[:-4] + '_.txt'
+    out_path = './prompt_mining/mined_text_big/grained/' + "grained_" + relation + '.txt'
     out_file = open(out_path, 'w', encoding='utf-8')
     print(text_after, file=out_file)
 
 
 def main():
-    # corpus = "../../../data/pj20/corpus_text_low.txt"
-    # relation_set = get_relation_set()
-    # for relation in [*relation_set]:
-    #     print('Begin Text Mining for Relation: ', relation)
-    #     triples = get_triples_for_relation(relation)
-    #     mine_triple_text_from_corpus(triples, corpus, relation)
+    corpus = "../../../data/pj20/corpus_text_low.txt"
+    relation_set = get_relation_set()
+    for relation in [*relation_set]:
+        print('Begin Text Mining for Relation: ', relation)
+        triples = get_triples_for_relation(relation)
+        mine_triple_text_from_corpus(triples, corpus, relation)
 
-    label_x_and_y_with_categories('mined_text_location_location_contains.txt',
-                                  'LOCATIONL', 'LOCATIONS', limit=True, max_length=20000)
+    # relation_entities = {
+    #     'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER'},
+    #     'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED'},
+    #     'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY'},
+    #     'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY'},
+    #     'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION'},
+    #     'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB'},
+    #     'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR'},
+    #     'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT'},
+    #     'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH'},
+    #     'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE'},
+    #     'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN'},
+    #     'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY'},
+    #     'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY'},
+    #     'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED'},
+    #     'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION'},
+    # }
+    #
+    # for relation in relation_entities.keys():
+    #     label_x_and_y_with_categories(relation, relation_entities[relation]['head'], relation_entities[relation]['tail'])
 
 
 if __name__ == '__main__':

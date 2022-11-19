@@ -1,0 +1,11 @@
+baaaaaa baaaaaj baaaaae	1
+baaaaaa is from baaaaae	1
+baaaaae baaaaaj baaaaaa	1
+baaaaae baaaaaj	0
+baaaaaa baaaaaj	0
+baaaaaa is from	0
+is from	0
+from baaaaae	0
+baaaaaa is	0
+baaaaaj baaaaae	0
+is from baaaaae	0

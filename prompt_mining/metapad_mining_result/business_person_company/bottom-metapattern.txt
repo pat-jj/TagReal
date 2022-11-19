@@ -1,0 +1,438 @@
+<PERSON></PERSON> at the <COMPANY></COMPANY>	0.9420727782	$PERSON at the $COMPANY
+<COMPANY></COMPANY> of the <PERSON></PERSON> ,	0.915353824	$COMPANY of the $PERSON ,
+<COMPANY></COMPANY> of <PERSON></PERSON> ,	0.915353824	$COMPANY of $PERSON ,
+<COMPANY></COMPANY> at the <PERSON></PERSON>	0.915353824	$COMPANY at the $PERSON
+<PERSON></PERSON> of <COMPANY></COMPANY> ,	0.915353824	$PERSON of $COMPANY ,
+<PERSON></PERSON> and the <COMPANY></COMPANY>	0.8802400985	$PERSON and the $COMPANY
+<PERSON></PERSON> , <COMPANY></COMPANY> ,	0.8764649351	$PERSON , $COMPANY ,
+<COMPANY></COMPANY> , <PERSON></PERSON> ,	0.8764649351	$COMPANY , $PERSON ,
+<PERSON></PERSON> at <COMPANY></COMPANY> ,	0.8289862285	$PERSON at $COMPANY ,
+<COMPANY></COMPANY> at the <PERSON></PERSON> ,	0.8081561631	$COMPANY at the $PERSON ,
+<PERSON></PERSON> with <COMPANY></COMPANY> ,	0.7994824101	$PERSON with $COMPANY ,
+<PERSON></PERSON> of <COMPANY></COMPANY>	0.7955805858	$PERSON of $COMPANY
+ceo of <PERSON></PERSON> ,	0.7871425003	ceo of $PERSON ,
+founder of the <COMPANY></COMPANY>	0.7871425003	founder of the $COMPANY
+co-founder of <PERSON></PERSON> ,	0.7871425003	co-founder of $PERSON ,
+<COMPANY></COMPANY> , former <PERSON></PERSON>	0.7871425003	$COMPANY , former $PERSON
+<COMPANY></COMPANY> 's <PERSON></PERSON> ,	0.7871425003	$COMPANY 's $PERSON ,
+<PERSON></PERSON> ceo <COMPANY></COMPANY> ,	0.7871425003	$PERSON ceo $COMPANY ,
+director of the <PERSON></PERSON>	0.7871425003	director of the $PERSON
+<PERSON></PERSON> co-founder <COMPANY></COMPANY> ,	0.7871425003	$PERSON co-founder $COMPANY ,
+chairman of <COMPANY></COMPANY> ,	0.7871425003	chairman of $COMPANY ,
+<PERSON></PERSON> 's <COMPANY></COMPANY> ,	0.7871425003	$PERSON 's $COMPANY ,
+<COMPANY></COMPANY> co-founder <PERSON></PERSON> ,	0.7871425003	$COMPANY co-founder $PERSON ,
+<PERSON></PERSON> , <COMPANY></COMPANY>	0.7871425003	$PERSON , $COMPANY
+co-founder of <COMPANY></COMPANY> ,	0.7871425003	co-founder of $COMPANY ,
+<COMPANY></COMPANY> founder <PERSON></PERSON> ,	0.7871425003	$COMPANY founder $PERSON ,
+professor at the <COMPANY></COMPANY>	0.7871425003	professor at the $COMPANY
+director of the <COMPANY></COMPANY>	0.7871425003	director of the $COMPANY
+president of <PERSON></PERSON> ,	0.7871425003	president of $PERSON ,
+writer <COMPANY></COMPANY> and artist	0.776823546	writer $COMPANY and artist
+<PERSON></PERSON> and <COMPANY></COMPANY>	0.7727634559	$PERSON and $COMPANY
+president of <COMPANY></COMPANY> <PERSON></PERSON>	0.7727634559	president of $COMPANY $PERSON
+president <PERSON></PERSON> of <COMPANY></COMPANY>	0.7727634559	president $PERSON of $COMPANY
+ <COMPANY></COMPANY> , <PERSON></PERSON>	0.7688616315	 $COMPANY , $PERSON
+ <PERSON></PERSON> , <COMPANY></COMPANY>	0.7688616315	 $PERSON , $COMPANY
+<COMPANY></COMPANY>  <PERSON></PERSON> ,	0.7688616315	$COMPANY  $PERSON ,
+<COMPANY></COMPANY> , <PERSON></PERSON>	0.7688616315	$COMPANY , $PERSON
+<COMPANY></COMPANY> <PERSON></PERSON> ,	0.7688616315	$COMPANY $PERSON ,
+<PERSON></PERSON> <COMPANY></COMPANY> ,	0.7688616315	$PERSON $COMPANY ,
+<COMPANY></COMPANY> , the <PERSON></PERSON>	0.7620370934	$COMPANY , the $PERSON
+governor of <COMPANY></COMPANY> <PERSON></PERSON>	0.761423546	governor of $COMPANY $PERSON
+<PERSON></PERSON> , ceo of <COMPANY></COMPANY> ,	0.761423546	$PERSON , ceo of $COMPANY ,
+<COMPANY></COMPANY> president <PERSON></PERSON> ,	0.761423546	$COMPANY president $PERSON ,
+<COMPANY></COMPANY> ceo <PERSON></PERSON> ,	0.761423546	$COMPANY ceo $PERSON ,
+president of <COMPANY></COMPANY> ,	0.761423546	president of $COMPANY ,
+<PERSON></PERSON> president <COMPANY></COMPANY> ,	0.761423546	$PERSON president $COMPANY ,
+president of the <COMPANY></COMPANY> ,	0.761423546	president of the $COMPANY ,
+general of the <COMPANY></COMPANY> ,	0.761423546	general of the $COMPANY ,
+president of the <PERSON></PERSON> ,	0.761423546	president of the $PERSON ,
+governor of <COMPANY></COMPANY> ,	0.761423546	governor of $COMPANY ,
+<PERSON></PERSON> , founder of <COMPANY></COMPANY> ,	0.7511425003	$PERSON , founder of $COMPANY ,
+president and ceo of <PERSON></PERSON>	0.7511425003	president and ceo of $PERSON
+head of the <COMPANY></COMPANY>	0.7511425003	head of the $COMPANY
+<PERSON></PERSON> school at <COMPANY></COMPANY>	0.7511425003	$PERSON school at $COMPANY
+president and ceo of <COMPANY></COMPANY>	0.7511425003	president and ceo of $COMPANY
+head of the <PERSON></PERSON>	0.7511425003	head of the $PERSON
+founder of the <PERSON></PERSON>	0.7511425003	founder of the $PERSON
+<COMPANY></COMPANY> , founder of <PERSON></PERSON>	0.7511425003	$COMPANY , founder of $PERSON
+<COMPANY></COMPANY> , co-founder of <PERSON></PERSON>	0.7511425003	$COMPANY , co-founder of $PERSON
+<PERSON></PERSON> , former ceo of <COMPANY></COMPANY>	0.7511425003	$PERSON , former ceo of $COMPANY
+<COMPANY></COMPANY> school at <PERSON></PERSON>	0.7511425003	$COMPANY school at $PERSON
+chairman and ceo of <PERSON></PERSON>	0.7511425003	chairman and ceo of $PERSON
+<PERSON></PERSON> , the founder of <COMPANY></COMPANY>	0.7511425003	$PERSON , the founder of $COMPANY
+<COMPANY></COMPANY> , ceo of <PERSON></PERSON>	0.7511425003	$COMPANY , ceo of $PERSON
+<PERSON></PERSON> , ceo of <COMPANY></COMPANY>	0.7511425003	$PERSON , ceo of $COMPANY
+chairman and ceo of <COMPANY></COMPANY>	0.7511425003	chairman and ceo of $COMPANY
+general of the <COMPANY></COMPANY>	0.7511425003	general of the $COMPANY
+<PERSON></PERSON> , chairman of <COMPANY></COMPANY>	0.7511425003	$PERSON , chairman of $COMPANY
+co-founder of the <PERSON></PERSON>	0.7511425003	co-founder of the $PERSON
+<PERSON></PERSON> , co-founder of <COMPANY></COMPANY>	0.7511425003	$PERSON , co-founder of $COMPANY
+<PERSON></PERSON> , founder of <COMPANY></COMPANY>	0.7511425003	$PERSON , founder of $COMPANY
+<PERSON></PERSON> , former president of <COMPANY></COMPANY>	0.7511425003	$PERSON , former president of $COMPANY
+<COMPANY></COMPANY> s of <PERSON></PERSON>	0.7457647225	$COMPANY s of $PERSON
+<PERSON></PERSON> n president <COMPANY></COMPANY>	0.742823546	$PERSON n president $COMPANY
+<COMPANY></COMPANY> n president <PERSON></PERSON>	0.742823546	$COMPANY n president $PERSON
+<PERSON></PERSON> school of public and international affairs at <COMPANY></COMPANY>	0.741823546	$PERSON school of public and international affairs at $COMPANY
+<COMPANY></COMPANY> school of public and international affairs at <PERSON></PERSON>	0.741823546	$COMPANY school of public and international affairs at $PERSON
+<COMPANY></COMPANY> state attorney general	0.739823546	$COMPANY state attorney general
+state attorney general <PERSON></PERSON>	0.739823546	state attorney general $PERSON
+larry page and <COMPANY></COMPANY>	0.739823546	larry page and $COMPANY
+larry page and <PERSON></PERSON>	0.739823546	larry page and $PERSON
+stan lee and <PERSON></PERSON>	0.739823546	stan lee and $PERSON
+<PERSON></PERSON> , the president of <COMPANY></COMPANY>	0.7347634559	$PERSON , the president of $COMPANY
+<PERSON></PERSON> , president of the <COMPANY></COMPANY>	0.7347634559	$PERSON , president of the $COMPANY
+ <PERSON></PERSON> of <COMPANY></COMPANY>	0.734747906	 $PERSON of $COMPANY
+<COMPANY></COMPANY>  <PERSON></PERSON>	0.734747906	$COMPANY  $PERSON
+ <COMPANY></COMPANY> of <PERSON></PERSON>	0.734747906	 $COMPANY of $PERSON
+secretary-general of the <COMPANY></COMPANY> , <PERSON></PERSON>	0.725423546	secretary-general of the $COMPANY , $PERSON
+ceo of <COMPANY></COMPANY>  <PERSON></PERSON>	0.725423546	ceo of $COMPANY  $PERSON
+secretary-general of the <PERSON></PERSON> , <COMPANY></COMPANY>	0.725423546	secretary-general of the $PERSON , $COMPANY
+<PERSON></PERSON> , president of <COMPANY></COMPANY>	0.725423546	$PERSON , president of $COMPANY
+secretary-general of the <COMPANY></COMPANY> <PERSON></PERSON>	0.725423546	secretary-general of the $COMPANY $PERSON
+secretary-general of the <PERSON></PERSON> <COMPANY></COMPANY>	0.725423546	secretary-general of the $PERSON $COMPANY
+president of the <PERSON></PERSON>	0.725423546	president of the $PERSON
+president of the <COMPANY></COMPANY>	0.725423546	president of the $COMPANY
+<COMPANY></COMPANY> , president of <PERSON></PERSON>	0.725423546	$COMPANY , president of $PERSON
+<COMPANY></COMPANY> by <PERSON></PERSON>	0.7247612314	$COMPANY by $PERSON
+<COMPANY></COMPANY> for <PERSON></PERSON>	0.7247612314	$COMPANY for $PERSON
+<PERSON></PERSON> for <COMPANY></COMPANY>	0.7247612314	$PERSON for $COMPANY
+<PERSON></PERSON> and <COMPANY></COMPANY> 's wife	0.7200457682	$PERSON and $COMPANY 's wife
+secretary general of the <PERSON></PERSON>	0.7190457682	secretary general of the $PERSON
+director-general of the <COMPANY></COMPANY>	0.7190457682	director-general of the $COMPANY
+secretary general of the <COMPANY></COMPANY>	0.7190457682	secretary general of the $COMPANY
+<COMPANY></COMPANY> - the first	0.7161045918	$COMPANY - the first
+<PERSON></PERSON> - the first	0.7161045918	$PERSON - the first
+bill & <PERSON></PERSON> foundation	0.7141045918	bill & $PERSON foundation
+assassination of <PERSON></PERSON> : american crime story	0.7141045918	assassination of $PERSON : american crime story
+hubert de <PERSON></PERSON> ,	0.7141045918	hubert de $PERSON ,
+bill & <PERSON></PERSON> foundation,	0.7141045918	bill & $PERSON foundation,
+<PERSON></PERSON> - the first appearance	0.7141045918	$PERSON - the first appearance
+hubert de <PERSON></PERSON>	0.7141045918	hubert de $PERSON
+<COMPANY></COMPANY> - the first appearance	0.7141045918	$COMPANY - the first appearance
+assassination of gianni <PERSON></PERSON> : american crime story	0.7141045918	assassination of gianni $PERSON : american crime story
+<PERSON></PERSON>  <COMPANY></COMPANY>	0.6958590172	$PERSON  $COMPANY
+<COMPANY></COMPANY> of the school	0.6888806717	$COMPANY of the school
+founder of <PERSON></PERSON> ,	0.6856430681	founder of $PERSON ,
+<PERSON></PERSON> , a professor	0.6856430681	$PERSON , a professor
+professor at <PERSON></PERSON> ,	0.6856430681	professor at $PERSON ,
+<COMPANY></COMPANY> , a professor	0.6856430681	$COMPANY , a professor
+<PERSON></PERSON> , the founder	0.6856430681	$PERSON , the founder
+founder of <COMPANY></COMPANY> ,	0.6841425003	founder of $COMPANY ,
+<COMPANY></COMPANY> at <PERSON></PERSON>	0.6812719526	$COMPANY at $PERSON
+<COMPANY></COMPANY> and <PERSON></PERSON>	0.6659285516	$COMPANY and $PERSON
+<PERSON></PERSON> in <COMPANY></COMPANY>	0.6659285516	$PERSON in $COMPANY
+<COMPANY></COMPANY>  <COMPANY></COMPANY>	0.6659285516	$COMPANY  $COMPANY
+<COMPANY></COMPANY> of the <PERSON></PERSON>	0.6659285516	$COMPANY of the $PERSON
+<COMPANY></COMPANY> and the <PERSON></PERSON>	0.6659285516	$COMPANY and the $PERSON
+<PERSON></PERSON> of the <COMPANY></COMPANY>	0.6659285516	$PERSON of the $COMPANY
+<PERSON></PERSON>  <PERSON></PERSON>	0.6659285516	$PERSON  $PERSON
+<COMPANY></COMPANY> 's <PERSON></PERSON>	0.6658791066	$COMPANY 's $PERSON
+<PERSON></PERSON> 's <COMPANY></COMPANY>	0.6658791066	$PERSON 's $COMPANY
+<PERSON></PERSON>  <COMPANY></COMPANY> ,	0.6652886918	$PERSON  $COMPANY ,
+ceo of <COMPANY></COMPANY> <PERSON></PERSON>	0.6651617174	ceo of $COMPANY $PERSON
+general of the <PERSON></PERSON>	0.6651617174	general of the $PERSON
+professor at the <PERSON></PERSON>	0.6619241138	professor at the $PERSON
+secretary-general of the <COMPANY></COMPANY> ,	0.658423546	secretary-general of the $COMPANY ,
+secretary-general of the <PERSON></PERSON> ,	0.658423546	secretary-general of the $PERSON ,
+ceo of <COMPANY></COMPANY> ,	0.658423546	ceo of $COMPANY ,
+<COMPANY></COMPANY> ceo <PERSON></PERSON>	0.6535391967	$COMPANY ceo $PERSON
+president of <PERSON></PERSON>	0.6535391967	president of $PERSON
+<COMPANY></COMPANY> president <PERSON></PERSON>	0.6535391967	$COMPANY president $PERSON
+<PERSON></PERSON> president <COMPANY></COMPANY>	0.6535391967	$PERSON president $COMPANY
+chairman of <COMPANY></COMPANY>	0.6535391967	chairman of $COMPANY
+<PERSON></PERSON> co-founder <COMPANY></COMPANY>	0.6535391967	$PERSON co-founder $COMPANY
+<COMPANY></COMPANY> co-founder <PERSON></PERSON>	0.6535391967	$COMPANY co-founder $PERSON
+ <PERSON></PERSON> , former ceo	0.6535391967	 $PERSON , former ceo
+president of <COMPANY></COMPANY>	0.6535391967	president of $COMPANY
+<PERSON></PERSON> ceo <COMPANY></COMPANY>	0.6535391967	$PERSON ceo $COMPANY
+co-founder of <COMPANY></COMPANY>	0.6535391967	co-founder of $COMPANY
+<COMPANY></COMPANY> founder <PERSON></PERSON>	0.6535391967	$COMPANY founder $PERSON
+<COMPANY></COMPANY> governor <PERSON></PERSON>	0.6498503078	$COMPANY governor $PERSON
+<COMPANY></COMPANY> with <PERSON></PERSON>	0.6484524594	$COMPANY with $PERSON
+<PERSON></PERSON> , the <COMPANY></COMPANY>	0.6449543795	$PERSON , the $COMPANY
+school of public and international affairs at <COMPANY></COMPANY>	0.638823546	school of public and international affairs at $COMPANY
+founder of <COMPANY></COMPANY>	0.635480512	founder of $COMPANY
+co-founder of <PERSON></PERSON>	0.635480512	co-founder of $PERSON
+<COMPANY></COMPANY> mayor <PERSON></PERSON>	0.6278202425	$COMPANY mayor $PERSON
+ceo of <PERSON></PERSON>	0.6278202425	ceo of $PERSON
+ <COMPANY></COMPANY> ceo <PERSON></PERSON>	0.6278202425	 $COMPANY ceo $PERSON
+ceo of <COMPANY></COMPANY>	0.6278202425	ceo of $COMPANY
+<PERSON></PERSON> school of public	0.6259313536	$PERSON school of public
+<COMPANY></COMPANY> school of public	0.6241313536	$COMPANY school of public
+<COMPANY></COMPANY> at <PERSON></PERSON> ,	0.6227005095	$COMPANY at $PERSON ,
+secretary-general of the <PERSON></PERSON>	0.622423546	secretary-general of the $PERSON
+secretary-general of the <COMPANY></COMPANY>	0.622423546	secretary-general of the $COMPANY
+governor of <COMPANY></COMPANY>	0.6211901771	governor of $COMPANY
+government of <PERSON></PERSON>	0.6175391967	government of $PERSON
+stan lee and <COMPANY></COMPANY>	0.6109091314	stan lee and $COMPANY
+ <COMPANY></COMPANY> 's 25th anniversary <PERSON></PERSON>	0.6109091314	 $COMPANY 's 25th anniversary $PERSON
+ <PERSON></PERSON> 's 25th anniversary <COMPANY></COMPANY>	0.6109091314	 $PERSON 's 25th anniversary $COMPANY
+<PERSON></PERSON> , chairman	0.603480512	$PERSON , chairman
+<PERSON></PERSON> , president	0.603480512	$PERSON , president
+<COMPANY></COMPANY> , chairman	0.603480512	$COMPANY , chairman
+<PERSON></PERSON> , director	0.603480512	$PERSON , director
+<COMPANY></COMPANY> , ceo	0.603480512	$COMPANY , ceo
+<PERSON></PERSON> , professor	0.603480512	$PERSON , professor
+<COMPANY></COMPANY> , professor	0.603480512	$COMPANY , professor
+<PERSON></PERSON> , ceo	0.603480512	$PERSON , ceo
+<PERSON></PERSON> , founder	0.603480512	$PERSON , founder
+<COMPANY></COMPANY> school of public and international affairs	0.5941615577	$COMPANY school of public and international affairs
+assassination of <PERSON></PERSON>	0.5918202425	assassination of $PERSON
+<COMPANY></COMPANY> 's <PERSON></PERSON> school	0.5873812395	$COMPANY 's $PERSON school
+<COMPANY></COMPANY> of the <PERSON></PERSON> school	0.5865916231	$COMPANY of the $PERSON school
+<COMPANY></COMPANY> , president	0.5865916231	$COMPANY , president
+writer <PERSON></PERSON> and artist	0.5851901771	writer $PERSON and artist
+<PERSON></PERSON> , 	0.5791580666	$PERSON , 
+co-founder <PERSON></PERSON> ,	0.5776610188	co-founder $PERSON ,
+<COMPANY></COMPANY> , co-founder	0.5776610188	$COMPANY , co-founder
+founder <COMPANY></COMPANY> ,	0.5776610188	founder $COMPANY ,
+director of <COMPANY></COMPANY>	0.5776610188	director of $COMPANY
+general <COMPANY></COMPANY> ,	0.5776610188	general $COMPANY ,
+<COMPANY></COMPANY> professor <PERSON></PERSON>	0.5776610188	$COMPANY professor $PERSON
+president <PERSON></PERSON> ,	0.5776610188	president $PERSON ,
+ceo <COMPANY></COMPANY> ,	0.5776610188	ceo $COMPANY ,
+<PERSON></PERSON> professor <COMPANY></COMPANY>	0.5776610188	$PERSON professor $COMPANY
+founder <PERSON></PERSON> ,	0.5776610188	founder $PERSON ,
+ceo <PERSON></PERSON> ,	0.5776610188	ceo $PERSON ,
+president <PERSON></PERSON>	0.5776610188	president $PERSON
+president <COMPANY></COMPANY> ,	0.5776610188	president $COMPANY ,
+co-founder <COMPANY></COMPANY> ,	0.5776610188	co-founder $COMPANY ,
+professor <PERSON></PERSON> ,	0.5776610188	professor $PERSON ,
+chairman of <PERSON></PERSON>	0.5776610188	chairman of $PERSON
+– <COMPANY></COMPANY> ,	0.5776610188	– $COMPANY ,
+chairman <PERSON></PERSON> ,	0.5776610188	chairman $PERSON ,
+<PERSON></PERSON> quarterback <COMPANY></COMPANY>	0.573283241	$PERSON quarterback $COMPANY
+<COMPANY></COMPANY> 's president	0.573283241	$COMPANY 's president
+<COMPANY></COMPANY> quarterback <PERSON></PERSON>	0.573283241	$COMPANY quarterback $PERSON
+professor at <COMPANY></COMPANY>	0.573283241	professor at $COMPANY
+professor at <PERSON></PERSON>	0.573283241	professor at $PERSON
+school at <PERSON></PERSON>	0.573283241	school at $PERSON
+board of <COMPANY></COMPANY>	0.572283241	board of $COMPANY
+editor of <PERSON></PERSON>	0.572283241	editor of $PERSON
+school at <COMPANY></COMPANY>	0.572283241	school at $COMPANY
+<COMPANY></COMPANY> secretary general <PERSON></PERSON>	0.5713420645	$COMPANY secretary general $PERSON
+lee and <PERSON></PERSON>	0.5713420645	lee and $PERSON
+wife of <COMPANY></COMPANY>	0.5713420645	wife of $COMPANY
+<PERSON></PERSON> secretary general <COMPANY></COMPANY>	0.5713420645	$PERSON secretary general $COMPANY
+<PERSON></PERSON> and steve	0.5713420645	$PERSON and steve
+page and <PERSON></PERSON>	0.5713420645	page and $PERSON
+director general <PERSON></PERSON>	0.5713420645	director general $PERSON
+editor of <COMPANY></COMPANY>	0.5713420645	editor of $COMPANY
+lee and <COMPANY></COMPANY>	0.5713420645	lee and $COMPANY
+<COMPANY></COMPANY> columnist <PERSON></PERSON>	0.5713420645	$COMPANY columnist $PERSON
+page and <COMPANY></COMPANY>	0.5713420645	page and $COMPANY
+french president <PERSON></PERSON>	0.5713420645	french president $PERSON
+sir <PERSON></PERSON> ,	0.5713420645	sir $PERSON ,
+institute at <COMPANY></COMPANY>	0.5713420645	institute at $COMPANY
+<COMPANY></COMPANY> attorney general <PERSON></PERSON>	0.5713420645	$COMPANY attorney general $PERSON
+<COMPANY></COMPANY> 's chief	0.5713420645	$COMPANY 's chief
+<COMPANY></COMPANY> 's ceo	0.5713420645	$COMPANY 's ceo
+<COMPANY></COMPANY> state attorney	0.5703420645	$COMPANY state attorney
+assassination of <PERSON></PERSON> : american crime	0.5703420645	assassination of $PERSON : american crime
+ – <PERSON></PERSON> ,	0.5699074335	 – $PERSON ,
+<PERSON></PERSON> 's <COMPANY></COMPANY> school	0.5656622853	$PERSON 's $COMPANY school
+ <PERSON></PERSON> , founder	0.565012864	 $PERSON , founder
+ <COMPANY></COMPANY> , co-founder	0.565012864	 $COMPANY , co-founder
+ <PERSON></PERSON> , co-founder	0.565012864	 $PERSON , co-founder
+<COMPANY></COMPANY> of <PERSON></PERSON>	0.5619285516	$COMPANY of $PERSON
+<PERSON></PERSON> , former ceo	0.55964352	$PERSON , former ceo
+ <COMPANY></COMPANY> ,	0.5525500847	 $COMPANY ,
+ <PERSON></PERSON> ,	0.5525500847	 $PERSON ,
+<PERSON></PERSON> secretary-general <COMPANY></COMPANY>	0.5519420645	$PERSON secretary-general $COMPANY
+<COMPANY></COMPANY> secretary-general <PERSON></PERSON>	0.5519420645	$COMPANY secretary-general $PERSON
+secretary-general <PERSON></PERSON> ,	0.5519420645	secretary-general $PERSON ,
+secretary-general <COMPANY></COMPANY> ,	0.5519420645	secretary-general $COMPANY ,
+officer of <COMPANY></COMPANY>	0.5465642867	officer of $COMPANY
+governor <PERSON></PERSON> ,	0.5465642867	governor $PERSON ,
+law at <PERSON></PERSON>	0.5456231103	law at $PERSON
+haim <PERSON></PERSON> ,	0.5456231103	haim $PERSON ,
+<PERSON></PERSON> and sergey	0.5456231103	$PERSON and sergey
+mayor of <COMPANY></COMPANY>	0.5456231103	mayor of $COMPANY
+gianni <PERSON></PERSON> ,	0.5456231103	gianni $PERSON ,
+donatella <PERSON></PERSON> ,	0.5456231103	donatella $PERSON ,
+law at <COMPANY></COMPANY>	0.5456231103	law at $COMPANY
+<COMPANY></COMPANY> 's wife	0.5456231103	$COMPANY 's wife
+grant from the bill & <PERSON></PERSON>	0.5456231103	grant from the bill & $PERSON
+<COMPANY></COMPANY> and sergey	0.5456231103	$COMPANY and sergey
+designer gianni <PERSON></PERSON>	0.5446231103	designer gianni $PERSON
+& <PERSON></PERSON> foundation	0.5446231103	& $PERSON foundation
+assassination of gianni <PERSON></PERSON> : american crime	0.5446231103	assassination of gianni $PERSON : american crime
+bill & <PERSON></PERSON> foundation.	0.5446231103	bill & $PERSON foundation.
+& <PERSON></PERSON> foundation,	0.5446231103	& $PERSON foundation,
+<PERSON></PERSON> with <COMPANY></COMPANY>	0.5434524594	$PERSON with $COMPANY
+bill & <PERSON></PERSON>	0.5424995904	bill & $PERSON
+ <PERSON></PERSON> , chairman	0.5412939097	 $PERSON , chairman
+<PERSON></PERSON> in new	0.5369074335	$PERSON in new
+<COMPANY></COMPANY> character	0.5345681416	$COMPANY character
+<COMPANY></COMPANY> <PERSON></PERSON>	0.5214363592	$COMPANY $PERSON
+<PERSON></PERSON> <COMPANY></COMPANY>	0.5214363592	$PERSON $COMPANY
+ <PERSON></PERSON> , ceo	0.5188772084	 $PERSON , ceo
+<PERSON></PERSON> , former president	0.511480512	$PERSON , former president
+<PERSON></PERSON> , co-founder	0.511480512	$PERSON , co-founder
+<PERSON></PERSON> character	0.5088491874	$PERSON character
+– <PERSON></PERSON> , american	0.503240225	– $PERSON , american
+grant from the <PERSON></PERSON>	0.502240225	grant from the $PERSON
+<PERSON></PERSON> school of public and international affairs	0.5021615577	$PERSON school of public and international affairs
+<PERSON></PERSON> college	0.5019883195	$PERSON college
+<COMPANY></COMPANY> school	0.5019883195	$COMPANY school
+<COMPANY></COMPANY> college	0.5019883195	$COMPANY college
+writer <PERSON></PERSON>	0.4982994306	writer $PERSON
+writer <COMPANY></COMPANY>	0.4982994306	writer $COMPANY
+<PERSON></PERSON> , the president	0.4945916231	$PERSON , the president
+<PERSON></PERSON> in new york	0.486240225	$PERSON in new york
+chief executive officer of <COMPANY></COMPANY>	0.485240225	chief executive officer of $COMPANY
+chief executive officer of <PERSON></PERSON>	0.485240225	chief executive officer of $PERSON
+ <PERSON></PERSON> , president	0.4813811007	 $PERSON , president
+ <COMPANY></COMPANY> , president	0.4813811007	 $COMPANY , president
+<COMPANY></COMPANY> , who	0.4813811007	$COMPANY , who
+founder of <PERSON></PERSON>	0.4746610188	founder of $PERSON
+  <PERSON></PERSON> ,	0.4716478349	  $PERSON ,
+  <COMPANY></COMPANY> ,	0.4716478349	  $COMPANY ,
+<PERSON></PERSON> at <COMPANY></COMPANY>	0.4712955574	$PERSON at $COMPANY
+<COMPANY></COMPANY> professor	0.4608879194	$COMPANY professor
+president <COMPANY></COMPANY>	0.4608879194	president $COMPANY
+<PERSON></PERSON> professor	0.4608879194	$PERSON professor
+<COMPANY></COMPANY> co-founder	0.4608879194	$COMPANY co-founder
+<COMPANY></COMPANY> founder	0.4608879194	$COMPANY founder
+founder <PERSON></PERSON>	0.4608879194	founder $PERSON
+<PERSON></PERSON> co-founder	0.4608879194	$PERSON co-founder
+<COMPANY></COMPANY> , former president	0.4608879194	$COMPANY , former president
+<PERSON></PERSON> school	0.4608879194	$PERSON school
+ceo <PERSON></PERSON>	0.4608879194	ceo $PERSON
+<COMPANY></COMPANY> 	0.455928188	$COMPANY
+<PERSON></PERSON> foundation. 	0.4545689651	$PERSON foundation. 
+ceo <COMPANY></COMPANY>	0.4450577152	ceo $COMPANY
+ <PERSON></PERSON>	0.4450577152	 $PERSON
+<PERSON></PERSON> secretary-general	0.4450577152	$PERSON secretary-general
+ <COMPANY></COMPANY>	0.4450577152	 $COMPANY
+first <COMPANY></COMPANY>	0.4450577152	first $COMPANY
+<COMPANY></COMPANY> secretary-general	0.4450577152	$COMPANY secretary-general
+<COMPANY></COMPANY> state	0.4450577152	$COMPANY state
+secretary-general <PERSON></PERSON>	0.4439990305	secretary-general $PERSON
+secretary-general <COMPANY></COMPANY>	0.4439990305	secretary-general $COMPANY
+<COMPANY></COMPANY> president	0.4439990305	$COMPANY president
+governor <PERSON></PERSON>	0.4439990305	governor $PERSON
+<COMPANY></COMPANY> center	0.4423688263	$COMPANY center
+<COMPANY></COMPANY> orchestra	0.4414276499	$COMPANY orchestra
+<PERSON></PERSON> ceo	0.4414276499	$PERSON ceo
+<PERSON></PERSON> orchestra	0.4414276499	$PERSON orchestra
+haim <PERSON></PERSON>	0.4376800762	haim $PERSON
+mayor <PERSON></PERSON>	0.4376800762	mayor $PERSON
+<PERSON></PERSON> 	0.4372745932	$PERSON
+  <COMPANY></COMPANY>	0.435209095	  $COMPANY
+ <PERSON></PERSON> 's 25th anniversary <COMPANY></COMPANY> gala	0.4243258103	 $PERSON 's 25th anniversary $COMPANY gala
+ <COMPANY></COMPANY> 's 25th anniversary <PERSON></PERSON> gala	0.4243258103	 $COMPANY 's 25th anniversary $PERSON gala
+studies at the <PERSON></PERSON>	0.4209842052	studies at the $PERSON
+<COMPANY></COMPANY> school of public and international	0.4166498721	$COMPANY school of public and international
+<PERSON></PERSON> school of public and international	0.4166498721	$PERSON school of public and international
+gianni <PERSON></PERSON>	0.4166498721	gianni $PERSON
+<COMPANY></COMPANY> institute	0.4166498721	$COMPANY institute
+ bill & <PERSON></PERSON>	0.4157086956	 bill & $PERSON
+assassination of gianni <PERSON></PERSON>	0.4157086956	assassination of gianni $PERSON
+<PERSON></PERSON> under <COMPANY></COMPANY>	0.4130146992	$PERSON under $COMPANY
+  <PERSON></PERSON>	0.4109254348	  $PERSON
+ the <COMPANY></COMPANY>	0.4109254348	 the $COMPANY
+ the <PERSON></PERSON>	0.4109254348	 the $PERSON
+student of <COMPANY></COMPANY>	0.4093258103	student of $COMPANY
+head coach <COMPANY></COMPANY>	0.4073258103	head coach $COMPANY
+<PERSON></PERSON> , who	0.3697337922	$PERSON , who
+ from the <COMPANY></COMPANY>	0.3663846856	 from the $COMPANY
+ from the <PERSON></PERSON>	0.3663846856	 from the $PERSON
+<PERSON></PERSON> , new	0.3641365213	$PERSON , new
+<PERSON></PERSON> - <COMPANY></COMPANY>	0.3641365213	$PERSON - $COMPANY
+<COMPANY></COMPANY> , american	0.3641365213	$COMPANY , american
+<PERSON></PERSON> founder <COMPANY></COMPANY>	0.3641365213	$PERSON founder $COMPANY
+general of <COMPANY></COMPANY>	0.3641365213	general of $COMPANY
+<PERSON></PERSON> ( <COMPANY></COMPANY>	0.3641365213	$PERSON ( $COMPANY
+<COMPANY></COMPANY> ( <PERSON></PERSON>	0.3641365213	$COMPANY ( $PERSON
+general <PERSON></PERSON> ,	0.3641365213	general $PERSON ,
+<PERSON></PERSON> from <COMPANY></COMPANY>	0.3641365213	$PERSON from $COMPANY
+<PERSON></PERSON> – <COMPANY></COMPANY>	0.3641365213	$PERSON – $COMPANY
+<COMPANY></COMPANY> chairman <PERSON></PERSON>	0.3641365213	$COMPANY chairman $PERSON
+director of <PERSON></PERSON>	0.3641365213	director of $PERSON
+head of <PERSON></PERSON>	0.3641365213	head of $PERSON
+<COMPANY></COMPANY> under <PERSON></PERSON>	0.3641365213	$COMPANY under $PERSON
+<PERSON></PERSON> , american	0.3641365213	$PERSON , american
+<COMPANY></COMPANY> ' <PERSON></PERSON>	0.3641365213	$COMPANY ' $PERSON
+<COMPANY></COMPANY> – <PERSON></PERSON>	0.3641365213	$COMPANY – $PERSON
+<PERSON></PERSON> chairman <COMPANY></COMPANY>	0.3641365213	$PERSON chairman $COMPANY
+<PERSON></PERSON> ' <COMPANY></COMPANY>	0.3641365213	$PERSON ' $COMPANY
+<PERSON></PERSON> executive <COMPANY></COMPANY>	0.3641365213	$PERSON executive $COMPANY
+– <PERSON></PERSON> ,	0.3641365213	– $PERSON ,
+<PERSON></PERSON> , one	0.3641365213	$PERSON , one
+<COMPANY></COMPANY> executive <PERSON></PERSON>	0.3641365213	$COMPANY executive $PERSON
+<PERSON></PERSON> , chief	0.3615587435	$PERSON , chief
+head of <COMPANY></COMPANY>	0.3615587435	head of $COMPANY
+<COMPANY></COMPANY> in new york	0.3607587435	$COMPANY in new york
+founders of <PERSON></PERSON>	0.3607587435	founders of $PERSON
+<COMPANY></COMPANY> and steve	0.3607587435	$COMPANY and steve
+studies at <COMPANY></COMPANY>	0.3607587435	studies at $COMPANY
+<PERSON></PERSON> anchor <COMPANY></COMPANY>	0.3607587435	$PERSON anchor $COMPANY
+sir <COMPANY></COMPANY> ,	0.3607587435	sir $COMPANY ,
+<PERSON></PERSON> ’s <COMPANY></COMPANY>	0.3607587435	$PERSON ’s $COMPANY
+ceo, <PERSON></PERSON> ,	0.3607587435	ceo, $PERSON ,
+letter to <COMPANY></COMPANY>	0.3607587435	letter to $COMPANY
+<PERSON></PERSON> and jack	0.3607587435	$PERSON and jack
+<COMPANY></COMPANY> ’s <PERSON></PERSON>	0.3607587435	$COMPANY ’s $PERSON
+history at <PERSON></PERSON>	0.3607587435	history at $PERSON
+<COMPANY></COMPANY> 's first	0.3607587435	$COMPANY 's first
+<COMPANY></COMPANY> , john	0.3607587435	$COMPANY , john
+<COMPANY></COMPANY> and jack	0.3607587435	$COMPANY and jack
+<PERSON></PERSON> and artist	0.3607587435	$PERSON and artist
+<PERSON></PERSON> in tulsa,	0.3607587435	$PERSON in tulsa,
+mexican president <PERSON></PERSON>	0.3607587435	mexican president $PERSON
+affairs at <COMPANY></COMPANY>	0.3607587435	affairs at $COMPANY
+letter to <PERSON></PERSON>	0.3607587435	letter to $PERSON
+studies at <PERSON></PERSON>	0.3607587435	studies at $PERSON
+government of <COMPANY></COMPANY>	0.3607587435	government of $COMPANY
+affairs at <PERSON></PERSON>	0.3607587435	affairs at $PERSON
+supervision of <COMPANY></COMPANY>	0.3607587435	supervision of $COMPANY
+son of <PERSON></PERSON>	0.3607587435	son of $PERSON
+<PERSON></PERSON> n president	0.3607587435	$PERSON n president
+founders of <COMPANY></COMPANY>	0.3607587435	founders of $COMPANY
+<COMPANY></COMPANY> and artist	0.3607587435	$COMPANY and artist
+<PERSON></PERSON> 's first	0.3607587435	$PERSON 's first
+executive officer of <PERSON></PERSON>	0.3607587435	executive officer of $PERSON
+son of <COMPANY></COMPANY>	0.3607587435	son of $COMPANY
+student of <PERSON></PERSON>	0.3607587435	student of $PERSON
+<COMPANY></COMPANY> , inc.	0.3607587435	$COMPANY , inc.
+history at <COMPANY></COMPANY>	0.3607587435	history at $COMPANY
+25th anniversary <PERSON></PERSON> gala (1996), deutsche grammophon dvd,	0.3597587435	25th anniversary $PERSON gala (1996), deutsche grammophon dvd,
+( <COMPANY></COMPANY> ),	0.3597587435	( $COMPANY ),
+25th anniversary <PERSON></PERSON> gala	0.3597587435	25th anniversary $PERSON gala
+25th anniversary <COMPANY></COMPANY> gala (1996), deutsche grammophon dvd,	0.3597587435	25th anniversary $COMPANY gala (1996), deutsche grammophon dvd,
+<COMPANY></COMPANY> 's 25th anniversary <PERSON></PERSON>	0.3597587435	$COMPANY 's 25th anniversary $PERSON
+<PERSON></PERSON> 's 25th anniversary <COMPANY></COMPANY>	0.3597587435	$PERSON 's 25th anniversary $COMPANY
+( <PERSON></PERSON> ),	0.3597587435	( $PERSON ),
+25th anniversary <COMPANY></COMPANY> gala	0.3597587435	25th anniversary $COMPANY gala
+bill & <PERSON></PERSON> foundation. 	0.3557656616	bill & $PERSON foundation. 
+<COMPANY></COMPANY> ceo	0.3384276499	$COMPANY ceo
+<COMPANY></COMPANY> governor	0.3127086956	$COMPANY governor
+<COMPANY></COMPANY> character of the same name	0.3043677059	$COMPANY character of the same name
+<PERSON></PERSON> character of the same name	0.3043677059	$PERSON character of the same name
+ – <PERSON></PERSON>	0.2865332177	 – $PERSON
+<PERSON></PERSON> president	0.2865332177	$PERSON president
+ <PERSON></PERSON> (born	0.2865332177	 $PERSON (born
+ <COMPANY></COMPANY> –	0.2865332177	 $COMPANY –
+ <PERSON></PERSON> –	0.2865332177	 $PERSON –
+ <COMPANY></COMPANY> (born	0.2848443288	 $COMPANY (born
+<COMPANY></COMPANY> executive	0.2848443288	$COMPANY executive
+<PERSON></PERSON> ),	0.2848443288	$PERSON ),
+ <PERSON></PERSON> 's 25th anniversary <COMPANY></COMPANY> gala (1996), deutsche	0.2848443288	 $PERSON 's 25th anniversary $COMPANY gala (1996), deutsche
+ <COMPANY></COMPANY> 's 25th anniversary <PERSON></PERSON> gala (1996), deutsche	0.2848443288	 $COMPANY 's 25th anniversary $PERSON gala (1996), deutsche
+<PERSON></PERSON> institute	0.2848443288	$PERSON institute
+<COMPANY></COMPANY> ),	0.2848443288	$COMPANY ),
+<COMPANY></COMPANY> n president	0.2687587435	$COMPANY n president
+<PERSON></PERSON> ) 	0.2521411996	$PERSON ) 
+<COMPANY></COMPANY> , one	0.2521411996	$COMPANY , one
+<PERSON></PERSON> foundation 	0.2487634218	$PERSON foundation 
+<PERSON></PERSON> foundation	0.2487634218	$PERSON foundation
+<PERSON></PERSON> alumni 	0.2487634218	$PERSON alumni 
+<COMPANY></COMPANY> ) 	0.2487634218	$COMPANY ) 
+<COMPANY></COMPANY> ). 	0.2487634218	$COMPANY ). 
+<PERSON></PERSON> ). 	0.2487634218	$PERSON ). 
+<PERSON></PERSON> –	0.2487634218	$PERSON –
+  – <PERSON></PERSON>	0.2025857667	  – $PERSON
+<PERSON></PERSON> as part	0.1734639732	$PERSON as part
+<COMPANY></COMPANY> , founder	0.1711411996	$COMPANY , founder

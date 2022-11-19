@@ -1,0 +1,36 @@
+(ENTITY,NAME,VALUE)
+$PERSON	1	governor	$PLACE_LIVED
+	EV1	[ ' [ X ] ' ]	[ ' [ Y ] ' ]
+	MP1	$PLACE_LIVED governor $PERSON
+	MP2	$PERSON , $PLACE_LIVED
+	MP3	$PERSON of $PLACE_LIVED
+	MP4	$PERSON in $PLACE_LIVED
+	MP5	$PLACE_LIVED $PERSON
+$PLACE_LIVED	1	city	$PLACE_LIVED
+	EV1	[ ' [ Y ] ' ]	[ ' [ Y ] ' ]
+	MP1	$PLACE_LIVED city , $PLACE_LIVED
+$PLACE_LIVED	2	governor	$PERSON
+	EV1	[ ' [ Y ] ' ]	[ ' [ X ] ' ]
+	MP1	$PLACE_LIVED governor $PERSON
+	MP2	$PERSON , $PLACE_LIVED
+	MP3	$PERSON of $PLACE_LIVED
+	MP4	$PERSON in $PLACE_LIVED
+	MP5	$PLACE_LIVED $PERSON
+
+(ENTITY,NAME,NULL)
+$PERSON	1	who	NULL
+	EV1	[ ' [ X ] ' ]	NULL
+	MP1	$PERSON , who
+	MP2	governor $PERSON
+	MP3	president $PERSON
+	MP4	senator $PERSON
+	MP5	– $PERSON
+$PLACE_LIVED	1	mayor	NULL
+	EV1	[ ' [ Y ] ' ]	NULL
+	MP1	$PLACE_LIVED state
+	MP2	$PLACE_LIVED city
+	MP3	mayor of $PLACE_LIVED
+	MP4	governor of $PLACE_LIVED
+	MP5	university of $PLACE_LIVED
+
+(ENTITY,NULL,VALUE)

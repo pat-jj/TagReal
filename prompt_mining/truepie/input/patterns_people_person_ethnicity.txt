@@ -1,0 +1,1490 @@
+$PERSON , $ETHNICITY	26676	4723	letoya_luckett	african_american	97
+$PERSON , $ETHNICITY	2253	23739	ratan_tata	parsi	97
+$PERSON , $ETHNICITY	38878	16999	howard_shore	jewish	97
+$PERSON , $ETHNICITY	10947	16999	leon_uris	jewish	97
+$PERSON , $ETHNICITY	1779	4469	richard_eyre	briton	97
+$PERSON , $ETHNICITY	23930	16999	david_goldstein	jewish	97
+$PERSON , $ETHNICITY	3117	29355	david_rockefeller	germans	97
+$PERSON , $ETHNICITY	37518	16999	robert_kagan	jewish	97
+$PERSON , $ETHNICITY	6754	33500	bob_yari	iranian-american	97
+$PERSON , $ETHNICITY	10442	4723	lashawn_merritt	african_american	97
+$PERSON , $ETHNICITY	18593	4723	curtis_mayfield	african_american	97
+$PERSON , $ETHNICITY	23452	4723	medgar_evers	african_american	97
+$PERSON , $ETHNICITY	36204	4723	miles_davis	african_american	97
+$PERSON , $ETHNICITY	7203	4723	emerson_boozer	african_american	97
+$PERSON , $ETHNICITY	14097	29355	dieter_zetsche	germans	97
+$PERSON , $ETHNICITY	27448	36816	artie_lange	italian	97
+$PERSON , $ETHNICITY	18488	4723	dr._dre	african_american	97
+$PERSON , $ETHNICITY	23312	4723	lani_guinier	african_american	97
+$PERSON , $ETHNICITY	24502	4723	jai_lewis	african_american	97
+$PERSON , $ETHNICITY	36559	4723	charles_barkley	african_american	97
+$PERSON , $ETHNICITY	6553	4723	bobo_brazil	african_american	97
+$PERSON , $ETHNICITY	13521	16999	phil_spector	jewish	97
+$PERSON , $ETHNICITY	9513	16999	vladimir_horowitz	jewish	97
+$PERSON , $ETHNICITY	17690	16999	oscar_straus	jewish	97
+$PERSON , $ETHNICITY	8303	4723	calvin_booth	african_american	97
+$PERSON , $ETHNICITY	16475	16999	joseph_roth	jewish	97
+$PERSON , $ETHNICITY	24336	4723	taquan_dean	african_american	97
+$PERSON , $ETHNICITY	6574	4723	beyoncé	african_american	97
+$PERSON , $ETHNICITY	2532	16999	bebe_neuwirth	jewish	97
+$PERSON , $ETHNICITY	33068	4723	tony_sanneh	african_american	97
+$PERSON , $ETHNICITY	10167	4723	chaka_khan	african_american	97
+$PERSON , $ETHNICITY	7104	4723	pearl_bailey	african_american	97
+$PERSON , $ETHNICITY	36240	4723	toni_braxton	african_american	97
+$PERSON , $ETHNICITY	27356	4723	shawn_crawford	african_american	97
+$PERSON , $ETHNICITY	7226	3010	jordin_tootoo	inuit	97
+$PERSON , $ETHNICITY	24101	16999	zoë_heller	jewish	97
+$PERSON , $ETHNICITY	41320	4723	george_c._wolfe	african_american	97
+$PERSON , $ETHNICITY	17862	39194	cecilia_muñoz	hispanic	97
+$PERSON , $ETHNICITY	261	4723	bubba_franks	african_american	97
+$PERSON , $ETHNICITY	15485	16999	teimour_radjabov	jewish	97
+$PERSON , $ETHNICITY	20360	16999	robert_frank	jewish	97
+$PERSON , $ETHNICITY	28619	4723	flip_wilson	african_american	97
+$PERSON , $ETHNICITY	521	16999	jeffrey_katzenberg	jewish	97
+$PERSON , $ETHNICITY	4694	4723	kanye_west	african_american	97
+$PERSON , $ETHNICITY	38022	4723	madison_hemings	african_american	97
+$PERSON , $ETHNICITY	38315	32009	nikki_reed	cherokee	97
+$PERSON , $ETHNICITY	1786	4723	gloria_naylor	african_american	97
+$PERSON , $ETHNICITY	22558	4723	donald_brashear	african_american	97
+$PERSON , $ETHNICITY	6679	16999	lou_reed	jewish	97
+$PERSON , $ETHNICITY	32147	4723	royce_clayton	african_american	97
+$PERSON , $ETHNICITY	7595	4723	grace_f._edwards	african_american	97
+$PERSON , $ETHNICITY	1361	4723	matee_ajavon	african_american	97
+$PERSON , $ETHNICITY	5455	36816	roberto_benigni	italian	97
+$PERSON , $ETHNICITY	19297	4723	jennifer_hudson	african_american	97
+$PERSON , $ETHNICITY	12316	4723	rondell_white	african_american	97
+$PERSON , $ETHNICITY	2678	4723	joe_mcknight	african_american	97
+$PERSON , $ETHNICITY	29169	22414	adewale_akinnuoye-agbaje	yoruba	97
+$PERSON , $ETHNICITY	159	4723	bill_russell	african_american	97
+$PERSON , $ETHNICITY	17287	4723	rodney_king	african_american	97
+$PERSON , $ETHNICITY	18258	16999	walter_benjamin	jewish	97
+$PERSON , $ETHNICITY	28188	16999	john_frankenheimer	jewish	97
+$PERSON , $ETHNICITY	11346	36816	umberto_lenzi	italian	97
+$PERSON , $ETHNICITY	33828	16999	oksana_baiul	jewish	97
+$PERSON , $ETHNICITY	38883	16999	bella_abzug	jewish	97
+$PERSON , $ETHNICITY	12936	4723	damarcus_beasley	african_american	97
+$PERSON , $ETHNICITY	8246	4723	jason_taylor	african_american	97
+$PERSON , $ETHNICITY	30939	16999	carl_levin	jewish	97
+$PERSON , $ETHNICITY	7573	16999	dorothy_parker	jewish	97
+$PERSON , $ETHNICITY	28995	16999	barbara_amiel	jewish	97
+$PERSON , $ETHNICITY	32367	16999	ben_hecht	jewish	97
+$PERSON , $ETHNICITY	29630	16999	abba_eban	jewish	97
+$PERSON , $ETHNICITY	13740	4723	prince	african_american	97
+$PERSON , $ETHNICITY	6835	4723	ray_allen	african_american	97
+$PERSON , $ETHNICITY	8388	16999	jan_schakowsky	jewish	97
+$PERSON , $ETHNICITY	1424	36816	luchino_visconti	italian	97
+$PERSON , $ETHNICITY	21347	4723	billy_strayhorn	african_american	97
+$PERSON , $ETHNICITY	14906	4723	rufus_harley	african_american	97
+$PERSON , $ETHNICITY	39561	16999	clive_davis	jewish	97
+$PERSON , $ETHNICITY	31697	4723	michael_pittman	african_american	97
+$PERSON , $ETHNICITY	35432	4723	richard_jefferson	african_american	97
+$PERSON , $ETHNICITY	20073	4723	harold_baines	african_american	97
+$PERSON , $ETHNICITY	494	4723	zach_randolph	african_american	97
+$PERSON , $ETHNICITY	22776	4469	john_powell	briton	97
+$PERSON , $ETHNICITY	29035	16999	stan_lee	jewish	97
+$PERSON , $ETHNICITY	34574	4723	dwayne_jones	african_american	97
+$PERSON , $ETHNICITY	10297	2221	nicolai_gedda	russian	97
+$PERSON , $ETHNICITY	9898	4723	muhsin_muhammad	african_american	97
+$PERSON , $ETHNICITY	36238	4723	tim_duncan	african_american	97
+$PERSON , $ETHNICITY	19494	36816	gioacchino_rossini	italian	97
+$PERSON , $ETHNICITY	35246	4723	michael_carrington	african_american	97
+$PERSON , $ETHNICITY	804	23295	thaksin_shinawatra	han_chinese	97
+$PERSON , $ETHNICITY	7976	29399	roberto_clemente	puerto_rican	97
+$PERSON , $ETHNICITY	30336	16999	emma_goldman	jewish	97
+$PERSON , $ETHNICITY	40236	32009	mandy_moore	cherokee	97
+$PERSON , $ETHNICITY	29976	16999	melissa_gilbert	jewish	97
+$PERSON , $ETHNICITY	677	4723	jesse_williams	african_american	97
+$PERSON , $ETHNICITY	29828	16999	eric_garcetti	jewish	97
+$PERSON , $ETHNICITY	20443	16999	winona_ryder	jewish	97
+$PERSON , $ETHNICITY	24702	36816	franco_frattini	italian	97
+$PERSON , $ETHNICITY	37037	4723	david_thornton	african_american	97
+$PERSON , $ETHNICITY	5638	17666	alberto_granado	cubans	97
+$PERSON , $ETHNICITY	34712	4723	joe_frazier	african_american	97
+$PERSON , $ETHNICITY	24370	4723	marcus_mcbeth	african_american	97
+$PERSON , $ETHNICITY	37447	16999	meir_kahane	jewish	97
+$PERSON , $ETHNICITY	10086	16999	jonathan_littell	jewish	97
+$PERSON , $ETHNICITY	31046	32009	quentin_tarantino	cherokee	97
+$PERSON , $ETHNICITY	20540	16999	lee_strasberg	jewish	97
+$PERSON , $ETHNICITY	8966	4723	michael_clarke_duncan	african_american	97
+$PERSON , $ETHNICITY	36369	4723	dave_chappelle	african_american	97
+$PERSON , $ETHNICITY	32466	16999	lisa_loeb	jewish	97
+$PERSON , $ETHNICITY	8321	4723	richard_parsons	african_american	97
+$PERSON , $ETHNICITY	21059	4723	mike_grier	african_american	97
+$PERSON , $ETHNICITY	19800	36816	vittorio_gassman	italian	97
+$PERSON , $ETHNICITY	33218	4723	tony_allen	african_american	97
+$PERSON , $ETHNICITY	7788	4723	charlie_batch	african_american	97
+$PERSON , $ETHNICITY	24945	16999	david_beckham	jewish	97
+$PERSON , $ETHNICITY	23213	4723	gerald_perry	african_american	97
+$PERSON , $ETHNICITY	41083	4723	cedric_benson	african_american	97
+$PERSON , $ETHNICITY	35758	4723	carl_crawford	african_american	97
+$PERSON , $ETHNICITY	5579	4723	kevin_parker	african_american	97
+$PERSON , $ETHNICITY	32811	4723	floyd_patterson	african_american	97
+$PERSON , $ETHNICITY	9381	4723	anthony_braxton	african_american	97
+$PERSON , $ETHNICITY	87	16999	john_zorn	jewish	97
+$PERSON , $ETHNICITY	36914	4723	james_baldwin	african_american	97
+$PERSON , $ETHNICITY	8689	4723	allen_toussaint	african_american	97
+$PERSON , $ETHNICITY	18827	16999	sergey_brin	jewish	97
+$PERSON , $ETHNICITY	21618	4723	clinton_portis	african_american	97
+$PERSON , $ETHNICITY	33468	16999	sarah	jewish	97
+$PERSON , $ETHNICITY	4931	4723	terrmel_sledge	african_american	97
+$PERSON , $ETHNICITY	28276	4723	lonnie_plaxico	african_american	97
+$PERSON , $ETHNICITY	16482	4723	danger_mouse	african_american	97
+$PERSON , $ETHNICITY	28057	16999	james_cramer	jewish	97
+$PERSON , $ETHNICITY	27207	16999	ari_emanuel	jewish	97
+$PERSON , $ETHNICITY	10944	4723	terell_stafford	african_american	97
+$PERSON , $ETHNICITY	28752	2221	sergei_rachmaninoff	russian	97
+$PERSON , $ETHNICITY	5408	4723	gilbert_arenas	african_american	97
+$PERSON , $ETHNICITY	31135	16999	ronald_lauder	jewish	97
+$PERSON , $ETHNICITY	33615	4723	leonard_hamm	african_american	97
+$PERSON , $ETHNICITY	24688	4723	tony_brown	african_american	97
+$PERSON , $ETHNICITY	34648	4723	johnny_davis	african_american	97
+$PERSON , $ETHNICITY	1520	34203	desmond_tutu	xhosa	97
+$PERSON , $ETHNICITY	6464	4723	james_brown	african_american	97
+$PERSON , $ETHNICITY	34733	4723	tootie_heath	african_american	97
+$PERSON , $ETHNICITY	15351	4723	michael_jackson	african_american	97
+$PERSON , $ETHNICITY	31952	16999	harold_ramis	jewish	97
+$PERSON , $ETHNICITY	40863	4469	khalid_abdalla	briton	97
+$PERSON , $ETHNICITY	30701	4723	gwendolyn_brooks	african_american	97
+$PERSON , $ETHNICITY	16624	4723	hank_aaron	african_american	97
+$PERSON , $ETHNICITY	39152	29355	thomas_mann	germans	97
+$PERSON , $ETHNICITY	2419	4723	justin_gatlin	african_american	97
+$PERSON , $ETHNICITY	16383	16999	william_shatner	jewish	97
+$PERSON , $ETHNICITY	25325	4723	victor_goines	african_american	97
+$PERSON , $ETHNICITY	29015	29355	tony_romo	germans	97
+$PERSON , $ETHNICITY	22019	16999	george_benjamin	jewish	97
+$PERSON , $ETHNICITY	15104	4723	allen_iverson	african_american	97
+$PERSON , $ETHNICITY	8839	4723	donnie_henderson	african_american	97
+$PERSON , $ETHNICITY	460	4723	tracy_k._smith	african_american	97
+$PERSON , $ETHNICITY	5810	16999	isaac_asimov	jewish	97
+$PERSON , $ETHNICITY	15036	16999	tori_spelling	jewish	97
+$PERSON , $ETHNICITY	9415	16999	richard_m._joel	jewish	97
+$PERSON , $ETHNICITY	7211	4723	trina	african_american	97
+$PERSON , $ETHNICITY	8812	16999	jonah_hill	jewish	97
+$PERSON , $ETHNICITY	2985	4723	marvin_gaye	african_american	97
+$PERSON , $ETHNICITY	30559	16999	barney_frank	jewish	97
+$PERSON , $ETHNICITY	31775	4723	greg_oden	african_american	97
+$PERSON , $ETHNICITY	25438	4723	frances_cress_welsing	african_american	97
+$PERSON , $ETHNICITY	25695	4723	vernon_robinson	african_american	97
+$PERSON , $ETHNICITY	4402	4723	stephanie_mills	african_american	97
+$PERSON , $ETHNICITY	7267	10874	maury_chaykin	canadian	97
+$PERSON , $ETHNICITY	36946	4723	kevin_magee	african_american	97
+$PERSON , $ETHNICITY	5515	35006	rachael_ray	cajun	97
+$PERSON , $ETHNICITY	13298	29355	chanel_st._james	germans	97
+$PERSON , $ETHNICITY	797	4723	romare_bearden	african_american	97
+$PERSON , $ETHNICITY	30060	4723	robert_l._johnson	african_american	97
+$PERSON , $ETHNICITY	19221	4723	alonzo_mourning	african_american	97
+$PERSON , $ETHNICITY	10939	16999	ludwig_wittgenstein	jewish	97
+$PERSON , $ETHNICITY	17619	4723	forest_whitaker	african_american	97
+$PERSON , $ETHNICITY	28499	4723	bootsy_collins	african_american	97
+$PERSON , $ETHNICITY	38305	16999	michael_showalter	jewish	97
+$PERSON , $ETHNICITY	32414	4723	suge_knight	african_american	97
+$PERSON , $ETHNICITY	11387	4723	shannon_briggs	african_american	97
+$PERSON , $ETHNICITY	35913	16999	job_cohen	jewish	97
+$PERSON , $ETHNICITY	20991	4723	antonio_cochran	african_american	97
+$PERSON , $ETHNICITY	10792	4723	rza	african_american	97
+$PERSON , $ETHNICITY	40461	16999	jane_harman	jewish	97
+$PERSON , $ETHNICITY	31386	4723	shaun_ellis	african_american	97
+$PERSON , $ETHNICITY	3954	4723	chad_morton	african_american	97
+$PERSON , $ETHNICITY	21423	4723	eric_holder	african_american	97
+$PERSON , $ETHNICITY	29024	4723	mathias_kiwanuka	african_american	97
+$PERSON , $ETHNICITY	36554	4723	deval_patrick	african_american	97
+$PERSON , $ETHNICITY	2653	4723	barrett_strong	african_american	97
+$PERSON , $ETHNICITY	27112	4723	tim_raines	african_american	97
+$PERSON , $ETHNICITY	22648	4723	whitney_houston	african_american	97
+$PERSON , $ETHNICITY	36348	4723	alfre_woodard	african_american	97
+$PERSON , $ETHNICITY	9232	16999	ron_klein	jewish	97
+$PERSON , $ETHNICITY	23186	16999	sonia_delaunay	jewish	97
+$PERSON , $ETHNICITY	12430	4723	chris_lofton	african_american	97
+$PERSON , $ETHNICITY	13573	4723	abbey_lincoln	african_american	97
+$PERSON , $ETHNICITY	24764	16999	jason_isaacs	jewish	97
+$PERSON , $ETHNICITY	26065	29355	max_weber	germans	97
+$PERSON , $ETHNICITY	38315	16999	nikki_reed	jewish	97
+$PERSON , $ETHNICITY	18361	4723	gail_devers	african_american	97
+$PERSON , $ETHNICITY	6498	4723	dj_assault	african_american	97
+$PERSON , $ETHNICITY	1879	4723	henry_butler	african_american	97
+$PERSON , $ETHNICITY	13126	16999	bernard_kouchner	jewish	97
+$PERSON , $ETHNICITY	8908	4723	laron_landry	african_american	97
+$PERSON , $ETHNICITY	22166	4723	bob_watson	african_american	97
+$PERSON , $ETHNICITY	32789	4723	ken_johnson	african_american	97
+$PERSON , $ETHNICITY	16008	4723	pokey_chatman	african_american	97
+$PERSON , $ETHNICITY	39855	29961	abraham_lincoln	american	97
+$PERSON , $ETHNICITY	17932	4723	andré_watts	african_american	97
+$PERSON , $ETHNICITY	13609	4723	kirk_franklin	african_american	97
+$PERSON , $ETHNICITY	14592	4723	damon_jones	african_american	97
+$PERSON , $ETHNICITY	35085	4723	jimmy_heath	african_american	97
+$PERSON , $ETHNICITY	32368	4723	quincy_carter	african_american	97
+$PERSON , $ETHNICITY	31429	4723	jamaal_tinsley	african_american	97
+$PERSON , $ETHNICITY	11591	4723	little_richard	african_american	97
+$PERSON , $ETHNICITY	26675	16999	lorenz_hart	jewish	97
+$PERSON , $ETHNICITY	36882	4723	corey_patterson	african_american	97
+$PERSON , $ETHNICITY	32017	29355	ernst_lubitsch	germans	97
+$PERSON , $ETHNICITY	22139	4723	julius_hodge	african_american	97
+$PERSON , $ETHNICITY	25308	4723	travis_henry	african_american	97
+$PERSON , $ETHNICITY	3289	4723	david_alan_grier	african_american	97
+$PERSON , $ETHNICITY	19586	4723	rickey_henderson	african_american	97
+$PERSON , $ETHNICITY	15273	16999	mack_gordon	jewish	97
+$PERSON , $ETHNICITY	33343	4723	edward_p._jones	african_american	97
+$PERSON , $ETHNICITY	20368	16999	claire_bloom	jewish	97
+$PERSON , $ETHNICITY	8289	4723	larry_wilmore	african_american	97
+$PERSON , $ETHNICITY	24757	4723	robert_johnson	african_american	97
+$PERSON , $ETHNICITY	8945	16999	evan_rachel_wood	jewish	97
+$PERSON , $ETHNICITY	15756	4723	norman_lewis	african_american	97
+$PERSON , $ETHNICITY	405	4723	david_neville	african_american	97
+$PERSON , $ETHNICITY	34566	4723	dhani_jones	african_american	97
+$PERSON , $ETHNICITY	24984	4723	kellita_smith	african_american	97
+$PERSON , $ETHNICITY	30943	16999	paul_reiser	jewish	97
+$PERSON , $ETHNICITY	11042	36816	rose_mcgowan	italian	97
+$PERSON , $ETHNICITY	28984	4723	connie_hawkins	african_american	97
+$PERSON , $ETHNICITY	36785	16999	harold_abrahams	jewish	97
+$PERSON , $ETHNICITY	29248	16999	eli_roth	jewish	97
+$PERSON , $ETHNICITY	14730	16999	louis_nye	jewish	97
+$PERSON , $ETHNICITY	28428	4723	joe_horn	african_american	97
+$PERSON , $ETHNICITY	24792	4723	joe_courtney	african_american	97
+$PERSON , $ETHNICITY	14161	16999	goapele	jewish	97
+$PERSON , $ETHNICITY	17109	4723	darryl_mcdaniels	african_american	97
+$PERSON , $ETHNICITY	27939	4723	juanita_jackson_mitchell	african_american	97
+$PERSON , $ETHNICITY	30909	16999	jonathan_prince	jewish	97
+$PERSON , $ETHNICITY	12248	4723	candace_parker	african_american	97
+$PERSON , $ETHNICITY	14803	4723	shonda_rhimes	african_american	97
+$PERSON , $ETHNICITY	23172	16999	yasmina_reza	jewish	97
+$PERSON , $ETHNICITY	34905	4723	joey_porter	african_american	97
+$PERSON , $ETHNICITY	4706	4723	monta_ellis	african_american	97
+$PERSON , $ETHNICITY	9800	4723	rose_mcclendon	african_american	97
+$PERSON , $ETHNICITY	15284	16999	carl_sagan	jewish	97
+$PERSON , $ETHNICITY	6091	4723	lee_smith	african_american	97
+$PERSON , $ETHNICITY	38021	4723	ruben_patterson	african_american	97
+$PERSON , $ETHNICITY	33201	16999	peter_falk	jewish	97
+$PERSON , $ETHNICITY	22928	35604	mario_vargas_llosa	peruvian	97
+$PERSON , $ETHNICITY	36657	4469	lee_mack	briton	97
+$PERSON , $ETHNICITY	19870	4723	lou_donaldson	african_american	97
+$PERSON , $ETHNICITY	35633	4723	nancy_green	african_american	97
+$PERSON , $ETHNICITY	10679	4723	stromile_swift	african_american	97
+$PERSON , $ETHNICITY	13626	4723	glenn_ligon	african_american	97
+$PERSON , $ETHNICITY	21864	4723	granville_adams	african_american	97
+$PERSON , $ETHNICITY	14139	36816	sophia_bush	italian	97
+$PERSON , $ETHNICITY	27575	4723	tommie_agee	african_american	97
+$PERSON , $ETHNICITY	37865	29355	kurt_weill	germans	97
+$PERSON , $ETHNICITY	38731	4723	pharoah_sanders	african_american	97
+$PERSON , $ETHNICITY	19950	4723	capone	african_american	97
+$PERSON , $ETHNICITY	9528	16999	jacob_talmon	jewish	97
+$PERSON , $ETHNICITY	40433	4723	tony_williams	african_american	97
+$PERSON , $ETHNICITY	25489	4723	toni_morrison	african_american	97
+$PERSON , $ETHNICITY	12317	16999	peggy_guggenheim	jewish	97
+$PERSON , $ETHNICITY	15861	16999	keri_russell	jewish	97
+$PERSON , $ETHNICITY	30981	4723	randy_foye	african_american	97
+$PERSON , $ETHNICITY	40109	16999	jesse_eisenberg	jewish	97
+$PERSON , $ETHNICITY	1910	16999	louis_moreau_gottschalk	jewish	97
+$PERSON , $ETHNICITY	17572	4723	mike_bibby	african_american	97
+$PERSON , $ETHNICITY	21604	16999	jessalyn_gilsig	jewish	97
+$PERSON , $ETHNICITY	9717	16999	diego_rivera	jewish	97
+$PERSON , $ETHNICITY	32793	35006	mary_gauthier	cajun	97
+$PERSON , $ETHNICITY	11511	16999	abe_attell	jewish	97
+$PERSON , $ETHNICITY	1969	11061	aristophanes	greeks	97
+$PERSON , $ETHNICITY	6928	4723	sheryl_underwood	african_american	97
+$PERSON , $ETHNICITY	31554	4723	bonzi_wells	african_american	97
+$PERSON , $ETHNICITY	39975	4723	lynn_swann	african_american	97
+$PERSON , $ETHNICITY	40880	24507	john_belushi	albanian-american	97
+$PERSON , $ETHNICITY	37503	16999	nathalia_ramos	jewish	97
+$PERSON , $ETHNICITY	5374	36816	raoul_bova	italian	97
+$PERSON , $ETHNICITY	21131	16999	anne_frank	jewish	97
+$PERSON , $ETHNICITY	41132	4723	laurence_fishburne	african_american	97
+$PERSON , $ETHNICITY	33963	4723	stephen_randolph	african_american	97
+$PERSON , $ETHNICITY	32432	16999	robert_reich	jewish	97
+$PERSON $ETHNICITY	5988	4723	lenny_kravitz	african_american	96
+$PERSON $ETHNICITY	19014	4723	ray_williams	african_american	96
+$PERSON $ETHNICITY	38206	36816	chiara_mastroianni	italian	96
+$PERSON $ETHNICITY	37370	4723	willie_stargell	african_american	96
+$PERSON $ETHNICITY	13399	16999	gary_bettman	jewish	96
+$PERSON $ETHNICITY	19659	16999	daniel_day-lewis	jewish	96
+$PERSON $ETHNICITY	12775	16999	alfred_a._knopf	jewish	96
+$PERSON $ETHNICITY	927	4723	jermaine_dye	african_american	96
+$PERSON $ETHNICITY	6679	16999	lou_reed	jewish	96
+$PERSON $ETHNICITY	460	4723	tracy_k._smith	african_american	96
+$PERSON $ETHNICITY	40373	16999	dore_gold	jewish	96
+$PERSON $ETHNICITY	31289	4723	tommy_amaker	african_american	96
+$PERSON $ETHNICITY	18506	4723	jason_maxiell	african_american	96
+$PERSON $ETHNICITY	4074	16999	susie_essman	jewish	96
+$PERSON $ETHNICITY	21014	16999	arthur_hays_sulzberger	jewish	96
+$PERSON $ETHNICITY	39897	4723	samuel_r._delany	african_american	96
+$PERSON $ETHNICITY	11522	4723	alvin_ailey	african_american	96
+$PERSON $ETHNICITY	20216	16999	jay_rabinowitz	jewish	96
+$PERSON $ETHNICITY	23067	4723	jacque_jones	african_american	96
+$PERSON $ETHNICITY	33979	29355	courteney_cox	germans	96
+$PERSON $ETHNICITY	11779	4723	kenneth_i._chenault	african_american	96
+$PERSON $ETHNICITY	21934	16999	elizabeth_holtzman	jewish	96
+$PERSON $ETHNICITY	4952	4723	amiri_baraka	african_american	96
+$PERSON $ETHNICITY	29129	4723	freddie_bynum	african_american	96
+$PERSON $ETHNICITY	23504	16999	edmund_husserl	jewish	96
+$PERSON $ETHNICITY	31872	4469	phil_collins	briton	96
+$PERSON $ETHNICITY	29169	22414	adewale_akinnuoye-agbaje	yoruba	96
+$PERSON $ETHNICITY	39964	11280	leonard_peltier	lakota	96
+$PERSON $ETHNICITY	13539	4723	terrence_long	african_american	96
+$PERSON $ETHNICITY	22087	16999	marty_glickman	jewish	96
+$PERSON $ETHNICITY	10091	4723	eddie_jordan	african_american	96
+$PERSON $ETHNICITY	788	4723	andrew_bynum	african_american	96
+$PERSON $ETHNICITY	7644	17666	raúl_castro	cubans	96
+$PERSON $ETHNICITY	28346	4469	erran_baron_cohen	briton	96
+$PERSON $ETHNICITY	38022	4723	madison_hemings	african_american	96
+$PERSON $ETHNICITY	33428	16999	kenneth_m._duberstein	jewish	96
+$PERSON $ETHNICITY	34400	4723	brandon_jacobs	african_american	96
+$PERSON $ETHNICITY	4090	4469	lee_tamahori	briton	96
+$PERSON $ETHNICITY	34610	16999	robert_rubin	jewish	96
+$PERSON $ETHNICITY	4618	4723	billy_hatcher	african_american	96
+$PERSON $ETHNICITY	24585	16999	teodoro_petkoff	jewish	96
+$PERSON $ETHNICITY	4182	16999	william_goldman	jewish	96
+$PERSON $ETHNICITY	16475	16999	joseph_roth	jewish	96
+$PERSON $ETHNICITY	17158	4723	fred_lane	african_american	96
+$PERSON $ETHNICITY	10329	36816	antonio_tabucchi	italian	96
+$PERSON $ETHNICITY	38	4723	norm_lewis	african_american	96
+$PERSON $ETHNICITY	7734	4723	malik_rose	african_american	96
+$PERSON $ETHNICITY	6966	10922	gavrilo_princip	serbs	96
+$PERSON $ETHNICITY	29732	16999	art_garfunkel	jewish	96
+$PERSON $ETHNICITY	10404	35006	lacey_chabert	cajun	96
+$PERSON $ETHNICITY	5891	4723	joe_louis	african_american	96
+$PERSON $ETHNICITY	9411	4723	chris_paul	african_american	96
+$PERSON $ETHNICITY	25715	16999	rudi	jewish	96
+$PERSON $ETHNICITY	1556	4469	dan_mazer	briton	96
+$PERSON $ETHNICITY	31113	16999	mike_leigh	jewish	96
+$PERSON $ETHNICITY	5551	4723	daniel_ewing	african_american	96
+$PERSON $ETHNICITY	28076	4723	ed_bullins	african_american	96
+$PERSON $ETHNICITY	36208	4723	justin_upton	african_american	96
+$PERSON $ETHNICITY	12018	16999	viktor_vekselberg	jewish	96
+$PERSON $ETHNICITY	15419	4723	roy_hibbert	african_american	96
+$PERSON $ETHNICITY	10523	4723	teddy_wilson	african_american	96
+$PERSON $ETHNICITY	37254	16999	frank_oz	jewish	96
+$PERSON $ETHNICITY	32593	4469	peter_webber	briton	96
+$PERSON $ETHNICITY	32378	4723	chris_tucker	african_american	96
+$PERSON $ETHNICITY	6782	16999	stanley_donen	jewish	96
+$PERSON $ETHNICITY	19588	16999	jason_segel	jewish	96
+$PERSON $ETHNICITY	36172	4723	chucky_atkins	african_american	96
+$PERSON $ETHNICITY	8246	4723	jason_taylor	african_american	96
+$PERSON $ETHNICITY	9652	4723	al_jarreau	african_american	96
+$PERSON $ETHNICITY	22398	16999	natan_sharansky	jewish	96
+$PERSON $ETHNICITY	10108	16999	rachelle_lefevre	jewish	96
+$PERSON $ETHNICITY	13781	4723	marion_jones	african_american	96
+$PERSON $ETHNICITY	17596	16999	martin_indyk	jewish	96
+$PERSON $ETHNICITY	32027	4723	bruce_bowen	african_american	96
+$PERSON $ETHNICITY	23519	4723	shemar_moore	african_american	96
+$PERSON $ETHNICITY	41172	4723	jackie_joyner-kersee	african_american	96
+$PERSON $ETHNICITY	36190	16999	charles_grodin	jewish	96
+$PERSON $ETHNICITY	39467	4723	hinton_battle	african_american	96
+$PERSON $ETHNICITY	18615	4723	jimi_hendrix	african_american	96
+$PERSON $ETHNICITY	23414	4723	earl_boykins	african_american	96
+$PERSON $ETHNICITY	23495	16999	miri_ben-ari	jewish	96
+$PERSON $ETHNICITY	5622	30979	henry_cisneros	tejano	96
+$PERSON $ETHNICITY	38454	4723	lorna_simpson	african_american	96
+$PERSON $ETHNICITY	18439	4723	alicia_keys	african_american	96
+$PERSON $ETHNICITY	24688	4723	tony_brown	african_american	96
+$PERSON $ETHNICITY	24441	5844	hanna_laslo	israelis	96
+$PERSON $ETHNICITY	4777	4723	wayne_simien	african_american	96
+$PERSON $ETHNICITY	36418	29355	rudolf_arnheim	germans	96
+$PERSON $ETHNICITY	4362	16999	stefan_wolpe	jewish	96
+$PERSON $ETHNICITY	23810	16999	mike_rosenthal	jewish	96
+$PERSON $ETHNICITY	14829	29355	claudia_schiffer	germans	96
+$PERSON $ETHNICITY	2711	16999	morgan_pressel	jewish	96
+$PERSON $ETHNICITY	10108	10874	rachelle_lefevre	canadian	96
+$PERSON $ETHNICITY	19850	16999	yossi_klein_halevi	jewish	96
+$PERSON $ETHNICITY	26100	16999	carl_reiner	jewish	96
+$PERSON $ETHNICITY	12818	4723	roy_campanella	african_american	96
+$PERSON $ETHNICITY	7788	4723	charlie_batch	african_american	96
+$PERSON $ETHNICITY	14808	4723	john_edgar_wideman	african_american	96
+$PERSON $ETHNICITY	33522	4723	santana_moss	african_american	96
+$PERSON $ETHNICITY	1080	4723	james_earl_jones	african_american	96
+$PERSON $ETHNICITY	14350	4723	jamal_mashburn	african_american	96
+$PERSON $ETHNICITY	5214	16999	charles_krauthammer	jewish	96
+$PERSON $ETHNICITY	15196	4723	halle_berry	african_american	96
+$PERSON $ETHNICITY	20786	4723	ben_davis	african_american	96
+$PERSON $ETHNICITY	26829	4469	cillian_murphy	briton	96
+$PERSON $ETHNICITY	41017	4723	kara_saun	african_american	96
+$PERSON $ETHNICITY	39703	4723	scott_sanders	african_american	96
+$PERSON $ETHNICITY	13609	4723	kirk_franklin	african_american	96
+$PERSON $ETHNICITY	30636	4723	kenny_williams	african_american	96
+$PERSON $ETHNICITY	30022	4723	barry_sanders	african_american	96
+$PERSON $ETHNICITY	8195	16999	judith_miller	jewish	96
+$PERSON $ETHNICITY	31952	16999	harold_ramis	jewish	96
+$PERSON $ETHNICITY	31183	2221	anton_chekhov	russian	96
+$PERSON $ETHNICITY	34755	4723	lucille_clifton	african_american	96
+$PERSON $ETHNICITY	6947	4723	gerald_wallace	african_american	96
+$PERSON $ETHNICITY	13643	15113	nurhaci	manchu	96
+$PERSON $ETHNICITY	13750	4723	bernie_mac	african_american	96
+$PERSON $ETHNICITY	22042	4723	marvin_powell	african_american	96
+$PERSON $ETHNICITY	847	4723	lauryn_williams	african_american	96
+$PERSON $ETHNICITY	35507	4723	john_wallace	african_american	96
+$PERSON $ETHNICITY	14161	16999	goapele	jewish	96
+$PERSON $ETHNICITY	7936	4723	d._l._hughley	african_american	96
+$PERSON $ETHNICITY	13980	29355	wilhelm_furtwängler	germans	96
+$PERSON $ETHNICITY	11153	4723	orlando_hudson	african_american	96
+$PERSON $ETHNICITY	34906	4723	george_clinton	african_american	96
+$PERSON $ETHNICITY	15753	16999	giles_coren	jewish	96
+$PERSON $ETHNICITY	4023	16999	gabrielle_giffords	jewish	96
+$PERSON $ETHNICITY	11771	29355	alfred_eisenstaedt	germans	96
+$PERSON $ETHNICITY	31415	16999	bennett_cerf	jewish	96
+$PERSON $ETHNICITY	4279	16999	david_cronenberg	jewish	96
+$PERSON $ETHNICITY	39561	16999	clive_davis	jewish	96
+$PERSON $ETHNICITY	32464	16999	kate_hudson	jewish	96
+$PERSON $ETHNICITY	30336	16999	emma_goldman	jewish	96
+$PERSON $ETHNICITY	26448	36816	laura_morante	italian	96
+$PERSON $ETHNICITY	10252	4723	jonathan_vilma	african_american	96
+$PERSON $ETHNICITY	27288	16999	howard_zinn	jewish	96
+$PERSON $ETHNICITY	28808	16999	kevin_youkilis	jewish	96
+$PERSON $ETHNICITY	15796	36816	antonio_gramsci	italian	96
+$PERSON $ETHNICITY	19297	4723	jennifer_hudson	african_american	96
+$PERSON $ETHNICITY	7470	4723	carlos_boozer	african_american	96
+$PERSON $ETHNICITY	10010	4723	billy_thomas	african_american	96
+$PERSON $ETHNICITY	11771	16999	alfred_eisenstaedt	jewish	96
+$PERSON $ETHNICITY	7001	16999	ted_koppel	jewish	96
+$PERSON $ETHNICITY	33195	4723	kerry_rhodes	african_american	96
+$PERSON $ETHNICITY	15172	16999	jennifer_connelly	jewish	96
+$PERSON $ETHNICITY	18310	4723	regina_king	african_american	96
+$PERSON $ETHNICITY	1096	16999	doc_pomus	jewish	96
+$PERSON $ETHNICITY	7999	4723	curtis_martin	african_american	96
+$PERSON $ETHNICITY	16519	4723	darius_mccrary	african_american	96
+$PERSON $ETHNICITY	28309	4723	kevin_ollie	african_american	96
+$PERSON $ETHNICITY	36946	4723	kevin_magee	african_american	96
+$PERSON $ETHNICITY	38558	4723	sylvia_fowles	african_american	96
+$PERSON $ETHNICITY	12605	16999	sharon_osbourne	jewish	96
+$PERSON $ETHNICITY	3991	4723	ruby_dee	african_american	96
+$PERSON $ETHNICITY	34552	4723	maurice_ashley	african_american	96
+$PERSON $ETHNICITY	41217	4723	mae_jemison	african_american	96
+$PERSON $ETHNICITY	26628	4723	shawn_kemp	african_american	96
+$PERSON $ETHNICITY	22276	4723	vinnie_johnson	african_american	96
+$PERSON $ETHNICITY	21202	16999	patricia_arquette	jewish	96
+$PERSON $ETHNICITY	36399	16999	george_s._kaufman	jewish	96
+$PERSON $ETHNICITY	10896	16999	sarah_bernhardt	jewish	96
+$PERSON $ETHNICITY	36401	16999	eydie_gorme	jewish	96
+$PERSON $ETHNICITY	261	4723	bubba_franks	african_american	96
+$PERSON $ETHNICITY	12882	4723	drew_gooden	african_american	96
+$PERSON $ETHNICITY	2827	16999	barbara_boxer	jewish	96
+$PERSON $ETHNICITY	24568	4723	larry_smith	african_american	96
+$PERSON $ETHNICITY	35157	4723	antoine_fuqua	african_american	96
+$PERSON $ETHNICITY	23345	4723	ornette_coleman	african_american	96
+$PERSON $ETHNICITY	30877	29355	stephanie_march	germans	96
+$PERSON $ETHNICITY	40919	4723	dick_gregory	african_american	96
+$PERSON $ETHNICITY	14906	4723	rufus_harley	african_american	96
+$PERSON $ETHNICITY	27537	16999	henry_winkler	jewish	96
+$PERSON $ETHNICITY	30647	16999	howard_schultz	jewish	96
+$PERSON $ETHNICITY	20690	4723	kevin_garnett	african_american	96
+$PERSON $ETHNICITY	40145	16999	j._d._salinger	jewish	96
+$PERSON $ETHNICITY	39124	16999	martin_frost	jewish	96
+$PERSON $ETHNICITY	6585	16999	john_houseman	jewish	96
+$PERSON $ETHNICITY	34408	4723	charlie_wilson	african_american	96
+$PERSON $ETHNICITY	27356	4723	shawn_crawford	african_american	96
+$PERSON $ETHNICITY	24672	4723	eartha_kitt	african_american	96
+$PERSON $ETHNICITY	12891	4723	richie_havens	african_american	96
+$PERSON $ETHNICITY	13587	16999	richard_pipes	jewish	96
+$PERSON $ETHNICITY	4867	4723	art_monk	african_american	96
+$PERSON $ETHNICITY	13740	4723	prince	african_american	96
+$PERSON $ETHNICITY	8388	16999	jan_schakowsky	jewish	96
+$PERSON $ETHNICITY	17852	4723	spike_lee	african_american	96
+$PERSON $ETHNICITY	21829	23295	fujio_cho	han_chinese	96
+$PERSON $ETHNICITY	22686	2221	helen_mirren	russian	96
+$PERSON $ETHNICITY	26760	4723	preston_wilson	african_american	96
+$PERSON $ETHNICITY	28057	16999	james_cramer	jewish	96
+$PERSON $ETHNICITY	1075	4723	chris_zorich	african_american	96
+$PERSON $ETHNICITY	5810	16999	isaac_asimov	jewish	96
+$PERSON $ETHNICITY	18464	4723	vida_blue	african_american	96
+$PERSON $ETHNICITY	34739	4723	louis_bullock	african_american	96
+$PERSON $ETHNICITY	11859	4723	gary_dourdan	african_american	96
+$PERSON $ETHNICITY	31669	4723	gary_sheffield	african_american	96
+$PERSON $ETHNICITY	16012	4723	michael_strahan	african_american	96
+$PERSON $ETHNICITY	39132	4723	bo_jackson	african_american	96
+$PERSON $ETHNICITY	38555	10874	shania_twain	canadian	96
+$PERSON $ETHNICITY	2137	16999	giorgio_bassani	jewish	96
+$PERSON $ETHNICITY	26954	12804	gloria_macapagal-arroyo	filipino	96
+$PERSON $ETHNICITY	17441	4723	billy_williams	african_american	96
+$PERSON $ETHNICITY	13426	16999	eugene_levy	jewish	96
+$PERSON $ETHNICITY	39171	4723	smush_parker	african_american	96
+$PERSON $ETHNICITY	38994	4723	maurice_evans	african_american	96
+$PERSON $ETHNICITY	35080	4723	dennis_rodman	african_american	96
+$PERSON $ETHNICITY	2751	4723	corey_maggette	african_american	96
+$PERSON $ETHNICITY	18348	16999	emmanuelle_béart	jewish	96
+$PERSON $ETHNICITY	11141	4723	karl_malone	african_american	96
+$PERSON $ETHNICITY	22739	4723	desi_relaford	african_american	96
+$PERSON $ETHNICITY	33214	16999	george_cukor	jewish	96
+$PERSON $ETHNICITY	22143	4723	carl_lewis	african_american	96
+$PERSON $ETHNICITY	40082	4723	jamaal_tatum	african_american	96
+$PERSON $ETHNICITY	11955	4723	cliff_floyd	african_american	96
+$PERSON $ETHNICITY	35758	4723	carl_crawford	african_american	96
+$PERSON $ETHNICITY	25268	16999	boaz_yakin	jewish	96
+$PERSON $ETHNICITY	14434	16999	hannah_arendt	jewish	96
+$PERSON $ETHNICITY	12028	29355	jane_engelhard	germans	96
+$PERSON $ETHNICITY	34784	16999	goldie_hawn	jewish	96
+$PERSON $ETHNICITY	10008	16999	michael_medved	jewish	96
+$PERSON $ETHNICITY	17839	4723	mumia_abu-jamal	african_american	96
+$PERSON $ETHNICITY	28882	4723	ken_hutcherson	african_american	96
+$PERSON $ETHNICITY	27457	4723	aretha_franklin	african_american	96
+$PERSON $ETHNICITY	15080	4723	warren_moon	african_american	96
+$PERSON $ETHNICITY	41031	4723	willie_green	african_american	96
+$PERSON $ETHNICITY	494	4723	zach_randolph	african_american	96
+$PERSON $ETHNICITY	5012	4723	michael_a._nutter	african_american	96
+$PERSON $ETHNICITY	7066	4723	reggie_williams	african_american	96
+$PERSON $ETHNICITY	35025	4723	charles_s._dutton	african_american	96
+$PERSON $ETHNICITY	17241	16999	helen_hunt	jewish	96
+$PERSON $ETHNICITY	28169	4723	jill_scott	african_american	96
+$PERSON $ETHNICITY	3272	16999	emmanuelle_chriqui	jewish	96
+$PERSON $ETHNICITY	28421	4723	lorenzo_charles	african_american	96
+$PERSON $ETHNICITY	300	16999	robert_iger	jewish	96
+$PERSON $ETHNICITY	36022	16999	jonathan_harris	jewish	96
+$PERSON $ETHNICITY	40833	16999	adam_greenberg	jewish	96
+$PERSON $ETHNICITY	34469	36816	marcello_mastroianni	italian	96
+$PERSON $ETHNICITY	40371	4723	bershawn_jackson	african_american	96
+$PERSON $ETHNICITY	3840	16999	benjamin_graham	jewish	96
+$PERSON $ETHNICITY	18163	16999	fred_zinnemann	jewish	96
+$PERSON $ETHNICITY	31455	4723	mark_matthews	african_american	96
+$PERSON $ETHNICITY	566	4723	rondell_sheridan	african_american	96
+$PERSON $ETHNICITY	399	16999	gilda_radner	jewish	96
+$PERSON $ETHNICITY	1598	36816	mario_bava	italian	96
+$PERSON $ETHNICITY	37355	4723	cedric_yarbrough	african_american	96
+$PERSON $ETHNICITY	3736	16999	tomás_hirsch	jewish	96
+$PERSON $ETHNICITY	14608	4723	dinah_washington	african_american	96
+$PERSON $ETHNICITY	17966	16999	rain_phoenix	jewish	96
+$PERSON $ETHNICITY	9006	5548	faik_konica	albanians	96
+$PERSON $ETHNICITY	15756	4723	norman_lewis	african_american	96
+$PERSON $ETHNICITY	30617	28645	eric_bogosian	armenians	96
+$PERSON $ETHNICITY	35203	4723	fred_lewis	african_american	96
+$PERSON $ETHNICITY	39389	2221	yuri_orlov	russian	96
+$PERSON $ETHNICITY	1934	10922	rod_blagojevich	serbs	96
+$PERSON $ETHNICITY	7879	4723	rosario_dawson	african_american	96
+$PERSON $ETHNICITY	2589	4723	tim_hardaway	african_american	96
+$PERSON $ETHNICITY	36299	16999	mae_west	jewish	96
+$PERSON $ETHNICITY	22310	16999	adam_stern	jewish	96
+$PERSON $ETHNICITY	11387	4723	shannon_briggs	african_american	96
+$PERSON $ETHNICITY	23811	4723	marvell_wynne	african_american	96
+$PERSON $ETHNICITY	21117	4723	shannon_johnson	african_american	96
+$PERSON $ETHNICITY	21632	16999	steve_israel	jewish	96
+$PERSON $ETHNICITY	12844	16999	madeleine_albright	jewish	96
+$PERSON $ETHNICITY	15028	4723	danny_ware	african_american	96
+$PERSON $ETHNICITY	12389	16999	sam_wanamaker	jewish	96
+$PERSON $ETHNICITY	38161	4723	kobe_bryant	african_american	96
+$PERSON $ETHNICITY	12706	29355	karl_marx	germans	96
+$PERSON $ETHNICITY	8037	16999	laraine_newman	jewish	96
+$PERSON $ETHNICITY	23213	4723	gerald_perry	african_american	96
+$PERSON $ETHNICITY	4109	16999	david_arquette	jewish	96
+$PERSON $ETHNICITY	22831	16999	selma_blair	jewish	96
+$PERSON $ETHNICITY	25692	4723	sun_ra	african_american	96
+$PERSON $ETHNICITY	20605	16999	paul_celan	jewish	96
+$PERSON $ETHNICITY	24945	16999	david_beckham	jewish	96
+$PERSON $ETHNICITY	8078	16999	lesley_stahl	jewish	96
+$PERSON $ETHNICITY	16280	4723	josh_smith	african_american	96
+$PERSON $ETHNICITY	22166	4723	bob_watson	african_american	96
+$PERSON $ETHNICITY	20745	4723	china_anne_mcclain	african_american	96
+$PERSON $ETHNICITY	7252	16999	georg_solti	jewish	96
+$PERSON $ETHNICITY	38696	4723	wesley_jonathan	african_american	96
+$PERSON $ETHNICITY	25489	4723	toni_morrison	african_american	96
+$PERSON $ETHNICITY	22912	4723	louis_armstrong	african_american	96
+$PERSON $ETHNICITY	17003	16999	william_finn	jewish	96
+$PERSON $ETHNICITY	429	4723	anthony_morrow	african_american	96
+$PERSON $ETHNICITY	7836	16999	paul_cohen	jewish	96
+$PERSON $ETHNICITY	32856	4723	chris_porter	african_american	96
+$PERSON $ETHNICITY	30181	16999	nick_berg	jewish	96
+$PERSON $ETHNICITY	10669	10874	rick_fox	canadian	96
+$PERSON $ETHNICITY	12930	4723	lupe_fiasco	african_american	96
+$PERSON $ETHNICITY	36238	4723	tim_duncan	african_american	96
+$ETHNICITY , $PERSON	19588	16999	jason_segel	jewish	92
+$ETHNICITY , $PERSON	33979	29355	courteney_cox	germans	92
+$ETHNICITY , $PERSON	10495	16999	bill_graham	jewish	92
+$ETHNICITY , $PERSON	3332	4723	al_jefferson	african_american	92
+$ETHNICITY , $PERSON	6758	4723	scott_hairston	african_american	92
+$ETHNICITY , $PERSON	166	4723	gregory_hines	african_american	92
+$ETHNICITY , $PERSON	19983	4723	etta_james	african_american	92
+$ETHNICITY , $PERSON	9040	16999	mary_gordon	jewish	92
+$ETHNICITY , $PERSON	26962	4723	michael_j._pagan	african_american	92
+$ETHNICITY , $PERSON	6455	4723	deangelo_williams	african_american	92
+$ETHNICITY , $PERSON	2523	16999	aline_macmahon	jewish	92
+$ETHNICITY , $PERSON	21604	16999	jessalyn_gilsig	jewish	92
+$ETHNICITY , $PERSON	18755	16999	sid_caesar	jewish	92
+$ETHNICITY , $PERSON	39206	4723	antawn_jamison	african_american	92
+$ETHNICITY , $PERSON	38730	16999	michael_a._ledeen	jewish	92
+$ETHNICITY , $PERSON	39603	4723	count_basie	african_american	92
+$ETHNICITY , $PERSON	32371	4723	brian_mcrae	african_american	92
+$ETHNICITY , $PERSON	12634	4723	nature	african_american	92
+$ETHNICITY , $PERSON	3352	4723	buck_o'neil	african_american	92
+$ETHNICITY , $PERSON	40993	4723	columbus_short	african_american	92
+$ETHNICITY , $PERSON	9136	4723	jada_pinkett_smith	african_american	92
+$ETHNICITY , $PERSON	1490	4723	david_banner	african_american	92
+$ETHNICITY , $PERSON	21949	4723	jamil_walker	african_american	92
+$ETHNICITY , $PERSON	12963	4723	eddie_jones	african_american	92
+$ETHNICITY , $PERSON	40727	5844	amos_oz	israelis	92
+$ETHNICITY , $PERSON	993	29355	albrecht_dürer	germans	92
+$ETHNICITY , $PERSON	10464	16999	ruth_prawer_jhabvala	jewish	92
+$ETHNICITY , $PERSON	32553	16999	emanuel_ax	jewish	92
+$ETHNICITY , $PERSON	19328	4723	udonis_haslem	african_american	92
+$ETHNICITY , $PERSON	6655	16999	william_s._paley	jewish	92
+$ETHNICITY , $PERSON	18346	16999	boris_kodjoe	jewish	92
+$ETHNICITY , $PERSON	16048	16999	yevgeny_khaldei	jewish	92
+$ETHNICITY , $PERSON	17709	4723	chris_douglas-roberts	african_american	92
+$ETHNICITY , $PERSON	30391	29355	nicolaus_copernicus	germans	92
+$ETHNICITY , $PERSON	26257	16999	lauren_weisberger	jewish	92
+$ETHNICITY , $PERSON	23596	16999	maurice_sendak	jewish	92
+$ETHNICITY , $PERSON	3997	23295	zhou_yan	han_chinese	92
+$ETHNICITY , $PERSON	38962	16999	marlee_matlin	jewish	92
+$ETHNICITY , $PERSON	40504	16999	marcel_breuer	jewish	92
+$ETHNICITY , $PERSON	30485	10874	david_frazee	canadian	92
+$ETHNICITY , $PERSON	10297	2221	nicolai_gedda	russian	92
+$ETHNICITY , $PERSON	4674	4723	tory_woodbury	african_american	92
+$ETHNICITY , $PERSON	36395	39194	ken_salazar	hispanic	92
+$ETHNICITY , $PERSON	21938	10874	christopher_plummer	canadian	92
+$ETHNICITY , $PERSON	864	4723	chris_brown	african_american	92
+$ETHNICITY , $PERSON	4616	16999	laura_miller	jewish	92
+$ETHNICITY , $PERSON	14493	16999	sarah_silverman	jewish	92
+$ETHNICITY , $PERSON	25128	4723	larry_wright	african_american	92
+$ETHNICITY , $PERSON	14744	4723	ike_diogu	african_american	92
+$ETHNICITY , $PERSON	12091	4723	adrian_dantley	african_american	92
+$ETHNICITY , $PERSON	19297	4723	jennifer_hudson	african_american	92
+$ETHNICITY , $PERSON	10985	16999	bruno_kreisky	jewish	92
+$ETHNICITY , $PERSON	4195	5844	ezer_weizman	israelis	92
+$ETHNICITY , $PERSON	13580	4723	jerome_james	african_american	92
+$ETHNICITY , $PERSON	37519	16999	leonore_annenberg	jewish	92
+$ETHNICITY , $PERSON	32864	4723	bryan_cox	african_american	92
+$ETHNICITY , $PERSON	37524	16999	franz_schreker	jewish	92
+$ETHNICITY , $PERSON	12262	4723	robin_roberts	african_american	92
+$ETHNICITY , $PERSON	26670	4723	neil_degrasse_tyson	african_american	92
+$ETHNICITY , $PERSON	31042	16999	terry_semel	jewish	92
+$ETHNICITY , $PERSON	12512	4723	diahann_carroll	african_american	92
+$ETHNICITY , $PERSON	7075	4469	tilda_swinton	briton	92
+$ETHNICITY , $PERSON	16387	7206	yoko_ono	japanese	92
+$ETHNICITY , $PERSON	24516	16999	sasha_cohen	jewish	92
+$ETHNICITY , $PERSON	8457	4723	michael_cooper	african_american	92
+$ETHNICITY , $PERSON	34525	10874	christian_campbell	canadian	92
+$ETHNICITY , $PERSON	8252	4723	mary_mcleod_bethune	african_american	92
+$ETHNICITY , $PERSON	29744	4723	jayson_blair	african_american	92
+$ETHNICITY , $PERSON	32416	4723	jason_collins	african_american	92
+$ETHNICITY , $PERSON	18727	39818	gamal_abdel_nasser	egyptians	92
+$ETHNICITY , $PERSON	34777	4723	dave_parker	african_american	92
+$ETHNICITY , $PERSON	23654	4723	mike_james	african_american	92
+$ETHNICITY , $PERSON	34443	16999	elliott_gould	jewish	92
+$ETHNICITY , $PERSON	7375	28645	david_nalbandian	armenians	92
+$ETHNICITY , $PERSON	22430	4723	bobby_meacham	african_american	92
+$ETHNICITY , $PERSON	38190	4723	delonte_west	african_american	92
+$ETHNICITY , $PERSON	34087	4723	bryant_gumbel	african_american	92
+$ETHNICITY , $PERSON	6101	4723	mo_vaughn	african_american	92
+$ETHNICITY , $PERSON	1938	4723	hakeem_olajuwon	african_american	92
+$ETHNICITY , $PERSON	24895	4723	kimora_lee_simmons	african_american	92
+$ETHNICITY , $PERSON	16134	16999	liane_balaban	jewish	92
+$ETHNICITY , $PERSON	38800	4723	jim_rice	african_american	92
+$ETHNICITY , $PERSON	39982	16999	nat_hentoff	jewish	92
+$ETHNICITY , $PERSON	9929	16999	ron_wyden	jewish	92
+$ETHNICITY , $PERSON	19976	16999	simon_sebag_montefiore	jewish	92
+$ETHNICITY , $PERSON	40515	4723	vivica_a._fox	african_american	92
+$ETHNICITY , $PERSON	15036	16999	tori_spelling	jewish	92
+$ETHNICITY , $PERSON	13033	4723	charlie_sifford	african_american	92
+$ETHNICITY , $PERSON	28925	4723	desmond_mason	african_american	92
+$ETHNICITY , $PERSON	8812	16999	jonah_hill	jewish	92
+$ETHNICITY , $PERSON	27840	16999	joseph_heller	jewish	92
+$ETHNICITY , $PERSON	37502	23629	sitting_bull	sioux	92
+$ETHNICITY , $PERSON	21472	4723	macy_gray	african_american	92
+$ETHNICITY , $PERSON	2119	4723	antoine_walker	african_american	92
+$ETHNICITY , $PERSON	10928	4723	lamar_butler	african_american	92
+$ETHNICITY , $PERSON	16427	4723	cyrus_chestnut	african_american	92
+$ETHNICITY , $PERSON	40607	4723	coretta_scott_king	african_american	92
+$ETHNICITY , $PERSON	31113	16999	mike_leigh	jewish	92
+$ETHNICITY , $PERSON	40678	4723	art_shell	african_american	92
+$ETHNICITY , $PERSON	41047	36816	sophia_loren	italian	92
+$ETHNICITY , $PERSON	6400	4723	dmx	african_american	92
+$ETHNICITY , $PERSON	24801	16999	binnie_barnes	jewish	92
+$ETHNICITY , $PERSON	38701	16999	rick_moranis	jewish	92
+$ETHNICITY , $PERSON	32222	16999	neil_diamond	jewish	92
+$ETHNICITY , $PERSON	31254	16999	melissa_hayden	jewish	92
+$ETHNICITY , $PERSON	25439	4723	anthony_mackie	african_american	92
+$ETHNICITY , $PERSON	23312	16999	lani_guinier	jewish	92
+$ETHNICITY , $PERSON	8290	16999	bertram_fields	jewish	92
+$ETHNICITY , $PERSON	21080	4723	barry_cofield	african_american	92
+$ETHNICITY , $PERSON	41180	10791	charlize_theron	afrikaner	92
+$ETHNICITY , $PERSON	37865	16999	kurt_weill	jewish	92
+$ETHNICITY , $PERSON	13362	4723	stephon_marbury	african_american	92
+$ETHNICITY , $PERSON	28606	4723	james_meredith	african_american	92
+$ETHNICITY , $PERSON	27265	16999	david_o._selznick	jewish	92
+$ETHNICITY , $PERSON	28984	4723	connie_hawkins	african_american	92
+$ETHNICITY , $PERSON	25649	4723	maurice_lucas	african_american	92
+$ETHNICITY , $PERSON	39964	11280	leonard_peltier	lakota	92
+$ETHNICITY , $PERSON	20786	4723	ben_davis	african_american	92
+$ETHNICITY , $PERSON	41054	4723	patrick_patterson	african_american	92
+$ETHNICITY , $PERSON	7179	4723	jermaine_dupri	african_american	92
+$ETHNICITY , $PERSON	15886	4723	william_thompson	african_american	92
+$ETHNICITY , $PERSON	14862	4723	arlen_escarpeta	african_american	92
+$ETHNICITY , $PERSON	20245	4723	monty_williams	african_american	92
+$ETHNICITY , $PERSON	23651	4723	al_jackson	african_american	92
+$ETHNICITY , $PERSON	18555	4469	cameron_mackintosh	briton	92
+$ETHNICITY , $PERSON	34620	4723	shaun_livingston	african_american	92
+$ETHNICITY , $PERSON	27727	4723	curtis_pride	african_american	92
+$ETHNICITY , $PERSON	13131	4723	chris_rock	african_american	92
+$ETHNICITY , $PERSON	5601	4723	dizzy_gillespie	african_american	92
+$ETHNICITY , $PERSON	19800	36816	vittorio_gassman	italian	92
+$ETHNICITY , $PERSON	27965	4723	faith_evans	african_american	92
+$ETHNICITY , $PERSON	13489	4723	charles_jones	african_american	92
+$ETHNICITY , $PERSON	9615	4469	florence_hoath	briton	92
+$ETHNICITY , $PERSON	25412	4723	lamar_odom	african_american	92
+$ETHNICITY , $PERSON	27575	4723	tommie_agee	african_american	92
+$ETHNICITY , $PERSON	25084	4723	mario_manningham	african_american	92
+$ETHNICITY , $PERSON	39736	4723	garret_anderson	african_american	92
+$ETHNICITY , $PERSON	34587	4723	chester_taylor	african_american	92
+$ETHNICITY , $PERSON	36333	16999	mortimer_zuckerman	jewish	92
+$ETHNICITY , $PERSON	3359	16999	tony_curtis	jewish	92
+$ETHNICITY , $PERSON	38496	4469	angela_lansbury	briton	92
+$ETHNICITY , $PERSON	11720	4723	oguchi_onyewu	african_american	92
+$ETHNICITY , $PERSON	31983	4723	oliver_lewis	african_american	92
+$ETHNICITY , $PERSON	10599	4723	kevin_young	african_american	92
+$ETHNICITY , $PERSON	29963	32009	joy_harjo	cherokee	92
+$ETHNICITY , $PERSON	11788	4723	skillz	african_american	92
+$ETHNICITY , $PERSON	3196	4723	richard_seymour	african_american	92
+$ETHNICITY , $PERSON	852	4723	tony_cox	african_american	92
+$ETHNICITY , $PERSON	13120	16999	hugo_meisl	jewish	92
+$ETHNICITY , $PERSON	37229	4723	eric_davis	african_american	92
+$ETHNICITY , $PERSON	16236	16999	david_stern	jewish	92
+$ETHNICITY , $PERSON	9747	4723	danny_boy	african_american	92
+$ETHNICITY , $PERSON	12527	16999	oliver_sacks	jewish	92
+$ETHNICITY , $PERSON	7886	4723	damon_dash	african_american	92
+$ETHNICITY , $PERSON	1604	4723	doug_e._fresh	african_american	92
+$ETHNICITY , $PERSON	36681	10874	paulo_costanzo	canadian	92
+$ETHNICITY , $PERSON	25627	4723	franco_harris	african_american	92
+$ETHNICITY , $PERSON	7657	29355	moses_mendelssohn	germans	92
+$ETHNICITY , $PERSON	19973	16999	aaron_spelling	jewish	92
+$ETHNICITY , $PERSON	18197	16999	mitch_miller	jewish	92
+$ETHNICITY , $PERSON	11875	16999	stephen_frears	jewish	92
+$ETHNICITY , $PERSON	10638	29355	oswald_grübel	germans	92
+$ETHNICITY , $PERSON	37503	16999	nathalia_ramos	jewish	92
+$ETHNICITY , $PERSON	23134	29355	paul_warburg	germans	92
+$ETHNICITY , $PERSON	30909	16999	jonathan_prince	jewish	92
+$ETHNICITY , $PERSON	8966	4723	michael_clarke_duncan	african_american	92
+$ETHNICITY , $PERSON	16837	4723	barbara_lee	african_american	92
+$ETHNICITY , $PERSON	1150	16999	gwyneth_paltrow	jewish	92
+$ETHNICITY , $PERSON	38878	10874	howard_shore	canadian	92
+$ETHNICITY , $PERSON	38341	2221	aleksandr_pushkin	russian	92
+$ETHNICITY , $PERSON	17596	16999	martin_indyk	jewish	92
+$ETHNICITY , $PERSON	15694	4723	maya_angelou	african_american	92
+$ETHNICITY , $PERSON	2603	10874	ron_lea	canadian	92
+$ETHNICITY , $PERSON	5634	4723	justin_guarini	african_american	92
+$ETHNICITY , $PERSON	36457	4469	kenneth_branagh	briton	92
+$ETHNICITY , $PERSON	33334	4469	alan_rickman	briton	92
+$ETHNICITY , $PERSON	36172	4723	chucky_atkins	african_american	92
+$ETHNICITY , $PERSON	26876	4723	howard_eisley	african_american	92
+$ETHNICITY , $PERSON	8486	16999	saul_bellow	jewish	92
+$ETHNICITY , $PERSON	41084	16999	paul_richards	jewish	92
+$ETHNICITY , $PERSON	23567	4469	julie_christie	briton	92
+$ETHNICITY , $PERSON	13935	16999	bruce_wasserstein	jewish	92
+$ETHNICITY , $PERSON	1047	10874	greg_bryk	canadian	92
+$ETHNICITY , $PERSON	38878	16999	howard_shore	jewish	92
+$ETHNICITY , $PERSON	32856	4723	chris_porter	african_american	92
+$ETHNICITY , $PERSON	37996	4723	tom_gordon	african_american	92
+$ETHNICITY , $PERSON	41286	16999	marc_chagall	jewish	92
+$ETHNICITY , $PERSON	8454	4723	sinbad	african_american	92
+$ETHNICITY , $PERSON	10442	4723	lashawn_merritt	african_american	92
+$ETHNICITY , $PERSON	5563	29355	franz_boas	germans	92
+$ETHNICITY , $PERSON	6074	23295	hu_jintao	han_chinese	92
+$ETHNICITY , $PERSON	19563	2221	sergei_prokofiev	russian	92
+$ETHNICITY , $PERSON	28346	4469	erran_baron_cohen	briton	92
+$ETHNICITY , $PERSON	14906	4723	rufus_harley	african_american	92
+$ETHNICITY , $PERSON	6069	5844	menachem_begin	israelis	92
+$ETHNICITY , $PERSON	24091	4723	james_posey	african_american	92
+$ETHNICITY , $PERSON	24941	16999	scarlett_johansson	jewish	92
+$ETHNICITY , $PERSON	34308	16999	ronald_radosh	jewish	92
+$ETHNICITY , $PERSON	40949	4723	f._gary_gray	african_american	92
+$ETHNICITY , $PERSON	21117	4723	shannon_johnson	african_american	92
+$ETHNICITY , $PERSON	10108	10874	rachelle_lefevre	canadian	92
+$ETHNICITY , $PERSON	35166	4723	shirley_franklin	african_american	92
+$ETHNICITY , $PERSON	11122	16999	benny_feilhaber	jewish	92
+$ETHNICITY , $PERSON	83	16999	philip_glass	jewish	92
+$ETHNICITY , $PERSON	5912	29355	thomas_kretschmann	germans	92
+$ETHNICITY , $PERSON	10679	4723	stromile_swift	african_american	92
+$ETHNICITY , $PERSON	21059	4723	mike_grier	african_american	92
+$ETHNICITY , $PERSON	12163	16999	paul_kaye	jewish	92
+$ETHNICITY , $PERSON	1405	5844	aharon_appelfeld	israelis	92
+$ETHNICITY , $PERSON	23396	4723	michael_spinks	african_american	92
+$ETHNICITY , $PERSON	38618	23295	tan_dun	han_chinese	92
+$ETHNICITY , $PERSON	36646	4723	johnnie_morton	african_american	92
+$ETHNICITY , $PERSON	33373	16999	tony_judt	jewish	92
+$ETHNICITY , $PERSON	22276	4723	vinnie_johnson	african_american	92
+$ETHNICITY , $PERSON	6251	7206	akira_kurosawa	japanese	92
+$ETHNICITY , $PERSON	26804	4723	brenda_jackson	african_american	92
+$ETHNICITY , $PERSON	32464	16999	kate_hudson	jewish	92
+$ETHNICITY , $PERSON	10723	4723	adewale_ogunleye	african_american	92
+$ETHNICITY , $PERSON	31862	4723	rockmond_dunbar	african_american	92
+$ETHNICITY , $PERSON	41078	4723	roosevelt_sykes	african_american	92
+$ETHNICITY , $PERSON	41269	16999	hans_bethe	jewish	92
+$ETHNICITY , $PERSON	33364	4723	zora_neale_hurston	african_american	92
+$ETHNICITY , $PERSON	35517	16999	howie_mandel	jewish	92
+$ETHNICITY , $PERSON	8037	16999	laraine_newman	jewish	92
+$ETHNICITY , $PERSON	28057	16999	james_cramer	jewish	92
+$ETHNICITY , $PERSON	24635	4723	gloria_gaynor	african_american	92
+$ETHNICITY , $PERSON	21681	16999	ron_silver	jewish	92
+$ETHNICITY , $PERSON	16462	16999	erich_von_stroheim	jewish	92
+$ETHNICITY , $PERSON	1190	29355	jessica_biel	germans	92
+$ETHNICITY , $PERSON	32719	4723	kimberly_elise	african_american	92
+$ETHNICITY , $PERSON	7104	4723	pearl_bailey	african_american	92
+$ETHNICITY , $PERSON	31912	16999	joe_rosenthal	jewish	92
+$ETHNICITY , $PERSON	16325	4723	ozzie_smith	african_american	92
+$ETHNICITY , $PERSON	28892	16999	mathieu_amalric	jewish	92
+$ETHNICITY , $PERSON	39338	4723	will_demps	african_american	92
+$ETHNICITY , $PERSON	31236	16999	david_a._harris	jewish	92
+$ETHNICITY , $PERSON	12028	29355	jane_engelhard	germans	92
+$ETHNICITY , $PERSON	29582	5844	ehud_olmert	israelis	92
+$ETHNICITY , $PERSON	40433	4723	tony_williams	african_american	92
+$ETHNICITY , $PERSON	26954	12804	gloria_macapagal-arroyo	filipino	92
+$ETHNICITY , $PERSON	10226	16999	arthur_hertzberg	jewish	92
+$ETHNICITY , $PERSON	29546	4723	andre_caldwell	african_american	92
+$ETHNICITY , $PERSON	29460	4723	elvin_jones	african_american	92
+$ETHNICITY , $PERSON	38466	16999	robert_moses	jewish	92
+$ETHNICITY , $PERSON	18168	4723	louis_farrakhan	african_american	92
+$ETHNICITY , $PERSON	34892	16999	garry_kasparov	jewish	92
+$ETHNICITY , $PERSON	458	4723	sidney_poitier	african_american	92
+$ETHNICITY , $PERSON	12270	4723	donnie_abraham	african_american	92
+$ETHNICITY , $PERSON	19194	16999	yitzhak_rabin	jewish	92
+$ETHNICITY , $PERSON	16785	16999	paul_rudd	jewish	92
+$ETHNICITY , $PERSON	38857	4723	jawad_williams	african_american	92
+$ETHNICITY , $PERSON	26809	10874	don_mckellar	canadian	92
+$ETHNICITY , $PERSON	36204	4723	miles_davis	african_american	92
+$ETHNICITY , $PERSON	21680	4723	coleman_hawkins	african_american	92
+$ETHNICITY , $PERSON	27484	16999	el_lissitzky	jewish	92
+$ETHNICITY , $PERSON	24881	4723	rod_paige	african_american	92
+$ETHNICITY , $PERSON	20063	29355	nick_nolte	germans	92
+$ETHNICITY , $PERSON	27952	4723	akon	african_american	92
+$ETHNICITY , $PERSON	12877	16999	alfred_döblin	jewish	92
+$ETHNICITY , $PERSON	17385	16999	ellen_willis	jewish	92
+$ETHNICITY , $PERSON	4867	4723	art_monk	african_american	92
+$ETHNICITY , $PERSON	39251	4723	arthur_lee	african_american	92
+$ETHNICITY , $PERSON	18412	36816	gina_lollobrigida	italian	92
+$ETHNICITY , $PERSON	20699	16999	györgy_ligeti	jewish	92
+$ETHNICITY , $PERSON	28867	16999	idina_menzel	jewish	92
+$ETHNICITY , $PERSON	19813	16999	michael_lerner	jewish	92
+$ETHNICITY , $PERSON	26628	4723	shawn_kemp	african_american	92
+$ETHNICITY , $PERSON	24101	16999	zoë_heller	jewish	92
+$ETHNICITY , $PERSON	23020	4723	michael_redd	african_american	92
+$ETHNICITY , $PERSON	12248	4723	candace_parker	african_american	92
+$ETHNICITY , $PERSON	28315	4723	doc_rivers	african_american	92
+$ETHNICITY , $PERSON	35266	4723	shanica_knowles	african_american	92
+$ETHNICITY , $PERSON	9415	16999	richard_m._joel	jewish	92
+$ETHNICITY , $PERSON	3228	4723	cuttino_mobley	african_american	92
+$ETHNICITY , $PERSON	5859	4469	paxton_whitehead	briton	92
+$ETHNICITY , $PERSON	4371	16999	anthony_shaffer	jewish	92
+$ETHNICITY , $PERSON	38243	16999	emma_lazarus	jewish	92
+$ETHNICITY $PERSON ,	20298	4723	tony_womack	african_american	92
+$ETHNICITY $PERSON ,	33430	16999	jann_wenner	jewish	92
+$ETHNICITY $PERSON ,	8308	4723	mark_aguirre	african_american	92
+$ETHNICITY $PERSON ,	20259	4723	john_coltrane	african_american	92
+$ETHNICITY $PERSON ,	11820	4723	stanley_clarke	african_american	92
+$ETHNICITY $PERSON ,	31289	4723	tommy_amaker	african_american	92
+$ETHNICITY $PERSON ,	31085	4723	hale_woodruff	african_american	92
+$ETHNICITY $PERSON ,	24863	4723	corliss_williamson	african_american	92
+$ETHNICITY $PERSON ,	39933	16999	michael_schwerner	jewish	92
+$ETHNICITY $PERSON ,	35492	4723	stephanie_tubbs_jones	african_american	92
+$ETHNICITY $PERSON ,	27456	4723	clark_johnson	african_american	92
+$ETHNICITY $PERSON ,	10464	16999	ruth_prawer_jhabvala	jewish	92
+$ETHNICITY $PERSON ,	24895	4723	kimora_lee_simmons	african_american	92
+$ETHNICITY $PERSON ,	16729	4723	elizabeth_catlett	african_american	92
+$ETHNICITY $PERSON ,	28769	16999	nadezhda_mandelstam	jewish	92
+$ETHNICITY $PERSON ,	3228	4723	cuttino_mobley	african_american	92
+$ETHNICITY $PERSON ,	35507	4723	john_wallace	african_american	92
+$ETHNICITY $PERSON ,	31033	4723	bill_nunn	african_american	92
+$ETHNICITY $PERSON ,	458	4723	sidney_poitier	african_american	92
+$ETHNICITY $PERSON ,	38315	36816	nikki_reed	italian	92
+$ETHNICITY $PERSON ,	4090	4469	lee_tamahori	briton	92
+$ETHNICITY $PERSON ,	10348	4723	sidney_bechet	african_american	92
+$ETHNICITY $PERSON ,	39338	4723	will_demps	african_american	92
+$ETHNICITY $PERSON ,	14831	29961	malcolm_x	american	92
+$ETHNICITY $PERSON ,	27939	4723	juanita_jackson_mitchell	african_american	92
+$ETHNICITY $PERSON ,	6590	4723	ron_karenga	african_american	92
+$ETHNICITY $PERSON ,	15379	7206	haruki_murakami	japanese	92
+$ETHNICITY $PERSON ,	1420	7206	sean_lennon	japanese	92
+$ETHNICITY $PERSON ,	20727	4723	will_smith	african_american	92
+$ETHNICITY $PERSON ,	12242	4723	charles_burnett	african_american	92
+$ETHNICITY $PERSON ,	22874	4723	charlie_garner	african_american	92
+$ETHNICITY $PERSON ,	6464	4723	james_brown	african_american	92
+$ETHNICITY $PERSON ,	41269	16999	hans_bethe	jewish	92
+$ETHNICITY $PERSON ,	9014	4723	james_harris	african_american	92
+$ETHNICITY $PERSON ,	14627	4723	arsenio_hall	african_american	92
+$ETHNICITY $PERSON ,	36681	16999	paulo_costanzo	jewish	92
+$ETHNICITY $PERSON ,	16703	4723	thornton_blackburn	african_american	92
+$ETHNICITY $PERSON ,	18076	4723	samuel_l._jackson	african_american	92
+$ETHNICITY $PERSON ,	10167	4723	chaka_khan	african_american	92
+$ETHNICITY $PERSON ,	6949	4723	henry_gray	african_american	92
+$ETHNICITY $PERSON ,	21368	16999	adam_pascal	jewish	92
+$ETHNICITY $PERSON ,	26676	4723	letoya_luckett	african_american	92
+$ETHNICITY $PERSON ,	6891	4723	ferguson_jenkins	african_american	92
+$ETHNICITY $PERSON ,	37254	16999	frank_oz	jewish	92
+$ETHNICITY $PERSON ,	993	29355	albrecht_dürer	germans	92
+$ETHNICITY $PERSON ,	29953	4723	chi_mcbride	african_american	92
+$ETHNICITY $PERSON ,	22087	16999	marty_glickman	jewish	92
+$ETHNICITY $PERSON ,	10792	4723	rza	african_american	92
+$ETHNICITY $PERSON ,	3249	4723	floyd_mayweather_jr.	african_american	92
+$ETHNICITY $PERSON ,	28138	4723	clarence_williams	african_american	92
+$ETHNICITY $PERSON ,	39897	4723	samuel_r._delany	african_american	92
+$ETHNICITY $PERSON ,	847	4723	lauryn_williams	african_american	92
+$ETHNICITY $PERSON ,	23201	8580	otto_frank	swiss	92
+$ETHNICITY $PERSON ,	32124	29355	carl_friedrich_von_weizsäcker	germans	92
+$ETHNICITY $PERSON ,	16837	4723	barbara_lee	african_american	92
+$ETHNICITY $PERSON ,	8388	16999	jan_schakowsky	jewish	92
+$ETHNICITY $PERSON ,	5010	4723	jonathan_brown	african_american	92
+$ETHNICITY $PERSON ,	16475	16999	joseph_roth	jewish	92
+$ETHNICITY $PERSON ,	40727	16999	amos_oz	jewish	92
+$ETHNICITY $PERSON ,	31697	4723	michael_pittman	african_american	92
+$ETHNICITY $PERSON ,	19526	16999	leonard_lauder	jewish	92
+$ETHNICITY $PERSON ,	1759	4723	joe_morton	african_american	92
+$ETHNICITY $PERSON ,	7690	29355	edward_r._murrow	germans	92
+$ETHNICITY $PERSON ,	31872	4469	phil_collins	briton	92
+$ETHNICITY $PERSON ,	14730	16999	louis_nye	jewish	92
+$ETHNICITY $PERSON ,	18615	4723	jimi_hendrix	african_american	92
+$ETHNICITY $PERSON ,	25084	4723	mario_manningham	african_american	92
+$ETHNICITY $PERSON ,	18713	2221	richard_feynman	russian	92
+$ETHNICITY $PERSON ,	36303	16999	david_mamet	jewish	92
+$ETHNICITY $PERSON ,	1634	4723	della_reese	african_american	92
+$ETHNICITY $PERSON ,	13362	4723	stephon_marbury	african_american	92
+$ETHNICITY $PERSON ,	114	29355	albert_einstein	germans	92
+$ETHNICITY $PERSON ,	1947	4723	brian_chase	african_american	92
+$ETHNICITY $PERSON ,	27173	16999	larry_david	jewish	92
+$ETHNICITY $PERSON ,	17370	10874	tom_cavanagh	canadian	92
+$ETHNICITY $PERSON ,	36511	29355	paul_epstein	germans	92
+$ETHNICITY $PERSON ,	2784	4723	chris_lowery	african_american	92
+$ETHNICITY $PERSON ,	5087	4723	sterling_johnson_jr.	african_american	92
+$ETHNICITY $PERSON ,	12024	16999	oscar_niemeyer	jewish	92
+$ETHNICITY $PERSON ,	41078	4723	roosevelt_sykes	african_american	92
+$ETHNICITY $PERSON ,	6003	32009	kristin_chenoweth	cherokee	92
+$ETHNICITY $PERSON ,	24123	4723	chris_williams	african_american	92
+$ETHNICITY $PERSON ,	22430	4723	bobby_meacham	african_american	92
+$ETHNICITY $PERSON ,	40228	16999	romola_garai	jewish	92
+$ETHNICITY $PERSON ,	33456	4723	george_lombard	african_american	92
+$ETHNICITY $PERSON ,	34469	36816	marcello_mastroianni	italian	92
+$ETHNICITY $PERSON ,	8481	16999	hank_greenberg	jewish	92
+$ETHNICITY $PERSON ,	33105	4723	bobby_jackson	african_american	92
+$ETHNICITY $PERSON ,	31912	16999	joe_rosenthal	jewish	92
+$ETHNICITY $PERSON ,	36025	16999	emanuel_celler	jewish	92
+$ETHNICITY $PERSON ,	38776	4723	kamala_harris	african_american	92
+$ETHNICITY $PERSON ,	13120	16999	hugo_meisl	jewish	92
+$ETHNICITY $PERSON ,	20609	16999	ken_mehlman	jewish	92
+$ETHNICITY $PERSON ,	3863	28645	serzh_sarkisyan	armenians	92
+$ETHNICITY $PERSON ,	33218	4723	tony_allen	african_american	92
+$ETHNICITY $PERSON ,	12739	4723	darren_oliver	african_american	92
+$ETHNICITY $PERSON ,	16504	4723	wes_littleton	african_american	92
+$ETHNICITY $PERSON ,	16130	16999	shaul_mofaz	jewish	92
+$ETHNICITY $PERSON ,	14098	16999	walter_matthau	jewish	92
+$ETHNICITY $PERSON ,	18635	4723	jupiter_hammon	african_american	92
+$ETHNICITY $PERSON ,	8151	4723	letitia_james	african_american	92
+$ETHNICITY $PERSON ,	2062	4723	joe_henderson	african_american	92
+$ETHNICITY $PERSON ,	29094	4723	chris_taft	african_american	92
+$ETHNICITY $PERSON ,	13994	23295	zhang_yimou	han_chinese	92
+$ETHNICITY $PERSON ,	7226	3010	jordin_tootoo	inuit	92
+$ETHNICITY $PERSON ,	15036	16999	tori_spelling	jewish	92
+$ETHNICITY $PERSON ,	28315	4723	doc_rivers	african_american	92
+$ETHNICITY $PERSON ,	40823	16999	amanda_peet	jewish	92
+$ETHNICITY $PERSON ,	15796	36816	antonio_gramsci	italian	92
+$ETHNICITY $PERSON ,	7066	4723	reggie_williams	african_american	92
+$ETHNICITY $PERSON ,	29776	4723	romeo_crennel	african_american	92
+$ETHNICITY $PERSON ,	27457	4723	aretha_franklin	african_american	92
+$ETHNICITY $PERSON ,	15280	16999	lee_grant	jewish	92
+$ETHNICITY $PERSON ,	1168	4723	juelz_santana	african_american	92
+$ETHNICITY $PERSON ,	10634	4723	diana_ross	african_american	92
+$ETHNICITY $PERSON ,	24635	4723	gloria_gaynor	african_american	92
+$ETHNICITY $PERSON ,	17861	4723	lisa_tucker	african_american	92
+$ETHNICITY $PERSON ,	15587	16999	theodore_draper	jewish	92
+$ETHNICITY $PERSON ,	32627	16999	barnett_newman	jewish	92
+$ETHNICITY $PERSON ,	83	16999	philip_glass	jewish	92
+$ETHNICITY $PERSON ,	394	4723	emlen_tunnell	african_american	92
+$ETHNICITY $PERSON ,	21938	10874	christopher_plummer	canadian	92
+$ETHNICITY $PERSON ,	27537	16999	henry_winkler	jewish	92
+$ETHNICITY $PERSON ,	28469	10922	milena_govich	serbs	92
+$ETHNICITY $PERSON ,	22737	16999	daniel_ayalon	jewish	92
+$ETHNICITY $PERSON ,	9023	4723	rashard_lewis	african_american	92
+$ETHNICITY $PERSON ,	27446	4723	jeffrey_wright	african_american	92
+$ETHNICITY $PERSON ,	10093	4723	jay_payton	african_american	92
+$ETHNICITY $PERSON ,	41260	4723	carly_simon	african_american	92
+$ETHNICITY $PERSON ,	27806	4723	sleepy_brown	african_american	92
+$ETHNICITY $PERSON ,	2700	4723	ernie_ladd	african_american	92
+$ETHNICITY $PERSON ,	24370	4723	marcus_mcbeth	african_american	92
+$ETHNICITY $PERSON ,	40104	16999	sander_m._levin	jewish	92
+$ETHNICITY $PERSON ,	33260	4723	dennis_green	african_american	92
+$ETHNICITY $PERSON ,	24668	16999	shay_doron	jewish	92
+$ETHNICITY $PERSON ,	20699	16999	györgy_ligeti	jewish	92
+$ETHNICITY $PERSON ,	31204	24507	tom_perrotta	albanian-american	92
+$ETHNICITY $PERSON ,	32134	16999	janet_jagan	jewish	92
+$ETHNICITY $PERSON ,	8716	16999	estée_lauder	jewish	92
+$ETHNICITY $PERSON ,	6241	4723	lenny_wilkens	african_american	92
+$ETHNICITY $PERSON ,	26538	4723	troy_hudson	african_american	92
+$ETHNICITY $PERSON ,	31822	16999	robert_novak	jewish	92
+$ETHNICITY $PERSON ,	16718	4723	dallas_austin	african_american	92
+$ETHNICITY $PERSON ,	29771	16999	kathie_lee_gifford	jewish	92
+$ETHNICITY $PERSON ,	39285	4723	mahalia_jackson	african_american	92
+$ETHNICITY $PERSON ,	2004	4723	don_cherry	african_american	92
+$ETHNICITY $PERSON ,	39216	4723	dijon_thompson	african_american	92
+$ETHNICITY $PERSON ,	39289	4723	shandon_anderson	african_american	92
+$ETHNICITY $PERSON ,	38701	16999	rick_moranis	jewish	92
+$ETHNICITY $PERSON ,	26804	4723	brenda_jackson	african_american	92
+$ETHNICITY $PERSON ,	10404	35006	lacey_chabert	cajun	92
+$ETHNICITY $PERSON ,	13489	4723	charles_jones	african_american	92
+$ETHNICITY $PERSON ,	5443	29355	stef_wertheimer	germans	92
+$ETHNICITY $PERSON ,	30352	16999	fred_ebb	jewish	92
+$ETHNICITY $PERSON ,	986	4723	kylee_russell	african_american	92
+$ETHNICITY $PERSON ,	2253	23739	ratan_tata	parsi	92
+$ETHNICITY $PERSON ,	3808	4723	suzan-lori_parks	african_american	92
+$ETHNICITY $PERSON ,	17120	4723	art_blakey	african_american	92
+$ETHNICITY $PERSON ,	31563	16999	amy_irving	jewish	92
+$ETHNICITY $PERSON ,	27169	16999	harold_clurman	jewish	92
+$ETHNICITY $PERSON ,	23665	34730	ali	arab	92
+$ETHNICITY $PERSON ,	26551	4723	calvin_murphy	african_american	92
+$ETHNICITY $PERSON ,	872	4723	lou_rawls	african_american	92
+$ETHNICITY $PERSON ,	36738	16999	brad_grey	jewish	92
+$ETHNICITY $PERSON ,	19297	4723	jennifer_hudson	african_american	92
+$ETHNICITY $PERSON ,	14050	16999	jeff_goldblum	jewish	92
+$ETHNICITY $PERSON ,	26594	4723	don_newcombe	african_american	92
+$ETHNICITY $PERSON ,	32446	4723	busta_rhymes	african_american	92
+$ETHNICITY $PERSON ,	33515	16999	steven_spielberg	jewish	92
+$ETHNICITY $PERSON ,	804	23295	thaksin_shinawatra	han_chinese	92
+$ETHNICITY $PERSON ,	34708	4723	kathy_foster	african_american	92
+$ETHNICITY $PERSON ,	27448	29355	artie_lange	germans	92
+$ETHNICITY $PERSON ,	37447	16999	meir_kahane	jewish	92
+$ETHNICITY $PERSON ,	39819	16999	roseanne_barr	jewish	92
+$ETHNICITY $PERSON ,	39917	4723	bobby_valentino	african_american	92
+$ETHNICITY $PERSON ,	23815	16999	robert_cohen	jewish	92
+$ETHNICITY $PERSON ,	13091	4723	charlie_parker	african_american	92
+$ETHNICITY $PERSON ,	31669	4723	gary_sheffield	african_american	92
+$ETHNICITY $PERSON ,	13573	4723	abbey_lincoln	african_american	92
+$ETHNICITY $PERSON ,	38243	16999	emma_lazarus	jewish	92
+$ETHNICITY $PERSON ,	33757	4723	little_willie_john	african_american	92
+$ETHNICITY $PERSON ,	16878	2221	teller	russian	92
+$ETHNICITY $PERSON ,	26675	16999	lorenz_hart	jewish	92
+$ETHNICITY $PERSON ,	16946	4723	stephen_twitty	african_american	92
+$ETHNICITY $PERSON ,	28996	20398	burhanuddin_rabbani	tajiks	92
+$ETHNICITY $PERSON ,	17307	16999	jonathan_bornstein	jewish	92
+$ETHNICITY $PERSON ,	11771	16999	alfred_eisenstaedt	jewish	92
+$ETHNICITY $PERSON ,	37996	4723	tom_gordon	african_american	92
+$ETHNICITY $PERSON ,	15541	4723	wanda_sykes	african_american	92
+$ETHNICITY $PERSON ,	22226	4723	reggie_wayne	african_american	92
+$ETHNICITY $PERSON ,	30383	29355	lukas_foss	germans	92
+$ETHNICITY $PERSON ,	12248	4723	candace_parker	african_american	92
+$ETHNICITY $PERSON ,	34049	1790	mayawati	dalit	92
+$ETHNICITY $PERSON ,	6227	4723	wynton_marsalis	african_american	92
+$ETHNICITY $PERSON ,	6564	4723	latrell_sprewell	african_american	92
+$ETHNICITY $PERSON ,	1047	10874	greg_bryk	canadian	92
+$ETHNICITY $PERSON ,	36657	4469	lee_mack	briton	92
+$ETHNICITY $PERSON ,	24702	36816	franco_frattini	italian	92
+$ETHNICITY $PERSON ,	11771	29355	alfred_eisenstaedt	germans	92
+$ETHNICITY $PERSON ,	14161	16999	goapele	jewish	92
+$ETHNICITY $PERSON ,	28606	4723	james_meredith	african_american	92
+$ETHNICITY $PERSON ,	11228	29961	john_mccain	american	92
+$ETHNICITY $PERSON ,	14079	36816	liv_tyler	italian	92
+$ETHNICITY $PERSON ,	25780	10874	roberta_maxwell	canadian	92
+$ETHNICITY $PERSON ,	28995	16999	barbara_amiel	jewish	92
+$ETHNICITY $PERSON ,	37229	4723	eric_davis	african_american	92
+$ETHNICITY $PERSON ,	12818	4723	roy_campanella	african_american	92
+$ETHNICITY $PERSON ,	37976	16999	gertrude_stein	jewish	92
+$ETHNICITY $PERSON ,	29716	16999	peter_gay	jewish	92
+$ETHNICITY $PERSON ,	28721	25743	evo_morales	aymara	92
+$ETHNICITY $PERSON ,	15117	4723	marcus_thames	african_american	92
+$ETHNICITY $PERSON ,	24346	4723	muhammad_ali	african_american	92
+$ETHNICITY $PERSON ,	30939	16999	carl_levin	jewish	92
+$ETHNICITY $PERSON ,	2985	4723	marvin_gaye	african_american	92
+$ETHNICITY $PERSON ,	2111	4723	chamillionaire	african_american	92
+$ETHNICITY $PERSON ,	1828	4723	terrence_howard	african_american	92
+$ETHNICITY $PERSON ,	166	4723	gregory_hines	african_american	92
+$ETHNICITY $PERSON ,	16594	17666	fidel_castro	cubans	92
+$ETHNICITY $PERSON ,	6338	29355	karl_lagerfeld	germans	92
+$ETHNICITY $PERSON ,	28659	4723	tiki_barber	african_american	92
+$ETHNICITY $PERSON ,	6821	16999	ben_stiller	jewish	92
+$ETHNICITY $PERSON ,	11148	4723	joseph_yoakum	african_american	92
+$ETHNICITY $PERSON ,	31429	4723	jamaal_tinsley	african_american	92
+$ETHNICITY $PERSON ,	6739	4723	vin_diesel	african_american	92
+$ETHNICITY $PERSON ,	10827	4723	larry_young	african_american	92
+$ETHNICITY $PERSON ,	31973	4723	joey_gathright	african_american	92
+$ETHNICITY $PERSON ,	7270	4723	maynard_jackson	african_american	92
+$ETHNICITY $PERSON ,	18488	4723	dr._dre	african_american	92
+$ETHNICITY $PERSON ,	29817	2221	mike_nichols	russian	92
+$ETHNICITY $PERSON ,	32087	16999	perry_farrell	jewish	92
+$ETHNICITY $PERSON ,	10837	4469	benny_hill	briton	92
+$ETHNICITY $PERSON ,	10252	4723	jonathan_vilma	african_american	92
+$ETHNICITY $PERSON ,	10008	16999	michael_medved	jewish	92
+$ETHNICITY $PERSON ,	624	4723	nick_cannon	african_american	92
+$ETHNICITY $PERSON ,	20991	4723	antonio_cochran	african_american	92
+$ETHNICITY $PERSON ,	5874	34730	george_j._mitchell	arab	92
+$ETHNICITY $PERSON ,	40115	4469	simon_schama	briton	92
+$ETHNICITY $PERSON ,	16337	4723	vern_fleming	african_american	92
+$ETHNICITY $PERSON ,	20157	29355	ulrich_tukur	germans	92
+$ETHNICITY $PERSON ,	6441	29355	savanna_samson	germans	92
+$ETHNICITY $PERSON ,	40524	4723	jacob_lawrence	african_american	92
+$ETHNICITY $PERSON ,	40143	16999	sacha_baron_cohen	jewish	92
+$ETHNICITY $PERSON ,	405	4723	david_neville	african_american	92
+$ETHNICITY $PERSON ,	13539	4723	terrence_long	african_american	92
+$ETHNICITY $PERSON ,	32210	4723	emmitt_smith	african_american	92
+$ETHNICITY $PERSON ,	6016	16999	andré_glucksmann	jewish	92
+$ETHNICITY $PERSON ,	40875	4723	bebe_moore_campbell	african_american	92
+$ETHNICITY $PERSON ,	13469	4723	andre_dawson	african_american	92
+$ETHNICITY $PERSON ,	24669	16999	david	jewish	92
+$ETHNICITY $PERSON ,	25128	4723	larry_wright	african_american	92
+$ETHNICITY $PERSON ,	18497	4723	kumiki_gibson	african_american	92
+$ETHNICITY $PERSON ,	31386	4723	shaun_ellis	african_american	92
+$ETHNICITY $PERSON ,	24502	4723	jai_lewis	african_american	92
+$ETHNICITY $PERSON ,	40373	16999	dore_gold	jewish	92
+$ETHNICITY $PERSON ,	6204	4723	howie_kendrick	african_american	92
+$ETHNICITY $PERSON ,	23194	4723	delisha_milton-jones	african_american	92
+$ETHNICITY $PERSON ,	29549	4723	denzel_washington	african_american	92
+$ETHNICITY $PERSON ,	17109	4723	darryl_mcdaniels	african_american	92
+$ETHNICITY $PERSON ,	28099	16999	moses	jewish	92
+$ETHNICITY $PERSON ,	9876	4723	ray_nagin	african_american	92
+$ETHNICITY $PERSON ,	18238	16999	sandy_koufax	jewish	92
+$ETHNICITY $PERSON ,	39171	4723	smush_parker	african_american	92
+$ETHNICITY $PERSON ,	38548	16999	donald_freed	jewish	92
+$ETHNICITY $PERSON ,	34216	29355	karl_walter_lindenlaub	germans	92
+$ETHNICITY $PERSON ,	38305	16999	michael_showalter	jewish	92
+$ETHNICITY $PERSON ,	13342	16999	ilan_halimi	jewish	92
+$ETHNICITY $PERSON ,	23777	34730	saad_hariri	arab	92
+$ETHNICITY $PERSON ,	788	4723	andrew_bynum	african_american	92
+$ETHNICITY $PERSON ,	21106	4723	brian_cook	african_american	92
+$ETHNICITY $PERSON ,	15829	4723	john_bagley	african_american	92
+$ETHNICITY $PERSON ,	16647	4723	hilton_armstrong	african_american	92
+$ETHNICITY $PERSON ,	14853	23295	gordon_liu	han_chinese	92
+$ETHNICITY $PERSON ,	31542	4723	marvin_austin	african_american	92
+$ETHNICITY $PERSON ,	32842	16999	barbara_hershey	jewish	92
+$ETHNICITY $PERSON ,	31108	4723	vernon_brown	african_american	92
+$ETHNICITY $PERSON ,	17446	4723	bob_herbert	african_american	92
+$ETHNICITY $PERSON ,	13298	29355	chanel_st._james	germans	92
+$ETHNICITY $PERSON	810	4723	dewey_redman	african_american	70
+$ETHNICITY $PERSON	521	16999	jeffrey_katzenberg	jewish	70
+$ETHNICITY $PERSON	21202	16999	patricia_arquette	jewish	70
+$ETHNICITY $PERSON	21080	4723	barry_cofield	african_american	70
+$ETHNICITY $PERSON	23803	29355	katherine_heigl	germans	70
+$ETHNICITY $PERSON	1293	4723	sugar_ray_robinson	african_american	70
+$ETHNICITY $PERSON	27700	4723	teresa_weatherspoon	african_american	70
+$ETHNICITY $PERSON	21218	2221	natalia_vodianova	russian	70
+$ETHNICITY $PERSON	32733	4723	avery_johnson	african_american	70
+$ETHNICITY $PERSON	19267	4723	bruce_langhorne	african_american	70
+$ETHNICITY $PERSON	29980	29355	ute_lemper	germans	70
+$ETHNICITY $PERSON	18201	16999	john_yarmuth	jewish	70
+$ETHNICITY $PERSON	17593	4723	kevin_willis	african_american	70
+$ETHNICITY $PERSON	9411	4723	chris_paul	african_american	70
+$ETHNICITY $PERSON	11502	4723	keith_ellison	african_american	70
+$ETHNICITY $PERSON	12627	11061	sappho	greeks	70
+$ETHNICITY $PERSON	38673	4723	bill_johnson	african_american	70
+$ETHNICITY $PERSON	20415	4723	tyler_perry	african_american	70
+$ETHNICITY $PERSON	39059	16999	gary_trauner	jewish	70
+$ETHNICITY $PERSON	7148	16999	river_phoenix	jewish	70
+$ETHNICITY $PERSON	25227	4723	napoleon	african_american	70
+$ETHNICITY $PERSON	31837	4723	steve_white	african_american	70
+$ETHNICITY $PERSON	20555	16999	howard_fineman	jewish	70
+$ETHNICITY $PERSON	26225	4723	willie_hall	african_american	70
+$ETHNICITY $PERSON	34693	16999	herbert_h._lehman	jewish	70
+$ETHNICITY $PERSON	36156	16999	richard_dreyfuss	jewish	70
+$ETHNICITY $PERSON	9978	4723	condoleezza_rice	african_american	70
+$ETHNICITY $PERSON	9228	16999	shaul_bakhash	jewish	70
+$ETHNICITY $PERSON	29817	29355	mike_nichols	germans	70
+$ETHNICITY $PERSON	13298	29355	chanel_st._james	germans	70
+$ETHNICITY $PERSON	24375	4723	al_sharpton	african_american	70
+$ETHNICITY $PERSON	36395	39194	ken_salazar	hispanic	70
+$ETHNICITY $PERSON	31308	4723	richard_roundtree	african_american	70
+$ETHNICITY $PERSON	27226	16999	logan_lerman	jewish	70
+$ETHNICITY $PERSON	24736	4723	pharrell_williams	african_american	70
+$ETHNICITY $PERSON	1828	4723	terrence_howard	african_american	70
+$ETHNICITY $PERSON	8484	4723	larry_gilliard_jr.	african_american	70
+$ETHNICITY $PERSON	16312	16999	alan_menken	jewish	70
+$ETHNICITY $PERSON	41080	16999	shoshannah_stern	jewish	70
+$ETHNICITY $PERSON	13671	11061	aristotle	greeks	70
+$ETHNICITY $PERSON	35169	16999	billy_joel	jewish	70
+$ETHNICITY $PERSON	31254	16999	melissa_hayden	jewish	70
+$ETHNICITY $PERSON	4706	4723	monta_ellis	african_american	70
+$ETHNICITY $PERSON	18593	4723	curtis_mayfield	african_american	70
+$ETHNICITY $PERSON	852	4723	tony_cox	african_american	70
+$ETHNICITY $PERSON	16337	4723	vern_fleming	african_american	70
+$ETHNICITY $PERSON	3872	4723	mike_tyson	african_american	70
+$ETHNICITY $PERSON	8908	4723	laron_landry	african_american	70
+$ETHNICITY $PERSON	2523	16999	aline_macmahon	jewish	70
+$ETHNICITY $PERSON	17446	4723	bob_herbert	african_american	70
+$ETHNICITY $PERSON	3381	29355	shirley_temple	germans	70
+$ETHNICITY $PERSON	24307	40549	timur_bekmambetov	kazakhs	70
+$ETHNICITY $PERSON	18827	16999	sergey_brin	jewish	70
+$ETHNICITY $PERSON	8303	4723	calvin_booth	african_american	70
+$ETHNICITY $PERSON	19520	36816	monica_bellucci	italian	70
+$ETHNICITY $PERSON	37595	16999	david_gregory	jewish	70
+$ETHNICITY $PERSON	24300	16999	peter_shaffer	jewish	70
+$ETHNICITY $PERSON	19659	16999	daniel_day-lewis	jewish	70
+$ETHNICITY $PERSON	36681	36816	paulo_costanzo	italian	70
+$ETHNICITY $PERSON	29060	29705	soon-yi_previn	asian	70
+$ETHNICITY $PERSON	41045	4723	stuart_scott	african_american	70
+$ETHNICITY $PERSON	27288	16999	howard_zinn	jewish	70
+$ETHNICITY $PERSON	8033	16999	sienna_guillory	jewish	70
+$ETHNICITY $PERSON	24929	16999	katey_sagal	jewish	70
+$ETHNICITY $PERSON	49	4723	john_legend	african_american	70
+$ETHNICITY $PERSON	24346	4723	muhammad_ali	african_american	70
+$ETHNICITY $PERSON	34732	16999	paula_abdul	jewish	70
+$ETHNICITY $PERSON	2924	4723	michael_bourn	african_american	70
+$ETHNICITY $PERSON	23368	16999	steven_pinker	jewish	70
+$ETHNICITY $PERSON	11300	16999	scott_feldman	jewish	70
+$ETHNICITY $PERSON	13033	4723	charlie_sifford	african_american	70
+$ETHNICITY $PERSON	9885	16999	michael_bennett	jewish	70
+$ETHNICITY $PERSON	20544	16999	bess_myerson	jewish	70
+$ETHNICITY $PERSON	31236	16999	david_a._harris	jewish	70
+$ETHNICITY $PERSON	40515	4723	vivica_a._fox	african_american	70
+$ETHNICITY $PERSON	40863	4469	khalid_abdalla	briton	70
+$ETHNICITY $PERSON	30181	16999	nick_berg	jewish	70
+$ETHNICITY $PERSON	9136	4723	jada_pinkett_smith	african_american	70
+$ETHNICITY $PERSON	9884	16999	jason_marquis	jewish	70
+$ETHNICITY $PERSON	22739	4723	desi_relaford	african_american	70
+$ETHNICITY $PERSON	37045	4723	willie_mcgee	african_american	70
+$ETHNICITY $PERSON	36348	4723	alfre_woodard	african_american	70
+$ETHNICITY $PERSON	34161	16999	dustin_hoffman	jewish	70
+$ETHNICITY $PERSON	33913	16999	stan_getz	jewish	70
+$ETHNICITY $PERSON	31999	4723	michael_lomax	african_american	70
+$ETHNICITY $PERSON	34733	4723	tootie_heath	african_american	70
+$ETHNICITY $PERSON	5868	4723	elston_turner	african_american	70
+$ETHNICITY $PERSON	31643	4723	oscar_charleston	african_american	70
+$ETHNICITY $PERSON	2253	23739	ratan_tata	parsi	70
+$ETHNICITY $PERSON	39389	2221	yuri_orlov	russian	70
+$ETHNICITY $PERSON	29219	16999	corey_feldman	jewish	70
+$ETHNICITY $PERSON	41003	4723	bobby_bonilla	african_american	70
+$ETHNICITY $PERSON	29940	4723	tony_massenburg	african_american	70
+$ETHNICITY $PERSON	25462	4723	guru	african_american	70
+$ETHNICITY $PERSON	32124	29355	carl_friedrich_von_weizsäcker	germans	70
+$ETHNICITY $PERSON	14980	4723	henry_lewis	african_american	70
+$ETHNICITY $PERSON	7179	4723	jermaine_dupri	african_american	70
+$ETHNICITY $PERSON	30471	4723	patti_labelle	african_american	70
+$ETHNICITY $PERSON	22055	17039	genghis_khan	mongols	70
+$ETHNICITY $PERSON	1080	4723	james_earl_jones	african_american	70
+$ETHNICITY $PERSON	19807	16999	emeric_pressburger	jewish	70
+$ETHNICITY $PERSON	2760	16999	gerald_kaufman	jewish	70
+$ETHNICITY $PERSON	28421	4723	lorenzo_charles	african_american	70
+$ETHNICITY $PERSON	32466	16999	lisa_loeb	jewish	70
+$ETHNICITY $PERSON	36418	29355	rudolf_arnheim	germans	70
+$ETHNICITY $PERSON	6148	4723	gregory_w._meeks	african_american	70
+$ETHNICITY $PERSON	15314	4723	christian_mcbride	african_american	70
+$ETHNICITY $PERSON	302	4723	aaron_miles	african_american	70
+$ETHNICITY $PERSON	32957	4723	s._epatha_merkerson	african_american	70
+$ETHNICITY $PERSON	17651	4723	hubert_davis	african_american	70
+$ETHNICITY $PERSON	8572	4723	toshi_reagon	african_american	70
+$ETHNICITY $PERSON	12613	16999	j._ezra_merkin	jewish	70
+$ETHNICITY $PERSON	19850	16999	yossi_klein_halevi	jewish	70
+$ETHNICITY $PERSON	12925	16999	oliver_hudson	jewish	70
+$ETHNICITY $PERSON	31488	22414	seal	yoruba	70
+$ETHNICITY $PERSON	32856	4723	chris_porter	african_american	70
+$ETHNICITY $PERSON	1047	10874	greg_bryk	canadian	70
+$ETHNICITY $PERSON	5625	16999	anton_rubinstein	jewish	70
+$ETHNICITY $PERSON	32864	4723	bryan_cox	african_american	70
+$ETHNICITY $PERSON	26858	16999	harvey_keitel	jewish	70
+$ETHNICITY $PERSON	18497	4723	kumiki_gibson	african_american	70
+$ETHNICITY $PERSON	5634	4723	justin_guarini	african_american	70
+$ETHNICITY $PERSON	24571	16999	dan_glickman	jewish	70
+$ETHNICITY $PERSON	21949	4723	jamil_walker	african_american	70
+$ETHNICITY $PERSON	41180	10791	charlize_theron	afrikaner	70
+$ETHNICITY $PERSON	18168	4723	louis_farrakhan	african_american	70
+$ETHNICITY $PERSON	17624	16999	sam_harris	jewish	70
+$ETHNICITY $PERSON	38161	4723	kobe_bryant	african_american	70
+$ETHNICITY $PERSON	13131	4723	chris_rock	african_american	70
+$ETHNICITY $PERSON	22932	16999	mikhail_gurevich	jewish	70
+$ETHNICITY $PERSON	28309	4723	kevin_ollie	african_american	70
+$ETHNICITY $PERSON	34516	16999	kyra_sedgwick	jewish	70
+$ETHNICITY $PERSON	38867	4723	russell_robinson	african_american	70
+$ETHNICITY $PERSON	37524	16999	franz_schreker	jewish	70
+$ETHNICITY $PERSON	1096	16999	doc_pomus	jewish	70
+$ETHNICITY $PERSON	6926	16999	milton_wolff	jewish	70
+$ETHNICITY $PERSON	38315	32009	nikki_reed	cherokee	70
+$ETHNICITY $PERSON	39760	16999	beck	jewish	70
+$ETHNICITY $PERSON	31033	4723	bill_nunn	african_american	70
+$ETHNICITY $PERSON	3954	4723	chad_morton	african_american	70
+$ETHNICITY $PERSON	40632	16999	adam_goldberg	jewish	70
+$ETHNICITY $PERSON	1412	4723	victor_abiamiri	african_american	70
+$ETHNICITY $PERSON	19039	4723	ramel_bradley	african_american	70
+$ETHNICITY $PERSON	19118	4723	blind_willie_johnson	african_american	70
+$ETHNICITY $PERSON	39030	4723	mario	african_american	70
+$ETHNICITY $PERSON	14627	4723	arsenio_hall	african_american	70
+$ETHNICITY $PERSON	1975	4723	earl_hines	african_american	70
+$ETHNICITY $PERSON	4667	4723	ben_gordon	african_american	70
+$ETHNICITY $PERSON	28867	16999	idina_menzel	jewish	70
+$ETHNICITY $PERSON	1361	4723	matee_ajavon	african_american	70
+$ETHNICITY $PERSON	32553	16999	emanuel_ax	jewish	70
+$ETHNICITY $PERSON	10308	4723	carmelo_anthony	african_american	70
+$ETHNICITY $PERSON	14592	4723	damon_jones	african_american	70
+$ETHNICITY $PERSON	5685	4723	martin_puryear	african_american	70
+$ETHNICITY $PERSON	36746	39818	mohamed_elbaradei	egyptians	70
+$ETHNICITY $PERSON	22403	16999	lloyd_bochner	jewish	70
+$ETHNICITY $PERSON	35840	10874	christophe_beck	canadian	70
+$ETHNICITY $PERSON	39800	16999	steve_cohen	jewish	70
+$ETHNICITY $PERSON	15722	16999	michael_nyman	jewish	70
+$ETHNICITY $PERSON	1074	4723	edwin_jackson	african_american	70
+$ETHNICITY $PERSON	34739	4723	louis_bullock	african_american	70
+$ETHNICITY $PERSON	4195	16999	ezer_weizman	jewish	70
+$ETHNICITY $PERSON	8673	4723	bobby_bonds	african_american	70
+$ETHNICITY $PERSON	4812	16999	paul_muni	jewish	70
+$ETHNICITY $PERSON	31669	4723	gary_sheffield	african_american	70
+$ETHNICITY $PERSON	24895	4723	kimora_lee_simmons	african_american	70
+$ETHNICITY $PERSON	21683	4723	lenny_harris	african_american	70
+$ETHNICITY $PERSON	31061	32009	johnny_depp	cherokee	70
+$ETHNICITY $PERSON	6272	4723	ryan_humphrey	african_american	70
+$ETHNICITY $PERSON	7657	29355	moses_mendelssohn	germans	70
+$ETHNICITY $PERSON	8405	16999	david_brooks	jewish	70
+$ETHNICITY $PERSON	29282	4723	allan_houston	african_american	70
+$ETHNICITY $PERSON	39632	35006	edwin_edwards	cajun	70
+$ETHNICITY $PERSON	33487	4723	booker_t._jones	african_american	70
+$ETHNICITY $PERSON	10108	16999	rachelle_lefevre	jewish	70
+$ETHNICITY $PERSON	14649	4723	william_perry	african_american	70
+$ETHNICITY $PERSON	2426	4723	kevin_porter	african_american	70
+$ETHNICITY $PERSON	36511	29355	paul_epstein	germans	70
+$ETHNICITY $PERSON	13058	4723	odetta	african_american	70
+$ETHNICITY $PERSON	11387	4723	shannon_briggs	african_american	70
+$ETHNICITY $PERSON	22208	4723	antonio_mcdyess	african_american	70
+$ETHNICITY $PERSON	20987	4723	james_weldon_johnson	african_american	70
+$ETHNICITY $PERSON	39173	29355	max_schmeling	germans	70
+$ETHNICITY $PERSON	6717	4723	lester_holt	african_american	70
+$ETHNICITY $PERSON	35517	16999	howie_mandel	jewish	70
+$ETHNICITY $PERSON	24167	16999	chaim_soutine	jewish	70
+$ETHNICITY $PERSON	83	16999	philip_glass	jewish	70
+$ETHNICITY $PERSON	18460	16999	dean_devlin	jewish	70
+$ETHNICITY $PERSON	1642	4723	o._j._mayo	african_american	70
+$ETHNICITY $PERSON	31822	16999	robert_novak	jewish	70
+$ETHNICITY $PERSON	16121	4723	chris_dickerson	african_american	70
+$ETHNICITY $PERSON	30500	16999	don_hewitt	jewish	70
+$ETHNICITY $PERSON	20167	16999	philip_green	jewish	70
+$ETHNICITY $PERSON	24032	36816	giancarlo_giannini	italian	70
+$ETHNICITY $PERSON	10969	4723	laila_ali	african_american	70
+$ETHNICITY $PERSON	17966	16999	rain_phoenix	jewish	70
+$ETHNICITY $PERSON	7073	4723	jerry_manuel	african_american	70
+$ETHNICITY $PERSON	33250	4723	leroy_barnes	african_american	70
+$ETHNICITY $PERSON	30696	16999	hanns_eisler	jewish	70
+$ETHNICITY $PERSON	18804	8580	liev_schreiber	swiss	70
+$ETHNICITY $PERSON	11553	4723	hakim_warrick	african_american	70
+$ETHNICITY $PERSON	23993	4723	chauncey_billups	african_american	70
+$ETHNICITY $PERSON	26835	4723	cassie	african_american	70
+$ETHNICITY $PERSON	12028	29355	jane_engelhard	germans	70
+$ETHNICITY $PERSON	33195	4723	kerry_rhodes	african_american	70
+$ETHNICITY $PERSON	17852	4723	spike_lee	african_american	70
+$ETHNICITY $PERSON	22540	4723	carlos_rogers	african_american	70
+$ETHNICITY $PERSON	24502	4723	jai_lewis	african_american	70
+$ETHNICITY $PERSON	24500	16999	sara_gilbert	jewish	70
+$ETHNICITY $PERSON	39411	16999	david_paymer	jewish	70
+$ETHNICITY $PERSON	2053	8580	maximilian_schell	swiss	70
+$ETHNICITY $PERSON	4401	4723	johnny_taylor	african_american	70
+$PERSON ( $ETHNICITY	8966	4723	michael_clarke_duncan	african_american	46
+$PERSON ( $ETHNICITY	20609	16999	ken_mehlman	jewish	46
+$PERSON ( $ETHNICITY	408	4723	flavor_flav	african_american	46
+$PERSON ( $ETHNICITY	1520	34203	desmond_tutu	xhosa	46
+$PERSON ( $ETHNICITY	3980	16999	nathanael_west	jewish	46
+$PERSON ( $ETHNICITY	20443	16999	winona_ryder	jewish	46
+$PERSON ( $ETHNICITY	20199	16999	joe_slovo	jewish	46
+$PERSON ( $ETHNICITY	38410	4723	james_e._davis	african_american	46
+$PERSON ( $ETHNICITY	37905	16999	laurence_harvey	jewish	46
+$PERSON ( $ETHNICITY	5775	36816	frank_capra	italian	46
+$PERSON ( $ETHNICITY	7104	4723	pearl_bailey	african_american	46
+$PERSON ( $ETHNICITY	10947	16999	leon_uris	jewish	46
+$PERSON ( $ETHNICITY	8445	4723	barry_shabaka_henley	african_american	46
+$PERSON ( $ETHNICITY	33373	16999	tony_judt	jewish	46
+$PERSON ( $ETHNICITY	15461	4723	donna_summer	african_american	46
+$PERSON ( $ETHNICITY	19589	4723	darvin_ham	african_american	46
+$PERSON ( $ETHNICITY	21202	16999	patricia_arquette	jewish	46
+$PERSON ( $ETHNICITY	28149	4469	eric_burdon	briton	46
+$PERSON ( $ETHNICITY	23414	4723	earl_boykins	african_american	46
+$PERSON ( $ETHNICITY	38961	16999	helen_shapiro	jewish	46
+$PERSON ( $ETHNICITY	3736	16999	tomás_hirsch	jewish	46
+$PERSON ( $ETHNICITY	11534	4723	kenny_anderson	african_american	46
+$PERSON ( $ETHNICITY	31415	16999	bennett_cerf	jewish	46
+$PERSON ( $ETHNICITY	21900	4723	wayne_shorter	african_american	46
+$PERSON ( $ETHNICITY	18258	16999	walter_benjamin	jewish	46
+$PERSON ( $ETHNICITY	19838	29355	paul_ehrlich	germans	46
+$PERSON ( $ETHNICITY	2328	4723	tajuan_porter	african_american	46
+$PERSON ( $ETHNICITY	40508	4723	kerwin_danley	african_american	46
+$PERSON ( $ETHNICITY	6498	4723	dj_assault	african_american	46
+$PERSON ( $ETHNICITY	34906	4723	george_clinton	african_american	46
+$PERSON ( $ETHNICITY	6069	16999	menachem_begin	jewish	46
+$PERSON ( $ETHNICITY	13155	4723	sonia_sanchez	african_american	46
+$PERSON ( $ETHNICITY	25407	4723	harry_carson	african_american	46
+$PERSON ( $ETHNICITY	19021	4723	donell_taylor	african_american	46
+$PERSON ( $ETHNICITY	36204	4723	miles_davis	african_american	46
+$PERSON ( $ETHNICITY	24565	4723	roy_haynes	african_american	46
+$PERSON ( $ETHNICITY	28468	16999	jerry_lewis	jewish	46
+$PERSON ( $ETHNICITY	927	4723	jermaine_dye	african_american	46
+$PERSON ( $ETHNICITY	35759	16999	eva_green	jewish	46
+$PERSON ( $ETHNICITY	26797	4723	jerry_rice	african_american	46
+$PERSON ( $ETHNICITY	2419	4723	justin_gatlin	african_american	46
+$PERSON ( $ETHNICITY	27965	4723	faith_evans	african_american	46
+$PERSON ( $ETHNICITY	34306	16999	jon_stewart	jewish	46
+$PERSON ( $ETHNICITY	31977	16999	edgardo_mortara	jewish	46
+$PERSON ( $ETHNICITY	19864	4723	langston_hughes	african_american	46
+$PERSON ( $ETHNICITY	5685	4723	martin_puryear	african_american	46
+$PERSON ( $ETHNICITY	8813	4723	lola_falana	african_american	46
+$PERSON ( $ETHNICITY	7999	4723	curtis_martin	african_american	46
+$PERSON ( $ETHNICITY	14846	16999	evgeny_kissin	jewish	46
+$PERSON ( $ETHNICITY	22648	4723	whitney_houston	african_american	46
+$PERSON ( $ETHNICITY	36901	4469	david_tattersall	briton	46
+$PERSON ( $ETHNICITY	26257	16999	lauren_weisberger	jewish	46
+$PERSON ( $ETHNICITY	7953	4723	erick_dampier	african_american	46
+$PERSON ( $ETHNICITY	26675	16999	lorenz_hart	jewish	46
+$PERSON ( $ETHNICITY	24014	29355	eva_hesse	germans	46
+$PERSON ( $ETHNICITY	34516	16999	kyra_sedgwick	jewish	46
+$PERSON ( $ETHNICITY	27575	4723	tommie_agee	african_american	46
+$PERSON ( $ETHNICITY	24787	4723	reggie_sanders	african_american	46
+$PERSON ( $ETHNICITY	29189	4723	kara_walker	african_american	46
+$PERSON ( $ETHNICITY	17749	16999	aline_kominsky-crumb	jewish	46
+$PERSON ( $ETHNICITY	24985	4723	cicely_tyson	african_american	46
+$PERSON ( $ETHNICITY	37518	16999	robert_kagan	jewish	46
+$PERSON ( $ETHNICITY	38995	16999	marc_ecko	jewish	46
+$PERSON ( $ETHNICITY	18506	4723	jason_maxiell	african_american	46
+$PERSON ( $ETHNICITY	3227	36816	franco_zeffirelli	italian	46
+$PERSON ( $ETHNICITY	26863	4469	james_callis	briton	46
+$PERSON ( $ETHNICITY	8625	4723	mr._marcus	african_american	46
+$PERSON ( $ETHNICITY	15339	4723	juwan_howard	african_american	46
+$PERSON ( $ETHNICITY	21799	4723	crispus_attucks	african_american	46
+$PERSON ( $ETHNICITY	8072	4723	tommy_davis	african_american	46
+$PERSON ( $ETHNICITY	31110	4723	rajon_rondo	african_american	46
+$PERSON ( $ETHNICITY	23396	4723	michael_spinks	african_american	46
+$PERSON ( $ETHNICITY	38496	4469	angela_lansbury	briton	46
+$PERSON ( $ETHNICITY	3337	4723	antwaan_randle_el	african_american	46
+$PERSON ( $ETHNICITY	36021	4723	ahmad_bradshaw	african_american	46
+$PERSON ( $ETHNICITY	33581	4723	buddy_guy	african_american	46
+$PERSON ( $ETHNICITY	11771	16999	alfred_eisenstaedt	jewish	46
+$PERSON ( $ETHNICITY	11387	4723	shannon_briggs	african_american	46
+$PERSON ( $ETHNICITY	26846	4723	mike_woodson	african_american	46
+$PERSON ( $ETHNICITY	33308	16999	anne_applebaum	jewish	46
+$PERSON ( $ETHNICITY	12649	4723	mase	african_american	46
+$PERSON ( $ETHNICITY	14079	36816	liv_tyler	italian	46
+$PERSON ( $ETHNICITY	6378	4723	mary_alice	african_american	46
+$PERSON ( $ETHNICITY	37136	4723	eric_moulds	african_american	46
+$PERSON ( $ETHNICITY	4931	4723	terrmel_sledge	african_american	46
+$PERSON ( $ETHNICITY	40117	4723	don_byas	african_american	46
+$PERSON ( $ETHNICITY	17655	24507	paul_walker	albanian-american	46
+$PERSON ( $ETHNICITY	32210	4723	emmitt_smith	african_american	46
+$PERSON ( $ETHNICITY	34678	4723	patrick_pass	african_american	46
+$PERSON ( $ETHNICITY	581	4723	junkyard_dog	african_american	46
+$PERSON ( $ETHNICITY	39681	16999	flora_cross	jewish	46
+$PERSON ( $ETHNICITY	9228	16999	shaul_bakhash	jewish	46
+$PERSON ( $ETHNICITY	18159	4723	carmen_mcrae	african_american	46
+$PERSON ( $ETHNICITY	7485	4723	reggie_jackson	african_american	46
+$PERSON ( $ETHNICITY	36238	4723	tim_duncan	african_american	46
+$PERSON ( $ETHNICITY	10599	4723	kevin_young	african_american	46
+$PERSON ( $ETHNICITY	35601	5014	teddy_pendergrass	black	46
+$PERSON ( $ETHNICITY	26628	4723	shawn_kemp	african_american	46
+$PERSON ( $ETHNICITY	21113	16999	david_lee_roth	jewish	46
+$PERSON ( $ETHNICITY	35564	4723	darnell_jackson	african_american	46
+$PERSON ( $ETHNICITY	15333	29355	henry_kissinger	germans	46
+$PERSON ( $ETHNICITY	13134	11061	jannis_kounellis	greeks	46
+$PERSON ( $ETHNICITY	8454	4723	sinbad	african_american	46
+$PERSON ( $ETHNICITY	2858	16999	rube_goldberg	jewish	46
+$PERSON ( $ETHNICITY	25082	4723	buddy_bolden	african_american	46
+$PERSON ( $ETHNICITY	34574	4723	dwayne_jones	african_american	46
+$PERSON ( $ETHNICITY	3840	16999	benjamin_graham	jewish	46
+$PERSON ( $ETHNICITY	29060	29705	soon-yi_previn	asian	46
+$PERSON ( $ETHNICITY	302	4723	aaron_miles	african_american	46
+$PERSON ( $ETHNICITY	34425	4723	james_chaney	african_american	46
+$PERSON ( $ETHNICITY	26618	4723	faith_ringgold	african_american	46
+$PERSON ( $ETHNICITY	8131	16999	martha_gellhorn	jewish	46
+$PERSON ( $ETHNICITY	26728	4723	shane_youman	african_american	46
+$PERSON ( $ETHNICITY	7258	16999	david_axelrod	jewish	46
+$PERSON ( $ETHNICITY	5388	16999	paul_newman	jewish	46
+$PERSON ( $ETHNICITY	19787	29355	helmut_kohl	germans	46
+$PERSON ( $ETHNICITY	31386	4723	shaun_ellis	african_american	46
+$PERSON ( $ETHNICITY	29817	2221	mike_nichols	russian	46
+$PERSON ( $ETHNICITY	4839	16999	george_gershwin	jewish	46
+$PERSON ( $ETHNICITY	24460	4723	shareef_abdur-rahim	african_american	46
+$PERSON ( $ETHNICITY	21478	16999	sándor_ferenczi	jewish	46
+$PERSON ( $ETHNICITY	23201	16999	otto_frank	jewish	46
+$PERSON ( $ETHNICITY	25207	36816	jason_biggs	italian	46
+$PERSON ( $ETHNICITY	37229	4723	eric_davis	african_american	46
+$PERSON ( $ETHNICITY	32553	16999	emanuel_ax	jewish	46
+$PERSON ( $ETHNICITY	37045	4723	willie_mcgee	african_american	46
+$PERSON ( $ETHNICITY	5563	16999	franz_boas	jewish	46
+$PERSON ( $ETHNICITY	8486	16999	saul_bellow	jewish	46
+$PERSON ( $ETHNICITY	29630	16999	abba_eban	jewish	46
+$PERSON ( $ETHNICITY	16647	4723	hilton_armstrong	african_american	46
+$PERSON ( $ETHNICITY	20690	4723	kevin_garnett	african_american	46
+$PERSON ( $ETHNICITY	40143	16999	sacha_baron_cohen	jewish	46
+$PERSON ( $ETHNICITY	13060	16999	karl_goldmark	jewish	46
+$PERSON ( $ETHNICITY	37429	36816	sergio_leone	italian	46
+$PERSON ( $ETHNICITY	26835	4723	cassie	african_american	46
+$PERSON ( $ETHNICITY	37031	4723	thurgood_marshall	african_american	46
+$PERSON ( $ETHNICITY	18201	16999	john_yarmuth	jewish	46
+$PERSON ( $ETHNICITY	20255	4723	tavis_smiley	african_american	46
+$PERSON ( $ETHNICITY	32413	16999	joaquin_phoenix	jewish	46
+$PERSON ( $ETHNICITY	31250	16999	wilhelm_reich	jewish	46
+$PERSON ( $ETHNICITY	3255	4723	joshua_redman	african_american	46
+

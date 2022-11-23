@@ -2,6 +2,7 @@ from datasets import load_dataset
 from tqdm import tqdm
 import random
 import nltk
+import os
 
 nltk.download('words')
 words = set(nltk.corpus.words.words())
@@ -30,21 +31,21 @@ def get_relation_set():
     valid_relation_set = set()
 
     rel_list = [
-        # '/people/person/nationality',
-        # '/location/location/contains',
-        # '/people/person/place_lived',
-        # '/people/deceased_person/place_of_death',
-        # '/people/person/ethnicity',
-        # '/people/ethnicity/people',
-        # '/business/person/company',
+        '/people/person/nationality',
+        '/location/location/contains',
+        '/people/person/place_lived',
+        '/people/deceased_person/place_of_death',
+        '/people/person/ethnicity',
+        '/people/ethnicity/people',
+        '/business/person/company',
         '/people/person/religion',
-        # '/location/neighborhood/neighborhood_of',
-        # '/business/company/founders',
-        # '/people/person/children',
-        # '/location/administrative_division/country',
-        # '/location/country/administrative_divisions',
-        # '/business/company/place_founded',
-        # '/location/us_county/county_seat'
+        '/location/neighborhood/neighborhood_of',
+        '/business/company/founders',
+        '/people/person/children',
+        '/location/administrative_division/country',
+        '/location/country/administrative_divisions',
+        '/business/company/place_founded',
+        '/location/us_county/county_seat'
     ]
 
     for i in range(len(rel_list)):
@@ -76,6 +77,27 @@ def get_triples_for_relation(relation,
     print(random_selected_triples, file=sp_file)
 
     return random_selected_triples
+
+
+def get_entity_tokens():
+    triples_path = "./prompt_mining/triples_nyt10.txt"
+
+    with open(triples_path) as f:
+        original_triples = f.readlines()[:-1]
+
+    entity_set = set()
+    for triple in original_triples:
+        triple = triple.split('\t')
+        head, tail = triple[0], triple[2][:-1]
+        entity_set.add(head)
+        entity_set.add(tail)
+
+    entity_list = [*entity_set]
+    entity_tokens = {}
+    for i in range(len(entity_list)):
+        entity_tokens[entity_list[i]] = str(i)
+
+    return entity_tokens
 
 
 def mine_triple_text_from_corpus(triples, corpus, relation, n=2000, max_lines=100000, triples_path=None):
@@ -156,34 +178,110 @@ def label_x_and_y_with_categories(relation, head_name, tail_name, limit=False, m
     print(text_after, file=out_file)
 
 
-def main():
-    corpus = "../../../data/pj20/corpus_text_low.txt"
-    relation_set = get_relation_set()
-    for relation in [*relation_set]:
-        print('Begin Text Mining for Relation: ', relation)
-        triples = get_triples_for_relation(relation)
-        mine_triple_text_from_corpus(triples, corpus, relation)
+def filter_meta_pad_mined_results(relation, head, tail):
+    meta_pad_path = './prompt_mining/metapad_mined_result/' + relation
+    filter_result_path = meta_pad_path + '/filtered_patterns'
 
-    # relation_entities = {
-    #     'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER'},
-    #     'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED'},
-    #     'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY'},
-    #     'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY'},
-    #     'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION'},
-    #     'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB'},
-    #     'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR'},
-    #     'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT'},
-    #     'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH'},
-    #     'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE'},
-    #     'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN'},
-    #     'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY'},
-    #     'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY'},
-    #     'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED'},
-    #     'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION'},
-    # }
-    #
-    # for relation in relation_entities.keys():
-    #     label_x_and_y_with_categories(relation, relation_entities[relation]['head'], relation_entities[relation]['tail'])
+    filtered_result = ""
+    lines = []
+    if not os.path.exists(filter_result_path):
+        os.makedirs(filter_result_path)
+    if os.path.exists(meta_pad_path + '/bottom-metapattern.txt'):
+        with open(meta_pad_path + '/bottom-metapattern.txt') as f:
+            lines = f.readlines()
+    if os.path.exists(meta_pad_path + '/top-metapattern.txt'):
+        with open(meta_pad_path + '/top-metapattern.txt') as f:
+            lines += f.readlines()
+
+    pattern_set = set()
+    for line in lines:
+        if (head in line) and (tail in line) and ('|' not in line) and (line.split('\t')[2] not in pattern_set):
+            pattern_set.add(line.split('\t')[2])
+            score_pattern = line.split('\t')[1] + '\t' + line.split('\t')[2]
+            filtered_result += score_pattern
+
+    out_file = open(filter_result_path + '/result.txt', 'w', encoding='utf-8')
+    print(filtered_result, file=out_file)
+
+    return filtered_result
+
+
+def from_meta_pad_to_true_pie(relation, relation_slash, patterns, entity_tokens, threshold=0.4):
+
+    triples = get_triples_for_relation(relation_slash)
+
+    lines = triples.split('\n')
+
+    lines = lines[:-1]
+    score_patterns = patterns.split('\n')
+
+    output = ""
+    for pattern in score_patterns:
+        score = float(pattern.split('\t')[0])
+        pattern = pattern.split('\t')[1]
+    
+        if score <= threshold:
+            break
+
+        cnt = 0
+        random.shuffle(lines)
+        for line in lines:
+            triple = line.split('\t')
+            head, tail = triple[0], triple[2]
+            head_id, tail_id = entity_tokens[head], entity_tokens[tail]
+            output += (pattern + '\t' + head_id + '\t' + tail_id + '\t' + head + '\t' + tail + '\t' + str(int(score*100)) + '\n')
+            cnt += 1
+            if cnt >= score*300:
+                break
+
+    out_file_path = './prompt_mining/truepie/input/patterns_' + relation + '.txt'
+    out_file = open(out_file_path, 'w', encoding='utf-8')
+    print(output, file=out_file)
+
+
+def main():
+    # corpus = "../../../data/pj20/corpus_text_low.txt"
+    relation_set = get_relation_set()
+    # for relation in [*relation_set]:
+    #     print('Begin Text Mining for Relation: ', relation)
+    #     triples = get_triples_for_relation(relation)
+    #     mine_triple_text_from_corpus(triples, corpus, relation)
+
+    relation_entities = {
+        'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER', 'slash': 'business/company/founders'},
+        'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED', 'slash': 'business/company/place_founded'},
+        'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY', 'slash': 'business/person/company'},
+        'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY', 'slash': 'location/administrative_division/country'},
+        'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION', 'slash': 'location/country/administrative_divisions'},
+        'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB', 'slash': 'location/location/contains'},
+        'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR', 'slash': 'location/neighborhood/neighborhood_of'},
+        'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT', 'slash': 'location/us_county/county_seat'},
+        'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH', 'slash': 'people/deceased_person/place_of_death'},
+        'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE', 'slash': 'people/ethnicity/people'},
+        'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN', 'slash': 'people/person/children'},
+        'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY', 'slash': 'people/person/ethnicity'},
+        'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY', 'slash': 'people/person/nationality'},
+        'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED', 'slash': 'people/person/place_lived'},
+        'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION', 'slash': 'people/person/religion'},
+    }
+
+    for relation in relation_entities.keys():
+        label_x_and_y_with_categories(
+            relation,
+            relation_entities[relation]['head'],
+            relation_entities[relation]['tail']
+        )
+
+    entity_tokens = get_entity_tokens()
+    # print(entity_tokens)
+    for relation in relation_entities.keys():
+        filtered_patterns = filter_meta_pad_mined_results(
+            relation,
+            relation_entities[relation]['head'],
+            relation_entities[relation]['tail']
+        )
+        relation_slash = relation_entities[relation]['slash']
+        from_meta_pad_to_true_pie(relation, relation_slash, filtered_patterns, entity_tokens)
 
 
 if __name__ == '__main__':

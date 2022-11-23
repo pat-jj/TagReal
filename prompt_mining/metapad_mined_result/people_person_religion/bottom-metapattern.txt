@@ -1,0 +1,55 @@
+<RELIGION></RELIGION> , <PERSON></PERSON>	0.475529559	$RELIGION , $PERSON
+nation of <RELIGION></RELIGION>	0.407611847	nation of $RELIGION
+<PERSON></PERSON> community	0.403403575	$PERSON community
+founder of the <RELIGION></RELIGION>	0.3961587349	founder of the $RELIGION
+<RELIGION></RELIGION> world ,	0.3867491438	$RELIGION world ,
+<RELIGION></RELIGION> prophet ,	0.3806216334	$RELIGION prophet ,
+<PERSON></PERSON> al - ,	0.3806216334	$PERSON al - ,
+<RELIGION></RELIGION> world	0.3782493771	$RELIGION world
+<RELIGION></RELIGION> , <PERSON></PERSON> ,	0.3716162016	$RELIGION , $PERSON ,
+<RELIGION></RELIGION> prophet	0.3707758476	$RELIGION prophet
+church of <RELIGION></RELIGION>	0.3707758476	church of $RELIGION
+<RELIGION></RELIGION> church	0.3707758476	$RELIGION church
+<RELIGION></RELIGION> republic ,	0.3636393854	$RELIGION republic ,
+founder of <RELIGION></RELIGION> ,	0.3634209449	founder of $RELIGION ,
+<PERSON></PERSON> ban	0.3629982065	$PERSON ban
+time of <PERSON></PERSON>	0.3554904487	time of $PERSON
+<RELIGION></RELIGION> prophet <PERSON></PERSON> ,	0.3553147718	$RELIGION prophet $PERSON ,
+<RELIGION></RELIGION> republic of ,	0.3553147718	$RELIGION republic of ,
+nation of <RELIGION></RELIGION> ,	0.3553147718	nation of $RELIGION ,
+<PERSON></PERSON> , the founder of <RELIGION></RELIGION> ,	0.3552789766	$PERSON , the founder of $RELIGION ,
+<RELIGION></RELIGION> state	0.35482095	$RELIGION state
+<PERSON></PERSON> , the founder of <RELIGION></RELIGION>	0.3542789766	$PERSON , the founder of $RELIGION
+<RELIGION></RELIGION> republic	0.3540824885	$RELIGION republic
+<PERSON></PERSON> , the founder	0.3540824885	$PERSON , the founder
+founder of <RELIGION></RELIGION>	0.3540824885	founder of $RELIGION
+<PERSON></PERSON> , the leader	0.3420704838	$PERSON , the leader
+<RELIGION></RELIGION> prophet <PERSON></PERSON>	0.3420704838	$RELIGION prophet $PERSON
+death of <PERSON></PERSON>	0.3347967187	death of $PERSON
+<RELIGION></RELIGION> tradition	0.334783753	$RELIGION tradition
+<RELIGION></RELIGION> tradition ,	0.3340287612	$RELIGION tradition ,
+<RELIGION></RELIGION> revolution	0.3304854775	$RELIGION revolution
+<RELIGION></RELIGION> prophet , <PERSON></PERSON>	0.319845363	$RELIGION prophet , $PERSON
+greater <PERSON></PERSON> <RELIGION></RELIGION>	0.3186495283	greater $PERSON $RELIGION
+<RELIGION></RELIGION> university	0.3093021051	$RELIGION university
+<PERSON></PERSON> , who	0.3093021051	$PERSON , who
+<PERSON></PERSON> , founder	0.3093021051	$PERSON , founder
+<RELIGION></RELIGION> state of and the levant	0.3080656014	$RELIGION state of and the levant
+<RELIGION></RELIGION> diocese	0.2952576718	$RELIGION diocese
+<PERSON></PERSON> al	0.2579644171	$PERSON al
+president of the <RELIGION></RELIGION>	0.254155324	president of the $RELIGION
+leader of the <RELIGION></RELIGION>	0.254155324	leader of the $RELIGION
+who converted to <RELIGION></RELIGION>	0.2274955569	who converted to $RELIGION
+non - <PERSON></PERSON> movement	0.2247016588	non - $PERSON movement
+nation of <RELIGION></RELIGION> leader	0.2181613249	nation of $RELIGION leader
+part of greater <PERSON></PERSON> <RELIGION></RELIGION>	0.2163713573	part of greater $PERSON $RELIGION
+te <PERSON></PERSON> sion series	0.2150446261	te $PERSON sion series
+al - <PERSON></PERSON>	0.2145074254	al - $PERSON
+leader of the nation of <RELIGION></RELIGION>	0.2138109144	leader of the nation of $RELIGION
+te <PERSON></PERSON> sion series about and <RELIGION></RELIGION>	0.2125761581	te $PERSON sion series about and $RELIGION
+founder of the <RELIGION></RELIGION> republic	0.2076771253	founder of the $RELIGION republic
+al - <RELIGION></RELIGION> ,	0.2052793499	al - $RELIGION ,
+nation of <RELIGION></RELIGION> leader <PERSON></PERSON>	0.185682942	nation of $RELIGION leader $PERSON
+<RELIGION></RELIGION> revolutionary guard corps	0.178450048	$RELIGION revolutionary guard corps
+school - separate ( <RELIGION></RELIGION> )	0.174133586	school - separate ( $RELIGION )
+school - separate ( <RELIGION></RELIGION> ) elementary	0.1660945162	school - separate ( $RELIGION ) elementary

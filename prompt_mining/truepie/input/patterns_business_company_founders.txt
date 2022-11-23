@@ -1,0 +1,1069 @@
+ $FOUNDER , founder of $COMPANY	11784	6655	north_atlantic_treaty_organization	iceland	91
+ $FOUNDER , founder of $COMPANY	36683	4136	jetblue_airways	david_neeleman	91
+ $FOUNDER , founder of $COMPANY	20575	33587	general_motors	william_c._durant	91
+ $FOUNDER , founder of $COMPANY	13464	19161	institute_of_culinary_education	peter_kump	91
+ $FOUNDER , founder of $COMPANY	4586	20155	kb_home	eli_broad	91
+ $FOUNDER , founder of $COMPANY	5498	24276	tuskegee_university	booker_t._washington	91
+ $FOUNDER , founder of $COMPANY	1971	40651	time_warner	steve_case	91
+ $FOUNDER , founder of $COMPANY	29031	11397	the_huffington_post	kenneth_lerer	91
+ $FOUNDER , founder of $COMPANY	40680	34538	hebrew_university_of_jerusalem	albert_einstein	91
+ $FOUNDER , founder of $COMPANY	8407	30219	amherst_college	noah_webster	91
+ $FOUNDER , founder of $COMPANY	18672	39074	social_security_administration	franklin_d._roosevelt	91
+ $FOUNDER , founder of $COMPANY	28096	24611	museum_of_modern_art	abby_aldrich_rockefeller	91
+ $FOUNDER , founder of $COMPANY	3919	6874	sun_microsystems	bill_joy	91
+ $FOUNDER , founder of $COMPANY	14199	38988	worldwide_pants	david_letterman	91
+ $FOUNDER , founder of $COMPANY	27084	481	cox_enterprises	james_m._cox	91
+ $FOUNDER , founder of $COMPANY	3541	28342	united_nations	luxembourg	91
+ $FOUNDER , founder of $COMPANY	30770	354	elevation_partners	bono	91
+ $FOUNDER , founder of $COMPANY	3541	34186	united_nations	peru	91
+ $FOUNDER , founder of $COMPANY	11641	34677	marimba	kim_polese	91
+ $FOUNDER , founder of $COMPANY	3887	20780	def_jam_recordings	russell_simmons	91
+ $FOUNDER , founder of $COMPANY	17334	8072	medio_systems	brian_lent	91
+ $FOUNDER , founder of $COMPANY	7831	23579	amblin_entertainment	kathleen_kennedy	91
+ $FOUNDER , founder of $COMPANY	36429	10299	rocawear	jay-z	91
+ $FOUNDER , founder of $COMPANY	29659	38302	fox_news_channel	rupert_murdoch	91
+ $FOUNDER , founder of $COMPANY	20595	27650	critical_mention	sean_morgan	91
+ $FOUNDER , founder of $COMPANY	25451	25536	club_penguin	lane_merrifield	91
+ $FOUNDER , founder of $COMPANY	11784	34627	north_atlantic_treaty_organization	united_states_of_america	91
+ $FOUNDER , founder of $COMPANY	7183	5724	drew_university	daniel_drew	91
+ $FOUNDER , founder of $COMPANY	23217	3947	terra_firma_capital_partners	guy_hands	91
+ $FOUNDER , founder of $COMPANY	29506	15946	union_pacific_railroad	abraham_lincoln	91
+ $FOUNDER , founder of $COMPANY	20890	1083	damballa	david_dagon	91
+ $FOUNDER , founder of $COMPANY	8103	17017	cranbrook_educational_community	eliel_saarinen	91
+ $FOUNDER , founder of $COMPANY	3541	4356	united_nations	venezuela	91
+ $FOUNDER , founder of $COMPANY	7305	35645	electric_lady_studios	jimi_hendrix	91
+ $FOUNDER , founder of $COMPANY	7922	23441	california_institute_of_the_arts	walt_disney	91
+ $FOUNDER , founder of $COMPANY	37267	6631	powerset	steve_newcomb	91
+ $FOUNDER , founder of $COMPANY	25117	13189	playtone	tom_hanks	91
+ $FOUNDER , founder of $COMPANY	25247	130	columbia_pictures	harry_cohn	91
+ $FOUNDER , founder of $COMPANY	11565	16368	generation_investment_management	al_gore	91
+ $FOUNDER , founder of $COMPANY	7965	24723	adidas	adolf_dassler	91
+ $FOUNDER , founder of $COMPANY	38731	16752	genzyme	sheridan_snyder	91
+ $FOUNDER , founder of $COMPANY	20896	39408	federal_trade_commission	woodrow_wilson	91
+ $FOUNDER , founder of $COMPANY	15512	12163	choicestream	michael_strickman	91
+ $FOUNDER , founder of $COMPANY	29666	5473	knights_of_columbus	michael_j._mcgivney	91
+ $FOUNDER , founder of $COMPANY	23133	12737	national_amusements	michael_redstone	91
+ $FOUNDER , founder of $COMPANY	33234	23825	infosys	kris_gopalakrishnan	91
+ $FOUNDER , founder of $COMPANY	32473	9211	studio_ghibli	hayao_miyazaki	91
+ $FOUNDER , founder of $COMPANY	29518	23720	trinity_broadcasting_network	paul_crouch	91
+ $FOUNDER , founder of $COMPANY	8052	35375	tesla_motors	martin_eberhard	91
+ $FOUNDER , founder of $COMPANY	3541	38709	united_nations	ethiopia	91
+ $FOUNDER , founder of $COMPANY	13744	14251	university_of_utah	brigham_young	91
+ $FOUNDER , founder of $COMPANY	19262	28461	perella_weinberg_partners	joseph_r._perella	91
+ $FOUNDER , founder of $COMPANY	31459	22427	rockefeller_foundation	john_d._rockefeller	91
+ $FOUNDER , founder of $COMPANY	16109	30950	nicole_miller	bud_konheim	91
+ $FOUNDER , founder of $COMPANY	3541	26890	united_nations	brazil	91
+ $FOUNDER , founder of $COMPANY	30061	4948	harmonix_music_systems	eran_egozy	91
+ $FOUNDER , founder of $COMPANY	8248	32919	new_york_medical_college	william_cullen_bryant	91
+ $FOUNDER , founder of $COMPANY	37716	39574	counterpane_internet_security	bruce_schneier	91
+ $FOUNDER , founder of $COMPANY	13738	29808	weta_digital	jamie_selkirk	91
+ $FOUNDER , founder of $COMPANY	29352	10565	leapfrog_ventures	peter_rip	91
+ $FOUNDER , founder of $COMPANY	18902	6943	google	sergey_brin	91
+ $FOUNDER , founder of $COMPANY	1234	11839	chermayeff_&_geismar	tom_geismar	91
+ $FOUNDER , founder of $COMPANY	24848	4165	cold_spring_harbor_laboratory	charles_davenport	91
+ $FOUNDER , founder of $COMPANY	13284	4553	gestapo	adolf_hitler	91
+ $FOUNDER , founder of $COMPANY	37156	22369	capitol_records	johnny_mercer	91
+ $FOUNDER , founder of $COMPANY	19705	6408	gazprom_neft	roman_abramovich	91
+ $FOUNDER , founder of $COMPANY	1234	33740	chermayeff_&_geismar	ivan_chermayeff	91
+ $FOUNDER , founder of $COMPANY	13098	31405	akademiks	donwan_harrell	91
+ $FOUNDER , founder of $COMPANY	15910	39059	dow_jones_&_company	charles_dow	91
+ $FOUNDER , founder of $COMPANY	15172	12366	creative_artists_agency	michael_ovitz	91
+ $FOUNDER , founder of $COMPANY	19766	5169	united_states_naval_academy	george_bancroft	91
+ $FOUNDER , founder of $COMPANY	30583	15559	central_european_university	george_soros	91
+ $FOUNDER , founder of $COMPANY	11784	25002	north_atlantic_treaty_organization	united_kingdom	91
+ $FOUNDER , founder of $COMPANY	2688	11538	motown_records	berry_gordy	91
+ $FOUNDER , founder of $COMPANY	6038	8447	citadel_investment_group	kenneth_c._griffin	91
+ $FOUNDER , founder of $COMPANY	38622	28254	economic_policy_institute	robert_reich	91
+ $FOUNDER , founder of $COMPANY	21642	38958	microsoft_research	nathan_myhrvold	91
+ $FOUNDER , founder of $COMPANY	9254	10082	international_coal_group	wilbur_ross	91
+ $FOUNDER , founder of $COMPANY	33651	38988	rahal_letterman_racing	david_letterman	91
+ $FOUNDER , founder of $COMPANY	12793	19308	shutterfly	andy_young	91
+ $FOUNDER , founder of $COMPANY	30590	18379	fox_broadcasting_company	barry_diller	91
+ $FOUNDER , founder of $COMPANY	4880	4033	library_of_america	edmund_wilson	91
+ $FOUNDER , founder of $COMPANY	11784	1925	north_atlantic_treaty_organization	portugal	91
+ $FOUNDER , founder of $COMPANY	26828	759	library_of_congress	john_adams	91
+ $FOUNDER , founder of $COMPANY	41332	29474	estée_lauder_companies	estée_lauder	91
+ $FOUNDER , founder of $COMPANY	3541	13824	united_nations	czechoslovakia	91
+ $FOUNDER , founder of $COMPANY	36237	25318	hearst_corporation	william_randolph_hearst	91
+ $FOUNDER , founder of $COMPANY	29304	4491	idealab	bill_gross	91
+ $FOUNDER , founder of $COMPANY	15063	27708	revver	steven_starr	91
+ $FOUNDER , founder of $COMPANY	1457	25318	hearst_magazines	william_randolph_hearst	91
+ $FOUNDER , founder of $COMPANY	33816	19302	sac_capital_partners	steven_a._cohen	91
+ $FOUNDER , founder of $COMPANY	14924	15696	biovail	eugene_melnyk	91
+ $FOUNDER , founder of $COMPANY	5604	10665	united_states_environmental_protection_agency	richard_nixon	91
+ $FOUNDER , founder of $COMPANY	39123	31459	international_rice_research_institute	rockefeller_foundation	91
+ $FOUNDER , founder of $COMPANY	3541	15627	united_nations	saudi_arabia	91
+ $FOUNDER , founder of $COMPANY	26172	11324	vanguard_animation	john_h._williams	91
+ $FOUNDER , founder of $COMPANY	36280	26868	shanghai_cooperation_organization	kazakhstan	91
+ $FOUNDER , founder of $COMPANY	37372	20234	carnival_cruise_lines	ted_arison	91
+ $FOUNDER , founder of $COMPANY	1756	18761	netsuite	larry_ellison	91
+ $FOUNDER , founder of $COMPANY	2280	19849	groove_networks	ray_ozzie	91
+ $FOUNDER , founder of $COMPANY	5861	23441	walt_disney_world_resort	walt_disney	91
+ $FOUNDER , founder of $COMPANY	33017	18169	oral_roberts_university	oral_roberts	91
+ $FOUNDER , founder of $COMPANY	19006	8614	emc_corporation	richard_egan	91
+ $FOUNDER , founder of $COMPANY	3577	5319	comcast	ralph_j._roberts	91
+ $FOUNDER , founder of $COMPANY	21642	23590	microsoft_research	bill_gates	91
+ $FOUNDER , founder of $COMPANY	22843	11421	tvr	trevor_wilkinson	91
+ $FOUNDER , founder of $COMPANY	10770	41098	university_of_pennsylvania	george_whitefield	91
+ $FOUNDER , founder of $COMPANY	17215	4327	livedoor	takafumi_horie	91
+ $FOUNDER , founder of $COMPANY	10349	40563	virgin_galactic	burt_rutan	91
+ $FOUNDER , founder of $COMPANY	9999	23590	corbis	bill_gates	91
+ $FOUNDER , founder of $COMPANY	11823	29878	european_union	paul-henri_spaak	91
+ $FOUNDER , founder of $COMPANY	30874	11483	collabnet	tim_o'reilly	91
+ $FOUNDER , founder of $COMPANY	18902	24925	google	larry_page	91
+ $FOUNDER , founder of $COMPANY	30874	9153	collabnet	brian_behlendorf	91
+ $FOUNDER , founder of $COMPANY	35943	38302	sky_italia	rupert_murdoch	91
+ $FOUNDER , founder of $COMPANY	27634	39768	national_science_foundation	vannevar_bush	91
+ $FOUNDER , founder of $COMPANY	12400	38556	american_civil_liberties_union	norman_thomas	91
+ $FOUNDER , founder of $COMPANY	3561	32565	food_and_drug_administration	theodore_roosevelt	91
+ $FOUNDER , founder of $COMPANY	25703	4031	federal_emergency_management_agency	zbigniew_brzezinski	91
+ $FOUNDER , founder of $COMPANY	40825	6555	rockstar_games	dan_houser	91
+ $FOUNDER , founder of $COMPANY	23467	19577	american_psychological_association	g._stanley_hall	91
+ $FOUNDER , founder of $COMPANY	3541	19742	united_nations	argentina	91
+ $FOUNDER , founder of $COMPANY	30575	39768	raytheon	vannevar_bush	91
+ $FOUNDER , founder of $COMPANY	28812	30167	factory_records	tony_wilson	91
+ $FOUNDER , founder of $COMPANY	3919	3243	sun_microsystems	scott_g._mcnealy	91
+ $FOUNDER , founder of $COMPANY	40761	38167	brookings_institution	peter_r._orszag	91
+ $FOUNDER , founder of $COMPANY	33733	28915	sony_computer_entertainment	norio_ohga	91
+ $FOUNDER , founder of $COMPANY	41358	37076	carnegie_endowment_for_international_peace	andrew_carnegie	91
+ $FOUNDER , founder of $COMPANY	7898	37950	polaroid_corporation	edwin_h._land	91
+ $FOUNDER , founder of $COMPANY	8276	34389	association_of_tennis_professionals	cliff_drysdale	91
+ $FOUNDER , founder of $COMPANY	35265	29620	ella_baker_center_for_human_rights	van_jones	91
+ $FOUNDER , founder of $COMPANY	13573	6082	magna_entertainment_corporation	frank_stronach	91
+ $FOUNDER , founder of $COMPANY	3454	38961	random_house	bennett_cerf	91
+ $FOUNDER , founder of $COMPANY	39367	37556	atom_entertainment	mika_salmi	91
+ $FOUNDER , founder of $COMPANY	11784	31587	north_atlantic_treaty_organization	france	91
+ $FOUNDER , founder of $COMPANY	349	28288	wikimedia_foundation	jimmy_wales	91
+ $FOUNDER , founder of $COMPANY	4961	24077	national_audubon_society	john_muir	91
+ $FOUNDER , founder of $COMPANY	24326	21390	trans_world_airlines	howard_hughes	91
+ $FOUNDER , founder of $COMPANY	14114	26593	academy_of_motion_picture_arts_and_sciences	mary_pickford	91
+ $FOUNDER , founder of $COMPANY	3541	1657	united_nations	bolivia	91
+ $FOUNDER , founder of $COMPANY	36128	23050	budget_suites_of_america	robert_bigelow	91
+ $FOUNDER , founder of $COMPANY	34335	20401	virgin_blue	richard_branson	91
+ $FOUNDER , founder of $COMPANY	9536	41212	arquitectonica	bernardo_fort-brescia	91
+ $FOUNDER , founder of $COMPANY	9297	16185	applied_minds	bran_ferren	91
+ $FOUNDER , founder of $COMPANY	23692	9182	united_press_international	e._w._scripps	91
+ $FOUNDER , founder of $COMPANY	18331	22669	barnes_&_noble	leonard_riggio	91
+ $FOUNDER , founder of $COMPANY	3410	37076	carnegie_institute_of_technology	andrew_carnegie	91
+ $FOUNDER , founder of $COMPANY	15482	3109	united_artists	charlie_chaplin	91
+ $FOUNDER , founder of $COMPANY	14114	7961	academy_of_motion_picture_arts_and_sciences	cecil_b._demille	91
+ $FOUNDER , founder of $COMPANY	3297	38302	news_corporation	rupert_murdoch	91
+ $FOUNDER , founder of $COMPANY	15656	17099	bbc	john_peel	91
+ $FOUNDER , founder of $COMPANY	622	9150	funimation_entertainment	gen_fukunaga	91
+ $FOUNDER , founder of $COMPANY	37403	16449	citrix_systems	ed_iacobucci	91
+ $FOUNDER , founder of $COMPANY	3541	23525	united_nations	dominican_republic	91
+ $FOUNDER , founder of $COMPANY	32375	27762	pratt_institute	charles_pratt	91
+ $FOUNDER , founder of $COMPANY	14858	24425	dreamworks	jeffrey_katzenberg	91
+ $FOUNDER , founder of $COMPANY	29783	20427	enron	kenneth_lay	91
+ $FOUNDER , founder of $COMPANY	29187	36975	leo_burnett_worldwide	leo_burnett	91
+ $FOUNDER , founder of $COMPANY	5153	39824	jangl	michael_cerda	91
+ $FOUNDER , founder of $COMPANY	15742	32897	defense_intelligence_agency	robert_mcnamara	91
+ $FOUNDER , founder of $COMPANY	1904	24459	zazzle	robert_beaver	91
+ $FOUNDER , founder of $COMPANY	10770	30484	university_of_pennsylvania	benjamin_franklin	91
+ $FOUNDER , founder of $COMPANY	14203	25260	heritage_foundation	paul_weyrich	91
+ $FOUNDER , founder of $COMPANY	29092	133	apollo_management	leon_black	91
+ $FOUNDER , founder of $COMPANY	3541	24014	united_nations	honduras	91
+ $FOUNDER , founder of $COMPANY	29771	14858	paramount_pictures	dreamworks	91
+ $FOUNDER , founder of $COMPANY	36059	2554	apple_corps	ringo_starr	91
+ $FOUNDER , founder of $COMPANY	7959	31307	paypal	peter_thiel	91
+ $FOUNDER , founder of $COMPANY	37141	34345	wpp_group	martin_sorrell	91
+ $FOUNDER , founder of $COMPANY	3541	33904	united_nations	colombia	91
+ $FOUNDER , founder of $COMPANY	18471	15468	lucasarts	george_lucas	91
+ $FOUNDER , founder of $COMPANY	29326	14397	magnatune	john_buckman	91
+ $FOUNDER , founder of $COMPANY	35750	17667	international_lease_finance_corporation	steven_f._udvar-hazy	91
+ $FOUNDER , founder of $COMPANY	31874	28395	linden_lab	philip_rosedale	91
+ $FOUNDER , founder of $COMPANY	15482	11838	united_artists	douglas_fairbanks	91
+ $FOUNDER , founder of $COMPANY	35609	5093	universal_music_group	jimmy_iovine	91
+ $FOUNDER , founder of $COMPANY	22162	23100	bazaarvoice	brett_hurt	91
+ $FOUNDER , founder of $COMPANY	26230	19167	four_seasons_hotels	isadore_sharp	91
+ $FOUNDER , founder of $COMPANY	2427	29512	house_of_blues	dan_aykroyd	91
+ $FOUNDER , founder of $COMPANY	29093	15468	skywalker_sound	george_lucas	91
+ $FOUNDER , founder of $COMPANY	29639	3415	arista_records	clive_davis	91
+ $FOUNDER , founder of $COMPANY	6757	8971	qwest	philip_anschutz	91
+ $FOUNDER , founder of $COMPANY	16122	16762	weta_workshop	peter_jackson	91
+ $FOUNDER , founder of $COMPANY	2826	29771	upn	paramount_pictures	91
+ $FOUNDER , founder of $COMPANY	25945	22463	viaweb	paul_graham	91
+ $FOUNDER , founder of $COMPANY	3541	28198	united_nations	panama	91
+ $FOUNDER , founder of $COMPANY	32461	172	versace	gianni_versace	91
+ $FOUNDER , founder of $COMPANY	1918	27336	roman_catholic_church	jesus_christ	91
+ $FOUNDER , founder of $COMPANY	13415	28039	pixsense	faraz_hoodbhoy	91
+ $FOUNDER , founder of $COMPANY	8411	7710	hambrecht_&_quist	bill_hambrecht	91
+ $FOUNDER , founder of $COMPANY	36431	31962	cornell_university	andrew_dickson_white	91
+ $FOUNDER , founder of $COMPANY	11784	40620	north_atlantic_treaty_organization	norway	91
+ $FOUNDER , founder of $COMPANY	17356	25825	myspace	chris_dewolfe	91
+ $FOUNDER , founder of $COMPANY	37854	18736	khosla_ventures	vinod_khosla	91
+ $FOUNDER , founder of $COMPANY	5333	33842	kohn_pedersen_fox	sheldon_fox	91
+ $FOUNDER , founder of $COMPANY	36280	10020	shanghai_cooperation_organization	china	91
+ $FOUNDER , founder of $COMPANY	16985	40170	liberty_university	jerry_falwell	91
+ $FOUNDER , founder of $COMPANY	19263	23441	disney_channel	walt_disney	91
+ $FOUNDER , founder of $COMPANY	25469	10665	national_oceanic_and_atmospheric_administration	richard_nixon	91
+ $FOUNDER , founder of $COMPANY	8052	14276	tesla_motors	elon_musk	91
+ $FOUNDER , founder of $COMPANY	8947	22280	mga_entertainment	isaac_larian	91
+ $FOUNDER , founder of $COMPANY	1381	32002	zopa	richard_duvall	91
+ $FOUNDER , founder of $COMPANY	24861	20401	virgin_group	richard_branson	91
+ $FOUNDER , founder of $COMPANY	25791	29220	zerofootprint	ron_dembo	91
+ $FOUNDER , founder of $COMPANY	8759	598	ecm	manfred_eicher	91
+ $FOUNDER , founder of $COMPANY	26934	25139	royal_academy	thomas_gainsborough	91
+ $FOUNDER , founder of $COMPANY	16467	13917	j._paul_getty_museum	j._paul_getty	91
+ $FOUNDER , founder of $COMPANY	39682	38898	polo_ralph_lauren	ralph_lauren	91
+ $FOUNDER , founder of $COMPANY	4108	8212	red_army	leon_trotsky	91
+ $FOUNDER , founder of $COMPANY	27763	24300	salesforce.com	marc_benioff	91
+ $FOUNDER , founder of $COMPANY	7959	17430	paypal	max_levchin	91
+ $FOUNDER , founder of $COMPANY	30590	38302	fox_broadcasting_company	rupert_murdoch	91
+ $FOUNDER , founder of $COMPANY	3541	17728	united_nations	ecuador	91
+ $FOUNDER , founder of $COMPANY	11823	38990	european_union	jean_monnet	91
+ $FOUNDER , founder of $COMPANY	13535	21459	nasa	john_f._kennedy	91
+ $FOUNDER , founder of $COMPANY	548	3560	pinger	greg_woock	91
+ $FOUNDER , founder of $COMPANY	28578	35264	baker_botts	james_baker	91
+ $FOUNDER , founder of $COMPANY	6823	13126	pinnacle_entertainment	jack_warner	91
+ $FOUNDER , founder of $COMPANY	14908	25910	technet	john_doerr	91
+ $FOUNDER , founder of $COMPANY	29260	9083	national_gallery_of_art	andrew_w._mellon	91
+ $FOUNDER , founder of $COMPANY	11373	4084	skype	niklas_zennström	91
+ $FOUNDER , founder of $COMPANY	33585	35632	southern_poverty_law_center	julian_bond	91
+ $FOUNDER , founder of $COMPANY	36280	40096	shanghai_cooperation_organization	tajikistan	91
+ $FOUNDER , founder of $COMPANY	7516	35705	giuliani_partners	rudy_giuliani	91
+ $FOUNDER , founder of $COMPANY	10217	29446	harvard_graduate_school_of_design	walter_gropius	91
+ $FOUNDER , founder of $COMPANY	28178	7734	proenza_schouler	lazaro_hernandez	91
+ $FOUNDER , founder of $COMPANY	12751	11303	pennsylvania_academy_of_the_fine_arts	charles_willson_peale	91
+ $FOUNDER , founder of $COMPANY	12827	27182	glencore	marc_rich	91
+ $FOUNDER , founder of $COMPANY	4060	40651	revolution_health_group	steve_case	91
+ $FOUNDER , founder of $COMPANY	13584	11714	glam_media	samir_arora	91
+ $FOUNDER , founder of $COMPANY	24673	39888	cargill	w.w._cargill	91
+ $FOUNDER , founder of $COMPANY	7115	36318	psv_eindhoven	philips	91
+ $FOUNDER , founder of $COMPANY	39488	27485	united_states_department_of_health_and_human_services	john_baldacci	91
+ $FOUNDER , founder of $COMPANY	41332	1903	estée_lauder_companies	ronald_lauder	91
+ $FOUNDER , founder of $COMPANY	7398	15359	university_of_chicago	john_dewey	91
+ $FOUNDER , founder of $COMPANY	30393	12128	council_on_foreign_relations	walter_lippmann	91
+ $FOUNDER , founder of $COMPANY	30191	12279	sony	akio_morita	91
+ $FOUNDER , founder of $COMPANY	13284	14872	gestapo	hermann_göring	91
+ $FOUNDER , founder of $COMPANY	14858	40432	dreamworks	steven_spielberg	91
+ $FOUNDER , founder of $COMPANY	36937	40344	grove_press	barney_rosset	91
+ $FOUNDER , founder of $COMPANY	26934	9980	royal_academy	benjamin_west	91
+ $FOUNDER , founder of $COMPANY	13796	3821	united_states_army_corps_of_engineers	george_washington	91
+ $FOUNDER , founder of $COMPANY	40924	1496	hammer_museum	armand_hammer	91
+ $FOUNDER , founder of $COMPANY	29783	39877	enron	jeffrey_skilling	91
+ $FOUNDER , founder of $COMPANY	36059	2139	apple_corps	paul_mccartney	91
+ $FOUNDER , founder of $COMPANY	19884	2554	apple_records	ringo_starr	91
+ $FOUNDER , founder of $COMPANY	26341	7754	southern_california_institute_of_architecture	thom_mayne	91
+ $FOUNDER , founder of $COMPANY	20125	29446	bauhaus	walter_gropius	91
+ $FOUNDER , founder of $COMPANY	9817	13892	open_source_applications_foundation	mitchell_kapor	91
+ $FOUNDER , founder of $COMPANY	3056	32972	dow_chemical_company	herbert_henry_dow	91
+ $FOUNDER , founder of $COMPANY	27567	40421	porsche	ferdinand_porsche	91
+ $FOUNDER , founder of $COMPANY	2414	39586	discovery_communications	john_hendricks	91
+ $FOUNDER , founder of $COMPANY	39439	17808	televisa	emilio_azcárraga_vidaurreta	91
+ $FOUNDER , founder of $COMPANY	20272	23117	youtube	jawed_karim	91
+ $FOUNDER , founder of $COMPANY	30327	21459	peace_corps	john_f._kennedy	91
+ $FOUNDER , founder of $COMPANY	19073	32565	national_collegiate_athletic_association	theodore_roosevelt	91
+ $FOUNDER , founder of $COMPANY	3557	31804	snyder_communications	daniel_snyder	91
+ $FOUNDER , founder of $COMPANY	25465	3924	transportation_security_administration	george_w._bush	91
+ $FOUNDER , founder of $COMPANY	24087	17321	lexus	eiji_toyoda	91
+ $FOUNDER , founder of $COMPANY	33721	24168	pixar	steve_jobs	91
+ $FOUNDER , founder of $COMPANY	40761	14013	brookings_institution	robert_rubin	91
+ $FOUNDER , founder of $COMPANY	25499	8782	ice.com	shmuel_gniwisch	91
+ $FOUNDER , founder of $COMPANY	39770	10223	electronic_arts	trip_hawkins	91
+ $FOUNDER , founder of $COMPANY	33697	33903	duke_energy	james_buchanan_duke	91
+ $FOUNDER , founder of $COMPANY	32377	8302	american_red_cross	clara_barton	91
+ $FOUNDER , founder of $COMPANY	1409	38519	aldine_press	aldus_manutius	91
+ $FOUNDER , founder of $COMPANY	12092	3366	j.c._penney	j._c._penney	91
+ $FOUNDER , founder of $COMPANY	4226	20608	bank_of_new_york	alexander_hamilton	91
+ $FOUNDER , founder of $COMPANY	33930	6986	deere_&_company	john_deere	91
+ $FOUNDER , founder of $COMPANY	25347	21459	united_states_agency_for_international_development	john_f._kennedy	91
+ $FOUNDER , founder of $COMPANY	25229	4436	medianews_group	william_dean_singleton	91
+ $FOUNDER , founder of $COMPANY	13738	16762	weta_digital	peter_jackson	91
+ $FOUNDER , founder of $COMPANY	36280	14850	shanghai_cooperation_organization	russia	91
+ $FOUNDER , founder of $COMPANY	10433	10336	barrick_gold	peter_munk	91
+ $FOUNDER , founder of $COMPANY	37674	9518	xm_satellite_radio	hugh_panero	91
+ $FOUNDER , co-founder of $COMPANY	40776	19908	planetary_society	carl_sagan	88
+ $FOUNDER , co-founder of $COMPANY	39801	30421	digg	jay_adelson	88
+ $FOUNDER , co-founder of $COMPANY	14114	7961	academy_of_motion_picture_arts_and_sciences	cecil_b._demille	88
+ $FOUNDER , co-founder of $COMPANY	36164	35388	flickr	caterina_fake	88
+ $FOUNDER , co-founder of $COMPANY	3541	17728	united_nations	ecuador	88
+ $FOUNDER , co-founder of $COMPANY	18441	6425	gnomonsong	andy_cabic	88
+ $FOUNDER , co-founder of $COMPANY	24170	29622	general_foods	marjorie_merriweather_post	88
+ $FOUNDER , co-founder of $COMPANY	18258	15423	vatican_museums	pope_julius_ii	88
+ $FOUNDER , co-founder of $COMPANY	4206	24020	united_states_military_academy	thomas_jefferson	88
+ $FOUNDER , co-founder of $COMPANY	39439	17808	televisa	emilio_azcárraga_vidaurreta	88
+ $FOUNDER , co-founder of $COMPANY	13284	4553	gestapo	adolf_hitler	88
+ $FOUNDER , co-founder of $COMPANY	28302	32969	hospital_corporation_of_america	bill_frist	88
+ $FOUNDER , co-founder of $COMPANY	38398	9083	gulf_oil	andrew_w._mellon	88
+ $FOUNDER , co-founder of $COMPANY	13796	3821	united_states_army_corps_of_engineers	george_washington	88
+ $FOUNDER , co-founder of $COMPANY	34635	15468	lucasfilm	george_lucas	88
+ $FOUNDER , co-founder of $COMPANY	4060	40651	revolution_health_group	steve_case	88
+ $FOUNDER , co-founder of $COMPANY	13744	14251	university_of_utah	brigham_young	88
+ $FOUNDER , co-founder of $COMPANY	20896	39408	federal_trade_commission	woodrow_wilson	88
+ $FOUNDER , co-founder of $COMPANY	32661	13313	simon_wiesenthal_center	simon_wiesenthal	88
+ $FOUNDER , co-founder of $COMPANY	2427	29512	house_of_blues	dan_aykroyd	88
+ $FOUNDER , co-founder of $COMPANY	26341	7754	southern_california_institute_of_architecture	thom_mayne	88
+ $FOUNDER , co-founder of $COMPANY	36059	24785	apple_corps	john_lennon	88
+ $FOUNDER , co-founder of $COMPANY	20890	1083	damballa	david_dagon	88
+ $FOUNDER , co-founder of $COMPANY	4108	8212	red_army	leon_trotsky	88
+ $FOUNDER , co-founder of $COMPANY	35265	29620	ella_baker_center_for_human_rights	van_jones	88
+ $FOUNDER , co-founder of $COMPANY	7637	3334	honest_tea	seth_goldman	88
+ $FOUNDER , co-founder of $COMPANY	12140	3950	alfa_group	mikhail_fridman	88
+ $FOUNDER , co-founder of $COMPANY	35441	28763	home_depot	bernard_marcus	88
+ $FOUNDER , co-founder of $COMPANY	41332	22548	estée_lauder_companies	leonard_lauder	88
+ $FOUNDER , co-founder of $COMPANY	35750	17667	international_lease_finance_corporation	steven_f._udvar-hazy	88
+ $FOUNDER , co-founder of $COMPANY	7305	35645	electric_lady_studios	jimi_hendrix	88
+ $FOUNDER , co-founder of $COMPANY	7965	24723	adidas	adolf_dassler	88
+ $FOUNDER , co-founder of $COMPANY	19262	28461	perella_weinberg_partners	joseph_r._perella	88
+ $FOUNDER , co-founder of $COMPANY	625	36436	chez_panisse	paul_aratow	88
+ $FOUNDER , co-founder of $COMPANY	21449	34082	macandrews_&_forbes_holdings	ronald_perelman	88
+ $FOUNDER , co-founder of $COMPANY	15742	32897	defense_intelligence_agency	robert_mcnamara	88
+ $FOUNDER , co-founder of $COMPANY	35559	24957	wal-mart	sam_walton	88
+ $FOUNDER , co-founder of $COMPANY	15483	20401	virgin_unite	richard_branson	88
+ $FOUNDER , co-founder of $COMPANY	23692	9182	united_press_international	e._w._scripps	88
+ $FOUNDER , co-founder of $COMPANY	12092	3366	j.c._penney	j._c._penney	88
+ $FOUNDER , co-founder of $COMPANY	25347	21459	united_states_agency_for_international_development	john_f._kennedy	88
+ $FOUNDER , co-founder of $COMPANY	29639	3415	arista_records	clive_davis	88
+ $FOUNDER , co-founder of $COMPANY	10194	8758	spyglass_entertainment	gary_barber	88
+ $FOUNDER , co-founder of $COMPANY	41358	37076	carnegie_endowment_for_international_peace	andrew_carnegie	88
+ $FOUNDER , co-founder of $COMPANY	13464	19161	institute_of_culinary_education	peter_kump	88
+ $FOUNDER , co-founder of $COMPANY	14114	11838	academy_of_motion_picture_arts_and_sciences	douglas_fairbanks	88
+ $FOUNDER , co-founder of $COMPANY	28178	7734	proenza_schouler	lazaro_hernandez	88
+ $FOUNDER , co-founder of $COMPANY	5498	24276	tuskegee_university	booker_t._washington	88
+ $FOUNDER , co-founder of $COMPANY	25703	4031	federal_emergency_management_agency	zbigniew_brzezinski	88
+ $FOUNDER , co-founder of $COMPANY	11784	31587	north_atlantic_treaty_organization	france	88
+ $FOUNDER , co-founder of $COMPANY	15482	3109	united_artists	charlie_chaplin	88
+ $FOUNDER , co-founder of $COMPANY	1756	18761	netsuite	larry_ellison	88
+ $FOUNDER , co-founder of $COMPANY	3322	23612	payscale	joe_giordano	88
+ $FOUNDER , co-founder of $COMPANY	33423	13870	citizens_against_government_waste	jack_anderson	88
+ $FOUNDER , co-founder of $COMPANY	7646	30467	boston_properties	mortimer_zuckerman	88
+ $FOUNDER , co-founder of $COMPANY	23133	12737	national_amusements	michael_redstone	88
+ $FOUNDER , co-founder of $COMPANY	33291	37076	carnegie_mellon_university	andrew_carnegie	88
+ $FOUNDER , co-founder of $COMPANY	37674	9518	xm_satellite_radio	hugh_panero	88
+ $FOUNDER , co-founder of $COMPANY	11079	8722	atari	nolan_bushnell	88
+ $FOUNDER , co-founder of $COMPANY	14376	14251	brigham_young_university	brigham_young	88
+ $FOUNDER , co-founder of $COMPANY	16122	16762	weta_workshop	peter_jackson	88
+ $FOUNDER , co-founder of $COMPANY	4586	20155	kb_home	eli_broad	88
+ $FOUNDER , co-founder of $COMPANY	8248	32919	new_york_medical_college	william_cullen_bryant	88
+ $FOUNDER , co-founder of $COMPANY	8400	32136	rogers_stirk_harbour_&_partners	richard_rogers	88
+ $FOUNDER , co-founder of $COMPANY	15172	12366	creative_artists_agency	michael_ovitz	88
+ $FOUNDER , co-founder of $COMPANY	10349	40563	virgin_galactic	burt_rutan	88
+ $FOUNDER , co-founder of $COMPANY	29659	28952	fox_news_channel	roger_ailes	88
+ $FOUNDER , co-founder of $COMPANY	4108	763	red_army	mao_zedong	88
+ $FOUNDER , co-founder of $COMPANY	11092	8226	las_vegas_sands	steve_wynn	88
+ $FOUNDER , co-founder of $COMPANY	37854	18736	khosla_ventures	vinod_khosla	88
+ $FOUNDER , co-founder of $COMPANY	3557	31804	snyder_communications	daniel_snyder	88
+ $FOUNDER , co-founder of $COMPANY	36128	23050	budget_suites_of_america	robert_bigelow	88
+ $FOUNDER , co-founder of $COMPANY	18331	22669	barnes_&_noble	leonard_riggio	88
+ $FOUNDER , co-founder of $COMPANY	7398	22427	university_of_chicago	john_d._rockefeller	88
+ $FOUNDER , co-founder of $COMPANY	26814	21681	kaboodle	manish_chandra	88
+ $FOUNDER , co-founder of $COMPANY	40982	24455	brightcove	jeremy_allaire	88
+ $FOUNDER , co-founder of $COMPANY	9180	11242	intel_corporation	robert_noyce	88
+ $FOUNDER , co-founder of $COMPANY	37716	39574	counterpane_internet_security	bruce_schneier	88
+ $FOUNDER , co-founder of $COMPANY	28812	30167	factory_records	tony_wilson	88
+ $FOUNDER , co-founder of $COMPANY	12758	22612	burrill_&_company	g._steven_burrill	88
+ $FOUNDER , co-founder of $COMPANY	25451	25536	club_penguin	lane_merrifield	88
+ $FOUNDER , co-founder of $COMPANY	13535	10665	nasa	richard_nixon	88
+ $FOUNDER , co-founder of $COMPANY	40825	6555	rockstar_games	dan_houser	88
+ $FOUNDER , co-founder of $COMPANY	23662	35814	ford_motor_company	henry_ford	88
+ $FOUNDER , co-founder of $COMPANY	3541	37211	united_nations	liberia	88
+ $FOUNDER , co-founder of $COMPANY	19884	24785	apple_records	john_lennon	88
+ $FOUNDER , co-founder of $COMPANY	37267	6631	powerset	steve_newcomb	88
+ $FOUNDER , co-founder of $COMPANY	15910	21949	dow_jones_&_company	edward_jones	88
+ $FOUNDER , co-founder of $COMPANY	35105	40918	penske_racing	roger_penske	88
+ $FOUNDER , co-founder of $COMPANY	12827	27182	glencore	marc_rich	88
+ $FOUNDER , co-founder of $COMPANY	1497	33903	duke_university	james_buchanan_duke	88
+ $FOUNDER , co-founder of $COMPANY	2688	11538	motown_records	berry_gordy	88
+ $FOUNDER , co-founder of $COMPANY	26344	10583	bad_boy_records	sean_combs	88
+ $FOUNDER , co-founder of $COMPANY	5604	10665	united_states_environmental_protection_agency	richard_nixon	88
+ $FOUNDER , co-founder of $COMPANY	26973	34284	international_monetary_fund	john_maynard_keynes	88
+ $FOUNDER , co-founder of $COMPANY	7959	31307	paypal	peter_thiel	88
+ $FOUNDER , co-founder of $COMPANY	19425	5246	time_inc.	henry_luce	88
+ $FOUNDER , co-founder of $COMPANY	27102	2214	mediaset	silvio_berlusconi	88
+ $FOUNDER , co-founder of $COMPANY	27818	20668	maytag	f._l._maytag	88
+ $FOUNDER , co-founder of $COMPANY	3541	15627	united_nations	saudi_arabia	88
+ $FOUNDER , co-founder of $COMPANY	1234	33740	chermayeff_&_geismar	ivan_chermayeff	88
+ $FOUNDER , co-founder of $COMPANY	3887	20780	def_jam_recordings	russell_simmons	88
+ $FOUNDER , co-founder of $COMPANY	4961	24077	national_audubon_society	john_muir	88
+ $FOUNDER , co-founder of $COMPANY	15281	23079	mirabilis	yossi_vardi	88
+ $FOUNDER , co-founder of $COMPANY	2280	19849	groove_networks	ray_ozzie	88
+ $FOUNDER , co-founder of $COMPANY	26976	31720	university_of_denver	john_evans	88
+ $FOUNDER , co-founder of $COMPANY	10761	18439	nasdaq	nasd	88
+ $FOUNDER , co-founder of $COMPANY	7516	35705	giuliani_partners	rudy_giuliani	88
+ $FOUNDER , co-founder of $COMPANY	1213	35814	ford_foundation	henry_ford	88
+ $FOUNDER , co-founder of $COMPANY	26058	29538	sony_ericsson	ericsson	88
+ $FOUNDER , co-founder of $COMPANY	21642	38958	microsoft_research	nathan_myhrvold	88
+ $FOUNDER , co-founder of $COMPANY	24469	30812	seagram	samuel_bronfman	88
+ $FOUNDER , co-founder of $COMPANY	18687	21368	bill_&_melinda_gates_foundation	melinda_gates	88
+ $FOUNDER , co-founder of $COMPANY	37826	11880	dyson	james_dyson	88
+ $FOUNDER , co-founder of $COMPANY	8103	17017	cranbrook_educational_community	eliel_saarinen	88
+ $FOUNDER , co-founder of $COMPANY	30770	6801	elevation_partners	fred_d._anderson	88
+ $FOUNDER , co-founder of $COMPANY	7206	3997	hewlett-packard	david_packard	88
+ $FOUNDER , co-founder of $COMPANY	36308	26182	regency_enterprises	arnon_milchan	88
+ $FOUNDER , co-founder of $COMPANY	13802	41255	party_of_the_democratic_revolution	andrés_manuel_lópez_obrador	88
+ $FOUNDER , co-founder of $COMPANY	25117	13189	playtone	tom_hanks	88
+ $FOUNDER , co-founder of $COMPANY	1092	19700	kayak	paul_english	88
+ $FOUNDER , co-founder of $COMPANY	13360	20580	metro-goldwyn-mayer	samuel_goldwyn	88
+ $FOUNDER , co-founder of $COMPANY	17944	25480	compaq	jim_harris	88
+ $FOUNDER , co-founder of $COMPANY	24745	30553	saban	haim_saban	88
+ $FOUNDER , co-founder of $COMPANY	11629	22332	chanel	coco_chanel	88
+ $FOUNDER , co-founder of $COMPANY	36280	26868	shanghai_cooperation_organization	kazakhstan	88
+ $FOUNDER , co-founder of $COMPANY	35142	10344	liz_claiborne_inc.	liz_claiborne	88
+ $FOUNDER , co-founder of $COMPANY	38987	17512	overbrook_entertainment	james_lassiter	88
+ $FOUNDER , co-founder of $COMPANY	33418	30484	american_philosophical_society	benjamin_franklin	88
+ $FOUNDER , co-founder of $COMPANY	39060	25802	electronic_data_systems	ross_perot	88
+ $FOUNDER , co-founder of $COMPANY	11784	6655	north_atlantic_treaty_organization	iceland	88
+ $FOUNDER , co-founder of $COMPANY	7135	10166	school_of_american_ballet	george_balanchine	88
+ $FOUNDER , co-founder of $COMPANY	29104	17878	esalen_institute	michael_murphy	88
+ $FOUNDER , co-founder of $COMPANY	9536	41212	arquitectonica	bernardo_fort-brescia	88
+ $FOUNDER , co-founder of $COMPANY	40924	1496	hammer_museum	armand_hammer	88
+ $FOUNDER , co-founder of $COMPANY	10217	29446	harvard_graduate_school_of_design	walter_gropius	88
+ $FOUNDER , co-founder of $COMPANY	19705	6408	gazprom_neft	roman_abramovich	88
+ $FOUNDER , co-founder of $COMPANY	40680	34538	hebrew_university_of_jerusalem	albert_einstein	88
+ $FOUNDER , co-founder of $COMPANY	38270	19897	the_washington_times	sun_myung_moon	88
+ $FOUNDER , co-founder of $COMPANY	40686	19393	automatic_data_processing	frank_lautenberg	88
+ $FOUNDER , co-founder of $COMPANY	23883	23590	microsoft	bill_gates	88
+ $FOUNDER , co-founder of $COMPANY	36429	10299	rocawear	jay-z	88
+ $FOUNDER , co-founder of $COMPANY	11641	34677	marimba	kim_polese	88
+ $FOUNDER , co-founder of $COMPANY	38607	11652	kqed	james_day	88
+ $FOUNDER , co-founder of $COMPANY	1234	11839	chermayeff_&_geismar	tom_geismar	88
+ $FOUNDER , co-founder of $COMPANY	23517	5246	sports_illustrated	henry_luce	88
+ $FOUNDER , co-founder of $COMPANY	3056	32972	dow_chemical_company	herbert_henry_dow	88
+ $FOUNDER , co-founder of $COMPANY	8947	22280	mga_entertainment	isaac_larian	88
+ $FOUNDER , co-founder of $COMPANY	19054	3282	playboy_enterprises	hugh_hefner	88
+ $FOUNDER , co-founder of $COMPANY	25901	11236	childress_vineyards	richard_childress	88
+ $FOUNDER , co-founder of $COMPANY	24673	39888	cargill	w.w._cargill	88
+ $FOUNDER , co-founder of $COMPANY	36683	4136	jetblue_airways	david_neeleman	88
+ $FOUNDER , co-founder of $COMPANY	24190	28623	steven_holl_architects	steven_holl	88
+ $FOUNDER , co-founder of $COMPANY	10962	27430	shopzilla	farhad_mohit	88
+ $FOUNDER , co-founder of $COMPANY	3410	37076	carnegie_institute_of_technology	andrew_carnegie	88
+ $FOUNDER , co-founder of $COMPANY	39220	12934	cbs	william_s._paley	88
+ $FOUNDER , co-founder of $COMPANY	40965	8971	qwest_communications	philip_anschutz	88
+ $FOUNDER , co-founder of $COMPANY	29304	4491	idealab	bill_gross	88
+ $FOUNDER , co-founder of $COMPANY	37141	34345	wpp_group	martin_sorrell	88
+ $FOUNDER , co-founder of $COMPANY	40230	37988	burton	jake_burton_carpenter	88
+ $FOUNDER , co-founder of $COMPANY	3155	1218	miramax_films	bob_weinstein	88
+ $FOUNDER , co-founder of $COMPANY	9110	31092	reganbooks	judith_regan	88
+ $FOUNDER , co-founder of $COMPANY	20595	27650	critical_mention	sean_morgan	88
+ $FOUNDER , co-founder of $COMPANY	33697	33903	duke_energy	james_buchanan_duke	88
+ $FOUNDER , co-founder of $COMPANY	9536	24551	arquitectonica	andrés_duany	88
+ $FOUNDER , co-founder of $COMPANY	25229	4436	medianews_group	william_dean_singleton	88
+ $FOUNDER , co-founder of $COMPANY	24087	17321	lexus	eiji_toyoda	88
+ $FOUNDER , co-founder of $COMPANY	1208	20262	postini	scott_petry	88
+ $FOUNDER , co-founder of $COMPANY	23482	25904	boingo_wireless	sky_dayton	88
+ $FOUNDER , co-founder of $COMPANY	27634	39768	national_science_foundation	vannevar_bush	88
+ $FOUNDER , co-founder of $COMPANY	20575	33587	general_motors	william_c._durant	88
+ $FOUNDER , co-founder of $COMPANY	3541	26812	united_nations	belgium	88
+ $FOUNDER , co-founder of $COMPANY	29260	9083	national_gallery_of_art	andrew_w._mellon	88
+ $FOUNDER , co-founder of $COMPANY	11784	40620	north_atlantic_treaty_organization	norway	88
+ $FOUNDER , co-founder of $COMPANY	11784	27394	north_atlantic_treaty_organization	denmark	88
+ $FOUNDER , co-founder of $COMPANY	11784	36711	north_atlantic_treaty_organization	canada	88
+ $FOUNDER , co-founder of $COMPANY	40569	8476	westjet	clive_beddoe	88
+ $FOUNDER , co-founder of $COMPANY	25703	14159	federal_emergency_management_agency	jimmy_carter	88
+ $FOUNDER , co-founder of $COMPANY	19262	40909	perella_weinberg_partners	peter_weinberg	88
+ $FOUNDER , co-founder of $COMPANY	11373	34045	skype	janus_friis	88
+ $FOUNDER , co-founder of $COMPANY	3967	20972	solomon_r._guggenheim_museum	peggy_guggenheim	88
+ $FOUNDER , co-founder of $COMPANY	2015	5246	time-life	henry_luce	88
+ $FOUNDER , co-founder of $COMPANY	29326	14397	magnatune	john_buckman	88
+ $FOUNDER , co-founder of $COMPANY	25063	20534	new-york_historical_society	dewitt_clinton	88
+ $FOUNDER , co-founder of $COMPANY	14196	35236	illinois_institute_of_technology	ludwig_mies_van_der_rohe	88
+ $FOUNDER , co-founder of $COMPANY	19884	2139	apple_records	paul_mccartney	88
+ $FOUNDER , co-founder of $COMPANY	8052	14276	tesla_motors	elon_musk	88
+ $FOUNDER , co-founder of $COMPANY	40714	40651	aol	steve_case	88
+ $FOUNDER , co-founder of $COMPANY	33816	19302	sac_capital_partners	steven_a._cohen	88
+ $FOUNDER , co-founder of $COMPANY	40714	4910	aol	jim_kimsey	88
+ $FOUNDER , co-founder of $COMPANY	39682	38898	polo_ralph_lauren	ralph_lauren	88
+ $FOUNDER , co-founder of $COMPANY	23883	27308	microsoft	paul_allen	88
+ $FOUNDER , co-founder of $COMPANY	25451	4921	club_penguin	lance_priebe	88
+ $FOUNDER , co-founder of $COMPANY	29393	36097	cardinal_health	robert_d._walter	88
+ $FOUNDER , co-founder of $COMPANY	4226	20608	bank_of_new_york	alexander_hamilton	88
+ $FOUNDER , co-founder of $COMPANY	24248	11498	teach_for_america	wendy_kopp	88
+ $FOUNDER , co-founder of $COMPANY	7315	11483	o'reilly_media	tim_o'reilly	88
+ $FOUNDER , co-founder of $COMPANY	3454	4645	random_house	donald_klopfer	88
+ $FOUNDER , co-founder of $COMPANY	37156	22369	capitol_records	johnny_mercer	88
+ $FOUNDER , co-founder of $COMPANY	36280	22976	shanghai_cooperation_organization	uzbekistan	88
+ $FOUNDER , co-founder of $COMPANY	30061	34175	harmonix_music_systems	alex_rigopulos	88
+ $FOUNDER , co-founder of $COMPANY	30874	11483	collabnet	tim_o'reilly	88
+ $FOUNDER , co-founder of $COMPANY	18818	3791	blackstone_group	stephen_a._schwarzman	88
+ $FOUNDER , co-founder of $COMPANY	37403	16449	citrix_systems	ed_iacobucci	88
+ $FOUNDER , co-founder of $COMPANY	349	28288	wikimedia_foundation	jimmy_wales	88
+ $FOUNDER , co-founder of $COMPANY	30575	39768	raytheon	vannevar_bush	88
+ $FOUNDER , co-founder of $COMPANY	38987	16208	overbrook_entertainment	will_smith	88
+ $FOUNDER , co-founder of $COMPANY	32497	20401	virgin_megastore	richard_branson	88
+ $FOUNDER , co-founder of $COMPANY	36371	21390	howard_hughes_medical_institute	howard_hughes	88
+ $FOUNDER , co-founder of $COMPANY	38943	1218	dimension_films	bob_weinstein	88
+ $FOUNDER , co-founder of $COMPANY	41332	29474	estée_lauder_companies	estée_lauder	88
+ $FOUNDER , co-founder of $COMPANY	39982	38453	netflix	reed_hastings	88
+ $FOUNDER , co-founder of $COMPANY	19766	5169	united_states_naval_academy	george_bancroft	88
+ $FOUNDER , co-founder of $COMPANY	5537	32565	federal_bureau_of_investigation	theodore_roosevelt	88
+ $FOUNDER , co-founder of $COMPANY	7328	4749	imagine_entertainment	ron_howard	88
+ $FOUNDER , co-founder of $COMPANY	12751	11303	pennsylvania_academy_of_the_fine_arts	charles_willson_peale	88
+ $FOUNDER , co-founder of $COMPANY	28011	25181	visible_path	antony_brydon	88
+ $FOUNDER , co-founder of $COMPANY	3155	30297	miramax_films	harvey_weinstein	88
+ $FOUNDER , co-founder of $COMPANY	14858	40595	dreamworks	david_geffen	88
+ $FOUNDER , co-founder of $COMPANY	24326	21390	trans_world_airlines	howard_hughes	88
+ $FOUNDER , co-founder of $COMPANY	13212	3959	defense_advanced_research_projects_agency	dwight_d._eisenhower	88
+ $FOUNDER , co-founder of $COMPANY	29352	10565	leapfrog_ventures	peter_rip	88
+ $FOUNDER , co-founder of $COMPANY	3541	13824	united_nations	czechoslovakia	88
+ $FOUNDER , co-founder of $COMPANY	11004	26772	bloomberg_l.p.	michael_bloomberg	88
+ $FOUNDER , co-founder of $COMPANY	29495	26411	ppr	françois_pinault	88
+ $FOUNDER , co-founder of $COMPANY	2414	39586	discovery_communications	john_hendricks	88
+ $FOUNDER , co-founder of $COMPANY	36431	31962	cornell_university	andrew_dickson_white	88
+ $FOUNDER , co-founder of $COMPANY	22204	9674	american_international_group	cornelius_vander_starr	88
+ $FOUNDER , co-founder of $COMPANY	16382	6408	rusal	roman_abramovich	88
+ $FOUNDER , co-founder of $COMPANY	30061	4948	harmonix_music_systems	eran_egozy	88
+ $FOUNDER , co-founder of $COMPANY	3209	30582	dischord_records	ian_mackaye	88
+ $FOUNDER , co-founder of $COMPANY	3919	6874	sun_microsystems	bill_joy	88
+ $FOUNDER , co-founder of $COMPANY	36237	25318	hearst_corporation	william_randolph_hearst	88
+ $FOUNDER , co-founder of $COMPANY	27567	40421	porsche	ferdinand_porsche	88
+ $FOUNDER , co-founder of $COMPANY	30191	12279	sony	akio_morita	88
+ $FOUNDER , co-founder of $COMPANY	17730	7627	saatchi_&_saatchi	charles_saatchi	88
+ $FOUNDER , co-founder of $COMPANY	14846	10016	easyjet	stelios_haji-ioannou	88
+ $FOUNDER , co-founder of $COMPANY	1409	38519	aldine_press	aldus_manutius	88
+ $FOUNDER , co-founder of $COMPANY	38060	10705	expedia	richard_barton	88
+ $FOUNDER , co-founder of $COMPANY	20094	7754	morphosis	thom_mayne	88
+ $FOUNDER , co-founder of $COMPANY	19884	2554	apple_records	ringo_starr	88
+ $FOUNDER , co-founder of $COMPANY	13083	14159	united_states_department_of_education	jimmy_carter	88
+ $FOUNDER , co-founder of $COMPANY	7115	36318	psv_eindhoven	philips	88
+ $FOUNDER , co-founder of $COMPANY	24275	35304	joffrey_ballet	robert_joffrey	88
+ $FOUNDER , co-founder of $COMPANY	18687	23590	bill_&_melinda_gates_foundation	bill_gates	88
+ $FOUNDER , co-founder of $COMPANY	30393	12128	council_on_foreign_relations	walter_lippmann	88
+ $FOUNDER , co-founder of $COMPANY	26160	5336	lowermybills.com	matt_coffin	88
+ $FOUNDER , co-founder of $COMPANY	23467	19577	american_psychological_association	g._stanley_hall	88
+ $FOUNDER , co-founder of $COMPANY	18672	39074	social_security_administration	franklin_d._roosevelt	88
+ $FOUNDER , co-founder of $COMPANY	21642	23590	microsoft_research	bill_gates	88
+ $FOUNDER , co-founder of $COMPANY	4206	3821	united_states_military_academy	george_washington	88
+ $FOUNDER , co-founder of $COMPANY	36937	40344	grove_press	barney_rosset	88
+ $FOUNDER , co-founder of $COMPANY	6107	40595	dreamworks_animation	david_geffen	88
+ $FOUNDER , co-founder of $COMPANY	25117	11990	playtone	gary_goetzman	88
+ $FOUNDER , co-founder of $COMPANY	13738	29808	weta_digital	jamie_selkirk	88
+ $FOUNDER , co-founder of $COMPANY	11597	10090	givenchy	hubert_de_givenchy	88
+ $FOUNDER , co-founder of $COMPANY	26058	30191	sony_ericsson	sony	88
+ $FOUNDER , co-founder of $COMPANY	28515	27537	toyota_motor_corporation	kiichiro_toyoda	88
+ $FOUNDER , co-founder of $COMPANY	6766	25904	earthlink	sky_dayton	88
+ $FOUNDER , co-founder of $COMPANY	3541	23525	united_nations	dominican_republic	88
+ $FOUNDER , co-founder of $COMPANY	9999	23590	corbis	bill_gates	88
+ $FOUNDER , co-founder of $COMPANY	29518	23720	trinity_broadcasting_network	paul_crouch	88
+ $FOUNDER , co-founder of $COMPANY	30536	10305	amazon.com	jeffrey_p._bezos	88
+ $FOUNDER , co-founder of $COMPANY	3577	5319	comcast	ralph_j._roberts	88
+ $FOUNDER , co-founder of $COMPANY	11784	28342	north_atlantic_treaty_organization	luxembourg	88
+$FOUNDER , founder of the $COMPANY	25117	11990	playtone	gary_goetzman	45
+$FOUNDER , founder of the $COMPANY	4060	40651	revolution_health_group	steve_case	45
+$FOUNDER , founder of the $COMPANY	38622	28254	economic_policy_institute	robert_reich	45
+$FOUNDER , founder of the $COMPANY	31094	18762	petrobras	getúlio_vargas	45
+$FOUNDER , founder of the $COMPANY	36164	35388	flickr	caterina_fake	45
+$FOUNDER , founder of the $COMPANY	3541	27234	united_nations	egypt	45
+$FOUNDER , founder of the $COMPANY	11629	22332	chanel	coco_chanel	45
+$FOUNDER , founder of the $COMPANY	14858	24425	dreamworks	jeffrey_katzenberg	45
+$FOUNDER , founder of the $COMPANY	23883	27308	microsoft	paul_allen	45
+$FOUNDER , founder of the $COMPANY	25499	8782	ice.com	shmuel_gniwisch	45
+$FOUNDER , founder of the $COMPANY	39879	30572	blackrock	laurence_d._fink	45
+$FOUNDER , founder of the $COMPANY	20689	39657	clickstar	morgan_freeman	45
+$FOUNDER , founder of the $COMPANY	35142	10344	liz_claiborne_inc.	liz_claiborne	45
+$FOUNDER , founder of the $COMPANY	14114	11838	academy_of_motion_picture_arts_and_sciences	douglas_fairbanks	45
+$FOUNDER , founder of the $COMPANY	27102	2214	mediaset	silvio_berlusconi	45
+$FOUNDER , founder of the $COMPANY	13738	29808	weta_digital	jamie_selkirk	45
+$FOUNDER , founder of the $COMPANY	3919	3243	sun_microsystems	scott_g._mcnealy	45
+$FOUNDER , founder of the $COMPANY	13083	14159	united_states_department_of_education	jimmy_carter	45
+$FOUNDER , founder of the $COMPANY	35509	1451	meebo	seth_j._sternberg	45
+$FOUNDER , founder of the $COMPANY	36280	10020	shanghai_cooperation_organization	china	45
+$FOUNDER , founder of the $COMPANY	3454	4645	random_house	donald_klopfer	45
+$FOUNDER , founder of the $COMPANY	1971	40651	time_warner	steve_case	45
+$FOUNDER , founder of the $COMPANY	25472	33903	british_american_tobacco	james_buchanan_duke	45
+$FOUNDER , founder of the $COMPANY	7779	14082	general_services_administration	harry_s._truman	45
+$FOUNDER , founder of the $COMPANY	6240	2965	dogster	ted_rheingold	45
+$FOUNDER , founder of the $COMPANY	11565	16368	generation_investment_management	al_gore	45
+$FOUNDER , founder of the $COMPANY	7637	3334	honest_tea	seth_goldman	45
+$FOUNDER , founder of the $COMPANY	10770	30484	university_of_pennsylvania	benjamin_franklin	45
+$FOUNDER , founder of the $COMPANY	18471	15468	lucasarts	george_lucas	45
+$FOUNDER , founder of the $COMPANY	26344	10583	bad_boy_records	sean_combs	45
+$FOUNDER , founder of the $COMPANY	3541	29243	united_nations	netherlands	45
+$FOUNDER , founder of the $COMPANY	12807	19963	bell_labs	alexander_graham_bell	45
+$FOUNDER , founder of the $COMPANY	7922	23441	california_institute_of_the_arts	walt_disney	45
+$FOUNDER , founder of the $COMPANY	3155	30297	miramax_films	harvey_weinstein	45
+$FOUNDER , founder of the $COMPANY	25901	11236	childress_vineyards	richard_childress	45
+$FOUNDER , founder of the $COMPANY	3454	38961	random_house	bennett_cerf	45
+$FOUNDER , founder of the $COMPANY	40714	4910	aol	jim_kimsey	45
+$FOUNDER , founder of the $COMPANY	20689	31755	clickstar	lori_mccreary	45
+$FOUNDER , founder of the $COMPANY	23387	15376	new_america_foundation	michael_lind	45
+$FOUNDER , founder of the $COMPANY	5153	39824	jangl	michael_cerda	45
+$FOUNDER , founder of the $COMPANY	29804	15530	hard_rock_cafe	peter_morton	45
+$FOUNDER , founder of the $COMPANY	23517	5246	sports_illustrated	henry_luce	45
+$FOUNDER , founder of the $COMPANY	3410	37076	carnegie_institute_of_technology	andrew_carnegie	45
+$FOUNDER , founder of the $COMPANY	40030	21990	turner_broadcasting	ted_turner	45
+$FOUNDER , founder of the $COMPANY	19131	27126	scientology	l._ron_hubbard	45
+$FOUNDER , founder of the $COMPANY	37854	18736	khosla_ventures	vinod_khosla	45
+$FOUNDER , founder of the $COMPANY	22278	20886	starbucks	howard_schultz	45
+$FOUNDER , founder of the $COMPANY	41332	1903	estée_lauder_companies	ronald_lauder	45
+$FOUNDER , founder of the $COMPANY	3541	18502	united_nations	iraq	45
+$FOUNDER , founder of the $COMPANY	30770	5527	elevation_partners	roger_mcnamee	45
+$FOUNDER , founder of the $COMPANY	40593	36495	paychex	tom_golisano	45
+$FOUNDER , founder of the $COMPANY	37141	34345	wpp_group	martin_sorrell	45
+$FOUNDER , founder of the $COMPANY	1234	11839	chermayeff_&_geismar	tom_geismar	45
+$FOUNDER , founder of the $COMPANY	28812	30167	factory_records	tony_wilson	45
+$FOUNDER , founder of the $COMPANY	3541	4356	united_nations	venezuela	45
+$FOUNDER , founder of the $COMPANY	9254	10082	international_coal_group	wilbur_ross	45
+$FOUNDER , founder of the $COMPANY	11823	38990	european_union	jean_monnet	45
+$FOUNDER , founder of the $COMPANY	9817	13892	open_source_applications_foundation	mitchell_kapor	45
+$FOUNDER , founder of the $COMPANY	12140	3950	alfa_group	mikhail_fridman	45
+$FOUNDER , founder of the $COMPANY	9966	14179	fiat	giovanni_agnelli	45
+$FOUNDER , founder of the $COMPANY	11126	29085	realnetworks	robert_glaser	45
+$FOUNDER , founder of the $COMPANY	39770	10223	electronic_arts	trip_hawkins	45
+$FOUNDER , founder of the $COMPANY	3541	9283	united_nations	costa_rica	45
+$FOUNDER , founder of the $COMPANY	3541	13824	united_nations	czechoslovakia	45
+$FOUNDER , founder of the $COMPANY	39220	12934	cbs	william_s._paley	45
+$FOUNDER , founder of the $COMPANY	22136	28549	endemol	john_de_mol	45
+$FOUNDER , founder of the $COMPANY	31927	2369	bain_capital	mitt_romney	45
+$FOUNDER , founder of the $COMPANY	11565	33152	generation_investment_management	david_blood	45
+$FOUNDER , founder of the $COMPANY	20575	33587	general_motors	william_c._durant	45
+$FOUNDER , founder of the $COMPANY	26058	30191	sony_ericsson	sony	45
+$FOUNDER , founder of the $COMPANY	24848	4165	cold_spring_harbor_laboratory	charles_davenport	45
+$FOUNDER , founder of the $COMPANY	19263	23441	disney_channel	walt_disney	45
+$FOUNDER , founder of the $COMPANY	19262	40909	perella_weinberg_partners	peter_weinberg	45
+$FOUNDER , founder of the $COMPANY	30590	38302	fox_broadcasting_company	rupert_murdoch	45
+$FOUNDER , founder of the $COMPANY	35559	24957	wal-mart	sam_walton	45
+$FOUNDER , founder of the $COMPANY	19884	2554	apple_records	ringo_starr	45
+$FOUNDER , founder of the $COMPANY	31459	22427	rockefeller_foundation	john_d._rockefeller	45
+$FOUNDER , founder of the $COMPANY	23467	19577	american_psychological_association	g._stanley_hall	45
+$FOUNDER , founder of the $COMPANY	33328	34045	joost	janus_friis	45
+$FOUNDER , founder of the $COMPANY	40230	37988	burton	jake_burton_carpenter	45
+$FOUNDER , founder of the $COMPANY	20896	39408	federal_trade_commission	woodrow_wilson	45
+$FOUNDER , founder of the $COMPANY	13535	3959	nasa	dwight_d._eisenhower	45
+$FOUNDER , founder of the $COMPANY	30770	6801	elevation_partners	fred_d._anderson	45
+$FOUNDER , founder of the $COMPANY	625	15154	chez_panisse	alice_waters	45
+$FOUNDER , founder of the $COMPANY	17334	8072	medio_systems	brian_lent	45
+$FOUNDER , founder of the $COMPANY	10962	27430	shopzilla	farhad_mohit	45
+$FOUNDER , founder of the $COMPANY	21642	38958	microsoft_research	nathan_myhrvold	45
+$FOUNDER , founder of the $COMPANY	25703	14159	federal_emergency_management_agency	jimmy_carter	45
+$FOUNDER , founder of the $COMPANY	28576	20782	morgans_hotel_group	ian_schrager	45
+$FOUNDER , founder of the $COMPANY	14196	35236	illinois_institute_of_technology	ludwig_mies_van_der_rohe	45
+$FOUNDER , founder of the $COMPANY	21542	24885	hollinger_inc.	conrad_black	45
+$FOUNDER , founder of the $COMPANY	13212	3959	defense_advanced_research_projects_agency	dwight_d._eisenhower	45
+$FOUNDER , founder of the $COMPANY	15172	12366	creative_artists_agency	michael_ovitz	45
+$FOUNDER , founder of the $COMPANY	5250	5093	interscope_records	jimmy_iovine	45
+$FOUNDER , founder of the $COMPANY	32375	27762	pratt_institute	charles_pratt	45
+$FOUNDER , founder of the $COMPANY	10433	10336	barrick_gold	peter_munk	45
+$FOUNDER , founder of the $COMPANY	33930	6986	deere_&_company	john_deere	45
+$FOUNDER , founder of the $COMPANY	41358	37076	carnegie_endowment_for_international_peace	andrew_carnegie	45
+$FOUNDER , founder of the $COMPANY	13724	24329	digium	mark_spencer	45
+$FOUNDER , founder of the $COMPANY	9346	25846	kansas_city_royals	ewing_kauffman	45
+$FOUNDER , founder of the $COMPANY	3541	15627	united_nations	saudi_arabia	45
+$FOUNDER , founder of the $COMPANY	11004	26772	bloomberg_l.p.	michael_bloomberg	45
+$FOUNDER , founder of the $COMPANY	26934	9980	royal_academy	benjamin_west	45
+$FOUNDER , founder of the $COMPANY	3541	38709	united_nations	ethiopia	45
+$FOUNDER , founder of the $COMPANY	38987	17512	overbrook_entertainment	james_lassiter	45
+$FOUNDER , founder of the $COMPANY	13670	25904	helio	sky_dayton	45
+$FOUNDER , founder of the $COMPANY	3498	38758	shin_corporation	thaksin_shinawatra	45
+$FOUNDER , founder of the $COMPANY	6107	40432	dreamworks_animation	steven_spielberg	45
+$FOUNDER , founder of the $COMPANY	3541	8173	united_nations	nicaragua	45
+$FOUNDER , founder of the $COMPANY	18441	6425	gnomonsong	andy_cabic	45
+$FOUNDER , founder of the $COMPANY	32497	20401	virgin_megastore	richard_branson	45
+$FOUNDER , founder of the $COMPANY	24087	17321	lexus	eiji_toyoda	45
+$FOUNDER , founder of the $COMPANY	33733	28915	sony_computer_entertainment	norio_ohga	45
+$FOUNDER , founder of the $COMPANY	39123	31459	international_rice_research_institute	rockefeller_foundation	45
+$FOUNDER , founder of the $COMPANY	39060	25802	electronic_data_systems	ross_perot	45
+$FOUNDER , founder of the $COMPANY	16109	30950	nicole_miller	bud_konheim	45
+$FOUNDER , founder of the $COMPANY	39406	37076	u.s._steel	andrew_carnegie	45
+$FOUNDER , founder of the $COMPANY	14908	25910	technet	john_doerr	45
+$FOUNDER , founder of the $COMPANY	3617	4578	cafepress.com	fred_durham	45
+$FOUNDER , founder of the $COMPANY	19884	2139	apple_records	paul_mccartney	45
+$FOUNDER , founder of the $COMPANY	7398	15359	university_of_chicago	john_dewey	45
+$FOUNDER , founder of the $COMPANY	7398	22427	university_of_chicago	john_d._rockefeller	45
+$FOUNDER , founder of the $COMPANY	16985	40170	liberty_university	jerry_falwell	45
+$FOUNDER , founder of the $COMPANY	30590	18379	fox_broadcasting_company	barry_diller	45
+$FOUNDER , founder of the $COMPANY	12103	14159	united_states_department_of_energy	jimmy_carter	45
+$FOUNDER , founder of the $COMPANY	11373	4084	skype	niklas_zennström	45
+$FOUNDER , founder of the $COMPANY	7135	10166	school_of_american_ballet	george_balanchine	45
+$FOUNDER , founder of the $COMPANY	5604	10665	united_states_environmental_protection_agency	richard_nixon	45
+$FOUNDER , founder of the $COMPANY	8103	17017	cranbrook_educational_community	eliel_saarinen	45
+$FOUNDER , founder of the $COMPANY	37826	11880	dyson	james_dyson	45
+$FOUNDER , founder of the $COMPANY	15060	24784	alibaba.com	jack_ma	45
+$FOUNDER , founder of the $COMPANY	7206	3997	hewlett-packard	david_packard	45
+$FOUNDER , founder of the $COMPANY	9180	11242	intel_corporation	robert_noyce	45
+$FOUNDER , founder of the $COMPANY	3541	24014	united_nations	honduras	45
+$FOUNDER , founder of the $COMPANY	33585	35632	southern_poverty_law_center	julian_bond	45
+$FOUNDER , founder of the $COMPANY	25451	25536	club_penguin	lane_merrifield	45
+$FOUNDER , founder of the $COMPANY	3967	20972	solomon_r._guggenheim_museum	peggy_guggenheim	45
+$FOUNDER , founder of the $COMPANY	22152	10330	congressional_black_caucus	shirley_chisholm	45
+$FOUNDER , the founder of $COMPANY ,	18687	21368	bill_&_melinda_gates_foundation	melinda_gates	45
+$FOUNDER , the founder of $COMPANY ,	12793	19308	shutterfly	andy_young	45
+$FOUNDER , the founder of $COMPANY ,	40648	24113	new_line_cinema	robert_shaye	45
+$FOUNDER , the founder of $COMPANY ,	18441	27917	gnomonsong	devendra_banhart	45
+$FOUNDER , the founder of $COMPANY ,	11784	34627	north_atlantic_treaty_organization	united_states_of_america	45
+$FOUNDER , the founder of $COMPANY ,	11784	40620	north_atlantic_treaty_organization	norway	45
+$FOUNDER , the founder of $COMPANY ,	11126	29085	realnetworks	robert_glaser	45
+$FOUNDER , the founder of $COMPANY ,	13738	16762	weta_digital	peter_jackson	45
+$FOUNDER , the founder of $COMPANY ,	1213	35814	ford_foundation	henry_ford	45
+$FOUNDER , the founder of $COMPANY ,	22843	11421	tvr	trevor_wilkinson	45
+$FOUNDER , the founder of $COMPANY ,	15900	25788	a&m_records	jerry_moss	45
+$FOUNDER , the founder of $COMPANY ,	12177	39074	tennessee_valley_authority	franklin_d._roosevelt	45
+$FOUNDER , the founder of $COMPANY ,	17507	19179	doubleclick	kevin_p._ryan	45
+$FOUNDER , the founder of $COMPANY ,	29393	36097	cardinal_health	robert_d._walter	45
+$FOUNDER , the founder of $COMPANY ,	7315	11483	o'reilly_media	tim_o'reilly	45
+$FOUNDER , the founder of $COMPANY ,	14858	24425	dreamworks	jeffrey_katzenberg	45
+$FOUNDER , the founder of $COMPANY ,	3541	34627	united_nations	united_states_of_america	45
+$FOUNDER , the founder of $COMPANY ,	33697	33903	duke_energy	james_buchanan_duke	45
+$FOUNDER , the founder of $COMPANY ,	36308	26182	regency_enterprises	arnon_milchan	45
+$FOUNDER , the founder of $COMPANY ,	34879	30421	equinix	jay_adelson	45
+$FOUNDER , the founder of $COMPANY ,	24071	16669	spot_runner	nick_grouf	45
+$FOUNDER , the founder of $COMPANY ,	19131	27126	scientology	l._ron_hubbard	45
+$FOUNDER , the founder of $COMPANY ,	10770	30484	university_of_pennsylvania	benjamin_franklin	45
+$FOUNDER , the founder of $COMPANY ,	10217	29446	harvard_graduate_school_of_design	walter_gropius	45
+$FOUNDER , the founder of $COMPANY ,	37403	16449	citrix_systems	ed_iacobucci	45
+$FOUNDER , the founder of $COMPANY ,	25472	33903	british_american_tobacco	james_buchanan_duke	45
+$FOUNDER , the founder of $COMPANY ,	39982	38453	netflix	reed_hastings	45
+$FOUNDER , the founder of $COMPANY ,	25703	4031	federal_emergency_management_agency	zbigniew_brzezinski	45
+$FOUNDER , the founder of $COMPANY ,	15482	3109	united_artists	charlie_chaplin	45
+$FOUNDER , the founder of $COMPANY ,	26973	34284	international_monetary_fund	john_maynard_keynes	45
+$FOUNDER , the founder of $COMPANY ,	5604	10665	united_states_environmental_protection_agency	richard_nixon	45
+$FOUNDER , the founder of $COMPANY ,	11629	22332	chanel	coco_chanel	45
+$FOUNDER , the founder of $COMPANY ,	39439	17808	televisa	emilio_azcárraga_vidaurreta	45
+$FOUNDER , the founder of $COMPANY ,	18441	6425	gnomonsong	andy_cabic	45
+$FOUNDER , the founder of $COMPANY ,	10194	8758	spyglass_entertainment	gary_barber	45
+$FOUNDER , the founder of $COMPANY ,	20094	7754	morphosis	thom_mayne	45
+$FOUNDER , the founder of $COMPANY ,	36280	22976	shanghai_cooperation_organization	uzbekistan	45
+$FOUNDER , the founder of $COMPANY ,	36937	40344	grove_press	barney_rosset	45
+$FOUNDER , the founder of $COMPANY ,	3155	30297	miramax_films	harvey_weinstein	45
+$FOUNDER , the founder of $COMPANY ,	5191	8601	city_lights_bookstore	lawrence_ferlinghetti	45
+$FOUNDER , the founder of $COMPANY ,	11784	29243	north_atlantic_treaty_organization	netherlands	45
+$FOUNDER , the founder of $COMPANY ,	13083	14159	united_states_department_of_education	jimmy_carter	45
+$FOUNDER , the founder of $COMPANY ,	3541	8173	united_nations	nicaragua	45
+$FOUNDER , the founder of $COMPANY ,	14114	40734	academy_of_motion_picture_arts_and_sciences	louis_b._mayer	45
+$FOUNDER , the founder of $COMPANY ,	24170	29622	general_foods	marjorie_merriweather_post	45
+$FOUNDER , the founder of $COMPANY ,	3541	38709	united_nations	ethiopia	45
+$FOUNDER , the founder of $COMPANY ,	29352	10565	leapfrog_ventures	peter_rip	45
+$FOUNDER , the founder of $COMPANY ,	29326	14397	magnatune	john_buckman	45
+$FOUNDER , the founder of $COMPANY ,	41332	1903	estée_lauder_companies	ronald_lauder	45
+$FOUNDER , the founder of $COMPANY ,	40924	1496	hammer_museum	armand_hammer	45
+$FOUNDER , the founder of $COMPANY ,	39682	38898	polo_ralph_lauren	ralph_lauren	45
+$FOUNDER , the founder of $COMPANY ,	12751	11303	pennsylvania_academy_of_the_fine_arts	charles_willson_peale	45
+$FOUNDER , the founder of $COMPANY ,	13212	3959	defense_advanced_research_projects_agency	dwight_d._eisenhower	45
+$FOUNDER , the founder of $COMPANY ,	20595	27650	critical_mention	sean_morgan	45
+$FOUNDER , the founder of $COMPANY ,	15910	21949	dow_jones_&_company	edward_jones	45
+$FOUNDER , the founder of $COMPANY ,	11823	21849	european_union	winston_churchill	45
+$FOUNDER , the founder of $COMPANY ,	19054	3282	playboy_enterprises	hugh_hefner	45
+$FOUNDER , the founder of $COMPANY ,	13464	19161	institute_of_culinary_education	peter_kump	45
+$FOUNDER , the founder of $COMPANY ,	24087	17321	lexus	eiji_toyoda	45
+$FOUNDER , the founder of $COMPANY ,	3577	5319	comcast	ralph_j._roberts	45
+$FOUNDER , the founder of $COMPANY ,	36683	4136	jetblue_airways	david_neeleman	45
+$FOUNDER , the founder of $COMPANY ,	337	28393	brown_university	john_brown	45
+$FOUNDER , the founder of $COMPANY ,	26934	25139	royal_academy	thomas_gainsborough	45
+$FOUNDER , the founder of $COMPANY ,	9536	41212	arquitectonica	bernardo_fort-brescia	45
+$FOUNDER , the founder of $COMPANY ,	39770	10223	electronic_arts	trip_hawkins	45
+$FOUNDER , the founder of $COMPANY ,	39123	31459	international_rice_research_institute	rockefeller_foundation	45
+$FOUNDER , the founder of $COMPANY ,	3410	37076	carnegie_institute_of_technology	andrew_carnegie	45
+$FOUNDER , the founder of $COMPANY ,	7398	15359	university_of_chicago	john_dewey	45
+$FOUNDER , the founder of $COMPANY ,	40686	19393	automatic_data_processing	frank_lautenberg	45
+$FOUNDER , the founder of $COMPANY ,	21542	24885	hollinger_inc.	conrad_black	45
+$FOUNDER , the founder of $COMPANY ,	18902	6943	google	sergey_brin	45
+$FOUNDER , the founder of $COMPANY ,	22162	23100	bazaarvoice	brett_hurt	45
+$FOUNDER , the founder of $COMPANY ,	40761	14013	brookings_institution	robert_rubin	45
+$FOUNDER , the founder of $COMPANY ,	17334	8072	medio_systems	brian_lent	45
+$FOUNDER , the founder of $COMPANY ,	19884	2554	apple_records	ringo_starr	45
+$FOUNDER , the founder of $COMPANY ,	4226	20608	bank_of_new_york	alexander_hamilton	45
+$FOUNDER , the founder of $COMPANY ,	19868	25746	veoh	dmitry_shapiro	45
+$FOUNDER , the founder of $COMPANY ,	15742	32897	defense_intelligence_agency	robert_mcnamara	45
+$FOUNDER , the founder of $COMPANY ,	33582	39074	office_of_strategic_services	franklin_d._roosevelt	45
+$FOUNDER , the founder of $COMPANY ,	41332	22548	estée_lauder_companies	leonard_lauder	45
+$FOUNDER , the founder of $COMPANY ,	6107	40432	dreamworks_animation	steven_spielberg	45
+$FOUNDER , the founder of $COMPANY ,	35142	10344	liz_claiborne_inc.	liz_claiborne	45
+$FOUNDER , the founder of $COMPANY ,	3541	34058	united_nations	uruguay	45
+$FOUNDER , the founder of $COMPANY ,	23387	15376	new_america_foundation	michael_lind	45
+$FOUNDER , the founder of $COMPANY ,	29304	4491	idealab	bill_gross	45
+$FOUNDER , the founder of $COMPANY ,	18818	3791	blackstone_group	stephen_a._schwarzman	45
+$FOUNDER , the founder of $COMPANY ,	29495	26411	ppr	françois_pinault	45
+$FOUNDER , the founder of $COMPANY ,	29804	15530	hard_rock_cafe	peter_morton	45
+$FOUNDER , the founder of $COMPANY ,	16122	16762	weta_workshop	peter_jackson	45
+$FOUNDER , the founder of $COMPANY ,	16467	13917	j._paul_getty_museum	j._paul_getty	45
+$FOUNDER , the founder of $COMPANY ,	38987	17512	overbrook_entertainment	james_lassiter	45
+$FOUNDER , the founder of $COMPANY ,	11823	29878	european_union	paul-henri_spaak	45
+$FOUNDER , the founder of $COMPANY ,	25451	25536	club_penguin	lane_merrifield	45
+$FOUNDER , the founder of $COMPANY ,	7135	10166	school_of_american_ballet	george_balanchine	45
+$FOUNDER , the founder of $COMPANY ,	13573	6082	magna_entertainment_corporation	frank_stronach	45
+$FOUNDER , the founder of $COMPANY ,	7218	34284	world_bank	john_maynard_keynes	45
+$FOUNDER , the founder of $COMPANY ,	3209	30582	dischord_records	ian_mackaye	45
+$FOUNDER , the founder of $COMPANY ,	26230	19167	four_seasons_hotels	isadore_sharp	45
+$FOUNDER , the founder of $COMPANY ,	39220	12934	cbs	william_s._paley	45
+$FOUNDER , the founder of $COMPANY ,	35105	40918	penske_racing	roger_penske	45
+$FOUNDER , the founder of $COMPANY ,	33733	28915	sony_computer_entertainment	norio_ohga	45
+$FOUNDER , the founder of $COMPANY ,	18672	39074	social_security_administration	franklin_d._roosevelt	45
+$FOUNDER , the founder of $COMPANY ,	8400	32136	rogers_stirk_harbour_&_partners	richard_rogers	45
+$FOUNDER , the founder of $COMPANY ,	38060	10705	expedia	richard_barton	45
+$FOUNDER , the founder of $COMPANY ,	27763	24300	salesforce.com	marc_benioff	45
+$FOUNDER , the founder of $COMPANY ,	3541	29243	united_nations	netherlands	45
+$FOUNDER , the founder of $COMPANY ,	14858	40595	dreamworks	david_geffen	45
+$FOUNDER , the founder of $COMPANY ,	30770	5527	elevation_partners	roger_mcnamee	45
+$FOUNDER , the founder of $COMPANY ,	27818	20668	maytag	f._l._maytag	45
+$FOUNDER , the founder of $COMPANY ,	24275	35304	joffrey_ballet	robert_joffrey	45
+$FOUNDER , the founder of $COMPANY ,	3919	6874	sun_microsystems	bill_joy	45
+$FOUNDER , the founder of $COMPANY ,	14908	25910	technet	john_doerr	45
+$FOUNDER , the founder of $COMPANY ,	7965	24723	adidas	adolf_dassler	45
+$FOUNDER , the founder of $COMPANY ,	17569	22523	peerflix	billy_mcnair	45
+$FOUNDER , the founder of $COMPANY ,	36134	6925	fisker_coachbuild	henrik_fisker	45
+$FOUNDER , the founder of $COMPANY ,	25451	4921	club_penguin	lance_priebe	45
+$FOUNDER , the founder of $COMPANY ,	39488	27485	united_states_department_of_health_and_human_services	john_baldacci	45
+$FOUNDER , the founder of $COMPANY ,	28578	35264	baker_botts	james_baker	45
+$FOUNDER , the founder of $COMPANY ,	33234	23825	infosys	kris_gopalakrishnan	45
+$FOUNDER , the founder of $COMPANY ,	25469	10665	national_oceanic_and_atmospheric_administration	richard_nixon	45
+$FOUNDER , the founder of $COMPANY ,	9966	14179	fiat	giovanni_agnelli	45
+$FOUNDER , the founder of $COMPANY ,	33087	9182	e._w._scripps_company	e._w._scripps	45
+$FOUNDER , the founder of $COMPANY ,	20125	29446	bauhaus	walter_gropius	45
+$FOUNDER , the founder of $COMPANY ,	41378	8409	gamefly	sean_spector	45
+$FOUNDER , the founder of $COMPANY ,	31706	9426	american_pharmaceutical_partners	patrick_soon-shiong	45
+$FOUNDER , the founder of $COMPANY ,	22136	24938	endemol	joop_van_den_ende	45
+$FOUNDER , the founder of $COMPANY ,	3967	4861	solomon_r._guggenheim_museum	solomon_r._guggenheim	45
+$FOUNDER , the founder of $COMPANY ,	30536	10305	amazon.com	jeffrey_p._bezos	45
+$FOUNDER , the founder of $COMPANY ,	25465	3924	transportation_security_administration	george_w._bush	45
+$FOUNDER , the founder of $COMPANY ,	15335	34845	brillstein-grey_entertainment	brad_grey	45
+$FOUNDER , the founder of $COMPANY ,	3887	20780	def_jam_recordings	russell_simmons	45
+$FOUNDER , the founder of $COMPANY ,	20689	31755	clickstar	lori_mccreary	45
+$FOUNDER , the founder of $COMPANY ,	25063	20534	new-york_historical_society	dewitt_clinton	45
+$FOUNDER , the founder of $COMPANY ,	36280	14850	shanghai_cooperation_organization	russia	45
+$FOUNDER , the founder of $COMPANY ,	7646	30467	boston_properties	mortimer_zuckerman	45
+$FOUNDER , the founder of $COMPANY ,	9346	25846	kansas_city_royals	ewing_kauffman	45
+$COMPANY mission in $FOUNDER	3541	13161	united_nations	new_zealand	43
+$COMPANY mission in $FOUNDER	11784	29088	north_atlantic_treaty_organization	italy	43
+$COMPANY mission in $FOUNDER	33733	8323	sony_computer_entertainment	ken_kutaragi	43
+$COMPANY mission in $FOUNDER	32377	8302	american_red_cross	clara_barton	43
+$COMPANY mission in $FOUNDER	12793	19308	shutterfly	andy_young	43
+$COMPANY mission in $FOUNDER	37674	9518	xm_satellite_radio	hugh_panero	43
+$COMPANY mission in $FOUNDER	38622	28254	economic_policy_institute	robert_reich	43
+$COMPANY mission in $FOUNDER	4060	40651	revolution_health_group	steve_case	43
+$COMPANY mission in $FOUNDER	15900	25788	a&m_records	jerry_moss	43
+$COMPANY mission in $FOUNDER	1659	10210	fedex	frederick_w._smith	43
+$COMPANY mission in $FOUNDER	15910	39059	dow_jones_&_company	charles_dow	43
+$COMPANY mission in $FOUNDER	36059	2554	apple_corps	ringo_starr	43
+$COMPANY mission in $FOUNDER	13360	20580	metro-goldwyn-mayer	samuel_goldwyn	43
+$COMPANY mission in $FOUNDER	1918	27336	roman_catholic_church	jesus_christ	43
+$COMPANY mission in $FOUNDER	3919	6874	sun_microsystems	bill_joy	43
+$COMPANY mission in $FOUNDER	23883	23590	microsoft	bill_gates	43
+$COMPANY mission in $FOUNDER	28011	25181	visible_path	antony_brydon	43
+$COMPANY mission in $FOUNDER	33816	19302	sac_capital_partners	steven_a._cohen	43
+$COMPANY mission in $FOUNDER	3919	18736	sun_microsystems	vinod_khosla	43
+$COMPANY mission in $FOUNDER	18672	39074	social_security_administration	franklin_d._roosevelt	43
+$COMPANY mission in $FOUNDER	12807	19963	bell_labs	alexander_graham_bell	43
+$COMPANY mission in $FOUNDER	30575	39768	raytheon	vannevar_bush	43
+$COMPANY mission in $FOUNDER	1092	19700	kayak	paul_english	43
+$COMPANY mission in $FOUNDER	4108	8212	red_army	leon_trotsky	43
+$COMPANY mission in $FOUNDER	4880	4033	library_of_america	edmund_wilson	43
+$COMPANY mission in $FOUNDER	33418	30484	american_philosophical_society	benjamin_franklin	43
+$COMPANY mission in $FOUNDER	14924	15696	biovail	eugene_melnyk	43
+$COMPANY mission in $FOUNDER	7398	15359	university_of_chicago	john_dewey	43
+$COMPANY mission in $FOUNDER	36059	20808	apple_corps	george_harrison	43
+$COMPANY mission in $FOUNDER	14157	23610	blockbuster	wayne_huizenga	43
+$COMPANY mission in $FOUNDER	40627	873	island_records	chris_blackwell	43
+$COMPANY mission in $FOUNDER	3541	40620	united_nations	norway	43
+$COMPANY mission in $FOUNDER	3155	1218	miramax_films	bob_weinstein	43
+$COMPANY mission in $FOUNDER	40965	8971	qwest_communications	philip_anschutz	43
+$COMPANY mission in $FOUNDER	3297	38302	news_corporation	rupert_murdoch	43
+$COMPANY mission in $FOUNDER	1497	33903	duke_university	james_buchanan_duke	43
+$COMPANY mission in $FOUNDER	3541	24014	united_nations	honduras	43
+$COMPANY mission in $FOUNDER	6107	24425	dreamworks_animation	jeffrey_katzenberg	43
+$COMPANY mission in $FOUNDER	22204	9674	american_international_group	cornelius_vander_starr	43
+$COMPANY mission in $FOUNDER	25451	4921	club_penguin	lance_priebe	43
+$COMPANY mission in $FOUNDER	15482	26593	united_artists	mary_pickford	43
+$COMPANY mission in $FOUNDER	12758	22612	burrill_&_company	g._steven_burrill	43
+$COMPANY mission in $FOUNDER	10521	4128	dkny	donna_karan	43
+$COMPANY mission in $FOUNDER	25469	10665	national_oceanic_and_atmospheric_administration	richard_nixon	43
+$COMPANY mission in $FOUNDER	13535	10665	nasa	richard_nixon	43
+$COMPANY mission in $FOUNDER	25247	130	columbia_pictures	harry_cohn	43
+$COMPANY mission in $FOUNDER	17569	22523	peerflix	billy_mcnair	43
+$COMPANY mission in $FOUNDER	36429	10299	rocawear	jay-z	43
+$COMPANY mission in $FOUNDER	30191	21878	sony	masaru_ibuka	43
+$COMPANY mission in $FOUNDER	18441	6425	gnomonsong	andy_cabic	43
+$COMPANY mission in $FOUNDER	36937	40344	grove_press	barney_rosset	43
+$COMPANY mission in $FOUNDER	3541	28342	united_nations	luxembourg	43
+$COMPANY mission in $FOUNDER	23692	9182	united_press_international	e._w._scripps	43
+$COMPANY mission in $FOUNDER	26934	35881	royal_academy	joshua_reynolds	43
+$COMPANY mission in $FOUNDER	37156	22369	capitol_records	johnny_mercer	43
+$COMPANY mission in $FOUNDER	13724	24329	digium	mark_spencer	43
+$COMPANY mission in $FOUNDER	34051	32278	omidyar_network	pierre_omidyar	43
+$COMPANY mission in $FOUNDER	349	28288	wikimedia_foundation	jimmy_wales	43
+$COMPANY mission in $FOUNDER	37716	39574	counterpane_internet_security	bruce_schneier	43
+$COMPANY mission in $FOUNDER	18902	6943	google	sergey_brin	43
+$COMPANY mission in $FOUNDER	11092	8226	las_vegas_sands	steve_wynn	43
+$COMPANY mission in $FOUNDER	2826	29771	upn	paramount_pictures	43
+$COMPANY mission in $FOUNDER	1234	11839	chermayeff_&_geismar	tom_geismar	43
+$COMPANY mission in $FOUNDER	35609	5093	universal_music_group	jimmy_iovine	43
+$COMPANY mission in $FOUNDER	30393	11161	council_on_foreign_relations	david_rockefeller	43
+$COMPANY mission in $FOUNDER	41358	37076	carnegie_endowment_for_international_peace	andrew_carnegie	43
+$COMPANY mission in $FOUNDER	23467	19577	american_psychological_association	g._stanley_hall	43
+$COMPANY mission in $FOUNDER	33291	37076	carnegie_mellon_university	andrew_carnegie	43
+$COMPANY mission in $FOUNDER	17730	7627	saatchi_&_saatchi	charles_saatchi	43
+$COMPANY mission in $FOUNDER	37569	24266	netscape	marc_andreessen	43
+$COMPANY mission in $FOUNDER	10217	29446	harvard_graduate_school_of_design	walter_gropius	43
+$COMPANY mission in $FOUNDER	11784	34627	north_atlantic_treaty_organization	united_states_of_america	43
+$COMPANY mission in $FOUNDER	8276	34389	association_of_tennis_professionals	cliff_drysdale	43
+$COMPANY mission in $FOUNDER	3541	37211	united_nations	liberia	43
+$COMPANY mission in $FOUNDER	21642	23590	microsoft_research	bill_gates	43
+$COMPANY mission in $FOUNDER	39770	31047	electronic_arts	bing_gordon	43
+$COMPANY mission in $FOUNDER	3541	8173	united_nations	nicaragua	43
+$COMPANY mission in $FOUNDER	34879	30421	equinix	jay_adelson	43
+$COMPANY mission in $FOUNDER	23517	5246	sports_illustrated	henry_luce	43
+$COMPANY mission in $FOUNDER	16122	29808	weta_workshop	jamie_selkirk	43
+$COMPANY mission in $FOUNDER	30393	4016	council_on_foreign_relations	paul_warburg	43
+$COMPANY mission in $FOUNDER	34628	12907	vontu	joseph_ansanelli	43
+$COMPANY mission in $FOUNDER	32771	3061	black_entertainment_television	robert_l._johnson	43
+$COMPANY mission in $FOUNDER	35559	24957	wal-mart	sam_walton	43
+$COMPANY mission in $FOUNDER	34590	36273	bharatiya_janata_party	atal_bihari_vajpayee	43
+$COMPANY mission in $FOUNDER	16467	13917	j._paul_getty_museum	j._paul_getty	43
+$COMPANY mission in $FOUNDER	14199	38988	worldwide_pants	david_letterman	43
+$COMPANY mission in $FOUNDER	26341	7754	southern_california_institute_of_architecture	thom_mayne	43
+$COMPANY mission in $FOUNDER	625	15154	chez_panisse	alice_waters	43
+$COMPANY mission in $FOUNDER	24087	17321	lexus	eiji_toyoda	43
+$COMPANY mission in $FOUNDER	36280	14850	shanghai_cooperation_organization	russia	43
+$COMPANY mission in $FOUNDER	35509	1451	meebo	seth_j._sternberg	43
+$COMPANY mission in $FOUNDER	11514	20951	hilton_hotels	barron_hilton	43
+$COMPANY mission in $FOUNDER	3297	30590	news_corporation	fox_broadcasting_company	43
+$COMPANY mission in $FOUNDER	9254	10082	international_coal_group	wilbur_ross	43
+$COMPANY mission in $FOUNDER	28178	4018	proenza_schouler	jack_mccollough	43
+$COMPANY mission in $FOUNDER	39643	14858	universal_studios	dreamworks	43
+$COMPANY mission in $FOUNDER	8400	32136	rogers_stirk_harbour_&_partners	richard_rogers	43
+$COMPANY mission in $FOUNDER	12092	3366	j.c._penney	j._c._penney	43
+$COMPANY mission in $FOUNDER	10476	35233	healthsouth	richard_m._scrushy	43
+$COMPANY mission in $FOUNDER	1213	35814	ford_foundation	henry_ford	43
+$COMPANY mission in $FOUNDER	25229	4436	medianews_group	william_dean_singleton	43
+$COMPANY mission in $FOUNDER	39406	37076	u.s._steel	andrew_carnegie	43
+$COMPANY mission in $FOUNDER	13796	3821	united_states_army_corps_of_engineers	george_washington	43
+$COMPANY mission in $FOUNDER	14114	26593	academy_of_motion_picture_arts_and_sciences	mary_pickford	43
+$COMPANY mission in $FOUNDER	41378	8409	gamefly	sean_spector	43
+$COMPANY mission in $FOUNDER	26344	10583	bad_boy_records	sean_combs	43
+$COMPANY mission in $FOUNDER	23217	3947	terra_firma_capital_partners	guy_hands	43
+$COMPANY mission in $FOUNDER	22162	23100	bazaarvoice	brett_hurt	43
+$COMPANY mission in $FOUNDER	15900	15208	a&m_records	herb_alpert	43
+$COMPANY mission in $FOUNDER	10770	30484	university_of_pennsylvania	benjamin_franklin	43
+$COMPANY mission in $FOUNDER	28812	30167	factory_records	tony_wilson	43
+$COMPANY mission in $FOUNDER	15512	12163	choicestream	michael_strickman	43
+$COMPANY mission in $FOUNDER	17215	4327	livedoor	takafumi_horie	43
+$COMPANY mission in $FOUNDER	6107	40595	dreamworks_animation	david_geffen	43
+$COMPANY mission in $FOUNDER	31706	9426	american_pharmaceutical_partners	patrick_soon-shiong	43
+$COMPANY mission in $FOUNDER	20094	7754	morphosis	thom_mayne	43
+$COMPANY mission in $FOUNDER	26814	21681	kaboodle	manish_chandra	43
+$COMPANY mission in $FOUNDER	4586	20155	kb_home	eli_broad	43
+$COMPANY mission in $FOUNDER	5861	23441	walt_disney_world_resort	walt_disney	43
+$COMPANY mission in $FOUNDER	3454	38961	random_house	bennett_cerf	43
+$COMPANY mission in $FOUNDER	15910	21949	dow_jones_&_company	edward_jones	43
+$COMPANY mission in $FOUNDER	28576	20782	morgans_hotel_group	ian_schrager	43
+$COMPANY mission in $FOUNDER	24190	28623	steven_holl_architects	steven_holl	43
+$COMPANY mission in $FOUNDER	32473	9211	studio_ghibli	hayao_miyazaki	43
+$COMPANY mission in $FOUNDER	7959	31307	paypal	peter_thiel	43
+$COMPANY mission in $FOUNDER	16109	30950	nicole_miller	bud_konheim	43
+$COMPANY mission in $FOUNDER	12827	27182	glencore	marc_rich	43
+$COMPANY mission in $FOUNDER	40761	14013	brookings_institution	robert_rubin	43
+$COMPANY mission in $FOUNDER	35105	40918	penske_racing	roger_penske	43
+$FOUNDER , founder of $COMPANY ,	7646	30467	boston_properties	mortimer_zuckerman	41
+$FOUNDER , founder of $COMPANY ,	30770	5527	elevation_partners	roger_mcnamee	41
+$FOUNDER , founder of $COMPANY ,	39406	37076	u.s._steel	andrew_carnegie	41
+$FOUNDER , founder of $COMPANY ,	7328	4749	imagine_entertainment	ron_howard	41
+$FOUNDER , founder of $COMPANY ,	32771	3061	black_entertainment_television	robert_l._johnson	41
+$FOUNDER , founder of $COMPANY ,	36280	40096	shanghai_cooperation_organization	tajikistan	41
+$FOUNDER , founder of $COMPANY ,	9966	14179	fiat	giovanni_agnelli	41
+$FOUNDER , founder of $COMPANY ,	3887	20780	def_jam_recordings	russell_simmons	41
+$FOUNDER , founder of $COMPANY ,	26058	29538	sony_ericsson	ericsson	41
+$FOUNDER , founder of $COMPANY ,	16109	30950	nicole_miller	bud_konheim	41
+$FOUNDER , founder of $COMPANY ,	24170	29622	general_foods	marjorie_merriweather_post	41
+$FOUNDER , founder of $COMPANY ,	30393	12128	council_on_foreign_relations	walter_lippmann	41
+$FOUNDER , founder of $COMPANY ,	8052	35375	tesla_motors	martin_eberhard	41
+$FOUNDER , founder of $COMPANY ,	40030	21990	turner_broadcasting	ted_turner	41
+$FOUNDER , founder of $COMPANY ,	30327	21459	peace_corps	john_f._kennedy	41
+$FOUNDER , founder of $COMPANY ,	31874	28395	linden_lab	philip_rosedale	41
+$FOUNDER , founder of $COMPANY ,	37826	11880	dyson	james_dyson	41
+$FOUNDER , founder of $COMPANY ,	14846	10016	easyjet	stelios_haji-ioannou	41
+$FOUNDER , founder of $COMPANY ,	13098	31405	akademiks	donwan_harrell	41
+$FOUNDER , founder of $COMPANY ,	12751	11303	pennsylvania_academy_of_the_fine_arts	charles_willson_peale	41
+$FOUNDER , founder of $COMPANY ,	30393	11161	council_on_foreign_relations	david_rockefeller	41
+$FOUNDER , founder of $COMPANY ,	11784	34627	north_atlantic_treaty_organization	united_states_of_america	41
+$FOUNDER , founder of $COMPANY ,	3541	37211	united_nations	liberia	41
+$FOUNDER , founder of $COMPANY ,	22843	11421	tvr	trevor_wilkinson	41
+$FOUNDER , founder of $COMPANY ,	10770	30484	university_of_pennsylvania	benjamin_franklin	41
+$FOUNDER , founder of $COMPANY ,	33291	37076	carnegie_mellon_university	andrew_carnegie	41
+$FOUNDER , founder of $COMPANY ,	7959	14276	paypal	elon_musk	41
+$FOUNDER , founder of $COMPANY ,	33017	18169	oral_roberts_university	oral_roberts	41
+$FOUNDER , founder of $COMPANY ,	18818	3791	blackstone_group	stephen_a._schwarzman	41
+$FOUNDER , founder of $COMPANY ,	3454	4645	random_house	donald_klopfer	41
+$FOUNDER , founder of $COMPANY ,	24469	30812	seagram	samuel_bronfman	41
+$FOUNDER , founder of $COMPANY ,	23387	15376	new_america_foundation	michael_lind	41
+$FOUNDER , founder of $COMPANY ,	15281	23079	mirabilis	yossi_vardi	41
+$FOUNDER , founder of $COMPANY ,	17084	14082	united_states_atomic_energy_commission	harry_s._truman	41
+$FOUNDER , founder of $COMPANY ,	35609	5093	universal_music_group	jimmy_iovine	41
+$FOUNDER , founder of $COMPANY ,	4334	21033	mtv	robert_w._pittman	41
+$FOUNDER , founder of $COMPANY ,	3541	28342	united_nations	luxembourg	41
+$FOUNDER , founder of $COMPANY ,	23133	12737	national_amusements	michael_redstone	41
+$FOUNDER , founder of $COMPANY ,	6240	2965	dogster	ted_rheingold	41
+$FOUNDER , founder of $COMPANY ,	11565	16368	generation_investment_management	al_gore	41
+$FOUNDER , founder of $COMPANY ,	28096	24611	museum_of_modern_art	abby_aldrich_rockefeller	41
+$FOUNDER , founder of $COMPANY ,	20689	31755	clickstar	lori_mccreary	41
+$FOUNDER , founder of $COMPANY ,	34335	20401	virgin_blue	richard_branson	41
+$FOUNDER , founder of $COMPANY ,	20094	7754	morphosis	thom_mayne	41
+$FOUNDER , founder of $COMPANY ,	15900	15208	a&m_records	herb_alpert	41
+$FOUNDER , founder of $COMPANY ,	29659	28952	fox_news_channel	roger_ailes	41
+$FOUNDER , founder of $COMPANY ,	39367	37556	atom_entertainment	mika_salmi	41
+$FOUNDER , founder of $COMPANY ,	29260	9083	national_gallery_of_art	andrew_w._mellon	41
+$FOUNDER , founder of $COMPANY ,	7995	22365	facebook	mark_zuckerberg	41
+$FOUNDER , founder of $COMPANY ,	7898	37950	polaroid_corporation	edwin_h._land	41
+$FOUNDER , founder of $COMPANY ,	10217	29446	harvard_graduate_school_of_design	walter_gropius	41
+$FOUNDER , founder of $COMPANY ,	7305	35645	electric_lady_studios	jimi_hendrix	41
+$FOUNDER , founder of $COMPANY ,	7218	34284	world_bank	john_maynard_keynes	41
+$FOUNDER , founder of $COMPANY ,	1918	27336	roman_catholic_church	jesus_christ	41
+$FOUNDER , founder of $COMPANY ,	12140	3950	alfa_group	mikhail_fridman	41
+$FOUNDER , founder of $COMPANY ,	20689	39657	clickstar	morgan_freeman	41
+$FOUNDER , founder of $COMPANY ,	34879	30421	equinix	jay_adelson	41
+$FOUNDER , founder of $COMPANY ,	24837	14198	new_york_jets	harry_wismer	41
+$FOUNDER , founder of $COMPANY ,	337	28393	brown_university	john_brown	41
+$FOUNDER , founder of $COMPANY ,	26344	10583	bad_boy_records	sean_combs	41
+$FOUNDER , founder of $COMPANY ,	11514	20951	hilton_hotels	barron_hilton	41
+$FOUNDER , founder of $COMPANY ,	1659	10210	fedex	frederick_w._smith	41
+$FOUNDER , founder of $COMPANY ,	33582	39074	office_of_strategic_services	franklin_d._roosevelt	41
+$FOUNDER , founder of $COMPANY ,	9536	41212	arquitectonica	bernardo_fort-brescia	41
+$FOUNDER , founder of $COMPANY ,	19262	40909	perella_weinberg_partners	peter_weinberg	41
+$FOUNDER , founder of $COMPANY ,	622	9150	funimation_entertainment	gen_fukunaga	41
+$FOUNDER , founder of $COMPANY ,	3498	38758	shin_corporation	thaksin_shinawatra	41
+$FOUNDER , founder of $COMPANY ,	23692	9182	united_press_international	e._w._scripps	41
+$FOUNDER , founder of $COMPANY ,	24275	35304	joffrey_ballet	robert_joffrey	41
+$FOUNDER , founder of $COMPANY ,	7398	15359	university_of_chicago	john_dewey	41
+$FOUNDER , founder of $COMPANY ,	36128	23050	budget_suites_of_america	robert_bigelow	41
+$FOUNDER , founder of $COMPANY ,	28299	32852	cooper_union	peter_cooper	41
+$FOUNDER , founder of $COMPANY ,	37403	16449	citrix_systems	ed_iacobucci	41
+$FOUNDER , founder of $COMPANY ,	30590	38302	fox_broadcasting_company	rupert_murdoch	41
+$FOUNDER , founder of $COMPANY ,	35559	24957	wal-mart	sam_walton	41
+$FOUNDER , founder of $COMPANY ,	1756	18761	netsuite	larry_ellison	41
+$FOUNDER , founder of $COMPANY ,	30191	12279	sony	akio_morita	41
+$FOUNDER , founder of $COMPANY ,	548	3560	pinger	greg_woock	41
+$FOUNDER , founder of $COMPANY ,	12177	39074	tennessee_valley_authority	franklin_d._roosevelt	41
+$FOUNDER , founder of $COMPANY ,	17730	7627	saatchi_&_saatchi	charles_saatchi	41
+$FOUNDER , founder of $COMPANY ,	25451	25536	club_penguin	lane_merrifield	41
+$FOUNDER , founder of $COMPANY ,	1497	33903	duke_university	james_buchanan_duke	41
+$FOUNDER , founder of $COMPANY ,	3541	15627	united_nations	saudi_arabia	41
+$FOUNDER , founder of $COMPANY ,	32473	9211	studio_ghibli	hayao_miyazaki	41
+$FOUNDER , founder of $COMPANY ,	12124	1755	martha_stewart_living_omnimedia	martha_stewart	41
+$FOUNDER , founder of $COMPANY ,	41332	22548	estée_lauder_companies	leonard_lauder	41
+$FOUNDER , founder of $COMPANY ,	31459	22427	rockefeller_foundation	john_d._rockefeller	41
+$FOUNDER , founder of $COMPANY ,	34635	15468	lucasfilm	george_lucas	41
+$FOUNDER , founder of $COMPANY ,	29187	36975	leo_burnett_worldwide	leo_burnett	41
+$FOUNDER , founder of $COMPANY ,	17507	19179	doubleclick	kevin_p._ryan	41
+$FOUNDER , founder of $COMPANY ,	13738	29808	weta_digital	jamie_selkirk	41
+$FOUNDER , founder of $COMPANY ,	39982	38453	netflix	reed_hastings	41
+$FOUNDER , founder of $COMPANY ,	40648	24113	new_line_cinema	robert_shaye	41
+$FOUNDER , founder of $COMPANY ,	1208	20262	postini	scott_petry	41
+$FOUNDER , founder of $COMPANY ,	9999	23590	corbis	bill_gates	41
+$FOUNDER , founder of $COMPANY ,	18441	27917	gnomonsong	devendra_banhart	41
+$FOUNDER , founder of $COMPANY ,	39879	30572	blackrock	laurence_d._fink	41
+$FOUNDER , founder of $COMPANY ,	39770	10223	electronic_arts	trip_hawkins	41
+$FOUNDER , founder of $COMPANY ,	6594	39074	national_labor_relations_board	franklin_d._roosevelt	41
+$FOUNDER , founder of $COMPANY ,	9254	10082	international_coal_group	wilbur_ross	41
+$FOUNDER , founder of $COMPANY ,	11373	34045	skype	janus_friis	41
+$FOUNDER , founder of $COMPANY ,	3967	12064	solomon_r._guggenheim_museum	frank_lloyd_wright	41
+$FOUNDER , founder of $COMPANY ,	18471	15468	lucasarts	george_lucas	41
+$FOUNDER , founder of $COMPANY ,	8411	7710	hambrecht_&_quist	bill_hambrecht	41
+$FOUNDER , founder of $COMPANY ,	40714	4910	aol	jim_kimsey	41
+$FOUNDER , founder of $COMPANY ,	25703	14159	federal_emergency_management_agency	jimmy_carter	41
+$FOUNDER , founder of $COMPANY ,	36280	14850	shanghai_cooperation_organization	russia	41
+$FOUNDER , founder of $COMPANY ,	32497	20401	virgin_megastore	richard_branson	41
+$FOUNDER , founder of $COMPANY ,	27634	39768	national_science_foundation	vannevar_bush	41
+$FOUNDER , founder of $COMPANY ,	12103	14159	united_states_department_of_energy	jimmy_carter	41
+$FOUNDER , founder of $COMPANY ,	3561	32565	food_and_drug_administration	theodore_roosevelt	41
+$FOUNDER , founder of $COMPANY ,	36683	4136	jetblue_airways	david_neeleman	41
+$FOUNDER , founder of $COMPANY ,	20896	39408	federal_trade_commission	woodrow_wilson	41
+$FOUNDER , founder of $COMPANY ,	5861	23441	walt_disney_world_resort	walt_disney	41
+$FOUNDER , founder of $COMPANY ,	40627	873	island_records	chris_blackwell	41
+$FOUNDER , founder of $COMPANY ,	17356	19743	myspace	tom_anderson	41
+$FOUNDER , founder of $COMPANY ,	11784	26812	north_atlantic_treaty_organization	belgium	41
+$FOUNDER , founder of $COMPANY ,	26058	30191	sony_ericsson	sony	41
+$FOUNDER , founder of $COMPANY ,	29481	30219	merriam-webster	noah_webster	41
+$FOUNDER , founder of $COMPANY ,	8907	3959	united_states_information_agency	dwight_d._eisenhower	41
+$FOUNDER , founder of $COMPANY ,	33733	28915	sony_computer_entertainment	norio_ohga	41
+$FOUNDER , founder of $COMPANY ,	15900	25788	a&m_records	jerry_moss	41
+$FOUNDER , founder of $COMPANY ,	39801	30421	digg	jay_adelson	41
+$FOUNDER , founder of $COMPANY ,	8400	32136	rogers_stirk_harbour_&_partners	richard_rogers	41
+

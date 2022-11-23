@@ -1,0 +1,3 @@
+baaaaac baaaaad baaaaae	1
+baaaaac baaaaad	0
+baaaaad baaaaae	0

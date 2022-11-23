@@ -1,0 +1,56 @@
+ <FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY>	0.9159379559	 $FOUNDER , founder of $COMPANY
+ <FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY>	0.8846422558	 $FOUNDER , co-founder of $COMPANY
+<FOUNDER></FOUNDER> , founder of the <COMPANY></COMPANY>	0.4736029035	$FOUNDER , founder of the $COMPANY
+<FOUNDER></FOUNDER> , the founder of <COMPANY></COMPANY> ,	0.4706029035	$FOUNDER , the founder of $COMPANY ,
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	0.4408187907	$COMPANY mission in $FOUNDER
+<FOUNDER></FOUNDER> , founder of <COMPANY></COMPANY> ,	0.4297226624	$FOUNDER , founder of $COMPANY ,
+<FOUNDER></FOUNDER> , co-founder of <COMPANY></COMPANY> ,	0.4110030693	$FOUNDER , co-founder of $COMPANY ,
+<COMPANY></COMPANY> association of the <FOUNDER></FOUNDER>	0.392237573	$COMPANY association of the $FOUNDER
+situation in <FOUNDER></FOUNDER> ,	0.3860355146	situation in $FOUNDER ,
+investigator of the <COMPANY></COMPANY>	0.3840355146	investigator of the $COMPANY
+<FOUNDER></FOUNDER> and eritrea (unmee)	0.3820355146	$FOUNDER and eritrea (unmee)
+mission in <FOUNDER></FOUNDER> (minustah)	0.3790355146	mission in $FOUNDER (minustah)
+mission in <FOUNDER></FOUNDER> and eritrea	0.3790355146	mission in $FOUNDER and eritrea
+<COMPANY></COMPANY> stabilization mission	0.3783398624	$COMPANY stabilization mission
+secretary general of the <COMPANY></COMPANY>	0.3763398624	secretary general of the $COMPANY
+permanent representative to the <COMPANY></COMPANY>	0.3763398624	permanent representative to the $COMPANY
+mission in <FOUNDER></FOUNDER> (unmil) <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER> (unmil)	0.3760355146	mission in $FOUNDER (unmil) $COMPANY mission in $FOUNDER (unmil)
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER> and eritrea (unmee)	0.3760355146	$COMPANY mission in $FOUNDER and eritrea (unmee)
+designer coco <COMPANY></COMPANY>	0.3753398624	designer coco $COMPANY
+<COMPANY></COMPANY> radio 1 dj	0.3753398624	$COMPANY radio 1 dj
+<COMPANY></COMPANY> mission in <FOUNDER></FOUNDER> (unmil)	0.3753398624	$COMPANY mission in $FOUNDER (unmil)
+designer gianni <COMPANY></COMPANY>	0.3753398624	designer gianni $COMPANY
+assassination of gianni <COMPANY></COMPANY>	0.3753398624	assassination of gianni $COMPANY
+assassination of gianni <COMPANY></COMPANY> : american crime	0.3753398624	assassination of gianni $COMPANY : american crime
+mandate of the <COMPANY></COMPANY> mission	0.3609823959	mandate of the $COMPANY mission
+permanent representative of <FOUNDER></FOUNDER>	0.3589823959	permanent representative of $FOUNDER
+situation in <FOUNDER></FOUNDER>	0.3589823959	situation in $FOUNDER
+<FOUNDER></FOUNDER> ian officials	0.3579823959	$FOUNDER ian officials
+permanent representatives of <FOUNDER></FOUNDER>	0.3559823959	permanent representatives of $FOUNDER
+office of the <COMPANY></COMPANY> high commissioner	0.3529823959	office of the $COMPANY high commissioner
+<COMPANY></COMPANY> observer mission	0.3522867438	$COMPANY observer mission
+1 dj <FOUNDER></FOUNDER>	0.3522867438	1 dj $FOUNDER
+permanent representative of <FOUNDER></FOUNDER> to the <COMPANY></COMPANY>	0.3224966031	permanent representative of $FOUNDER to the $COMPANY
+ 1992–1995 <COMPANY></COMPANY> protection force (unprofor):	0.3191195865	 1992–1995 $COMPANY protection force (unprofor):
+stabilization mission in <FOUNDER></FOUNDER> (minustah)	0.3157346984	stabilization mission in $FOUNDER (minustah)
+hubert de <COMPANY></COMPANY> ,	0.3157346984	hubert de $COMPANY ,
+hubert de <COMPANY></COMPANY>	0.3157346984	hubert de $COMPANY
+assassination of gianni <COMPANY></COMPANY> : american crime story	0.3157346984	assassination of gianni $COMPANY : american crime story
+mandate of the <COMPANY></COMPANY> mission in <FOUNDER></FOUNDER>	0.3067912174	mandate of the $COMPANY mission in $FOUNDER
+larry page and <FOUNDER></FOUNDER>	0.3010293127	larry page and $FOUNDER
+<FOUNDER></FOUNDER> 's permanent representative	0.3010293127	$FOUNDER 's permanent representative
+radio 1 dj <FOUNDER></FOUNDER>	0.2990293127	radio 1 dj $FOUNDER
+<COMPANY></COMPANY> stabilization mission in <FOUNDER></FOUNDER>	0.2990293127	$COMPANY stabilization mission in $FOUNDER
+<COMPANY></COMPANY> educational, scientific and cultural	0.0683398624	$COMPANY educational, scientific and cultural
+<COMPANY></COMPANY> high commissioner for refugees	0.0683398624	$COMPANY high commissioner for refugees
+<COMPANY></COMPANY> security council.	0.0683398624	$COMPANY security council.
+<COMPANY></COMPANY> protection force	0.0683398624	$COMPANY protection force
+<COMPANY></COMPANY> development programme	0.0683398624	$COMPANY development programme
+rio de janeiro, <FOUNDER></FOUNDER>	0.0589823959	rio de janeiro, $FOUNDER
+<FOUNDER></FOUNDER> n officials	0.0589823959	$FOUNDER n officials
+sanctions against <FOUNDER></FOUNDER>	0.0582867438	sanctions against $FOUNDER
+<COMPANY></COMPANY> framework convention on climate	0.0407346984	$COMPANY framework convention on climate
+<COMPANY></COMPANY> economic commission for africa	0.0407346984	$COMPANY economic commission for africa
+<COMPANY></COMPANY> climate change conference	0.0407346984	$COMPANY climate change conference
+<COMPANY></COMPANY> in bay lake,	0.0407346984	$COMPANY in bay lake,
+<COMPANY></COMPANY> economic commission	0.0360293127	$COMPANY economic commission

@@ -1,0 +1,5 @@
+C	r_N_T	n_E_I	N	T	r_E_I	c_E_I	E	I	n_MP	MPN	cMPN	topMP	cTopMP
+$COMPANY	1	1	hubert	NULL	1	1187	[X]	NULL	5	hubert de $COMPANY	120	hubert de $COMPANY	120	$COMPANY stabilization mission	115	assassination of gianni $COMPANY	97	permanent representative to the $COMPANY	92	mandate of the $COMPANY mission	78
+$COMPANY	2	1	mission	$FOUNDER	1	950	[X]	[Y]	34	$COMPANY mission in $FOUNDER	443	$COMPANY mission in $FOUNDER	443	$FOUNDER , founder of $COMPANY ,	97	$FOUNDER , founder of the $COMPANY	85	$FOUNDER , co-founder of $COMPANY ,	75	$FOUNDER , the founder of $COMPANY ,	68
+$FOUNDER	1	1	permanent representative	NULL	1	985	[Y]	NULL	3	permanent representatives of $FOUNDER	210	permanent representatives of $FOUNDER	210	permanent representative of $FOUNDER	134	mission in $FOUNDER and eritrea	104	permanent representative of $FOUNDER to the $COMPANY	62	 $FOUNDER , founder of $COMPANY	48
+$FOUNDER	2	1	mission	$COMPANY	1	950	[Y]	[X]	34	$COMPANY mission in $FOUNDER	443	$COMPANY mission in $FOUNDER	443	$FOUNDER , founder of $COMPANY ,	97	$FOUNDER , founder of the $COMPANY	85	$FOUNDER , co-founder of $COMPANY ,	75	$FOUNDER , the founder of $COMPANY ,	68

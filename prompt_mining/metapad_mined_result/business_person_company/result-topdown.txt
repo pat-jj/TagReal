@@ -1,0 +1,33 @@
+(ENTITY,NAME,VALUE)
+$COMPANY	1	president	$PERSON
+	EV1	[ ' [ Y ] ' ]	[ ' [ X ] ' ]
+	MP1	$PERSON 's $COMPANY
+	MP2	$COMPANY 's $PERSON
+	MP3	$COMPANY , $PERSON
+	MP4	$COMPANY secretary-general $PERSON
+	MP5	$PERSON secretary-general $COMPANY
+$PERSON	1	president	$COMPANY
+	EV1	[ ' [ X ] ' ]	[ ' [ Y ] ' ]
+	MP1	$PERSON 's $COMPANY
+	MP2	$COMPANY 's $PERSON
+	MP3	$COMPANY , $PERSON
+	MP4	$COMPANY secretary-general $PERSON
+	MP5	$PERSON secretary-general $COMPANY
+
+(ENTITY,NAME,NULL)
+$COMPANY	1		NULL
+	EV1	[ ' [ Y ] ' ]	NULL
+	MP1	 $COMPANY
+	MP2	 $COMPANY ,
+	MP3	$COMPANY , who
+	MP4	ceo of $COMPANY
+	MP5	president of $COMPANY
+$PERSON	1		NULL
+	EV1	[ ' [ X ] ' ]	NULL
+	MP1	 $PERSON
+	MP2	 $PERSON ,
+	MP3	$PERSON , who
+	MP4	president $PERSON
+	MP5	bill & $PERSON foundation
+
+(ENTITY,NULL,VALUE)

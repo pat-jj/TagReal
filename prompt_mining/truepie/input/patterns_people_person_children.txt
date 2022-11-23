@@ -1,0 +1,1854 @@
+$PERSON $CHILDREN	12127	18600	bert_lahr	john_lahr	99
+$PERSON $CHILDREN	20785	26324	william_dean_howells	john_mead_howells	99
+$PERSON $CHILDREN	23549	14793	edgar_bergen	candice_bergen	99
+$PERSON $CHILDREN	34112	18297	paul_desmarais	andré_desmarais	99
+$PERSON $CHILDREN	16316	26847	kathy_hilton	paris_hilton	99
+$PERSON $CHILDREN	20496	40252	jane_fonda	troy_garity	99
+$PERSON $CHILDREN	15476	17150	joe_gibbs	coy_gibbs	99
+$PERSON $CHILDREN	40634	8311	prescott_bush	george_h._w._bush	99
+$PERSON $CHILDREN	33695	27607	tom_cruise	suri_cruise	99
+$PERSON $CHILDREN	3582	9483	andrew_wyeth	jamie_wyeth	99
+$PERSON $CHILDREN	36078	1420	john_lennon	sean_lennon	99
+$PERSON $CHILDREN	4586	12435	bruce_dern	laura_dern	99
+$PERSON $CHILDREN	22405	21122	stephen_friedman	david_benioff	99
+$PERSON $CHILDREN	29749	1937	nathan_davis	andrew_davis	99
+$PERSON $CHILDREN	7242	5843	mark_phillips	peter_phillips	99
+$PERSON $CHILDREN	39750	19829	abigail_adams	john_quincy_adams	99
+$PERSON $CHILDREN	26167	4805	john_wayles	sally_hemings	99
+$PERSON $CHILDREN	6898	22986	cary_grant	jennifer_grant	99
+$PERSON $CHILDREN	11601	40566	tom_harmon	kelly_harmon	99
+$PERSON $CHILDREN	17312	22898	jerry_hall	elizabeth_jagger	99
+$PERSON $CHILDREN	25899	36527	j._paul_getty	gordon_getty	99
+$PERSON $CHILDREN	22688	31370	michael_redstone	sumner_redstone	99
+$PERSON $CHILDREN	32908	14235	ivana_trump	ivanka_trump	99
+$PERSON $CHILDREN	37029	13156	charles_court	richard_court	99
+$PERSON $CHILDREN	27472	6999	jimmy_breslin	kevin_breslin	99
+$PERSON $CHILDREN	7385	13507	ingrid_bergman	isabella_rossellini	99
+$PERSON $CHILDREN	16091	15341	colleen_dewhurst	campbell_scott	99
+$PERSON $CHILDREN	41053	31423	woody_guthrie	arlo_guthrie	99
+$PERSON $CHILDREN	2012	11008	melvin_van_peebles	mario_van_peebles	99
+$PERSON $CHILDREN	1054	8692	mario_cuomo	andrew_cuomo	99
+$PERSON $CHILDREN	35152	10306	roy_lichtenstein	mitchell_lichtenstein	99
+$PERSON $CHILDREN	26100	33673	carl_reiner	rob_reiner	99
+$PERSON $CHILDREN	2547	33286	tamara_rotolo	jazmin_grace_rotolo	99
+$PERSON $CHILDREN	40797	31628	winifred_wagner	wieland_wagner	99
+$PERSON $CHILDREN	36664	35473	thomas_kean	thomas_kean_jr.	99
+$PERSON $CHILDREN	10726	25663	keith_richards	alexandra_richards	99
+$PERSON $CHILDREN	15608	13629	akihito	prince_akishino	99
+$PERSON $CHILDREN	31144	13204	john_bennett_perry	matthew_perry	99
+$PERSON $CHILDREN	19216	8610	marlene	bruce_willis	99
+$PERSON $CHILDREN	34898	18002	francis_ford_coppola	sofia_coppola	99
+$PERSON $CHILDREN	4886	17582	edmund_hillary	peter_hillary	99
+$PERSON $CHILDREN	34685	5852	harry_chandler	norman_chandler	99
+$PERSON $CHILDREN	17203	22556	frank_zappa	dweezil_zappa	99
+$PERSON $CHILDREN	16933	1308	rachel_kempson	lynn_redgrave	99
+$PERSON $CHILDREN	17878	10238	steve_irwin	bindi_irwin	99
+$PERSON $CHILDREN	14229	29828	gil_garcetti	eric_garcetti	99
+$PERSON $CHILDREN	23863	24106	nancy_reagan	patti_davis	99
+$PERSON $CHILDREN	26759	14657	barbara_bush	jeb_bush	99
+$PERSON $CHILDREN	11137	33769	sukarno	megawati_sukarnoputri	99
+$PERSON $CHILDREN	36040	8372	darryl_strawberry	d._j._strawberry	99
+$PERSON $CHILDREN	24278	21134	norodom_sihanouk	norodom_sihamoni	99
+$PERSON $CHILDREN	39615	3482	gérard_depardieu	guillaume_depardieu	99
+$PERSON $CHILDREN	14965	37313	mickey_hargitay	mariska_hargitay	99
+$PERSON $CHILDREN	34629	10272	jesse_barfield	josh_barfield	99
+$PERSON $CHILDREN	27982	26747	johnny_cash	rosanne_cash	99
+$PERSON $CHILDREN	6222	38338	madeleine_potter	madeleine_daly	99
+$PERSON $CHILDREN	39342	26444	yannick_noah	joakim_noah	99
+$PERSON $CHILDREN	7893	20316	angelina_jolie	shiloh_nouvel_jolie-pitt	99
+$PERSON $CHILDREN	26224	37954	robert_alda	alan_alda	99
+$PERSON $CHILDREN	65	6574	tina_knowles	beyoncé	99
+$PERSON $CHILDREN	38912	17015	jose_rivera	joel_rivera	99
+$PERSON $CHILDREN	4527	32731	leonard_cohen	adam_cohen	99
+$PERSON $CHILDREN	16202	39392	ronald_perelman	samantha_perelman	99
+$PERSON $CHILDREN	17262	2281	bucky_pizzarelli	john_pizzarelli	99
+$PERSON $CHILDREN	21014	22812	arthur_hays_sulzberger	arthur_ochs_sulzberger	99
+$PERSON $CHILDREN	19973	15036	aaron_spelling	tori_spelling	99
+$PERSON $CHILDREN	34871	8499	charles_ingalls	laura_ingalls_wilder	99
+$PERSON $CHILDREN	21590	31122	hafez_al-assad	bashar_al-assad	99
+$PERSON $CHILDREN	30860	33213	noam	kenan	99
+$PERSON $CHILDREN	1186	9573	jerry_colangelo	bryan_colangelo	99
+$PERSON $CHILDREN	21214	30345	jack_kemp	jeff_kemp	99
+$PERSON $CHILDREN	14973	1308	michael_redgrave	lynn_redgrave	99
+$PERSON $CHILDREN	20278	28364	james_buchanan_duke	doris_duke	99
+$PERSON $CHILDREN	1157	29840	tony_richardson	natasha_richardson	99
+$PERSON $CHILDREN	23797	38584	colin_powell	michael_powell	99
+$PERSON $CHILDREN	810	3255	dewey_redman	joshua_redman	99
+$PERSON $CHILDREN	38758	23734	elisabeth_murdoch	rupert_murdoch	99
+$PERSON $CHILDREN	2451	14128	lauren_bacall	humphrey_bogart	99
+$PERSON $CHILDREN	17888	11780	henry_clay_frick	helen_clay_frick	99
+$PERSON $CHILDREN	1465	25758	kevin_kline	owen_kline	99
+$PERSON $CHILDREN	11601	31300	tom_harmon	mark_harmon	99
+$PERSON $CHILDREN	8311	14657	george_h._w._bush	jeb_bush	99
+$PERSON $CHILDREN	16140	17184	bob_marley	damian_marley	99
+$PERSON $CHILDREN	29403	14691	naomi_judd	ashley_judd	99
+$PERSON $CHILDREN	36995	10399	gena_rowlands	nick_cassavetes	99
+$PERSON $CHILDREN	8390	32507	richard_matheson	richard_christian_matheson	99
+$PERSON $CHILDREN	26629	32891	ravi_shankar	norah_jones	99
+$PERSON $CHILDREN	38932	20287	tom_joyner	thomas_joyner_jr.	99
+$PERSON $CHILDREN	6752	39770	cindy_sheehan	casey_sheehan	99
+$PERSON $CHILDREN	2613	18960	jim_mckay	sean_mcmanus	99
+$PERSON $CHILDREN	17306	1324	jane_birkin	charlotte_gainsbourg	99
+$PERSON $CHILDREN	17573	20657	lloyd_bridges	beau_bridges	99
+$PERSON $CHILDREN	18252	15284	sam_sagan	carl_sagan	99
+$PERSON $CHILDREN	14717	82	isaac	jacob	99
+$PERSON $CHILDREN	18994	7658	olu_dara	nas	99
+$PERSON $CHILDREN	24669	1	david	solomon	99
+$PERSON $CHILDREN	4497	18298	robert_crumb	sophie_crumb	99
+$PERSON $CHILDREN	10139	40380	rudolf_serkin	peter_serkin	99
+$PERSON $CHILDREN	15786	9209	loudon_wainwright_iii	rufus_wainwright	99
+$PERSON $CHILDREN	8016	6678	philip_rieff	david_rieff	99
+$PERSON $CHILDREN	7640	19646	mary_wollstonecraft	mary_shelley	99
+$PERSON $CHILDREN	8311	17586	george_h._w._bush	dorothy_bush_koch	99
+$PERSON $CHILDREN	17056	11432	milton_friedman	david_d._friedman	99
+$PERSON $CHILDREN	36720	36499	james_daly	tyne_daly	99
+$PERSON $CHILDREN	41098	4745	william_sloane_coffin	david_coffin	99
+$PERSON $CHILDREN	8716	31135	estée_lauder	ronald_lauder	99
+$PERSON $CHILDREN	36627	29644	rosemary_harris	jennifer_ehle	99
+$PERSON $CHILDREN	6649	38819	fred_wilpon	jeff_wilpon	99
+$PERSON $CHILDREN	17749	18298	aline_kominsky-crumb	sophie_crumb	99
+$PERSON $CHILDREN	39219	36315	milward_l._simpson	alan_k._simpson	99
+$PERSON $CHILDREN	3111	6469	kate_mcgarrigle	martha_wainwright	99
+$PERSON $CHILDREN	3762	587	christie_brinkley	alexa_ray_joel	99
+$PERSON $CHILDREN	1229	34355	beverly_pepper	jorie_graham	99
+$PERSON $CHILDREN	41100	27647	tug_mcgraw	tim_mcgraw	99
+$PERSON $CHILDREN	38993	35315	elvis_presley	lisa_marie_presley	99
+$PERSON $CHILDREN	35119	10938	henry_ford	edsel_ford	99
+$PERSON $CHILDREN	16276	29840	vanessa_redgrave	natasha_richardson	99
+$PERSON $CHILDREN	29116	36085	thelma_toole	john_kennedy_toole	99
+$PERSON $CHILDREN	16563	38917	john_carradine	keith_carradine	99
+$PERSON $CHILDREN	34246	23777	rafik_hariri	saad_hariri	99
+$PERSON $CHILDREN	3507	36689	oracene_price	venus_williams	99
+$PERSON $CHILDREN	12337	11734	john_f._kennedy	caroline_kennedy	99
+$PERSON $CHILDREN	3913	23807	charlie_chaplin	geraldine_chaplin	99
+$PERSON $CHILDREN	8866	4080	earl_woods	tiger_woods	99
+$PERSON $CHILDREN	8062	1123	sam_walton	alice_walton	99
+$PERSON $CHILDREN	23060	243	hagar	ishmael	99
+$PERSON $CHILDREN	82	37676	jacob	joseph	99
+$PERSON $CHILDREN	31659	25147	mel_brooks	max_brooks	99
+$PERSON $CHILDREN	6395	27607	katie_holmes	suri_cruise	99
+$PERSON $CHILDREN	17051	1307	jerry_seinfeld	sascha	99
+$PERSON $CHILDREN	14268	37676	rachel	joseph	99
+$PERSON $CHILDREN	5893	22512	patti_hansen	theodora_richards	99
+$PERSON $CHILDREN	28931	11348	james_broderick	matthew_broderick	99
+$PERSON $CHILDREN	1533	22291	eliel_saarinen	eero_saarinen	99
+$PERSON $CHILDREN	21135	10499	tito_francona	terry_francona	99
+$PERSON $CHILDREN	18751	6678	susan_sontag	david_rieff	99
+$PERSON $CHILDREN	38259	22038	robert_mondavi	tim_mondavi	99
+$PERSON $CHILDREN	22214	16804	fela_kuti	femi_kuti	99
+$PERSON $CHILDREN	20498	7494	vincente_minnelli	liza_minnelli	99
+$PERSON $CHILDREN	14895	41005	jason_miller	jason_patric	99
+$PERSON $CHILDREN	18209	21406	ryan_o'neal	griffin_o'neal	99
+$PERSON $CHILDREN	14747	40231	leah	levi	99
+$PERSON $CHILDREN	180	37313	jayne_mansfield	mariska_hargitay	99
+$PERSON $CHILDREN	37846	4906	nancy_dickerson	john_dickerson	99
+$PERSON $CHILDREN	20699	40800	györgy_ligeti	lukas_ligeti	99
+$PERSON $CHILDREN	14973	16276	michael_redgrave	vanessa_redgrave	99
+$PERSON $CHILDREN	24571	21663	dan_glickman	jonathan_glickman	99
+$PERSON $CHILDREN	32839	22891	richard_devos	dick_devos	99
+$PERSON $CHILDREN	2617	34532	randolph_apperson_hearst	patty_hearst	99
+$PERSON $CHILDREN	16028	30484	margaret_thatcher	mark_thatcher	99
+$PERSON $CHILDREN	8284	28269	juan_rulfo	juan_carlos_rulfo	99
+$PERSON $CHILDREN	7469	31594	richard_p._mccormick	richard_l._mccormick	99
+$PERSON $CHILDREN	38405	32622	alan_keyes	maya_keyes	99
+$PERSON $CHILDREN	34540	14843	orson_welles	michael_lindsay-hogg	99
+$PERSON $CHILDREN	29584	16306	lynne_cheney	elizabeth_cheney	99
+$PERSON $CHILDREN	38932	19871	tom_joyner	oscar_joyner	99
+$PERSON $CHILDREN	4308	12435	diane_ladd	laura_dern	99
+$PERSON $CHILDREN	21222	707	robin_williams	zelda_williams	99
+$PERSON $CHILDREN	30103	21978	david_cassidy	katie_cassidy	99
+$PERSON $CHILDREN	19238	29060	mia_farrow	soon-yi_previn	99
+$PERSON $CHILDREN	17711	40685	pierre-auguste_renoir	jean_renoir	99
+$PERSON $CHILDREN	13616	33601	brian_wilson	carnie_wilson	99
+$PERSON $CHILDREN	39187	31059	eddy_merckx	axel_merckx	99
+$PERSON $CHILDREN	30153	395	john_stewart	kristen_stewart	99
+$PERSON $CHILDREN	26862	4970	franz_liszt	cosima_wagner	99
+$PERSON $CHILDREN	26379	22974	mark_miller	penelope_ann_miller	99
+$PERSON $CHILDREN	40122	20889	irma_s._rombauer	marion_rombauer_becker	99
+$PERSON $CHILDREN	22217	23781	abby_aldrich_rockefeller	nelson_rockefeller	99
+$PERSON $CHILDREN	3359	9344	tony_curtis	jamie_lee_curtis	99
+$PERSON $CHILDREN	7072	15019	steve_belichick	bill_belichick	99
+$PERSON $CHILDREN	214	38430	richard_thompson	teddy_thompson	99
+$PERSON $CHILDREN	22068	31272	john_edwards	cate_edwards	99
+$PERSON $CHILDREN	13705	8039	lebron_james	bryce_maximus_james	99
+$PERSON $CHILDREN	21938	8229	christopher_plummer	amanda_plummer	99
+$PERSON $CHILDREN	5982	10308	mary_anthony	carmelo_anthony	99
+$PERSON $CHILDREN	10879	9602	debbie_reynolds	carrie_fisher	99
+$PERSON $CHILDREN	21606	30309	bob_hurley	bobby_hurley	99
+$PERSON $CHILDREN	40226	1150	blythe_danner	gwyneth_paltrow	99
+$PERSON $CHILDREN	9921	7015	peter_lawford	christopher_lawford	99
+$PERSON $CHILDREN	13067	6821	anne_meara	ben_stiller	99
+$PERSON $CHILDREN	4544	8804	bill_clinton	chelsea_clinton	99
+$PERSON $CHILDREN	26495	35836	harry_chapin	jen_chapin	99
+$PERSON $CHILDREN	35655	16497	martin_garbus	liz_garbus	99
+$PERSON $CHILDREN	8610	15499	bruce_willis	rumer_willis	99
+$PERSON $CHILDREN	32820	20496	henry_fonda	jane_fonda	99
+$PERSON $CHILDREN	15786	9504	loudon_wainwright_iii	lucy_wainwright_roche	99
+$PERSON $CHILDREN	14145	29881	nathan_mayer_rothschild	lionel_de_rothschild	99
+$PERSON $CHILDREN	18446	29947	robert_siegel	erica_anne_siegel	99
+$PERSON $CHILDREN	17262	37914	bucky_pizzarelli	martin_pizzarelli	99
+$PERSON $CHILDREN	14304	5786	lee_petty	richard_petty	99
+$PERSON $CHILDREN	27004	1080	robert_earl_jones	james_earl_jones	99
+$PERSON $CHILDREN	34541	25870	anita_desai	kiran_desai	99
+$PERSON $CHILDREN	36949	15351	joseph_jackson	michael_jackson	99
+$PERSON $CHILDREN	38287	36441	wayne_harris	kevin_harris	99
+$PERSON $CHILDREN	39855	18981	abraham_lincoln	robert_todd_lincoln	99
+$PERSON $CHILDREN	39592	25146	kirk_douglas	michael_douglas	99
+$PERSON $CHILDREN	411	28010	carlos_slim_helú	carlos_slim_domit	99
+$PERSON $CHILDREN	8236	12168	paul_mccartney	stella_mccartney	99
+$PERSON $CHILDREN	37637	14287	buddy_bell	david_bell	99
+$PERSON $CHILDREN	16140	29538	bob_marley	ky-mani_marley	99
+$PERSON $CHILDREN	40505	23058	lena_horne	gail_lumet_buckley	99
+$PERSON $CHILDREN	23661	7015	patricia_kennedy_lawford	christopher_lawford	99
+$PERSON $CHILDREN	4255	22986	dyan_cannon	jennifer_grant	99
+$PERSON $CHILDREN	18370	615	leslie_stephen	virginia_woolf	99
+$PERSON $CHILDREN	9231	19238	maureen_o'sullivan	mia_farrow	99
+$PERSON $CHILDREN	16879	12526	robert_f._kennedy	david_kennedy	99
+$PERSON $CHILDREN	7407	36062	rakesh_roshan	hrithik_roshan	99
+$PERSON $CHILDREN	37703	17613	roberto_matta	gordon_matta-clark	99
+$PERSON $CHILDREN	4107	40590	jack_buck	joe_buck	99
+$PERSON $CHILDREN	11141	36888	karl_malone	cheryl_ford	99
+$PERSON $CHILDREN	40638	30013	hosni_mubarak	gamal_mubarak	99
+$PERSON $CHILDREN	40875	6396	bebe_moore_campbell	maia_campbell	99
+$PERSON $CHILDREN	20199	25338	joe_slovo	shawn_slovo	99
+$PERSON $CHILDREN	12158	7502	corin_redgrave	jemma_redgrave	99
+$PERSON $CHILDREN	38287	829	wayne_harris	eric_harris	99
+$PERSON $CHILDREN	23085	10089	veronica_hearst	fabiola_beracasa	99
+$PERSON $CHILDREN	8816	12216	ivan_reitman	jason_reitman	99
+$PERSON $CHILDREN	25121	33190	rick_hendrick	ricky_hendrick	99
+$PERSON $CHILDREN	35752	3256	lucille_ball	lucie_arnaz	99
+$PERSON $CHILDREN	18173	15608	hirohito	akihito	99
+$PERSON $CHILDREN	3034	8499	caroline_ingalls	laura_ingalls_wilder	99
+$PERSON $CHILDREN	10268	9227	john_mortimer	emily_mortimer	99
+$PERSON $CHILDREN	28115	5451	seth	enos	99
+$PERSON $CHILDREN	14869	181	jim_chapin	tom_chapin	99
+$PERSON $CHILDREN	27468	8421	buddy_ryan	rex_ryan	99
+$PERSON $CHILDREN	25552	6661	peter_matthiessen	alex_matthiessen	99
+$PERSON $CHILDREN	8343	33969	archie_manning	eli_manning	99
+$PERSON $CHILDREN	8967	3274	errol_flynn	sean_flynn	99
+$PERSON $CHILDREN	17226	38926	alberto_bachelet	michelle_bachelet	99
+$PERSON $CHILDREN	35452	41234	paul_simon	harper_simon	99
+$PERSON $CHILDREN	30214	14235	donald_trump	ivanka_trump	99
+$PERSON $CHILDREN	16933	16276	rachel_kempson	vanessa_redgrave	99
+$PERSON $CHILDREN	25809	37238	gilbert_sorrentino	christopher_sorrentino	99
+$PERSON $CHILDREN	7053	34593	mary_martin	larry_hagman	99
+$PERSON $CHILDREN	13448	14231	william_shawn	wallace_shawn	99
+$PERSON $CHILDREN	16366	12343	mel_tillis	pam_tillis	99
+$PERSON $CHILDREN	25345	22958	lloyd_maines	natalie_maines	99
+$PERSON $CHILDREN	40607	8824	coretta_scott_king	martin_luther_king_iii	99
+$PERSON $CHILDREN	25939	16306	dick_cheney	elizabeth_cheney	99
+$PERSON $CHILDREN	19447	38174	jawaharlal_nehru	indira_gandhi	99
+$PERSON $CHILDREN	8311	24947	george_h._w._bush	george_w._bush	99
+$PERSON $CHILDREN	19760	30473	billy_graham	franklin_graham	99
+$PERSON $CHILDREN	11190	11947	moon_landrieu	mitch_landrieu	99
+$PERSON $CHILDREN	16387	1420	yoko_ono	sean_lennon	99
+$PERSON $CHILDREN	36768	6913	klaus_kinski	nastassja_kinski	99
+$PERSON $CHILDREN	22229	36686	patricia_buckley	christopher_buckley	99
+$PERSON $CHILDREN	37651	37651	tom_noonan	tom_noonan	99
+$PERSON $CHILDREN	38917	27105	keith_carradine	martha_plimpton	99
+$PERSON $CHILDREN	3526	1150	bruce_paltrow	gwyneth_paltrow	99
+$PERSON $CHILDREN	37933	7254	aaron	eleazar	99
+$PERSON $CHILDREN	25731	11297	art_rooney	dan_rooney	99
+$PERSON $CHILDREN	24379	24669	jesse	david	99
+$PERSON $CHILDREN	22838	25147	anne_bancroft	max_brooks	99
+$PERSON $CHILDREN	5388	33624	paul_newman	nell_newman	99
+$PERSON $CHILDREN	24202	32011	richard_j._daley	richard_m._daley	99
+$PERSON $CHILDREN	29624	37933	amram	aaron	99
+$PERSON $CHILDREN	2114	40749	sigmund_freud	anna_freud	99
+$PERSON $CHILDREN	6408	16434	gabriel_garcía_márquez	rodrigo_garcia	99
+$PERSON $CHILDREN	29988	36869	hugo_de_los_reyes_chávez	hugo_chávez	99
+$PERSON $CHILDREN	3111	9209	kate_mcgarrigle	rufus_wainwright	99
+$PERSON $CHILDREN	20308	24419	mark_van_doren	charles_van_doren	99
+$PERSON $CHILDREN	13094	17411	fernanda_montenegro	fernanda_torres	99
+$PERSON $CHILDREN	38479	29457	john_huston	anjelica_huston	99
+$PERSON $CHILDREN	16351	24853	jim_henson	brian_henson	99
+$PERSON $CHILDREN	28291	20692	frank_lloyd_wright	lloyd_wright	99
+$PERSON $CHILDREN	40816	32499	e._h._harriman	w._averell_harriman	99
+$PERSON $CHILDREN	20259	28133	john_coltrane	ravi_coltrane	99
+$PERSON $CHILDREN	31995	31695	dalck_feith	douglas_feith	99
+$PERSON $CHILDREN	21329	27806	jimmy_brown	sleepy_brown	99
+$PERSON $CHILDREN	18010	23066	anthony_depalma	brian_de_palma	99
+$PERSON $CHILDREN	28100	17624	susan_harris	sam_harris	99
+$PERSON $CHILDREN	33410	35302	kim_il-sung	kim_jong-il	99
+$PERSON $CHILDREN	38479	18841	john_huston	danny_huston	99
+$PERSON $CHILDREN	34178	29595	david_foster	sara_foster	99
+$PERSON $CHILDREN	5202	10251	patrick_kennedy	patrick_j._kennedy	99
+$PERSON $CHILDREN	22368	1324	serge_gainsbourg	charlotte_gainsbourg	99
+$PERSON $CHILDREN	28727	21634	jules_feiffer	halley_feiffer	99
+$PERSON $CHILDREN	38677	10073	kent_nilsson	robert_nilsson	99
+$PERSON $CHILDREN	36921	38934	artie_shaw	jonathan_shaw	99
+$PERSON $CHILDREN	18209	18459	ryan_o'neal	tatum_o'neal	99
+$PERSON $CHILDREN	17011	12234	michael_lohan	lindsay_lohan	99
+$PERSON $CHILDREN	31605	10701	lawrence_kasdan	jake_kasdan	99
+$PERSON $CHILDREN	1445	33184	rebecca_broussard	lorraine_nicholson	99
+$PERSON $CHILDREN	23140	22918	c._w._post	marjorie_merriweather_post	99
+$PERSON $CHILDREN	36486	29489	john_cassavetes	zoe_cassavetes	99
+$PERSON $CHILDREN	17573	36717	lloyd_bridges	jeff_bridges	99
+$PERSON $CHILDREN	14569	16125	alfred_newman	thomas_newman	99
+$PERSON $CHILDREN	10634	19437	diana_ross	evan_ross	99
+$PERSON $CHILDREN	29446	40560	richard_rodgers	mary_rodgers	99
+$PERSON $CHILDREN	22928	6295	mario_vargas_llosa	Álvaro_vargas_llosa	99
+$PERSON $CHILDREN	11065	22653	richard_dimbleby	jonathan_dimbleby	99
+$PERSON $CHILDREN	19273	21313	sidney_green	taurean_green	99
+$PERSON $CHILDREN	24346	10969	muhammad_ali	laila_ali	99
+$PERSON $CHILDREN	1713	23734	keith_murdoch	rupert_murdoch	99
+$PERSON $CHILDREN	40220	15130	danny_ainge	austin_ainge	99
+$PERSON $CHILDREN	23047	34686	billy_mckinney	cynthia_mckinney	99
+$PERSON $CHILDREN	29044	14717	abraham	isaac	99
+$PERSON $CHILDREN	36116	10228	richard_harris	jared_harris	99
+$PERSON and $CHILDREN	16202	39392	ronald_perelman	samantha_perelman	78
+$PERSON and $CHILDREN	30153	395	john_stewart	kristen_stewart	78
+$PERSON and $CHILDREN	5795	23240	martin_sheen	emilio_estevez	78
+$PERSON and $CHILDREN	4845	17165	david_lewis	stephen_lewis	78
+$PERSON and $CHILDREN	14973	1308	michael_redgrave	lynn_redgrave	78
+$PERSON and $CHILDREN	23734	31540	rupert_murdoch	lachlan_murdoch	78
+$PERSON and $CHILDREN	22752	17418	ozzy_osbourne	kelly_osbourne	78
+$PERSON and $CHILDREN	1054	8692	mario_cuomo	andrew_cuomo	78
+$PERSON and $CHILDREN	18209	21406	ryan_o'neal	griffin_o'neal	78
+$PERSON and $CHILDREN	14790	7870	thomas_edison	theodore_edison	78
+$PERSON and $CHILDREN	10249	41151	bobby_bowden	jeff_bowden	78
+$PERSON and $CHILDREN	23201	21131	otto_frank	anne_frank	78
+$PERSON and $CHILDREN	4886	17582	edmund_hillary	peter_hillary	78
+$PERSON and $CHILDREN	35452	41234	paul_simon	harper_simon	78
+$PERSON and $CHILDREN	22217	23781	abby_aldrich_rockefeller	nelson_rockefeller	78
+$PERSON and $CHILDREN	35120	12265	arthur_miller	rebecca_miller	78
+$PERSON and $CHILDREN	8311	17586	george_h._w._bush	dorothy_bush_koch	78
+$PERSON and $CHILDREN	31605	10701	lawrence_kasdan	jake_kasdan	78
+$PERSON and $CHILDREN	10139	40380	rudolf_serkin	peter_serkin	78
+$PERSON and $CHILDREN	39750	19829	abigail_adams	john_quincy_adams	78
+$PERSON and $CHILDREN	24189	39674	jean-marie_le_pen	marine_le_pen	78
+$PERSON and $CHILDREN	34685	5852	harry_chandler	norman_chandler	78
+$PERSON and $CHILDREN	4527	32731	leonard_cohen	adam_cohen	78
+$PERSON and $CHILDREN	16563	38917	john_carradine	keith_carradine	78
+$PERSON and $CHILDREN	28115	30860	seth	noam	78
+$PERSON and $CHILDREN	7072	15019	steve_belichick	bill_belichick	78
+$PERSON and $CHILDREN	13021	15499	demi_moore	rumer_willis	78
+$PERSON and $CHILDREN	35517	407	howie_mandel	alex_mandel	78
+$PERSON and $CHILDREN	8236	12168	paul_mccartney	stella_mccartney	78
+$PERSON and $CHILDREN	12620	10831	john_c._malone	evan_malone	78
+$PERSON and $CHILDREN	15786	6469	loudon_wainwright_iii	martha_wainwright	78
+$PERSON and $CHILDREN	12280	10995	kingsley_amis	martin_amis	78
+$PERSON and $CHILDREN	8062	1123	sam_walton	alice_walton	78
+$PERSON and $CHILDREN	10779	6431	joseph_chamberlain	neville_chamberlain	78
+$PERSON and $CHILDREN	29116	36085	thelma_toole	john_kennedy_toole	78
+$PERSON and $CHILDREN	25899	36527	j._paul_getty	gordon_getty	78
+$PERSON and $CHILDREN	1533	22291	eliel_saarinen	eero_saarinen	78
+$PERSON and $CHILDREN	16563	5731	john_carradine	robert_carradine	78
+$PERSON and $CHILDREN	14895	41005	jason_miller	jason_patric	78
+$PERSON and $CHILDREN	4749	11494	tito_horford	al_horford	78
+$PERSON and $CHILDREN	15476	17150	joe_gibbs	coy_gibbs	78
+$PERSON and $CHILDREN	39219	36315	milward_l._simpson	alan_k._simpson	78
+$PERSON and $CHILDREN	23549	14793	edgar_bergen	candice_bergen	78
+$PERSON and $CHILDREN	39849	32604	preston_robert_tisch	steve_tisch	78
+$PERSON and $CHILDREN	5861	33110	scott_young	neil_young	78
+$PERSON and $CHILDREN	34121	26183	dylan_thomas	aeronwy_thomas	78
+$PERSON and $CHILDREN	39872	38479	walter_huston	john_huston	78
+$PERSON and $CHILDREN	14304	5786	lee_petty	richard_petty	78
+$PERSON and $CHILDREN	3034	8499	caroline_ingalls	laura_ingalls_wilder	78
+$PERSON and $CHILDREN	14229	29828	gil_garcetti	eric_garcetti	78
+$PERSON and $CHILDREN	8967	3274	errol_flynn	sean_flynn	78
+$PERSON and $CHILDREN	2372	31493	osama_bin_laden	saad_bin_laden	78
+$PERSON and $CHILDREN	3359	9344	tony_curtis	jamie_lee_curtis	78
+$PERSON and $CHILDREN	14145	29881	nathan_mayer_rothschild	lionel_de_rothschild	78
+$PERSON and $CHILDREN	20278	28364	james_buchanan_duke	doris_duke	78
+$PERSON and $CHILDREN	36720	36499	james_daly	tyne_daly	78
+$PERSON and $CHILDREN	34469	38206	marcello_mastroianni	chiara_mastroianni	78
+$PERSON and $CHILDREN	38479	29457	john_huston	anjelica_huston	78
+$PERSON and $CHILDREN	5451	33213	enos	kenan	78
+$PERSON and $CHILDREN	8806	31263	norman_rockwell	thomas_rockwell	78
+$PERSON and $CHILDREN	8474	34260	alberto_fujimori	keiko_fujimori	78
+$PERSON and $CHILDREN	6649	38819	fred_wilpon	jeff_wilpon	78
+$PERSON and $CHILDREN	8716	19526	estée_lauder	leonard_lauder	78
+$PERSON and $CHILDREN	21243	33885	russ_tamblyn	amber_tamblyn	78
+$PERSON and $CHILDREN	38932	19871	tom_joyner	oscar_joyner	78
+$PERSON and $CHILDREN	20496	40252	jane_fonda	troy_garity	78
+$PERSON and $CHILDREN	3507	36689	oracene_price	venus_williams	78
+$PERSON and $CHILDREN	4188	5652	erica_jong	molly_jong-fast	78
+$PERSON and $CHILDREN	16091	15341	colleen_dewhurst	campbell_scott	78
+$PERSON and $CHILDREN	17573	20657	lloyd_bridges	beau_bridges	78
+$PERSON and $CHILDREN	17306	1324	jane_birkin	charlotte_gainsbourg	78
+$PERSON and $CHILDREN	20741	21142	evel_knievel	robbie_knievel	78
+$PERSON and $CHILDREN	34605	29060	andré_previn	soon-yi_previn	78
+$PERSON and $CHILDREN	34784	32464	goldie_hawn	kate_hudson	78
+$PERSON and $CHILDREN	14569	16125	alfred_newman	thomas_newman	78
+$PERSON and $CHILDREN	16276	29840	vanessa_redgrave	natasha_richardson	78
+$PERSON and $CHILDREN	4255	22986	dyan_cannon	jennifer_grant	78
+$PERSON and $CHILDREN	37670	14843	geraldine_fitzgerald	michael_lindsay-hogg	78
+$PERSON and $CHILDREN	32740	18387	caleb_deschanel	zooey_deschanel	78
+$PERSON and $CHILDREN	28100	17624	susan_harris	sam_harris	78
+$PERSON and $CHILDREN	25212	24711	donald_sutherland	kiefer_sutherland	78
+$PERSON and $CHILDREN	23085	10089	veronica_hearst	fabiola_beracasa	78
+$PERSON and $CHILDREN	40816	32499	e._h._harriman	w._averell_harriman	78
+$PERSON and $CHILDREN	38912	6110	jose_rivera	naomi_rivera	78
+$PERSON and $CHILDREN	20785	26324	william_dean_howells	john_mead_howells	78
+$PERSON and $CHILDREN	20390	20316	brad_pitt	shiloh_nouvel_jolie-pitt	78
+$PERSON and $CHILDREN	38442	32464	kurt_russell	kate_hudson	78
+$PERSON and $CHILDREN	39550	1791	phil_simms	chris_simms	78
+$PERSON and $CHILDREN	16351	24853	jim_henson	brian_henson	78
+$PERSON and $CHILDREN	15608	13629	akihito	prince_akishino	78
+$PERSON and $CHILDREN	18173	15608	hirohito	akihito	78
+$PERSON and $CHILDREN	30149	35735	robert_penn_warren	rosanna_warren	78
+$PERSON and $CHILDREN	8816	12216	ivan_reitman	jason_reitman	78
+$PERSON and $CHILDREN	16879	12526	robert_f._kennedy	david_kennedy	78
+$PERSON and $CHILDREN	24202	32011	richard_j._daley	richard_m._daley	78
+$PERSON and $CHILDREN	38405	32622	alan_keyes	maya_keyes	78
+$PERSON and $CHILDREN	35152	10306	roy_lichtenstein	mitchell_lichtenstein	78
+$PERSON and $CHILDREN	37933	7254	aaron	eleazar	78
+$PERSON and $CHILDREN	22320	26659	john_smith	sarah_smith	78
+$PERSON and $CHILDREN	29044	14717	abraham	isaac	78
+$PERSON and $CHILDREN	2613	18960	jim_mckay	sean_mcmanus	78
+$PERSON and $CHILDREN	34386	28357	bette_davis	b._d._hyman	78
+$PERSON and $CHILDREN	23506	7494	judy_garland	liza_minnelli	78
+$PERSON and $CHILDREN	8559	16925	john_mcphee	martha_mcphee	78
+$PERSON and $CHILDREN	36664	35473	thomas_kean	thomas_kean_jr.	78
+$PERSON and $CHILDREN	2489	38914	j._howard_marshall	e._pierce_marshall	78
+$PERSON and $CHILDREN	36949	15351	joseph_jackson	michael_jackson	78
+$PERSON and $CHILDREN	6993	18430	lionel_richie	nicole_richie	78
+$PERSON and $CHILDREN	1157	29840	tony_richardson	natasha_richardson	78
+$PERSON and $CHILDREN	14973	16276	michael_redgrave	vanessa_redgrave	78
+$PERSON and $CHILDREN	32812	28133	alice_coltrane	ravi_coltrane	78
+$PERSON and $CHILDREN	22217	3117	abby_aldrich_rockefeller	david_rockefeller	78
+$PERSON and $CHILDREN	4326	3858	bob_dylan	jesse_dylan	78
+$PERSON and $CHILDREN	35171	5486	william_matthews	sebastian_matthews	78
+$PERSON and $CHILDREN	34629	10272	jesse_barfield	josh_barfield	78
+$PERSON and $CHILDREN	22928	6295	mario_vargas_llosa	Álvaro_vargas_llosa	78
+$PERSON and $CHILDREN	27004	1080	robert_earl_jones	james_earl_jones	78
+$PERSON and $CHILDREN	214	38430	richard_thompson	teddy_thompson	78
+$PERSON and $CHILDREN	8328	39559	theodore_roosevelt	kermit_roosevelt	78
+$PERSON and $CHILDREN	4107	40590	jack_buck	joe_buck	78
+$PERSON and $CHILDREN	3762	587	christie_brinkley	alexa_ray_joel	78
+$PERSON and $CHILDREN	36840	17053	nelson_stewart	tony_stewart	78
+$PERSON and $CHILDREN	3593	14079	steven_tyler	liv_tyler	78
+$PERSON and $CHILDREN	18370	615	leslie_stephen	virginia_woolf	78
+$PERSON and $CHILDREN	31370	29883	sumner_redstone	shari_redstone	78
+$PERSON and $CHILDREN	3420	19829	john_adams	john_quincy_adams	78
+$PERSON and $CHILDREN	20199	25338	joe_slovo	shawn_slovo	78
+$PERSON and $CHILDREN	16550	29086	mario_andretti	michael_andretti	78
+$PERSON and $CHILDREN	8311	24947	george_h._w._bush	george_w._bush	78
+$PERSON and $CHILDREN	21606	30309	bob_hurley	bobby_hurley	78
+$PERSON and $CHILDREN	9231	19238	maureen_o'sullivan	mia_farrow	78
+$PERSON and $CHILDREN	17262	37914	bucky_pizzarelli	martin_pizzarelli	78
+$PERSON and $CHILDREN	15786	9209	loudon_wainwright_iii	rufus_wainwright	78
+$PERSON and $CHILDREN	36921	38934	artie_shaw	jonathan_shaw	78
+$PERSON and $CHILDREN	7640	19646	mary_wollstonecraft	mary_shelley	78
+$PERSON and $CHILDREN	21014	22812	arthur_hays_sulzberger	arthur_ochs_sulzberger	78
+$PERSON and $CHILDREN	22368	1324	serge_gainsbourg	charlotte_gainsbourg	78
+$PERSON and $CHILDREN	3913	23807	charlie_chaplin	geraldine_chaplin	78
+$PERSON and $CHILDREN	37029	13156	charles_court	richard_court	78
+$PERSON and $CHILDREN	5810	7774	isaac_asimov	robyn_asimov	78
+$PERSON and $CHILDREN	23047	34686	billy_mckinney	cynthia_mckinney	78
+$PERSON and $CHILDREN	41053	31423	woody_guthrie	arlo_guthrie	78
+$PERSON and $CHILDREN	22214	16804	fela_kuti	femi_kuti	78
+$PERSON and $CHILDREN	1713	23734	keith_murdoch	rupert_murdoch	78
+$PERSON and $CHILDREN	24838	13930	jimmy_hoffa	james_p._hoffa	78
+$PERSON and $CHILDREN	40874	36756	richard_burton	kate_burton	78
+$PERSON and $CHILDREN	35655	16497	martin_garbus	liz_garbus	78
+$PERSON and $CHILDREN	3582	9483	andrew_wyeth	jamie_wyeth	78
+$PERSON and $CHILDREN	39615	3482	gérard_depardieu	guillaume_depardieu	78
+$PERSON and $CHILDREN	25121	33190	rick_hendrick	ricky_hendrick	78
+$PERSON and $CHILDREN	36627	29644	rosemary_harris	jennifer_ehle	78
+$PERSON and $CHILDREN	5852	30192	norman_chandler	otis_chandler	78
+$PERSON and $CHILDREN	11065	22653	richard_dimbleby	jonathan_dimbleby	78
+$PERSON and $CHILDREN	9008	14557	gertrude_himmelfarb	william_kristol	78
+$PERSON and $CHILDREN	18679	16394	roy_blunt	matt_blunt	78
+$PERSON and $CHILDREN	5982	10308	mary_anthony	carmelo_anthony	78
+$PERSON and $CHILDREN	2800	10813	sharon_rocha	laci_peterson	78
+$PERSON and $CHILDREN	32131	40881	martha_stewart	alexis_stewart	78
+$PERSON and $CHILDREN	34246	23777	rafik_hariri	saad_hariri	78
+$PERSON and $CHILDREN	12245	8977	david_oistrakh	igor_oistrakh	78
+$PERSON and $CHILDREN	2156	21504	nancy_carlsson-paige	matt_damon	78
+$PERSON and $CHILDREN	38217	26818	miller_williams	lucinda_williams	78
+$PERSON and $CHILDREN	38677	10073	kent_nilsson	robert_nilsson	78
+$PERSON and $CHILDREN	18446	29947	robert_siegel	erica_anne_siegel	78
+$PERSON and $CHILDREN	33695	27607	tom_cruise	suri_cruise	78
+$PERSON and $CHILDREN	22581	36665	natalie_wood	natasha_gregson_wagner	78
+$PERSON and $CHILDREN	3078	10711	paul_theroux	marcel_theroux	78
+$PERSON and $CHILDREN	38773	15341	george_c._scott	campbell_scott	78
+$PERSON and $CHILDREN	40607	8824	coretta_scott_king	martin_luther_king_iii	78
+$PERSON and $CHILDREN	28747	2737	guy_molinari	susan_molinari	78
+$PERSON and $CHILDREN	29044	243	abraham	ishmael	78
+$PERSON and $CHILDREN	36116	10228	richard_harris	jared_harris	78
+$PERSON and $CHILDREN	4544	8804	bill_clinton	chelsea_clinton	78
+$PERSON and $CHILDREN	34898	25575	francis_ford_coppola	gian-carlo_coppola	78
+$PERSON and $CHILDREN	28595	14557	irving_kristol	william_kristol	78
+$PERSON and $CHILDREN	30860	33213	noam	kenan	78
+$PERSON and $CHILDREN	17878	10238	steve_irwin	bindi_irwin	78
+$PERSON and $CHILDREN	8938	17878	terri_irwin	steve_irwin	78
+$PERSON and $CHILDREN	39187	31059	eddy_merckx	axel_merckx	78
+$PERSON and $CHILDREN	24669	2513	david	nathan	78
+$PERSON and $CHILDREN	8610	15499	bruce_willis	rumer_willis	78
+$PERSON and $CHILDREN	180	37313	jayne_mansfield	mariska_hargitay	78
+$PERSON and $CHILDREN	2451	14128	lauren_bacall	humphrey_bogart	78
+$PERSON and $CHILDREN	40220	15130	danny_ainge	austin_ainge	78
+$PERSON and $CHILDREN	40505	23058	lena_horne	gail_lumet_buckley	78
+$PERSON and $CHILDREN	31060	8363	james_o'neill	eugene_o'neill	78
+$PERSON and $CHILDREN	11573	12265	inge_morath	rebecca_miller	78
+$PERSON and $CHILDREN	30214	14235	donald_trump	ivanka_trump	78
+$PERSON and $CHILDREN	16933	16276	rachel_kempson	vanessa_redgrave	78
+$PERSON and $CHILDREN	4497	18298	robert_crumb	sophie_crumb	78
+$PERSON and $CHILDREN	22405	21122	stephen_friedman	david_benioff	78
+$PERSON and $CHILDREN	14733	2617	william_randolph_hearst	randolph_apperson_hearst	78
+$PERSON and $CHILDREN	37889	10626	maria_aitken	jack_davenport	78
+$PERSON and $CHILDREN	36998	34169	don_shula	dave_shula	78
+$PERSON and $CHILDREN	33410	35302	kim_il-sung	kim_jong-il	78
+$PERSON and $CHILDREN	8284	28269	juan_rulfo	juan_carlos_rulfo	78
+$PERSON and $CHILDREN	36273	7201	mary_higgins_clark	carol_higgins_clark	78
+$PERSON and $CHILDREN	19760	30473	billy_graham	franklin_graham	78
+$PERSON and $CHILDREN	40122	20889	irma_s._rombauer	marion_rombauer_becker	78
+$PERSON and $CHILDREN	6108	284	timothy_spall	rafe_spall	78
+$PERSON and $CHILDREN	37651	37651	tom_noonan	tom_noonan	78
+$PERSON and $CHILDREN	22688	31370	michael_redstone	sumner_redstone	78
+$PERSON and $CHILDREN	23060	243	hagar	ishmael	78
+$PERSON and $CHILDREN	8016	6678	philip_rieff	david_rieff	78
+$PERSON and $CHILDREN	17051	1307	jerry_seinfeld	sascha	78
+$PERSON and $CHILDREN	23661	7015	patricia_kennedy_lawford	christopher_lawford	78
+$PERSON and $CHILDREN	23676	38077	rosa_bossi	silvio_berlusconi	78
+$PERSON and $CHILDREN	38174	38477	indira_gandhi	rajiv_gandhi	78
+$PERSON and $CHILDREN	6408	16434	gabriel_garcía_márquez	rodrigo_garcia	78
+$PERSON and $CHILDREN	30567	5914	craig_raine	nina_raine	78
+$PERSON and $CHILDREN	40634	8311	prescott_bush	george_h._w._bush	78
+$PERSON and $CHILDREN	13094	17411	fernanda_montenegro	fernanda_torres	78
+$PERSON and $CHILDREN	35722	10252	nelly_banatte	jonathan_vilma	78
+$PERSON and $CHILDREN	38932	20287	tom_joyner	thomas_joyner_jr.	78
+$PERSON and $CHILDREN	9959	29106	anthony_minghella	max_minghella	78
+$PERSON and $CHILDREN	17262	2281	bucky_pizzarelli	john_pizzarelli	78
+$PERSON and $CHILDREN	20735	33756	john_raitt	bonnie_raitt	78
+$PERSON and $CHILDREN	40301	35440	amitabh_bachchan	abhishek_bachchan	78
+$PERSON and $CHILDREN	20699	40800	györgy_ligeti	lukas_ligeti	78
+$PERSON and $CHILDREN	20259	28133	john_coltrane	ravi_coltrane	78
+$PERSON and $CHILDREN	22068	31272	john_edwards	cate_edwards	78
+$PERSON and $CHILDREN	25939	16306	dick_cheney	elizabeth_cheney	78
+$PERSON and $CHILDREN	38654	33184	jack_nicholson	lorraine_nicholson	78
+$PERSON and $CHILDREN	24379	24669	jesse	david	78
+$PERSON and $CHILDREN	18252	15284	sam_sagan	carl_sagan	78
+$PERSON and $CHILDREN	25731	11297	art_rooney	dan_rooney	78
+$PERSON and $CHILDREN	11601	40566	tom_harmon	kelly_harmon	78
+$PERSON and $CHILDREN	16140	29538	bob_marley	ky-mani_marley	78
+$PERSON and $CHILDREN	24504	1307	jessica_seinfeld	sascha	78
+$PERSON and $CHILDREN	8716	31135	estée_lauder	ronald_lauder	78
+$PERSON and $CHILDREN	7198	27346	freeman_dyson	esther_dyson	78
+$PERSON and $CHILDREN	16933	12158	rachel_kempson	corin_redgrave	78
+$PERSON and $CHILDREN	34442	8311	dorothy_walker_bush	george_h._w._bush	78
+$PERSON and $CHILDREN	411	28010	carlos_slim_helú	carlos_slim_domit	78
+$PERSON and $CHILDREN	30103	21978	david_cassidy	katie_cassidy	78
+$PERSON , $CHILDREN	3507	36689	oracene_price	venus_williams	60
+$PERSON , $CHILDREN	35152	10306	roy_lichtenstein	mitchell_lichtenstein	60
+$PERSON , $CHILDREN	5388	33624	paul_newman	nell_newman	60
+$PERSON , $CHILDREN	22581	36665	natalie_wood	natasha_gregson_wagner	60
+$PERSON , $CHILDREN	34871	8499	charles_ingalls	laura_ingalls_wilder	60
+$PERSON , $CHILDREN	35120	12265	arthur_miller	rebecca_miller	60
+$PERSON , $CHILDREN	4497	18298	robert_crumb	sophie_crumb	60
+$PERSON , $CHILDREN	38174	38477	indira_gandhi	rajiv_gandhi	60
+$PERSON , $CHILDREN	22688	31370	michael_redstone	sumner_redstone	60
+$PERSON , $CHILDREN	22500	7214	ralph_j._roberts	brian_l._roberts	60
+$PERSON , $CHILDREN	41053	31423	woody_guthrie	arlo_guthrie	60
+$PERSON , $CHILDREN	18751	6678	susan_sontag	david_rieff	60
+$PERSON , $CHILDREN	27004	1080	robert_earl_jones	james_earl_jones	60
+$PERSON , $CHILDREN	14569	16125	alfred_newman	thomas_newman	60
+$PERSON , $CHILDREN	23676	38077	rosa_bossi	silvio_berlusconi	60
+$PERSON , $CHILDREN	36720	36499	james_daly	tyne_daly	60
+$PERSON , $CHILDREN	13705	8039	lebron_james	bryce_maximus_james	60
+$PERSON , $CHILDREN	20785	26324	william_dean_howells	john_mead_howells	60
+$PERSON , $CHILDREN	39550	1791	phil_simms	chris_simms	60
+$PERSON , $CHILDREN	32839	22891	richard_devos	dick_devos	60
+$PERSON , $CHILDREN	14733	2617	william_randolph_hearst	randolph_apperson_hearst	60
+$PERSON , $CHILDREN	30567	5914	craig_raine	nina_raine	60
+$PERSON , $CHILDREN	5202	10251	patrick_kennedy	patrick_j._kennedy	60
+$PERSON , $CHILDREN	6408	16434	gabriel_garcía_márquez	rodrigo_garcia	60
+$PERSON , $CHILDREN	9921	7015	peter_lawford	christopher_lawford	60
+$PERSON , $CHILDREN	8866	4080	earl_woods	tiger_woods	60
+$PERSON , $CHILDREN	31694	11331	bob_bradley	michael_bradley	60
+$PERSON , $CHILDREN	22752	21712	ozzy_osbourne	jack_osbourne	60
+$PERSON , $CHILDREN	32209	28115	adam	seth	60
+$PERSON , $CHILDREN	23797	38584	colin_powell	michael_powell	60
+$PERSON , $CHILDREN	31347	11734	jacqueline_kennedy_onassis	caroline_kennedy	60
+$PERSON , $CHILDREN	22368	1324	serge_gainsbourg	charlotte_gainsbourg	60
+$PERSON , $CHILDREN	36949	15351	joseph_jackson	michael_jackson	60
+$PERSON , $CHILDREN	9008	14557	gertrude_himmelfarb	william_kristol	60
+$PERSON , $CHILDREN	22928	6295	mario_vargas_llosa	Álvaro_vargas_llosa	60
+$PERSON , $CHILDREN	17226	38926	alberto_bachelet	michelle_bachelet	60
+$PERSON , $CHILDREN	26759	24947	barbara_bush	george_w._bush	60
+$PERSON , $CHILDREN	14973	1308	michael_redgrave	lynn_redgrave	60
+$PERSON , $CHILDREN	1325	28970	kokilaben_ambani	mukesh_ambani	60
+$PERSON , $CHILDREN	36273	7201	mary_higgins_clark	carol_higgins_clark	60
+$PERSON , $CHILDREN	24278	21134	norodom_sihanouk	norodom_sihamoni	60
+$PERSON , $CHILDREN	27011	19878	robert_summers	lawrence_summers	60
+$PERSON , $CHILDREN	3034	8499	caroline_ingalls	laura_ingalls_wilder	60
+$PERSON , $CHILDREN	40634	8311	prescott_bush	george_h._w._bush	60
+$PERSON , $CHILDREN	13021	15499	demi_moore	rumer_willis	60
+$PERSON , $CHILDREN	34898	25575	francis_ford_coppola	gian-carlo_coppola	60
+$PERSON , $CHILDREN	257	10444	john_gotti	victoria_gotti	60
+$PERSON , $CHILDREN	36078	1420	john_lennon	sean_lennon	60
+$PERSON , $CHILDREN	3359	9344	tony_curtis	jamie_lee_curtis	60
+$PERSON , $CHILDREN	8967	3274	errol_flynn	sean_flynn	60
+$PERSON , $CHILDREN	37651	37651	tom_noonan	tom_noonan	60
+$PERSON , $CHILDREN	37933	7254	aaron	eleazar	60
+$PERSON , $CHILDREN	32812	28133	alice_coltrane	ravi_coltrane	60
+$PERSON , $CHILDREN	8559	16925	john_mcphee	martha_mcphee	60
+$PERSON , $CHILDREN	35837	7523	kofi_annan	kojo_annan	60
+$PERSON , $CHILDREN	17711	40685	pierre-auguste_renoir	jean_renoir	60
+$PERSON , $CHILDREN	8328	39559	theodore_roosevelt	kermit_roosevelt	60
+$PERSON , $CHILDREN	18209	21406	ryan_o'neal	griffin_o'neal	60
+$PERSON , $CHILDREN	34469	38206	marcello_mastroianni	chiara_mastroianni	60
+$PERSON , $CHILDREN	41100	27647	tug_mcgraw	tim_mcgraw	60
+$PERSON , $CHILDREN	34178	29595	david_foster	sara_foster	60
+$PERSON , $CHILDREN	38993	35315	elvis_presley	lisa_marie_presley	60
+$PERSON , $CHILDREN	1571	24527	tony_pérez	eduardo_perez	60
+$PERSON , $CHILDREN	5893	22512	patti_hansen	theodora_richards	60
+$PERSON , $CHILDREN	5795	23240	martin_sheen	emilio_estevez	60
+$PERSON , $CHILDREN	36995	10399	gena_rowlands	nick_cassavetes	60
+$PERSON , $CHILDREN	29446	40560	richard_rodgers	mary_rodgers	60
+$PERSON , $CHILDREN	40797	31628	winifred_wagner	wieland_wagner	60
+$PERSON , $CHILDREN	38287	829	wayne_harris	eric_harris	60
+$PERSON , $CHILDREN	26759	14657	barbara_bush	jeb_bush	60
+$PERSON , $CHILDREN	24380	19646	william_godwin	mary_shelley	60
+$PERSON , $CHILDREN	36553	18767	saddam_hussein	uday_hussein	60
+$PERSON , $CHILDREN	21606	30309	bob_hurley	bobby_hurley	60
+$PERSON , $CHILDREN	10726	25663	keith_richards	alexandra_richards	60
+$PERSON , $CHILDREN	7072	15019	steve_belichick	bill_belichick	60
+$PERSON , $CHILDREN	33537	3582	n._c._wyeth	andrew_wyeth	60
+$PERSON , $CHILDREN	2613	18960	jim_mckay	sean_mcmanus	60
+$PERSON , $CHILDREN	12004	6880	leon_spinks	cory_spinks	60
+$PERSON , $CHILDREN	33695	27607	tom_cruise	suri_cruise	60
+$PERSON , $CHILDREN	5527	33978	bernard_spitzer	eliot_spitzer	60
+$PERSON , $CHILDREN	12620	10831	john_c._malone	evan_malone	60
+$PERSON , $CHILDREN	18010	23066	anthony_depalma	brian_de_palma	60
+$PERSON , $CHILDREN	16091	15341	colleen_dewhurst	campbell_scott	60
+$PERSON , $CHILDREN	21703	15414	bonita_favre	brett_favre	60
+$PERSON , $CHILDREN	36995	29489	gena_rowlands	zoe_cassavetes	60
+$PERSON , $CHILDREN	9959	29106	anthony_minghella	max_minghella	60
+$PERSON , $CHILDREN	10249	36338	bobby_bowden	tommy_bowden	60
+$PERSON , $CHILDREN	40122	20889	irma_s._rombauer	marion_rombauer_becker	60
+$PERSON , $CHILDREN	3078	25920	paul_theroux	louis_theroux	60
+$PERSON , $CHILDREN	10249	41151	bobby_bowden	jeff_bowden	60
+$PERSON , $CHILDREN	2012	11008	melvin_van_peebles	mario_van_peebles	60
+$PERSON , $CHILDREN	4107	40590	jack_buck	joe_buck	60
+$PERSON , $CHILDREN	32131	40881	martha_stewart	alexis_stewart	60
+$PERSON , $CHILDREN	17011	12234	michael_lohan	lindsay_lohan	60
+$PERSON , $CHILDREN	6819	28357	gary_merrill	b._d._hyman	60
+$PERSON , $CHILDREN	30214	14235	donald_trump	ivanka_trump	60
+$PERSON , $CHILDREN	28100	17624	susan_harris	sam_harris	60
+$PERSON , $CHILDREN	27468	8421	buddy_ryan	rex_ryan	60
+$PERSON , $CHILDREN	21014	22812	arthur_hays_sulzberger	arthur_ochs_sulzberger	60
+$PERSON , $CHILDREN	37270	37051	sean_tuohy	michael_oher	60
+$PERSON , $CHILDREN	16366	12343	mel_tillis	pam_tillis	60
+$PERSON , $CHILDREN	37846	4906	nancy_dickerson	john_dickerson	60
+$PERSON , $CHILDREN	34898	18002	francis_ford_coppola	sofia_coppola	60
+$PERSON , $CHILDREN	16563	38917	john_carradine	keith_carradine	60
+$PERSON , $CHILDREN	23250	6706	clint_eastwood	alison_eastwood	60
+$PERSON , $CHILDREN	15568	8922	carolyn_london	tyra_banks	60
+$PERSON , $CHILDREN	29044	14717	abraham	isaac	60
+$PERSON , $CHILDREN	24346	10969	muhammad_ali	laila_ali	60
+$PERSON , $CHILDREN	16202	39392	ronald_perelman	samantha_perelman	60
+$PERSON , $CHILDREN	20772	17113	joe_niekro	lance_niekro	60
+$PERSON , $CHILDREN	6376	25291	mickey_rooney	tim_rooney	60
+$PERSON , $CHILDREN	35655	16497	martin_garbus	liz_garbus	60
+$PERSON , $CHILDREN	38217	26818	miller_williams	lucinda_williams	60
+$PERSON , $CHILDREN	21222	707	robin_williams	zelda_williams	60
+$PERSON , $CHILDREN	8236	12168	paul_mccartney	stella_mccartney	60
+$PERSON , $CHILDREN	16933	1308	rachel_kempson	lynn_redgrave	60
+$PERSON , $CHILDREN	38442	32464	kurt_russell	kate_hudson	60
+$PERSON , $CHILDREN	7242	5843	mark_phillips	peter_phillips	60
+$PERSON , $CHILDREN	38912	6110	jose_rivera	naomi_rivera	60
+$PERSON , $CHILDREN	25121	33190	rick_hendrick	ricky_hendrick	60
+$PERSON , $CHILDREN	34541	25870	anita_desai	kiran_desai	60
+$PERSON , $CHILDREN	38287	36441	wayne_harris	kevin_harris	60
+$PERSON , $CHILDREN	14869	26495	jim_chapin	harry_chapin	60
+$PERSON , $CHILDREN	39616	37809	james_m._walton	rachel_walton	60
+$PERSON , $CHILDREN	6752	39770	cindy_sheehan	casey_sheehan	60
+$PERSON , $CHILDREN	28727	21634	jules_feiffer	halley_feiffer	60
+$PERSON , $CHILDREN	6649	38819	fred_wilpon	jeff_wilpon	60
+$PERSON , $CHILDREN	22405	21122	stephen_friedman	david_benioff	60
+$PERSON , $CHILDREN	29624	28099	amram	moses	60
+$PERSON , $CHILDREN	2156	21504	nancy_carlsson-paige	matt_damon	60
+$PERSON , $CHILDREN	23525	22839	yoel_judah	zab_judah	60
+$PERSON , $CHILDREN	2537	15662	thomas_j._dodd	christopher_dodd	60
+$PERSON , $CHILDREN	38677	10073	kent_nilsson	robert_nilsson	60
+$PERSON , $CHILDREN	1186	9573	jerry_colangelo	bryan_colangelo	60
+$PERSON , $CHILDREN	7198	27346	freeman_dyson	esther_dyson	60
+$PERSON , $CHILDREN	18994	7658	olu_dara	nas	60
+$PERSON , $CHILDREN	25345	22958	lloyd_maines	natalie_maines	60
+$PERSON , $CHILDREN	23661	7015	patricia_kennedy_lawford	christopher_lawford	60
+$PERSON , $CHILDREN	3999	37071	sam_waterston	elisabeth_waterston	60
+$PERSON , $CHILDREN	15608	13629	akihito	prince_akishino	60
+$PERSON , $CHILDREN	13934	39258	rutherford_hayes	rutherford_b._hayes	60
+$PERSON , $CHILDREN	17694	24106	ronald_reagan	patti_davis	60
+$PERSON , $CHILDREN	29403	14691	naomi_judd	ashley_judd	60
+$PERSON , $CHILDREN	14145	29881	nathan_mayer_rothschild	lionel_de_rothschild	60
+$PERSON , $CHILDREN	17573	20657	lloyd_bridges	beau_bridges	60
+$PERSON , $CHILDREN	34685	5852	harry_chandler	norman_chandler	60
+$PERSON , $CHILDREN	15476	17150	joe_gibbs	coy_gibbs	60
+$PERSON , $CHILDREN	26379	22974	mark_miller	penelope_ann_miller	60
+$PERSON , $CHILDREN	40551	27937	stephen_gyllenhaal	maggie_gyllenhaal	60
+$PERSON , $CHILDREN	24379	24669	jesse	david	60
+$PERSON , $CHILDREN	39219	36315	milward_l._simpson	alan_k._simpson	60
+$PERSON , $CHILDREN	40226	1150	blythe_danner	gwyneth_paltrow	60
+$PERSON , $CHILDREN	14790	7870	thomas_edison	theodore_edison	60
+$PERSON , $CHILDREN	8343	547	archie_manning	peyton_manning	60
+$PERSON , $CHILDREN	5861	33110	scott_young	neil_young	60
+$PERSON , $CHILDREN	39071	33476	sara_roosevelt	franklin_d._roosevelt	60
+$PERSON , $CHILDREN	35376	12613	hermann_merkin	j._ezra_merkin	60
+$PERSON , $CHILDREN	2800	10813	sharon_rocha	laci_peterson	60
+$PERSON , $CHILDREN	12245	8977	david_oistrakh	igor_oistrakh	60
+$PERSON , $CHILDREN	22217	3117	abby_aldrich_rockefeller	david_rockefeller	60
+$PERSON , $CHILDREN	22217	23781	abby_aldrich_rockefeller	nelson_rockefeller	60
+$PERSON , $CHILDREN	13094	17411	fernanda_montenegro	fernanda_torres	60
+$PERSON , $CHILDREN	6222	38338	madeleine_potter	madeleine_daly	60
+$PERSON , $CHILDREN	21455	6187	jim_bakker	jay_bakker	60
+$PERSON , $CHILDREN	28931	11348	james_broderick	matthew_broderick	60
+$PERSON , $CHILDREN	12280	10995	kingsley_amis	martin_amis	60
+$PERSON , $CHILDREN	21621	8455	barr_mcclellan	scott_mcclellan	60
+$PERSON , $CHILDREN	35752	3256	lucille_ball	lucie_arnaz	60
+$PERSON , $CHILDREN	18173	15608	hirohito	akihito	60
+$PERSON , $CHILDREN	4805	38022	sally_hemings	madison_hemings	60
+$PERSON , $CHILDREN	5711	19127	frederick_law_olmsted	john_charles_olmsted	60
+$PERSON , $CHILDREN	20259	28133	john_coltrane	ravi_coltrane	60
+$PERSON , $CHILDREN	35394	18981	mary_todd_lincoln	robert_todd_lincoln	60
+$PERSON , $CHILDREN	20390	20316	brad_pitt	shiloh_nouvel_jolie-pitt	60
+$PERSON , $CHILDREN	25939	15084	dick_cheney	mary_cheney	60
+$PERSON , $CHILDREN	32820	22881	henry_fonda	peter_fonda	60
+$PERSON , $CHILDREN	24809	11651	dario_argento	asia_argento	60
+$PERSON , $CHILDREN	16879	12526	robert_f._kennedy	david_kennedy	60
+$PERSON , $CHILDREN	16190	30562	cheryl_ladd	jordan_ladd	60
+$PERSON , $CHILDREN	2963	16188	horton_foote	hallie_foote	60
+$PERSON , $CHILDREN	32209	19429	adam	cain	60
+$CHILDREN $PERSON	8866	4080	earl_woods	tiger_woods	59
+$CHILDREN $PERSON	15786	6469	loudon_wainwright_iii	martha_wainwright	59
+$CHILDREN $PERSON	33537	3582	n._c._wyeth	andrew_wyeth	59
+$CHILDREN $PERSON	29403	14691	naomi_judd	ashley_judd	59
+$CHILDREN $PERSON	32839	22891	richard_devos	dick_devos	59
+$CHILDREN $PERSON	34871	8499	charles_ingalls	laura_ingalls_wilder	59
+$CHILDREN $PERSON	7198	27346	freeman_dyson	esther_dyson	59
+$CHILDREN $PERSON	23525	22839	yoel_judah	zab_judah	59
+$CHILDREN $PERSON	2114	40749	sigmund_freud	anna_freud	59
+$CHILDREN $PERSON	9008	14557	gertrude_himmelfarb	william_kristol	59
+$CHILDREN $PERSON	39508	816	pinchas_zukerman	arianna_zukerman	59
+$CHILDREN $PERSON	6752	39770	cindy_sheehan	casey_sheehan	59
+$CHILDREN $PERSON	4255	22986	dyan_cannon	jennifer_grant	59
+$CHILDREN $PERSON	38287	829	wayne_harris	eric_harris	59
+$CHILDREN $PERSON	8390	32507	richard_matheson	richard_christian_matheson	59
+$CHILDREN $PERSON	35394	18981	mary_todd_lincoln	robert_todd_lincoln	59
+$CHILDREN $PERSON	28595	14557	irving_kristol	william_kristol	59
+$CHILDREN $PERSON	2372	31493	osama_bin_laden	saad_bin_laden	59
+$CHILDREN $PERSON	22068	31272	john_edwards	cate_edwards	59
+$CHILDREN $PERSON	40551	15626	stephen_gyllenhaal	jake_gyllenhaal	59
+$CHILDREN $PERSON	22581	36665	natalie_wood	natasha_gregson_wagner	59
+$CHILDREN $PERSON	21938	8229	christopher_plummer	amanda_plummer	59
+$CHILDREN $PERSON	19490	12613	ursula_merkin	j._ezra_merkin	59
+$CHILDREN $PERSON	20772	17113	joe_niekro	lance_niekro	59
+$CHILDREN $PERSON	8311	24947	george_h._w._bush	george_w._bush	59
+$CHILDREN $PERSON	1533	22291	eliel_saarinen	eero_saarinen	59
+$CHILDREN $PERSON	10268	9227	john_mortimer	emily_mortimer	59
+$CHILDREN $PERSON	5711	19127	frederick_law_olmsted	john_charles_olmsted	59
+$CHILDREN $PERSON	38912	17015	jose_rivera	joel_rivera	59
+$CHILDREN $PERSON	17573	36717	lloyd_bridges	jeff_bridges	59
+$CHILDREN $PERSON	26379	22974	mark_miller	penelope_ann_miller	59
+$CHILDREN $PERSON	8673	11039	bobby_bonds	barry_bonds	59
+$CHILDREN $PERSON	22405	21122	stephen_friedman	david_benioff	59
+$CHILDREN $PERSON	3359	9344	tony_curtis	jamie_lee_curtis	59
+$CHILDREN $PERSON	16190	30562	cheryl_ladd	jordan_ladd	59
+$CHILDREN $PERSON	25939	16306	dick_cheney	elizabeth_cheney	59
+$CHILDREN $PERSON	6993	18430	lionel_richie	nicole_richie	59
+$CHILDREN $PERSON	3999	37071	sam_waterston	elisabeth_waterston	59
+$CHILDREN $PERSON	26624	1497	robert_trent_jones	rees_jones	59
+$CHILDREN $PERSON	24376	17305	aldo_leopold	luna_leopold	59
+$CHILDREN $PERSON	17711	40685	pierre-auguste_renoir	jean_renoir	59
+$CHILDREN $PERSON	16091	15341	colleen_dewhurst	campbell_scott	59
+$CHILDREN $PERSON	29749	1937	nathan_davis	andrew_davis	59
+$CHILDREN $PERSON	5861	33110	scott_young	neil_young	59
+$CHILDREN $PERSON	20278	28364	james_buchanan_duke	doris_duke	59
+$CHILDREN $PERSON	36768	6913	klaus_kinski	nastassja_kinski	59
+$CHILDREN $PERSON	18679	16394	roy_blunt	matt_blunt	59
+$CHILDREN $PERSON	38259	22038	robert_mondavi	tim_mondavi	59
+$CHILDREN $PERSON	14145	29881	nathan_mayer_rothschild	lionel_de_rothschild	59
+$CHILDREN $PERSON	8284	28269	juan_rulfo	juan_carlos_rulfo	59
+$CHILDREN $PERSON	37637	14287	buddy_bell	david_bell	59
+$CHILDREN $PERSON	34822	10641	shaquille_o'neal	shareef	59
+$CHILDREN $PERSON	16550	29086	mario_andretti	michael_andretti	59
+$CHILDREN $PERSON	32820	20496	henry_fonda	jane_fonda	59
+$CHILDREN $PERSON	36116	10228	richard_harris	jared_harris	59
+$CHILDREN $PERSON	8343	547	archie_manning	peyton_manning	59
+$CHILDREN $PERSON	5795	29987	martin_sheen	charlie_sheen	59
+$CHILDREN $PERSON	29584	16306	lynne_cheney	elizabeth_cheney	59
+$CHILDREN $PERSON	3111	9209	kate_mcgarrigle	rufus_wainwright	59
+$CHILDREN $PERSON	29624	37933	amram	aaron	59
+$CHILDREN $PERSON	36921	38934	artie_shaw	jonathan_shaw	59
+$CHILDREN $PERSON	21621	8455	barr_mcclellan	scott_mcclellan	59
+$CHILDREN $PERSON	5810	7774	isaac_asimov	robyn_asimov	59
+$CHILDREN $PERSON	11573	12265	inge_morath	rebecca_miller	59
+$CHILDREN $PERSON	39849	32604	preston_robert_tisch	steve_tisch	59
+$CHILDREN $PERSON	16326	22787	tim_buckley	jeff_buckley	59
+$CHILDREN $PERSON	1054	8692	mario_cuomo	andrew_cuomo	59
+$CHILDREN $PERSON	27472	14395	jimmy_breslin	rosemary_breslin	59
+$CHILDREN $PERSON	20699	40800	györgy_ligeti	lukas_ligeti	59
+$CHILDREN $PERSON	16933	1308	rachel_kempson	lynn_redgrave	59
+$CHILDREN $PERSON	4107	40590	jack_buck	joe_buck	59
+$CHILDREN $PERSON	23797	38584	colin_powell	michael_powell	59
+$CHILDREN $PERSON	16351	24853	jim_henson	brian_henson	59
+$CHILDREN $PERSON	16366	12343	mel_tillis	pam_tillis	59
+$CHILDREN $PERSON	28727	21634	jules_feiffer	halley_feiffer	59
+$CHILDREN $PERSON	23506	7494	judy_garland	liza_minnelli	59
+$CHILDREN $PERSON	22688	31370	michael_redstone	sumner_redstone	59
+$CHILDREN $PERSON	36078	1420	john_lennon	sean_lennon	59
+$CHILDREN $PERSON	40551	27937	stephen_gyllenhaal	maggie_gyllenhaal	59
+$CHILDREN $PERSON	22006	1007	ariel_sharon	omri_sharon	59
+$CHILDREN $PERSON	1831	41376	jack_cassidy	patrick_cassidy	59
+$CHILDREN $PERSON	8716	31135	estée_lauder	ronald_lauder	59
+$CHILDREN $PERSON	3507	41226	oracene_price	serena_williams	59
+$CHILDREN $PERSON	17056	11432	milton_friedman	david_d._friedman	59
+$CHILDREN $PERSON	7640	19646	mary_wollstonecraft	mary_shelley	59
+$CHILDREN $PERSON	25212	24711	donald_sutherland	kiefer_sutherland	59
+$CHILDREN $PERSON	2800	10813	sharon_rocha	laci_peterson	59
+$CHILDREN $PERSON	6395	27607	katie_holmes	suri_cruise	59
+$CHILDREN $PERSON	35837	7523	kofi_annan	kojo_annan	59
+$CHILDREN $PERSON	6408	16434	gabriel_garcía_márquez	rodrigo_garcia	59
+$CHILDREN $PERSON	39616	37809	james_m._walton	rachel_walton	59
+$CHILDREN $PERSON	34541	25870	anita_desai	kiran_desai	59
+$CHILDREN $PERSON	13616	33601	brian_wilson	carnie_wilson	59
+$CHILDREN $PERSON	14346	24581	richard_nixon	julie_nixon_eisenhower	59
+$CHILDREN $PERSON	10779	6431	joseph_chamberlain	neville_chamberlain	59
+$CHILDREN $PERSON	38405	32622	alan_keyes	maya_keyes	59
+$CHILDREN $PERSON	25345	22958	lloyd_maines	natalie_maines	59
+$CHILDREN $PERSON	29446	40560	richard_rodgers	mary_rodgers	59
+$CHILDREN $PERSON	5852	30192	norman_chandler	otis_chandler	59
+$CHILDREN $PERSON	12245	8977	david_oistrakh	igor_oistrakh	59
+$CHILDREN $PERSON	4544	8804	bill_clinton	chelsea_clinton	59
+$CHILDREN $PERSON	11190	11947	moon_landrieu	mitch_landrieu	59
+$CHILDREN $PERSON	1465	25758	kevin_kline	owen_kline	59
+$CHILDREN $PERSON	7893	20316	angelina_jolie	shiloh_nouvel_jolie-pitt	59
+$CHILDREN $PERSON	12217	38213	ralph_willard	kevin_willard	59
+$CHILDREN $PERSON	34442	8311	dorothy_walker_bush	george_h._w._bush	59
+$CHILDREN $PERSON	31995	31695	dalck_feith	douglas_feith	59
+$CHILDREN $PERSON	27982	26747	johnny_cash	rosanne_cash	59
+$CHILDREN $PERSON	2228	265	romulus_linney	laura_linney	59
+$CHILDREN $PERSON	21703	15414	bonita_favre	brett_favre	59
+$CHILDREN $PERSON	3593	14079	steven_tyler	liv_tyler	59
+$CHILDREN $PERSON	25899	36527	j._paul_getty	gordon_getty	59
+$CHILDREN $PERSON	29624	17016	amram	miriam	59
+$CHILDREN $PERSON	37111	8804	hillary_rodham_clinton	chelsea_clinton	59
+$CHILDREN $PERSON	33669	5467	maurice_wertheim	barbara_tuchman	59
+$CHILDREN $PERSON	1325	28970	kokilaben_ambani	mukesh_ambani	59
+$CHILDREN $PERSON	40226	1150	blythe_danner	gwyneth_paltrow	59
+$CHILDREN $PERSON	22217	3117	abby_aldrich_rockefeller	david_rockefeller	59
+$CHILDREN $PERSON	1713	23734	keith_murdoch	rupert_murdoch	59
+$CHILDREN $PERSON	13448	14231	william_shawn	wallace_shawn	59
+$CHILDREN $PERSON	20735	33756	john_raitt	bonnie_raitt	59
+$CHILDREN $PERSON	7385	13507	ingrid_bergman	isabella_rossellini	59
+$CHILDREN $PERSON	40560	24296	mary_rodgers	adam_guettel	59
+$CHILDREN $PERSON	15786	9209	loudon_wainwright_iii	rufus_wainwright	59
+$CHILDREN $PERSON	40301	35440	amitabh_bachchan	abhishek_bachchan	59
+$CHILDREN $PERSON	10249	36338	bobby_bowden	tommy_bowden	59
+$CHILDREN $PERSON	1229	34355	beverly_pepper	jorie_graham	59
+$CHILDREN $PERSON	6222	38338	madeleine_potter	madeleine_daly	59
+$CHILDREN $PERSON	23863	24106	nancy_reagan	patti_davis	59
+$CHILDREN $PERSON	10249	41151	bobby_bowden	jeff_bowden	59
+$CHILDREN $PERSON	34898	18002	francis_ford_coppola	sofia_coppola	59
+$CHILDREN $PERSON	30214	14235	donald_trump	ivanka_trump	59
+$CHILDREN $PERSON	29624	28099	amram	moses	59
+$CHILDREN $PERSON	22928	6295	mario_vargas_llosa	Álvaro_vargas_llosa	59
+$CHILDREN $PERSON	24380	19646	william_godwin	mary_shelley	59
+$CHILDREN $PERSON	17749	18298	aline_kominsky-crumb	sophie_crumb	59
+$CHILDREN $PERSON	40816	32499	e._h._harriman	w._averell_harriman	59
+$CHILDREN $PERSON	39750	19829	abigail_adams	john_quincy_adams	59
+$CHILDREN $PERSON	5982	10308	mary_anthony	carmelo_anthony	59
+$CHILDREN $PERSON	8016	6678	philip_rieff	david_rieff	59
+$CHILDREN $PERSON	33695	27607	tom_cruise	suri_cruise	59
+$CHILDREN $PERSON	23250	4208	clint_eastwood	kyle_eastwood	59
+$CHILDREN $PERSON	14790	7870	thomas_edison	theodore_edison	59
+$CHILDREN $PERSON	3420	19829	john_adams	john_quincy_adams	59
+$CHILDREN $PERSON	11141	36888	karl_malone	cheryl_ford	59
+$CHILDREN $PERSON	16276	26669	vanessa_redgrave	joely_richardson	59
+$CHILDREN $PERSON	38217	26818	miller_williams	lucinda_williams	59
+$CHILDREN $PERSON	31347	11734	jacqueline_kennedy_onassis	caroline_kennedy	59
+$CHILDREN $PERSON	26759	14657	barbara_bush	jeb_bush	59
+$CHILDREN $PERSON	38654	33184	jack_nicholson	lorraine_nicholson	59
+$CHILDREN $PERSON	21135	10499	tito_francona	terry_francona	59
+$CHILDREN $PERSON	35517	407	howie_mandel	alex_mandel	59
+$CHILDREN $PERSON	22214	16804	fela_kuti	femi_kuti	59
+$CHILDREN $PERSON	26862	4970	franz_liszt	cosima_wagner	59
+$CHILDREN $PERSON	38773	15341	george_c._scott	campbell_scott	59
+$CHILDREN $PERSON	4188	5652	erica_jong	molly_jong-fast	59
+$CHILDREN $PERSON	4586	12435	bruce_dern	laura_dern	59
+$CHILDREN $PERSON	21243	33885	russ_tamblyn	amber_tamblyn	59
+$CHILDREN $PERSON	4886	17582	edmund_hillary	peter_hillary	59
+$CHILDREN $PERSON	1571	24527	tony_pérez	eduardo_perez	59
+$CHILDREN $PERSON	9921	7015	peter_lawford	christopher_lawford	59
+$CHILDREN $PERSON	16563	38917	john_carradine	keith_carradine	59
+$CHILDREN $PERSON	41100	27647	tug_mcgraw	tim_mcgraw	59
+$CHILDREN $PERSON	14733	2617	william_randolph_hearst	randolph_apperson_hearst	59
+$CHILDREN $PERSON	3762	587	christie_brinkley	alexa_ray_joel	59
+$CHILDREN $PERSON	18015	4967	blake_edwards	jennifer_edwards	59
+$CHILDREN $PERSON	22368	1324	serge_gainsbourg	charlotte_gainsbourg	59
+$CHILDREN $PERSON	38174	38477	indira_gandhi	rajiv_gandhi	59
+$CHILDREN $PERSON	8311	17586	george_h._w._bush	dorothy_bush_koch	59
+$CHILDREN $PERSON	19273	21313	sidney_green	taurean_green	59
+$CHILDREN $PERSON	31370	40250	sumner_redstone	brent_redstone	59
+$CHILDREN $PERSON	810	3255	dewey_redman	joshua_redman	59
+$CHILDREN $PERSON	21590	31122	hafez_al-assad	bashar_al-assad	59
+$CHILDREN $PERSON	65	6574	tina_knowles	beyoncé	59
+$CHILDREN $PERSON	18010	23066	anthony_depalma	brian_de_palma	59
+$CHILDREN $PERSON	2451	14128	lauren_bacall	humphrey_bogart	59
+$CHILDREN $PERSON	36553	18767	saddam_hussein	uday_hussein	59
+$CHILDREN $PERSON	18444	25930	martin_peretz	jesse_peretz	59
+$CHILDREN and $PERSON	12280	10995	kingsley_amis	martin_amis	57
+$CHILDREN and $PERSON	10879	9602	debbie_reynolds	carrie_fisher	57
+$CHILDREN and $PERSON	31995	31695	dalck_feith	douglas_feith	57
+$CHILDREN and $PERSON	25899	36527	j._paul_getty	gordon_getty	57
+$CHILDREN and $PERSON	20920	29307	yogi_berra	dale_berra	57
+$CHILDREN and $PERSON	40797	4249	winifred_wagner	wolfgang_wagner	57
+$CHILDREN and $PERSON	40816	32499	e._h._harriman	w._averell_harriman	57
+$CHILDREN and $PERSON	30103	21978	david_cassidy	katie_cassidy	57
+$CHILDREN and $PERSON	22752	17418	ozzy_osbourne	kelly_osbourne	57
+$CHILDREN and $PERSON	38479	29457	john_huston	anjelica_huston	57
+$CHILDREN and $PERSON	2613	18960	jim_mckay	sean_mcmanus	57
+$CHILDREN and $PERSON	38758	23734	elisabeth_murdoch	rupert_murdoch	57
+$CHILDREN and $PERSON	14869	26495	jim_chapin	harry_chapin	57
+$CHILDREN and $PERSON	11601	31300	tom_harmon	mark_harmon	57
+$CHILDREN and $PERSON	2617	34532	randolph_apperson_hearst	patty_hearst	57
+$CHILDREN and $PERSON	14733	2617	william_randolph_hearst	randolph_apperson_hearst	57
+$CHILDREN and $PERSON	24148	28094	billy_ray_cyrus	miley_cyrus	57
+$CHILDREN and $PERSON	35752	3256	lucille_ball	lucie_arnaz	57
+$CHILDREN and $PERSON	14790	7870	thomas_edison	theodore_edison	57
+$CHILDREN and $PERSON	29951	9718	andrew_w._mellon	paul_mellon	57
+$CHILDREN and $PERSON	6907	13507	roberto_rossellini	isabella_rossellini	57
+$CHILDREN and $PERSON	34685	5852	harry_chandler	norman_chandler	57
+$CHILDREN and $PERSON	14229	29828	gil_garcetti	eric_garcetti	57
+$CHILDREN and $PERSON	180	37313	jayne_mansfield	mariska_hargitay	57
+$CHILDREN and $PERSON	2800	10813	sharon_rocha	laci_peterson	57
+$CHILDREN and $PERSON	24346	10969	muhammad_ali	laila_ali	57
+$CHILDREN and $PERSON	8866	4080	earl_woods	tiger_woods	57
+$CHILDREN and $PERSON	40122	20889	irma_s._rombauer	marion_rombauer_becker	57
+$CHILDREN and $PERSON	25939	16306	dick_cheney	elizabeth_cheney	57
+$CHILDREN and $PERSON	7072	15019	steve_belichick	bill_belichick	57
+$CHILDREN and $PERSON	6649	38819	fred_wilpon	jeff_wilpon	57
+$CHILDREN and $PERSON	39550	1791	phil_simms	chris_simms	57
+$CHILDREN and $PERSON	6970	9195	elis_regina	maria_rita	57
+$CHILDREN and $PERSON	4527	32731	leonard_cohen	adam_cohen	57
+$CHILDREN and $PERSON	38677	10073	kent_nilsson	robert_nilsson	57
+$CHILDREN and $PERSON	14747	40231	leah	levi	57
+$CHILDREN and $PERSON	19760	30473	billy_graham	franklin_graham	57
+$CHILDREN and $PERSON	13448	14231	william_shawn	wallace_shawn	57
+$CHILDREN and $PERSON	23060	243	hagar	ishmael	57
+$CHILDREN and $PERSON	16091	15341	colleen_dewhurst	campbell_scott	57
+$CHILDREN and $PERSON	25939	15084	dick_cheney	mary_cheney	57
+$CHILDREN and $PERSON	22685	6574	mathew_knowles	beyoncé	57
+$CHILDREN and $PERSON	15786	6469	loudon_wainwright_iii	martha_wainwright	57
+$CHILDREN and $PERSON	3999	37071	sam_waterston	elisabeth_waterston	57
+$CHILDREN and $PERSON	17573	36717	lloyd_bridges	jeff_bridges	57
+$CHILDREN and $PERSON	4188	5652	erica_jong	molly_jong-fast	57
+$CHILDREN and $PERSON	27004	1080	robert_earl_jones	james_earl_jones	57
+$CHILDREN and $PERSON	5388	33624	paul_newman	nell_newman	57
+$CHILDREN and $PERSON	35120	12265	arthur_miller	rebecca_miller	57
+$CHILDREN and $PERSON	1157	29840	tony_richardson	natasha_richardson	57
+$CHILDREN and $PERSON	14304	5786	lee_petty	richard_petty	57
+$CHILDREN and $PERSON	25809	37238	gilbert_sorrentino	christopher_sorrentino	57
+$CHILDREN and $PERSON	23863	24106	nancy_reagan	patti_davis	57
+$CHILDREN and $PERSON	18994	7658	olu_dara	nas	57
+$CHILDREN and $PERSON	8328	39559	theodore_roosevelt	kermit_roosevelt	57
+$CHILDREN and $PERSON	13287	18189	joseph_rubenstein	jack_ruby	57
+$CHILDREN and $PERSON	16326	22787	tim_buckley	jeff_buckley	57
+$CHILDREN and $PERSON	8806	31263	norman_rockwell	thomas_rockwell	57
+$CHILDREN and $PERSON	28931	11348	james_broderick	matthew_broderick	57
+$CHILDREN and $PERSON	32209	28115	adam	seth	57
+$CHILDREN and $PERSON	9921	7015	peter_lawford	christopher_lawford	57
+$CHILDREN and $PERSON	13067	6821	anne_meara	ben_stiller	57
+$CHILDREN and $PERSON	8967	3274	errol_flynn	sean_flynn	57
+$CHILDREN and $PERSON	23797	38584	colin_powell	michael_powell	57
+$CHILDREN and $PERSON	38912	6110	jose_rivera	naomi_rivera	57
+$CHILDREN and $PERSON	32820	22881	henry_fonda	peter_fonda	57
+$CHILDREN and $PERSON	21606	30309	bob_hurley	bobby_hurley	57
+$CHILDREN and $PERSON	24838	13930	jimmy_hoffa	james_p._hoffa	57
+$CHILDREN and $PERSON	39872	38479	walter_huston	john_huston	57
+$CHILDREN and $PERSON	23085	10089	veronica_hearst	fabiola_beracasa	57
+$CHILDREN and $PERSON	26624	1497	robert_trent_jones	rees_jones	57
+$CHILDREN and $PERSON	32839	22891	richard_devos	dick_devos	57
+$CHILDREN and $PERSON	20199	25338	joe_slovo	shawn_slovo	57
+$CHILDREN and $PERSON	37270	37051	sean_tuohy	michael_oher	57
+$CHILDREN and $PERSON	13705	8039	lebron_james	bryce_maximus_james	57
+$CHILDREN and $PERSON	37538	23376	mobutu_sese_seko	nzanga_mobutu	57
+$CHILDREN and $PERSON	4886	17582	edmund_hillary	peter_hillary	57
+$CHILDREN and $PERSON	22901	9620	john_kenneth_galbraith	peter_w._galbraith	57
+$CHILDREN and $PERSON	16933	16276	rachel_kempson	vanessa_redgrave	57
+$CHILDREN and $PERSON	34386	28357	bette_davis	b._d._hyman	57
+$CHILDREN and $PERSON	26100	33673	carl_reiner	rob_reiner	57
+$CHILDREN and $PERSON	8016	6678	philip_rieff	david_rieff	57
+$CHILDREN and $PERSON	20785	26324	william_dean_howells	john_mead_howells	57
+$CHILDREN and $PERSON	35003	30924	richard_bennett	joan_bennett	57
+$CHILDREN and $PERSON	8559	16925	john_mcphee	martha_mcphee	57
+$CHILDREN and $PERSON	38773	15341	george_c._scott	campbell_scott	57
+$CHILDREN and $PERSON	3593	14079	steven_tyler	liv_tyler	57
+$CHILDREN and $PERSON	21938	8229	christopher_plummer	amanda_plummer	57
+$CHILDREN and $PERSON	27472	6999	jimmy_breslin	kevin_breslin	57
+$CHILDREN and $PERSON	35152	10306	roy_lichtenstein	mitchell_lichtenstein	57
+$CHILDREN and $PERSON	23676	38077	rosa_bossi	silvio_berlusconi	57
+$CHILDREN and $PERSON	30567	5914	craig_raine	nina_raine	57
+$CHILDREN and $PERSON	27468	8421	buddy_ryan	rex_ryan	57
+$CHILDREN and $PERSON	21703	15414	bonita_favre	brett_favre	57
+$CHILDREN and $PERSON	1713	23734	keith_murdoch	rupert_murdoch	57
+$CHILDREN and $PERSON	23549	14793	edgar_bergen	candice_bergen	57
+$CHILDREN and $PERSON	38932	20287	tom_joyner	thomas_joyner_jr.	57
+$CHILDREN and $PERSON	22006	1007	ariel_sharon	omri_sharon	57
+$CHILDREN and $PERSON	22217	3117	abby_aldrich_rockefeller	david_rockefeller	57
+$CHILDREN and $PERSON	5795	23240	martin_sheen	emilio_estevez	57
+$CHILDREN and $PERSON	20496	40252	jane_fonda	troy_garity	57
+$CHILDREN and $PERSON	36040	8372	darryl_strawberry	d._j._strawberry	57
+$CHILDREN and $PERSON	22928	6295	mario_vargas_llosa	Álvaro_vargas_llosa	57
+$CHILDREN and $PERSON	36995	29489	gena_rowlands	zoe_cassavetes	57
+$CHILDREN and $PERSON	17262	2281	bucky_pizzarelli	john_pizzarelli	57
+$CHILDREN and $PERSON	14145	29881	nathan_mayer_rothschild	lionel_de_rothschild	57
+$CHILDREN and $PERSON	16366	12343	mel_tillis	pam_tillis	57
+$CHILDREN and $PERSON	17573	20657	lloyd_bridges	beau_bridges	57
+$CHILDREN and $PERSON	18751	6678	susan_sontag	david_rieff	57
+$CHILDREN and $PERSON	8474	34260	alberto_fujimori	keiko_fujimori	57
+$CHILDREN and $PERSON	5893	22512	patti_hansen	theodora_richards	57
+$CHILDREN and $PERSON	26629	32891	ravi_shankar	norah_jones	57
+$CHILDREN and $PERSON	4107	40590	jack_buck	joe_buck	57
+$CHILDREN and $PERSON	3526	1150	bruce_paltrow	gwyneth_paltrow	57
+$CHILDREN and $PERSON	23140	22918	c._w._post	marjorie_merriweather_post	57
+$CHILDREN and $PERSON	26495	35836	harry_chapin	jen_chapin	57
+$CHILDREN and $PERSON	39508	816	pinchas_zukerman	arianna_zukerman	57
+$CHILDREN and $PERSON	17888	11780	henry_clay_frick	helen_clay_frick	57
+$CHILDREN and $PERSON	23734	31540	rupert_murdoch	lachlan_murdoch	57
+$CHILDREN and $PERSON	6752	39770	cindy_sheehan	casey_sheehan	57
+$CHILDREN and $PERSON	26379	22974	mark_miller	penelope_ann_miller	57
+$CHILDREN and $PERSON	8311	14657	george_h._w._bush	jeb_bush	57
+$CHILDREN and $PERSON	10726	25663	keith_richards	alexandra_richards	57
+$CHILDREN and $PERSON	16276	26669	vanessa_redgrave	joely_richardson	57
+$CHILDREN and $PERSON	24376	17305	aldo_leopold	luna_leopold	57
+$CHILDREN and $PERSON	4326	3858	bob_dylan	jesse_dylan	57
+$CHILDREN and $PERSON	29403	14691	naomi_judd	ashley_judd	57
+$CHILDREN and $PERSON	8816	12216	ivan_reitman	jason_reitman	57
+$CHILDREN and $PERSON	11573	12265	inge_morath	rebecca_miller	57
+$CHILDREN and $PERSON	38993	35315	elvis_presley	lisa_marie_presley	57
+$CHILDREN and $PERSON	22581	36665	natalie_wood	natasha_gregson_wagner	57
+$CHILDREN and $PERSON	15786	9209	loudon_wainwright_iii	rufus_wainwright	57
+$CHILDREN and $PERSON	28115	5451	seth	enos	57
+$CHILDREN and $PERSON	20735	33756	john_raitt	bonnie_raitt	57
+$CHILDREN and $PERSON	16933	1308	rachel_kempson	lynn_redgrave	57
+$CHILDREN and $PERSON	38654	33184	jack_nicholson	lorraine_nicholson	57
+$CHILDREN and $PERSON	4308	12435	diane_ladd	laura_dern	57
+$CHILDREN and $PERSON	22752	21712	ozzy_osbourne	jack_osbourne	57
+$CHILDREN and $PERSON	3359	9344	tony_curtis	jamie_lee_curtis	57
+$CHILDREN and $PERSON	13448	12969	william_shawn	allen_shawn	57
+$CHILDREN and $PERSON	34442	8311	dorothy_walker_bush	george_h._w._bush	57
+$CHILDREN and $PERSON	9008	14557	gertrude_himmelfarb	william_kristol	57
+$CHILDREN and $PERSON	18010	23066	anthony_depalma	brian_de_palma	57
+$CHILDREN and $PERSON	37703	17613	roberto_matta	gordon_matta-clark	57
+$CHILDREN and $PERSON	10634	19437	diana_ross	evan_ross	57
+$CHILDREN and $PERSON	7460	38206	catherine_deneuve	chiara_mastroianni	57
+$CHILDREN and $PERSON	22368	1324	serge_gainsbourg	charlotte_gainsbourg	57
+$CHILDREN and $PERSON	2228	265	romulus_linney	laura_linney	57
+$CHILDREN and $PERSON	19973	15036	aaron_spelling	tori_spelling	57
+$CHILDREN and $PERSON	29624	17016	amram	miriam	57
+$CHILDREN and $PERSON	37111	8804	hillary_rodham_clinton	chelsea_clinton	57
+$CHILDREN and $PERSON	4497	18298	robert_crumb	sophie_crumb	57
+$CHILDREN and $PERSON	34541	25870	anita_desai	kiran_desai	57
+$CHILDREN and $PERSON	28747	2737	guy_molinari	susan_molinari	57
+$CHILDREN and $PERSON	3078	10711	paul_theroux	marcel_theroux	57
+$CHILDREN and $PERSON	24202	32011	richard_j._daley	richard_m._daley	57
+$CHILDREN and $PERSON	28115	30860	seth	noam	57
+$CHILDREN and $PERSON	21014	22812	arthur_hays_sulzberger	arthur_ochs_sulzberger	57
+$CHILDREN and $PERSON	30860	33213	noam	kenan	57
+$CHILDREN and $PERSON	8390	32507	richard_matheson	richard_christian_matheson	57
+$CHILDREN and $PERSON	6188	8229	tammy_grimes	amanda_plummer	57
+$CHILDREN and $PERSON	24379	24669	jesse	david	57
+$CHILDREN and $PERSON	17694	26598	ronald_reagan	michael_reagan	57
+$CHILDREN and $PERSON	19973	10170	aaron_spelling	randy_spelling	57
+$CHILDREN and $PERSON	21243	33885	russ_tamblyn	amber_tamblyn	57
+$CHILDREN and $PERSON	23845	16219	jay_haas	bill_haas	57
+$CHILDREN and $PERSON	4586	12435	bruce_dern	laura_dern	57
+$CHILDREN and $PERSON	10249	41151	bobby_bowden	jeff_bowden	57
+$CHILDREN and $PERSON	2489	38914	j._howard_marshall	e._pierce_marshall	57
+$CHILDREN and $PERSON	13616	33601	brian_wilson	carnie_wilson	57
+$CHILDREN and $PERSON	18015	4967	blake_edwards	jennifer_edwards	57
+$CHILDREN and $PERSON	19800	9825	vittorio_gassman	alessandro_gassman	57
+$CHILDREN and $PERSON	29446	40560	richard_rodgers	mary_rodgers	57
+rabbi $PERSON $CHILDREN	8938	17878	terri_irwin	steve_irwin	55
+rabbi $PERSON $CHILDREN	20390	20316	brad_pitt	shiloh_nouvel_jolie-pitt	55
+rabbi $PERSON $CHILDREN	36995	29489	gena_rowlands	zoe_cassavetes	55
+rabbi $PERSON $CHILDREN	34541	25870	anita_desai	kiran_desai	55
+rabbi $PERSON $CHILDREN	17694	26598	ronald_reagan	michael_reagan	55
+rabbi $PERSON $CHILDREN	4805	38022	sally_hemings	madison_hemings	55
+rabbi $PERSON $CHILDREN	38217	26818	miller_williams	lucinda_williams	55
+rabbi $PERSON $CHILDREN	14657	15584	jeb_bush	george_p._bush	55
+rabbi $PERSON $CHILDREN	17056	11432	milton_friedman	david_d._friedman	55
+rabbi $PERSON $CHILDREN	23047	34686	billy_mckinney	cynthia_mckinney	55
+rabbi $PERSON $CHILDREN	36995	10399	gena_rowlands	nick_cassavetes	55
+rabbi $PERSON $CHILDREN	2622	4805	betty_hemings	sally_hemings	55
+rabbi $PERSON $CHILDREN	25121	33190	rick_hendrick	ricky_hendrick	55
+rabbi $PERSON $CHILDREN	6907	13507	roberto_rossellini	isabella_rossellini	55
+rabbi $PERSON $CHILDREN	14965	37313	mickey_hargitay	mariska_hargitay	55
+rabbi $PERSON $CHILDREN	35752	3256	lucille_ball	lucie_arnaz	55
+rabbi $PERSON $CHILDREN	16028	30484	margaret_thatcher	mark_thatcher	55
+rabbi $PERSON $CHILDREN	33669	5467	maurice_wertheim	barbara_tuchman	55
+rabbi $PERSON $CHILDREN	24683	13	nancy_pelosi	alexandra_pelosi	55
+rabbi $PERSON $CHILDREN	20547	14438	frank_sinatra	nancy_sinatra	55
+rabbi $PERSON $CHILDREN	32839	22891	richard_devos	dick_devos	55
+rabbi $PERSON $CHILDREN	32820	20496	henry_fonda	jane_fonda	55
+rabbi $PERSON $CHILDREN	15786	9504	loudon_wainwright_iii	lucy_wainwright_roche	55
+rabbi $PERSON $CHILDREN	6376	25291	mickey_rooney	tim_rooney	55
+rabbi $PERSON $CHILDREN	15786	6469	loudon_wainwright_iii	martha_wainwright	55
+rabbi $PERSON $CHILDREN	27011	19878	robert_summers	lawrence_summers	55
+rabbi $PERSON $CHILDREN	25980	13433	robert_mangold	james_mangold	55
+rabbi $PERSON $CHILDREN	17711	40685	pierre-auguste_renoir	jean_renoir	55
+rabbi $PERSON $CHILDREN	17262	2281	bucky_pizzarelli	john_pizzarelli	55
+rabbi $PERSON $CHILDREN	7469	31594	richard_p._mccormick	richard_l._mccormick	55
+rabbi $PERSON $CHILDREN	7407	36062	rakesh_roshan	hrithik_roshan	55
+rabbi $PERSON $CHILDREN	16563	38917	john_carradine	keith_carradine	55
+rabbi $PERSON $CHILDREN	29749	1937	nathan_davis	andrew_davis	55
+rabbi $PERSON $CHILDREN	4107	40590	jack_buck	joe_buck	55
+rabbi $PERSON $CHILDREN	26379	22974	mark_miller	penelope_ann_miller	55
+rabbi $PERSON $CHILDREN	39855	18981	abraham_lincoln	robert_todd_lincoln	55
+rabbi $PERSON $CHILDREN	18446	29947	robert_siegel	erica_anne_siegel	55
+rabbi $PERSON $CHILDREN	3507	41226	oracene_price	serena_williams	55
+rabbi $PERSON $CHILDREN	31017	7012	ruhollah_khomeini	zahra_eshraghi	55
+rabbi $PERSON $CHILDREN	38993	35315	elvis_presley	lisa_marie_presley	55
+rabbi $PERSON $CHILDREN	19973	10170	aaron_spelling	randy_spelling	55
+rabbi $PERSON $CHILDREN	25899	36527	j._paul_getty	gordon_getty	55
+rabbi $PERSON $CHILDREN	7053	34593	mary_martin	larry_hagman	55
+rabbi $PERSON $CHILDREN	16351	24853	jim_henson	brian_henson	55
+rabbi $PERSON $CHILDREN	33410	35302	kim_il-sung	kim_jong-il	55
+rabbi $PERSON $CHILDREN	35119	10938	henry_ford	edsel_ford	55
+rabbi $PERSON $CHILDREN	11573	12265	inge_morath	rebecca_miller	55
+rabbi $PERSON $CHILDREN	11137	33769	sukarno	megawati_sukarnoputri	55
+rabbi $PERSON $CHILDREN	2617	34532	randolph_apperson_hearst	patty_hearst	55
+rabbi $PERSON $CHILDREN	21455	6187	jim_bakker	jay_bakker	55
+rabbi $PERSON $CHILDREN	22752	17418	ozzy_osbourne	kelly_osbourne	55
+rabbi $PERSON $CHILDREN	17051	1307	jerry_seinfeld	sascha	55
+rabbi $PERSON $CHILDREN	37538	23376	mobutu_sese_seko	nzanga_mobutu	55
+rabbi $PERSON $CHILDREN	4255	22986	dyan_cannon	jennifer_grant	55
+rabbi $PERSON $CHILDREN	10726	25663	keith_richards	alexandra_richards	55
+rabbi $PERSON $CHILDREN	2372	31493	osama_bin_laden	saad_bin_laden	55
+rabbi $PERSON $CHILDREN	37111	8804	hillary_rodham_clinton	chelsea_clinton	55
+rabbi $PERSON $CHILDREN	19760	30473	billy_graham	franklin_graham	55
+rabbi $PERSON $CHILDREN	36486	29489	john_cassavetes	zoe_cassavetes	55
+rabbi $PERSON $CHILDREN	40607	8824	coretta_scott_king	martin_luther_king_iii	55
+rabbi $PERSON $CHILDREN	20496	40252	jane_fonda	troy_garity	55
+rabbi $PERSON $CHILDREN	19273	21313	sidney_green	taurean_green	55
+rabbi $PERSON $CHILDREN	2489	38914	j._howard_marshall	e._pierce_marshall	55
+rabbi $PERSON $CHILDREN	39071	33476	sara_roosevelt	franklin_d._roosevelt	55
+rabbi $PERSON $CHILDREN	37728	27105	shelley_plimpton	martha_plimpton	55
+rabbi $PERSON $CHILDREN	1831	30103	jack_cassidy	david_cassidy	55
+rabbi $PERSON $CHILDREN	810	3255	dewey_redman	joshua_redman	55
+rabbi $PERSON $CHILDREN	1309	14596	virginia_fox	richard_d._zanuck	55
+rabbi $PERSON $CHILDREN	32209	19429	adam	cain	55
+rabbi $PERSON $CHILDREN	1571	24527	tony_pérez	eduardo_perez	55
+rabbi $PERSON $CHILDREN	34178	29595	david_foster	sara_foster	55
+rabbi $PERSON $CHILDREN	15786	9209	loudon_wainwright_iii	rufus_wainwright	55
+rabbi $PERSON $CHILDREN	2613	18960	jim_mckay	sean_mcmanus	55
+rabbi $PERSON $CHILDREN	35376	12613	hermann_merkin	j._ezra_merkin	55
+rabbi $PERSON $CHILDREN	20741	21142	evel_knievel	robbie_knievel	55
+rabbi $PERSON $CHILDREN	29446	40560	richard_rodgers	mary_rodgers	55
+rabbi $PERSON $CHILDREN	23250	6706	clint_eastwood	alison_eastwood	55
+rabbi $PERSON $CHILDREN	20498	7494	vincente_minnelli	liza_minnelli	55
+rabbi $PERSON $CHILDREN	8311	17586	george_h._w._bush	dorothy_bush_koch	55
+rabbi $PERSON $CHILDREN	41053	31423	woody_guthrie	arlo_guthrie	55
+rabbi $PERSON $CHILDREN	11190	11947	moon_landrieu	mitch_landrieu	55
+rabbi $PERSON $CHILDREN	5388	33624	paul_newman	nell_newman	55
+rabbi $PERSON $CHILDREN	8062	1123	sam_walton	alice_walton	55
+rabbi $PERSON $CHILDREN	13448	12969	william_shawn	allen_shawn	55
+rabbi $PERSON $CHILDREN	31347	11734	jacqueline_kennedy_onassis	caroline_kennedy	55
+rabbi $PERSON $CHILDREN	8816	12216	ivan_reitman	jason_reitman	55
+rabbi $PERSON $CHILDREN	11752	8878	louis_lowenstein	roger_lowenstein	55
+rabbi $PERSON $CHILDREN	25939	16306	dick_cheney	elizabeth_cheney	55
+rabbi $PERSON $CHILDREN	38917	27105	keith_carradine	martha_plimpton	55
+rabbi $PERSON $CHILDREN	22685	6574	mathew_knowles	beyoncé	55
+rabbi $PERSON $CHILDREN	31605	10701	lawrence_kasdan	jake_kasdan	55
+rabbi $PERSON $CHILDREN	5893	25663	patti_hansen	alexandra_richards	55
+rabbi $PERSON $CHILDREN	12245	8977	david_oistrakh	igor_oistrakh	55
+rabbi $PERSON $CHILDREN	65	6574	tina_knowles	beyoncé	55
+rabbi $PERSON $CHILDREN	16933	1308	rachel_kempson	lynn_redgrave	55
+rabbi $PERSON $CHILDREN	14973	1308	michael_redgrave	lynn_redgrave	55
+rabbi $PERSON $CHILDREN	10634	12588	diana_ross	tracee_ellis_ross	55
+rabbi $PERSON $CHILDREN	35517	407	howie_mandel	alex_mandel	55
+rabbi $PERSON $CHILDREN	17226	38926	alberto_bachelet	michelle_bachelet	55
+rabbi $PERSON $CHILDREN	21329	27806	jimmy_brown	sleepy_brown	55
+rabbi $PERSON $CHILDREN	18932	24941	melanie_sloan	scarlett_johansson	55
+rabbi $PERSON $CHILDREN	34898	25575	francis_ford_coppola	gian-carlo_coppola	55
+rabbi $PERSON $CHILDREN	28468	39250	jerry_lewis	gary_lewis	55
+rabbi $PERSON $CHILDREN	16202	39392	ronald_perelman	samantha_perelman	55
+rabbi $PERSON $CHILDREN	3762	587	christie_brinkley	alexa_ray_joel	55
+rabbi $PERSON $CHILDREN	30390	24620	benjamin_newton_duke	mary_duke_biddle	55
+rabbi $PERSON $CHILDREN	16879	12526	robert_f._kennedy	david_kennedy	55
+rabbi $PERSON $CHILDREN	17573	20657	lloyd_bridges	beau_bridges	55
+rabbi $PERSON $CHILDREN	22368	1324	serge_gainsbourg	charlotte_gainsbourg	55
+rabbi $PERSON $CHILDREN	4842	31638	frank_herbert	brian_herbert	55
+rabbi $PERSON $CHILDREN	34605	29060	andré_previn	soon-yi_previn	55
+rabbi $PERSON $CHILDREN	6993	18430	lionel_richie	nicole_richie	55
+rabbi $PERSON $CHILDREN	37905	24490	laurence_harvey	domino_harvey	55
+rabbi $PERSON $CHILDREN	37846	4906	nancy_dickerson	john_dickerson	55
+rabbi $PERSON $CHILDREN	10139	40380	rudolf_serkin	peter_serkin	55
+rabbi $PERSON $CHILDREN	32812	28133	alice_coltrane	ravi_coltrane	55
+rabbi $PERSON $CHILDREN	17231	24577	margaret_harrington	cathleen_black	55
+rabbi $PERSON $CHILDREN	8716	31135	estée_lauder	ronald_lauder	55
+rabbi $PERSON $CHILDREN	18444	25930	martin_peretz	jesse_peretz	55
+rabbi $PERSON $CHILDREN	1186	9573	jerry_colangelo	bryan_colangelo	55
+rabbi $PERSON $CHILDREN	26759	14657	barbara_bush	jeb_bush	55
+rabbi $PERSON $CHILDREN	6395	27607	katie_holmes	suri_cruise	55
+rabbi $PERSON $CHILDREN	30214	14235	donald_trump	ivanka_trump	55
+rabbi $PERSON $CHILDREN	21590	31122	hafez_al-assad	bashar_al-assad	55
+rabbi $PERSON $CHILDREN	33537	3582	n._c._wyeth	andrew_wyeth	55
+rabbi $PERSON $CHILDREN	27472	14395	jimmy_breslin	rosemary_breslin	55
+rabbi $PERSON $CHILDREN	23863	24106	nancy_reagan	patti_davis	55
+rabbi $PERSON $CHILDREN	37703	17613	roberto_matta	gordon_matta-clark	55
+rabbi $PERSON $CHILDREN	24379	24669	jesse	david	55
+rabbi $PERSON $CHILDREN	16326	22787	tim_buckley	jeff_buckley	55
+rabbi $PERSON $CHILDREN	5527	33978	bernard_spitzer	eliot_spitzer	55
+rabbi $PERSON $CHILDREN	20199	25338	joe_slovo	shawn_slovo	55
+rabbi $PERSON $CHILDREN	40634	8311	prescott_bush	george_h._w._bush	55
+rabbi $PERSON $CHILDREN	32131	40881	martha_stewart	alexis_stewart	55
+rabbi $PERSON $CHILDREN	14869	26495	jim_chapin	harry_chapin	55
+rabbi $PERSON $CHILDREN	14790	7870	thomas_edison	theodore_edison	55
+rabbi $PERSON $CHILDREN	39849	27997	preston_robert_tisch	jonathan_tisch	55
+rabbi $PERSON $CHILDREN	3034	8499	caroline_ingalls	laura_ingalls_wilder	55
+rabbi $PERSON $CHILDREN	5795	23240	martin_sheen	emilio_estevez	55
+rabbi $PERSON $CHILDREN	36664	35473	thomas_kean	thomas_kean_jr.	55
+rabbi $PERSON $CHILDREN	10249	41151	bobby_bowden	jeff_bowden	55
+rabbi $PERSON $CHILDREN	23676	38077	rosa_bossi	silvio_berlusconi	55
+rabbi $PERSON $CHILDREN	36921	38934	artie_shaw	jonathan_shaw	55
+rabbi $PERSON $CHILDREN	40874	36756	richard_burton	kate_burton	55
+rabbi $PERSON $CHILDREN	38442	32464	kurt_russell	kate_hudson	55
+rabbi $PERSON $CHILDREN	10268	9227	john_mortimer	emily_mortimer	55
+rabbi $PERSON $CHILDREN	16879	19797	robert_f._kennedy	rory_kennedy	55
+rabbi $PERSON $CHILDREN	18679	16394	roy_blunt	matt_blunt	55
+rabbi $PERSON $CHILDREN	38479	29457	john_huston	anjelica_huston	55
+rabbi $PERSON $CHILDREN	6649	38819	fred_wilpon	jeff_wilpon	55
+rabbi $PERSON $CHILDREN	30149	35735	robert_penn_warren	rosanna_warren	55
+rabbi $PERSON $CHILDREN	18994	7658	olu_dara	nas	55
+rabbi $PERSON $CHILDREN	29044	14717	abraham	isaac	55
+rabbi $PERSON $CHILDREN	26624	1497	robert_trent_jones	rees_jones	55
+rabbi $PERSON $CHILDREN	6188	8229	tammy_grimes	amanda_plummer	55
+rabbi $PERSON $CHILDREN	28727	21634	jules_feiffer	halley_feiffer	55
+rabbi $PERSON $CHILDREN	8343	33969	archie_manning	eli_manning	55
+rabbi $PERSON $CHILDREN	16091	15341	colleen_dewhurst	campbell_scott	55
+rabbi $PERSON $CHILDREN	25212	24711	donald_sutherland	kiefer_sutherland	55
+rabbi $PERSON $CHILDREN	5705	5672	ron_howard	bryce_dallas_howard	55
+rabbi $PERSON $CHILDREN	35452	41234	paul_simon	harper_simon	55
+rabbi $PERSON $CHILDREN	29044	243	abraham	ishmael	55
+rabbi $PERSON $CHILDREN	34121	26183	dylan_thomas	aeronwy_thomas	55
+rabbi $PERSON $CHILDREN	40226	1150	blythe_danner	gwyneth_paltrow	55
+rabbi $PERSON $CHILDREN	26759	24947	barbara_bush	george_w._bush	55
+rabbi $PERSON $CHILDREN	11793	10663	joe_mantegna	gina_mantegna	55
+rabbi $PERSON $CHILDREN	18015	4967	blake_edwards	jennifer_edwards	55
+$PERSON , $CHILDREN ,	10634	12588	diana_ross	tracee_ellis_ross	55
+$PERSON , $CHILDREN ,	38932	19871	tom_joyner	oscar_joyner	55
+$PERSON , $CHILDREN ,	24571	21663	dan_glickman	jonathan_glickman	55
+$PERSON , $CHILDREN ,	37111	8804	hillary_rodham_clinton	chelsea_clinton	55
+$PERSON , $CHILDREN ,	34898	25575	francis_ford_coppola	gian-carlo_coppola	55
+$PERSON , $CHILDREN ,	8062	1123	sam_walton	alice_walton	55
+$PERSON , $CHILDREN ,	1831	41376	jack_cassidy	patrick_cassidy	55
+$PERSON , $CHILDREN ,	25121	33190	rick_hendrick	ricky_hendrick	55
+$PERSON , $CHILDREN ,	24278	21134	norodom_sihanouk	norodom_sihamoni	55
+$PERSON , $CHILDREN ,	37889	10626	maria_aitken	jack_davenport	55
+$PERSON , $CHILDREN ,	40505	23058	lena_horne	gail_lumet_buckley	55
+$PERSON , $CHILDREN ,	35394	18981	mary_todd_lincoln	robert_todd_lincoln	55
+$PERSON , $CHILDREN ,	14869	26495	jim_chapin	harry_chapin	55
+$PERSON , $CHILDREN ,	17203	22556	frank_zappa	dweezil_zappa	55
+$PERSON , $CHILDREN ,	5861	33110	scott_young	neil_young	55
+$PERSON , $CHILDREN ,	2489	38914	j._howard_marshall	e._pierce_marshall	55
+$PERSON , $CHILDREN ,	11257	40456	anthony_perkins	oz_perkins	55
+$PERSON , $CHILDREN ,	23506	7494	judy_garland	liza_minnelli	55
+$PERSON , $CHILDREN ,	8284	28269	juan_rulfo	juan_carlos_rulfo	55
+$PERSON , $CHILDREN ,	5795	29987	martin_sheen	charlie_sheen	55
+$PERSON , $CHILDREN ,	13094	17411	fernanda_montenegro	fernanda_torres	55
+$PERSON , $CHILDREN ,	22685	6574	mathew_knowles	beyoncé	55
+$PERSON , $CHILDREN ,	3420	19829	john_adams	john_quincy_adams	55
+$PERSON , $CHILDREN ,	38993	35315	elvis_presley	lisa_marie_presley	55
+$PERSON , $CHILDREN ,	25552	6661	peter_matthiessen	alex_matthiessen	55
+$PERSON , $CHILDREN ,	38405	32622	alan_keyes	maya_keyes	55
+$PERSON , $CHILDREN ,	6752	39770	cindy_sheehan	casey_sheehan	55
+$PERSON , $CHILDREN ,	28291	20692	frank_lloyd_wright	lloyd_wright	55
+$PERSON , $CHILDREN ,	39550	1791	phil_simms	chris_simms	55
+$PERSON , $CHILDREN ,	4107	40590	jack_buck	joe_buck	55
+$PERSON , $CHILDREN ,	18010	23066	anthony_depalma	brian_de_palma	55
+$PERSON , $CHILDREN ,	11793	10663	joe_mantegna	gina_mantegna	55
+$PERSON , $CHILDREN ,	3999	37071	sam_waterston	elisabeth_waterston	55
+$PERSON , $CHILDREN ,	31060	8363	james_o'neill	eugene_o'neill	55
+$PERSON , $CHILDREN ,	32209	28115	adam	seth	55
+$PERSON , $CHILDREN ,	12127	18600	bert_lahr	john_lahr	55
+$PERSON , $CHILDREN ,	17226	38926	alberto_bachelet	michelle_bachelet	55
+$PERSON , $CHILDREN ,	11044	10467	birch_bayh	evan_bayh	55
+$PERSON , $CHILDREN ,	28468	39250	jerry_lewis	gary_lewis	55
+$PERSON , $CHILDREN ,	22214	16804	fela_kuti	femi_kuti	55
+$PERSON , $CHILDREN ,	2617	34532	randolph_apperson_hearst	patty_hearst	55
+$PERSON , $CHILDREN ,	16933	1308	rachel_kempson	lynn_redgrave	55
+$PERSON , $CHILDREN ,	8716	19526	estée_lauder	leonard_lauder	55
+$PERSON , $CHILDREN ,	23140	22918	c._w._post	marjorie_merriweather_post	55
+$PERSON , $CHILDREN ,	6970	9195	elis_regina	maria_rita	55
+$PERSON , $CHILDREN ,	6408	16434	gabriel_garcía_márquez	rodrigo_garcia	55
+$PERSON , $CHILDREN ,	34605	29060	andré_previn	soon-yi_previn	55
+$PERSON , $CHILDREN ,	5893	25663	patti_hansen	alexandra_richards	55
+$PERSON , $CHILDREN ,	13287	18189	joseph_rubenstein	jack_ruby	55
+$PERSON , $CHILDREN ,	26100	33673	carl_reiner	rob_reiner	55
+$PERSON , $CHILDREN ,	11065	22653	richard_dimbleby	jonathan_dimbleby	55
+$PERSON , $CHILDREN ,	11190	11947	moon_landrieu	mitch_landrieu	55
+$PERSON , $CHILDREN ,	4255	22986	dyan_cannon	jennifer_grant	55
+$PERSON , $CHILDREN ,	32908	14235	ivana_trump	ivanka_trump	55
+$PERSON , $CHILDREN ,	12004	6880	leon_spinks	cory_spinks	55
+$PERSON , $CHILDREN ,	19490	12613	ursula_merkin	j._ezra_merkin	55
+$PERSON , $CHILDREN ,	13021	15499	demi_moore	rumer_willis	55
+$PERSON , $CHILDREN ,	8474	34260	alberto_fujimori	keiko_fujimori	55
+$PERSON , $CHILDREN ,	17711	40685	pierre-auguste_renoir	jean_renoir	55
+$PERSON , $CHILDREN ,	37905	24490	laurence_harvey	domino_harvey	55
+$PERSON , $CHILDREN ,	14304	5786	lee_petty	richard_petty	55
+$PERSON , $CHILDREN ,	8673	11039	bobby_bonds	barry_bonds	55
+$PERSON , $CHILDREN ,	26624	1497	robert_trent_jones	rees_jones	55
+$PERSON , $CHILDREN ,	34871	8499	charles_ingalls	laura_ingalls_wilder	55
+$PERSON , $CHILDREN ,	38912	6110	jose_rivera	naomi_rivera	55
+$PERSON , $CHILDREN ,	41100	27647	tug_mcgraw	tim_mcgraw	55
+$PERSON , $CHILDREN ,	14895	41005	jason_miller	jason_patric	55
+$PERSON , $CHILDREN ,	20199	25338	joe_slovo	shawn_slovo	55
+$PERSON , $CHILDREN ,	6188	8229	tammy_grimes	amanda_plummer	55
+$PERSON , $CHILDREN ,	21222	707	robin_williams	zelda_williams	55
+$PERSON , $CHILDREN ,	39508	816	pinchas_zukerman	arianna_zukerman	55
+$PERSON , $CHILDREN ,	35517	407	howie_mandel	alex_mandel	55
+$PERSON , $CHILDREN ,	8938	17878	terri_irwin	steve_irwin	55
+$PERSON , $CHILDREN ,	27011	19878	robert_summers	lawrence_summers	55
+$PERSON , $CHILDREN ,	25939	16306	dick_cheney	elizabeth_cheney	55
+$PERSON , $CHILDREN ,	11573	12265	inge_morath	rebecca_miller	55
+$PERSON , $CHILDREN ,	12620	10831	john_c._malone	evan_malone	55
+$PERSON , $CHILDREN ,	24189	39674	jean-marie_le_pen	marine_le_pen	55
+$PERSON , $CHILDREN ,	4497	18298	robert_crumb	sophie_crumb	55
+$PERSON , $CHILDREN ,	2156	21504	nancy_carlsson-paige	matt_damon	55
+$PERSON , $CHILDREN ,	38479	18841	john_huston	danny_huston	55
+$PERSON , $CHILDREN ,	21938	8229	christopher_plummer	amanda_plummer	55
+$PERSON , $CHILDREN ,	3078	25920	paul_theroux	louis_theroux	55
+$PERSON , $CHILDREN ,	1831	30103	jack_cassidy	david_cassidy	55
+$PERSON , $CHILDREN ,	12233	18392	irving_berlin	mary_ellin_barrett	55
+$PERSON , $CHILDREN ,	8816	12216	ivan_reitman	jason_reitman	55
+$PERSON , $CHILDREN ,	21335	9453	pat_boone	debby_boone	55
+$PERSON , $CHILDREN ,	18751	6678	susan_sontag	david_rieff	55
+$PERSON , $CHILDREN ,	36486	10399	john_cassavetes	nick_cassavetes	55
+$PERSON , $CHILDREN ,	36627	29644	rosemary_harris	jennifer_ehle	55
+$PERSON , $CHILDREN ,	27468	8421	buddy_ryan	rex_ryan	55
+$PERSON , $CHILDREN ,	10634	19437	diana_ross	evan_ross	55
+$PERSON , $CHILDREN ,	16091	15341	colleen_dewhurst	campbell_scott	55
+$PERSON , $CHILDREN ,	10726	22512	keith_richards	theodora_richards	55
+$PERSON , $CHILDREN ,	16563	5731	john_carradine	robert_carradine	55
+$PERSON , $CHILDREN ,	35655	16497	martin_garbus	liz_garbus	55
+$PERSON , $CHILDREN ,	30860	33213	noam	kenan	55
+$PERSON , $CHILDREN ,	17573	36717	lloyd_bridges	jeff_bridges	55
+$PERSON , $CHILDREN ,	34178	29595	david_foster	sara_foster	55
+$PERSON , $CHILDREN ,	16550	29086	mario_andretti	michael_andretti	55
+$PERSON , $CHILDREN ,	22928	6295	mario_vargas_llosa	Álvaro_vargas_llosa	55
+$PERSON , $CHILDREN ,	4586	12435	bruce_dern	laura_dern	55
+$PERSON , $CHILDREN ,	29403	14691	naomi_judd	ashley_judd	55
+$PERSON , $CHILDREN ,	33695	27607	tom_cruise	suri_cruise	55
+$PERSON , $CHILDREN ,	17749	18298	aline_kominsky-crumb	sophie_crumb	55
+$PERSON , $CHILDREN ,	24376	17305	aldo_leopold	luna_leopold	55
+$PERSON , $CHILDREN ,	36998	34169	don_shula	dave_shula	55
+$PERSON , $CHILDREN ,	40875	6396	bebe_moore_campbell	maia_campbell	55
+$PERSON , $CHILDREN ,	27472	6999	jimmy_breslin	kevin_breslin	55
+$PERSON , $CHILDREN ,	29044	243	abraham	ishmael	55
+$PERSON , $CHILDREN ,	10249	36338	bobby_bowden	tommy_bowden	55
+$PERSON , $CHILDREN ,	40551	15626	stephen_gyllenhaal	jake_gyllenhaal	55
+$PERSON , $CHILDREN ,	27004	1080	robert_earl_jones	james_earl_jones	55
+$PERSON , $CHILDREN ,	26272	40502	ringo_starr	zak_starkey	55
+$PERSON , $CHILDREN ,	25456	5521	dominick_dunne	griffin_dunne	55
+$PERSON , $CHILDREN ,	4527	32731	leonard_cohen	adam_cohen	55
+$PERSON , $CHILDREN ,	33537	3582	n._c._wyeth	andrew_wyeth	55
+$PERSON , $CHILDREN ,	18252	15284	sam_sagan	carl_sagan	55
+$PERSON , $CHILDREN ,	16351	24853	jim_henson	brian_henson	55
+$PERSON , $CHILDREN ,	36553	18767	saddam_hussein	uday_hussein	55
+$PERSON , $CHILDREN ,	21703	15414	bonita_favre	brett_favre	55
+$PERSON , $CHILDREN ,	19216	8610	marlene	bruce_willis	55
+$PERSON , $CHILDREN ,	7198	27346	freeman_dyson	esther_dyson	55
+$PERSON , $CHILDREN ,	17231	24577	margaret_harrington	cathleen_black	55
+$PERSON , $CHILDREN ,	11601	31300	tom_harmon	mark_harmon	55
+$PERSON , $CHILDREN ,	31370	40250	sumner_redstone	brent_redstone	55
+$PERSON , $CHILDREN ,	40220	15130	danny_ainge	austin_ainge	55
+$PERSON , $CHILDREN ,	13448	12969	william_shawn	allen_shawn	55
+$PERSON , $CHILDREN ,	16028	30484	margaret_thatcher	mark_thatcher	55
+$PERSON , $CHILDREN ,	6376	25291	mickey_rooney	tim_rooney	55
+$PERSON , $CHILDREN ,	34121	26183	dylan_thomas	aeronwy_thomas	55
+$PERSON , $CHILDREN ,	29749	1937	nathan_davis	andrew_davis	55
+$PERSON , $CHILDREN ,	8311	17586	george_h._w._bush	dorothy_bush_koch	55
+$PERSON , $CHILDREN ,	10779	6431	joseph_chamberlain	neville_chamberlain	55
+$PERSON , $CHILDREN ,	14973	16276	michael_redgrave	vanessa_redgrave	55
+$PERSON , $CHILDREN ,	3111	9209	kate_mcgarrigle	rufus_wainwright	55
+$PERSON , $CHILDREN ,	31659	25147	mel_brooks	max_brooks	55
+$PERSON , $CHILDREN ,	10139	40380	rudolf_serkin	peter_serkin	55
+$PERSON , $CHILDREN ,	2228	265	romulus_linney	laura_linney	55
+$PERSON , $CHILDREN ,	38912	17015	jose_rivera	joel_rivera	55
+$PERSON , $CHILDREN ,	21455	6187	jim_bakker	jay_bakker	55
+$PERSON , $CHILDREN ,	3034	8499	caroline_ingalls	laura_ingalls_wilder	55
+$PERSON , $CHILDREN ,	2800	10813	sharon_rocha	laci_peterson	55
+$PERSON , $CHILDREN ,	39219	36315	milward_l._simpson	alan_k._simpson	55
+$PERSON , $CHILDREN ,	31605	10701	lawrence_kasdan	jake_kasdan	55
+$PERSON , $CHILDREN ,	3526	1150	bruce_paltrow	gwyneth_paltrow	55
+$PERSON , $CHILDREN ,	16140	17184	bob_marley	damian_marley	55
+$PERSON , $CHILDREN ,	22581	36665	natalie_wood	natasha_gregson_wagner	55
+$PERSON , $CHILDREN ,	37846	4906	nancy_dickerson	john_dickerson	55
+$PERSON , $CHILDREN ,	39872	38479	walter_huston	john_huston	55
+$PERSON , $CHILDREN ,	7640	19646	mary_wollstonecraft	mary_shelley	55
+$PERSON , $CHILDREN ,	411	28010	carlos_slim_helú	carlos_slim_domit	55
+$PERSON , $CHILDREN ,	6108	284	timothy_spall	rafe_spall	55
+$PERSON , $CHILDREN ,	20496	40252	jane_fonda	troy_garity	55
+$PERSON , $CHILDREN ,	24838	13930	jimmy_hoffa	james_p._hoffa	55
+$PERSON , $CHILDREN ,	19760	30473	billy_graham	franklin_graham	55
+$PERSON , $CHILDREN ,	38773	15341	george_c._scott	campbell_scott	55
+$PERSON , $CHILDREN ,	14657	15584	jeb_bush	george_p._bush	55
+$PERSON , $CHILDREN ,	28115	5451	seth	enos	55
+$PERSON , $CHILDREN ,	1325	28970	kokilaben_ambani	mukesh_ambani	55
+$PERSON , $CHILDREN ,	19447	38174	jawaharlal_nehru	indira_gandhi	55
+$PERSON , $CHILDREN ,	14145	29881	nathan_mayer_rothschild	lionel_de_rothschild	55
+$PERSON , $CHILDREN ,	31370	29883	sumner_redstone	shari_redstone	55
+$PERSON , $CHILDREN ,	14268	37676	rachel	joseph	55
+$PERSON , $CHILDREN ,	25212	24711	donald_sutherland	kiefer_sutherland	55
+$PERSON , $CHILDREN ,	5202	10251	patrick_kennedy	patrick_j._kennedy	55
+$PERSON , $CHILDREN ,	13616	33601	brian_wilson	carnie_wilson	55
+$PERSON ' s son $CHILDREN	11044	10467	birch_bayh	evan_bayh	55
+$PERSON ' s son $CHILDREN	34871	8499	charles_ingalls	laura_ingalls_wilder	55
+$PERSON ' s son $CHILDREN	30086	9004	bertie_ahern	cecelia_ahern	55
+$PERSON ' s son $CHILDREN	38773	15341	george_c._scott	campbell_scott	55
+$PERSON ' s son $CHILDREN	35394	18981	mary_todd_lincoln	robert_todd_lincoln	55
+$PERSON ' s son $CHILDREN	23525	22839	yoel_judah	zab_judah	55
+$PERSON ' s son $CHILDREN	11601	40566	tom_harmon	kelly_harmon	55
+$PERSON ' s son $CHILDREN	38479	18841	john_huston	danny_huston	55
+$PERSON ' s son $CHILDREN	23676	38077	rosa_bossi	silvio_berlusconi	55
+$PERSON ' s son $CHILDREN	16879	12526	robert_f._kennedy	david_kennedy	55
+$PERSON ' s son $CHILDREN	40634	8311	prescott_bush	george_h._w._bush	55
+$PERSON ' s son $CHILDREN	13067	6821	anne_meara	ben_stiller	55
+$PERSON ' s son $CHILDREN	22928	6295	mario_vargas_llosa	Álvaro_vargas_llosa	55
+$PERSON ' s son $CHILDREN	22838	25147	anne_bancroft	max_brooks	55
+$PERSON ' s son $CHILDREN	1831	30103	jack_cassidy	david_cassidy	55
+$PERSON ' s son $CHILDREN	33669	5467	maurice_wertheim	barbara_tuchman	55
+$PERSON ' s son $CHILDREN	37111	8804	hillary_rodham_clinton	chelsea_clinton	55
+$PERSON ' s son $CHILDREN	21014	22812	arthur_hays_sulzberger	arthur_ochs_sulzberger	55
+$PERSON ' s son $CHILDREN	8559	16925	john_mcphee	martha_mcphee	55
+$PERSON ' s son $CHILDREN	1533	22291	eliel_saarinen	eero_saarinen	55
+$PERSON ' s son $CHILDREN	18173	15608	hirohito	akihito	55
+$PERSON ' s son $CHILDREN	17011	12234	michael_lohan	lindsay_lohan	55
+$PERSON ' s son $CHILDREN	23250	6706	clint_eastwood	alison_eastwood	55
+$PERSON ' s son $CHILDREN	16028	30484	margaret_thatcher	mark_thatcher	55
+$PERSON ' s son $CHILDREN	3034	8499	caroline_ingalls	laura_ingalls_wilder	55
+$PERSON ' s son $CHILDREN	38758	23734	elisabeth_murdoch	rupert_murdoch	55
+$PERSON ' s son $CHILDREN	29624	17016	amram	miriam	55
+$PERSON ' s son $CHILDREN	13705	8039	lebron_james	bryce_maximus_james	55
+$PERSON ' s son $CHILDREN	34112	18297	paul_desmarais	andré_desmarais	55
+$PERSON ' s son $CHILDREN	39616	37809	james_m._walton	rachel_walton	55
+$PERSON ' s son $CHILDREN	39615	3482	gérard_depardieu	guillaume_depardieu	55
+$PERSON ' s son $CHILDREN	24376	17305	aldo_leopold	luna_leopold	55
+$PERSON ' s son $CHILDREN	7469	31594	richard_p._mccormick	richard_l._mccormick	55
+$PERSON ' s son $CHILDREN	19447	38174	jawaharlal_nehru	indira_gandhi	55
+$PERSON ' s son $CHILDREN	1229	34355	beverly_pepper	jorie_graham	55
+$PERSON ' s son $CHILDREN	24189	39674	jean-marie_le_pen	marine_le_pen	55
+$PERSON ' s son $CHILDREN	31694	11331	bob_bradley	michael_bradley	55
+$PERSON ' s son $CHILDREN	31659	25147	mel_brooks	max_brooks	55
+$PERSON ' s son $CHILDREN	38174	38477	indira_gandhi	rajiv_gandhi	55
+$PERSON ' s son $CHILDREN	32908	14235	ivana_trump	ivanka_trump	55
+$PERSON ' s son $CHILDREN	6408	16434	gabriel_garcía_márquez	rodrigo_garcia	55
+$PERSON ' s son $CHILDREN	18010	23066	anthony_depalma	brian_de_palma	55
+$PERSON ' s son $CHILDREN	13021	15499	demi_moore	rumer_willis	55
+$PERSON ' s son $CHILDREN	25731	11297	art_rooney	dan_rooney	55
+$PERSON ' s son $CHILDREN	27472	6999	jimmy_breslin	kevin_breslin	55
+$PERSON ' s son $CHILDREN	3359	9344	tony_curtis	jamie_lee_curtis	55
+$PERSON ' s son $CHILDREN	1713	23734	keith_murdoch	rupert_murdoch	55
+$PERSON ' s son $CHILDREN	9921	7015	peter_lawford	christopher_lawford	55
+$PERSON ' s son $CHILDREN	28115	30860	seth	noam	55
+$PERSON ' s son $CHILDREN	3111	9209	kate_mcgarrigle	rufus_wainwright	55
+$PERSON ' s son $CHILDREN	31017	7012	ruhollah_khomeini	zahra_eshraghi	55
+$PERSON ' s son $CHILDREN	8343	33969	archie_manning	eli_manning	55
+$PERSON ' s son $CHILDREN	34442	8311	dorothy_walker_bush	george_h._w._bush	55
+$PERSON ' s son $CHILDREN	27011	19878	robert_summers	lawrence_summers	55
+$PERSON ' s son $CHILDREN	24669	1	david	solomon	55
+$PERSON ' s son $CHILDREN	21606	30309	bob_hurley	bobby_hurley	55
+$PERSON ' s son $CHILDREN	35003	30924	richard_bennett	joan_bennett	55
+$PERSON ' s son $CHILDREN	36553	18767	saddam_hussein	uday_hussein	55
+$PERSON ' s son $CHILDREN	41098	4745	william_sloane_coffin	david_coffin	55
+$PERSON ' s son $CHILDREN	4188	5652	erica_jong	molly_jong-fast	55
+$PERSON ' s son $CHILDREN	1325	28970	kokilaben_ambani	mukesh_ambani	55
+$PERSON ' s son $CHILDREN	34784	12925	goldie_hawn	oliver_hudson	55
+$PERSON ' s son $CHILDREN	14869	181	jim_chapin	tom_chapin	55
+$PERSON ' s son $CHILDREN	16091	15341	colleen_dewhurst	campbell_scott	55
+$PERSON ' s son $CHILDREN	4749	11494	tito_horford	al_horford	55
+$PERSON ' s son $CHILDREN	14747	40231	leah	levi	55
+$PERSON ' s son $CHILDREN	18994	7658	olu_dara	nas	55
+$PERSON ' s son $CHILDREN	23734	31540	rupert_murdoch	lachlan_murdoch	55
+$PERSON ' s son $CHILDREN	40816	32499	e._h._harriman	w._averell_harriman	55
+$PERSON ' s son $CHILDREN	4255	22986	dyan_cannon	jennifer_grant	55
+$PERSON ' s son $CHILDREN	14747	30212	leah	dinah	55
+$PERSON ' s son $CHILDREN	2372	31493	osama_bin_laden	saad_bin_laden	55
+$PERSON ' s son $CHILDREN	35452	41234	paul_simon	harper_simon	55
+$PERSON ' s son $CHILDREN	24809	11651	dario_argento	asia_argento	55
+$PERSON ' s son $CHILDREN	20920	29307	yogi_berra	dale_berra	55
+$PERSON ' s son $CHILDREN	19216	8610	marlene	bruce_willis	55
+$PERSON ' s son $CHILDREN	257	10444	john_gotti	victoria_gotti	55
+$PERSON ' s son $CHILDREN	17056	11432	milton_friedman	david_d._friedman	55
+$PERSON ' s son $CHILDREN	36995	29489	gena_rowlands	zoe_cassavetes	55
+$PERSON ' s son $CHILDREN	38912	17015	jose_rivera	joel_rivera	55
+$PERSON ' s son $CHILDREN	39071	33476	sara_roosevelt	franklin_d._roosevelt	55
+$PERSON ' s son $CHILDREN	39855	18981	abraham_lincoln	robert_todd_lincoln	55
+$PERSON ' s son $CHILDREN	14895	41005	jason_miller	jason_patric	55
+$PERSON ' s son $CHILDREN	1309	14596	virginia_fox	richard_d._zanuck	55
+$PERSON ' s son $CHILDREN	35167	13613	harry_reid	rory_reid	55
+$PERSON ' s son $CHILDREN	10139	40380	rudolf_serkin	peter_serkin	55
+$PERSON ' s son $CHILDREN	26272	40502	ringo_starr	zak_starkey	55
+$PERSON ' s son $CHILDREN	23506	7494	judy_garland	liza_minnelli	55
+$PERSON ' s son $CHILDREN	17226	38926	alberto_bachelet	michelle_bachelet	55
+$PERSON ' s son $CHILDREN	31144	13204	john_bennett_perry	matthew_perry	55
+$PERSON ' s son $CHILDREN	18370	615	leslie_stephen	virginia_woolf	55
+$PERSON ' s son $CHILDREN	17231	24577	margaret_harrington	cathleen_black	55
+$PERSON ' s son $CHILDREN	13448	12969	william_shawn	allen_shawn	55
+$PERSON ' s son $CHILDREN	5795	23240	martin_sheen	emilio_estevez	55
+$PERSON ' s son $CHILDREN	8390	32507	richard_matheson	richard_christian_matheson	55
+$PERSON ' s son $CHILDREN	36078	1420	john_lennon	sean_lennon	55
+$PERSON ' s son $CHILDREN	40122	20889	irma_s._rombauer	marion_rombauer_becker	55
+$PERSON ' s son $CHILDREN	22752	21712	ozzy_osbourne	jack_osbourne	55
+$PERSON ' s son $CHILDREN	34784	32464	goldie_hawn	kate_hudson	55
+$PERSON ' s son $CHILDREN	4845	17165	david_lewis	stephen_lewis	55
+$PERSON ' s son $CHILDREN	20735	33756	john_raitt	bonnie_raitt	55
+$PERSON ' s son $CHILDREN	10779	6431	joseph_chamberlain	neville_chamberlain	55
+$PERSON ' s son $CHILDREN	2012	11008	melvin_van_peebles	mario_van_peebles	55
+$PERSON ' s son $CHILDREN	26759	14657	barbara_bush	jeb_bush	55
+$PERSON ' s son $CHILDREN	7053	34593	mary_martin	larry_hagman	55
+$PERSON ' s son $CHILDREN	17573	36717	lloyd_bridges	jeff_bridges	55
+$PERSON ' s son $CHILDREN	29624	28099	amram	moses	55
+$PERSON ' s son $CHILDREN	13287	18189	joseph_rubenstein	jack_ruby	55
+$PERSON ' s son $CHILDREN	38287	36441	wayne_harris	kevin_harris	55
+$PERSON ' s son $CHILDREN	8016	6678	philip_rieff	david_rieff	55
+$PERSON ' s son $CHILDREN	24669	2513	david	nathan	55
+$PERSON ' s son $CHILDREN	39508	816	pinchas_zukerman	arianna_zukerman	55
+$PERSON ' s son $CHILDREN	40551	27937	stephen_gyllenhaal	maggie_gyllenhaal	55
+$PERSON ' s son $CHILDREN	411	28010	carlos_slim_helú	carlos_slim_domit	55
+$PERSON ' s son $CHILDREN	9867	6457	lidia_bastianich	joseph_bastianich	55
+$PERSON ' s son $CHILDREN	2963	16188	horton_foote	hallie_foote	55
+$PERSON ' s son $CHILDREN	2800	10813	sharon_rocha	laci_peterson	55
+$PERSON ' s son $CHILDREN	4107	40590	jack_buck	joe_buck	55
+$PERSON ' s son $CHILDREN	8866	4080	earl_woods	tiger_woods	55
+$PERSON ' s son $CHILDREN	9231	19238	maureen_o'sullivan	mia_farrow	55
+$PERSON ' s son $CHILDREN	3582	9483	andrew_wyeth	jamie_wyeth	55
+$PERSON ' s son $CHILDREN	18209	18459	ryan_o'neal	tatum_o'neal	55
+$PERSON ' s son $CHILDREN	40560	24296	mary_rodgers	adam_guettel	55
+$PERSON ' s son $CHILDREN	22006	1007	ariel_sharon	omri_sharon	55
+$PERSON ' s son $CHILDREN	10249	36338	bobby_bowden	tommy_bowden	55
+$PERSON ' s son $CHILDREN	23250	4208	clint_eastwood	kyle_eastwood	55
+$PERSON ' s son $CHILDREN	38912	6110	jose_rivera	naomi_rivera	55
+$PERSON ' s son $CHILDREN	17203	22556	frank_zappa	dweezil_zappa	55
+$PERSON ' s son $CHILDREN	16190	30562	cheryl_ladd	jordan_ladd	55
+$PERSON ' s son $CHILDREN	28100	17624	susan_harris	sam_harris	55
+$PERSON ' s son $CHILDREN	29584	16306	lynne_cheney	elizabeth_cheney	55
+$PERSON ' s son $CHILDREN	16202	39392	ronald_perelman	samantha_perelman	55
+$PERSON ' s son $CHILDREN	39872	38479	walter_huston	john_huston	55
+$PERSON ' s son $CHILDREN	22500	7214	ralph_j._roberts	brian_l._roberts	55
+$PERSON ' s son $CHILDREN	12233	18392	irving_berlin	mary_ellin_barrett	55
+$PERSON ' s son $CHILDREN	24379	24669	jesse	david	55
+$PERSON ' s son $CHILDREN	16326	22787	tim_buckley	jeff_buckley	55
+$PERSON ' s son $CHILDREN	7385	13507	ingrid_bergman	isabella_rossellini	55
+$PERSON ' s son $CHILDREN	26495	35836	harry_chapin	jen_chapin	55
+$PERSON ' s son $CHILDREN	35119	10938	henry_ford	edsel_ford	55
+$PERSON ' s son $CHILDREN	17694	26598	ronald_reagan	michael_reagan	55
+$PERSON ' s son $CHILDREN	1465	25758	kevin_kline	owen_kline	55
+$PERSON ' s son $CHILDREN	36921	38934	artie_shaw	jonathan_shaw	55
+$PERSON ' s son $CHILDREN	6108	284	timothy_spall	rafe_spall	55
+$PERSON ' s son $CHILDREN	23201	27877	otto_frank	margot_frank	55
+$PERSON ' s son $CHILDREN	29749	1937	nathan_davis	andrew_davis	55
+$PERSON ' s son $CHILDREN	12127	18600	bert_lahr	john_lahr	55
+$PERSON ' s son $CHILDREN	25552	6661	peter_matthiessen	alex_matthiessen	55
+$PERSON ' s son $CHILDREN	6395	27607	katie_holmes	suri_cruise	55
+$PERSON ' s son $CHILDREN	1017	4943	art_modell	david_modell	55
+$PERSON ' s son $CHILDREN	22214	16804	fela_kuti	femi_kuti	55
+$PERSON ' s son $CHILDREN	2451	14128	lauren_bacall	humphrey_bogart	55
+$PERSON ' s son $CHILDREN	8311	17586	george_h._w._bush	dorothy_bush_koch	55
+$PERSON ' s son $CHILDREN	38654	33184	jack_nicholson	lorraine_nicholson	55
+$PERSON ' s son $CHILDREN	29044	243	abraham	ishmael	55
+$PERSON ' s son $CHILDREN	24346	10969	muhammad_ali	laila_ali	55
+$PERSON ' s son $CHILDREN	3117	19343	david_rockefeller	john_d._rockefeller	55
+$PERSON ' s son $CHILDREN	27472	5763	jimmy_breslin	patrick_breslin	55
+$PERSON ' s son $CHILDREN	38993	35315	elvis_presley	lisa_marie_presley	55
+$PERSON ' s son $CHILDREN	6819	28357	gary_merrill	b._d._hyman	55
+$PERSON ' s son $CHILDREN	37538	23376	mobutu_sese_seko	nzanga_mobutu	55
+$PERSON ' s son $CHILDREN	2622	4805	betty_hemings	sally_hemings	55
+$PERSON ' s son $CHILDREN	5705	5672	ron_howard	bryce_dallas_howard	55
+$PERSON ' s son $CHILDREN	8967	3274	errol_flynn	sean_flynn	55
+$PERSON ' s son $CHILDREN	20785	26324	william_dean_howells	john_mead_howells	55
+$PERSON ' s son $CHILDREN	17573	20657	lloyd_bridges	beau_bridges	55
+$PERSON ' s son $CHILDREN	25809	37238	gilbert_sorrentino	christopher_sorrentino	55
+$CHILDREN , son of $PERSON	14657	15584	jeb_bush	george_p._bush	53
+$CHILDREN , son of $PERSON	1465	25758	kevin_kline	owen_kline	53
+$CHILDREN , son of $PERSON	14268	37676	rachel	joseph	53
+$CHILDREN , son of $PERSON	8016	6678	philip_rieff	david_rieff	53
+$CHILDREN , son of $PERSON	82	37676	jacob	joseph	53
+$CHILDREN , son of $PERSON	16879	12526	robert_f._kennedy	david_kennedy	53
+$CHILDREN , son of $PERSON	33537	3582	n._c._wyeth	andrew_wyeth	53
+$CHILDREN , son of $PERSON	10249	36338	bobby_bowden	tommy_bowden	53
+$CHILDREN , son of $PERSON	11601	40566	tom_harmon	kelly_harmon	53
+$CHILDREN , son of $PERSON	14304	5786	lee_petty	richard_petty	53
+$CHILDREN , son of $PERSON	39615	3482	gérard_depardieu	guillaume_depardieu	53
+$CHILDREN , son of $PERSON	24376	17305	aldo_leopold	luna_leopold	53
+$CHILDREN , son of $PERSON	21014	22812	arthur_hays_sulzberger	arthur_ochs_sulzberger	53
+$CHILDREN , son of $PERSON	36664	35473	thomas_kean	thomas_kean_jr.	53
+$CHILDREN , son of $PERSON	30214	14235	donald_trump	ivanka_trump	53
+$CHILDREN , son of $PERSON	23845	16219	jay_haas	bill_haas	53
+$CHILDREN , son of $PERSON	33669	5467	maurice_wertheim	barbara_tuchman	53
+$CHILDREN , son of $PERSON	25618	11132	sissy_spacek	schuyler_fisk	53
+$CHILDREN , son of $PERSON	18162	388	charles_harrelson	woody_harrelson	53
+$CHILDREN , son of $PERSON	20785	26324	william_dean_howells	john_mead_howells	53
+$CHILDREN , son of $PERSON	21590	31122	hafez_al-assad	bashar_al-assad	53
+$CHILDREN , son of $PERSON	36076	27235	tom_hanks	colin_hanks	53
+$CHILDREN , son of $PERSON	22752	21712	ozzy_osbourne	jack_osbourne	53
+$CHILDREN , son of $PERSON	4527	32731	leonard_cohen	adam_cohen	53
+$CHILDREN , son of $PERSON	11257	40456	anthony_perkins	oz_perkins	53
+$CHILDREN , son of $PERSON	11752	8878	louis_lowenstein	roger_lowenstein	53
+$CHILDREN , son of $PERSON	8284	28269	juan_rulfo	juan_carlos_rulfo	53
+$CHILDREN , son of $PERSON	38259	23572	robert_mondavi	michael_mondavi	53
+$CHILDREN , son of $PERSON	12158	7502	corin_redgrave	jemma_redgrave	53
+$CHILDREN , son of $PERSON	38912	17015	jose_rivera	joel_rivera	53
+$CHILDREN , son of $PERSON	35376	12613	hermann_merkin	j._ezra_merkin	53
+$CHILDREN , son of $PERSON	10249	41151	bobby_bowden	jeff_bowden	53
+$CHILDREN , son of $PERSON	4497	18298	robert_crumb	sophie_crumb	53
+$CHILDREN , son of $PERSON	5795	29987	martin_sheen	charlie_sheen	53
+$CHILDREN , son of $PERSON	21455	6187	jim_bakker	jay_bakker	53
+$CHILDREN , son of $PERSON	37111	8804	hillary_rodham_clinton	chelsea_clinton	53
+$CHILDREN , son of $PERSON	34246	23777	rafik_hariri	saad_hariri	53
+$CHILDREN , son of $PERSON	32839	22891	richard_devos	dick_devos	53
+$CHILDREN , son of $PERSON	18173	15608	hirohito	akihito	53
+$CHILDREN , son of $PERSON	31370	29883	sumner_redstone	shari_redstone	53
+$CHILDREN , son of $PERSON	5451	33213	enos	kenan	53
+$CHILDREN , son of $PERSON	25121	33190	rick_hendrick	ricky_hendrick	53
+$CHILDREN , son of $PERSON	37651	37651	tom_noonan	tom_noonan	53
+$CHILDREN , son of $PERSON	4326	3858	bob_dylan	jesse_dylan	53
+$CHILDREN , son of $PERSON	31060	8363	james_o'neill	eugene_o'neill	53
+$CHILDREN , son of $PERSON	3762	587	christie_brinkley	alexa_ray_joel	53
+$CHILDREN , son of $PERSON	5810	7774	isaac_asimov	robyn_asimov	53
+$CHILDREN , son of $PERSON	12233	18392	irving_berlin	mary_ellin_barrett	53
+$CHILDREN , son of $PERSON	21621	8455	barr_mcclellan	scott_mcclellan	53
+$CHILDREN , son of $PERSON	21214	30345	jack_kemp	jeff_kemp	53
+$CHILDREN , son of $PERSON	16276	29840	vanessa_redgrave	natasha_richardson	53
+$CHILDREN , son of $PERSON	29446	40560	richard_rodgers	mary_rodgers	53
+$CHILDREN , son of $PERSON	214	38430	richard_thompson	teddy_thompson	53
+$CHILDREN , son of $PERSON	39849	32604	preston_robert_tisch	steve_tisch	53
+$CHILDREN , son of $PERSON	37270	37051	sean_tuohy	michael_oher	53
+$CHILDREN , son of $PERSON	29624	17016	amram	miriam	53
+$CHILDREN , son of $PERSON	35452	41234	paul_simon	harper_simon	53
+$CHILDREN , son of $PERSON	2228	265	romulus_linney	laura_linney	53
+$CHILDREN , son of $PERSON	1713	23734	keith_murdoch	rupert_murdoch	53
+$CHILDREN , son of $PERSON	12605	17418	sharon_osbourne	kelly_osbourne	53
+$CHILDREN , son of $PERSON	16563	38917	john_carradine	keith_carradine	53
+$CHILDREN , son of $PERSON	19447	38174	jawaharlal_nehru	indira_gandhi	53
+$CHILDREN , son of $PERSON	11141	36888	karl_malone	cheryl_ford	53
+$CHILDREN , son of $PERSON	29403	14691	naomi_judd	ashley_judd	53
+$CHILDREN , son of $PERSON	14747	40231	leah	levi	53
+$CHILDREN , son of $PERSON	27472	5763	jimmy_breslin	patrick_breslin	53
+$CHILDREN , son of $PERSON	29951	9718	andrew_w._mellon	paul_mellon	53
+$CHILDREN , son of $PERSON	35167	13613	harry_reid	rory_reid	53
+$CHILDREN , son of $PERSON	24683	13	nancy_pelosi	alexandra_pelosi	53
+$CHILDREN , son of $PERSON	22928	6295	mario_vargas_llosa	Álvaro_vargas_llosa	53
+$CHILDREN , son of $PERSON	19216	8610	marlene	bruce_willis	53
+$CHILDREN , son of $PERSON	23525	22839	yoel_judah	zab_judah	53
+$CHILDREN , son of $PERSON	17573	20657	lloyd_bridges	beau_bridges	53
+$CHILDREN , son of $PERSON	17312	22898	jerry_hall	elizabeth_jagger	53
+$CHILDREN , son of $PERSON	29044	243	abraham	ishmael	53
+$CHILDREN , son of $PERSON	31370	40250	sumner_redstone	brent_redstone	53
+$CHILDREN , son of $PERSON	36949	15351	joseph_jackson	michael_jackson	53
+$CHILDREN , son of $PERSON	26272	40502	ringo_starr	zak_starkey	53
+$CHILDREN , son of $PERSON	14717	82	isaac	jacob	53
+$CHILDREN , son of $PERSON	5893	22512	patti_hansen	theodora_richards	53
+$CHILDREN , son of $PERSON	27982	26747	johnny_cash	rosanne_cash	53
+$CHILDREN , son of $PERSON	18252	15284	sam_sagan	carl_sagan	53
+$CHILDREN , son of $PERSON	4255	22986	dyan_cannon	jennifer_grant	53
+$CHILDREN , son of $PERSON	7072	15019	steve_belichick	bill_belichick	53
+$CHILDREN , son of $PERSON	29624	37933	amram	aaron	53
+$CHILDREN , son of $PERSON	15786	9504	loudon_wainwright_iii	lucy_wainwright_roche	53
+$CHILDREN , son of $PERSON	6907	13507	roberto_rossellini	isabella_rossellini	53
+$CHILDREN , son of $PERSON	21335	9453	pat_boone	debby_boone	53
+$CHILDREN , son of $PERSON	8311	14657	george_h._w._bush	jeb_bush	53
+$CHILDREN , son of $PERSON	32131	40881	martha_stewart	alexis_stewart	53
+$CHILDREN , son of $PERSON	24346	10969	muhammad_ali	laila_ali	53
+$CHILDREN , son of $PERSON	14895	41005	jason_miller	jason_patric	53
+$CHILDREN , son of $PERSON	30149	35735	robert_penn_warren	rosanna_warren	53
+$CHILDREN , son of $PERSON	27011	19878	robert_summers	lawrence_summers	53
+$CHILDREN , son of $PERSON	27004	1080	robert_earl_jones	james_earl_jones	53
+$CHILDREN , son of $PERSON	19973	10170	aaron_spelling	randy_spelling	53
+$CHILDREN , son of $PERSON	16563	5731	john_carradine	robert_carradine	53
+$CHILDREN , son of $PERSON	13448	14231	william_shawn	wallace_shawn	53
+$CHILDREN , son of $PERSON	34112	18297	paul_desmarais	andré_desmarais	53
+$CHILDREN , son of $PERSON	411	28010	carlos_slim_helú	carlos_slim_domit	53
+$CHILDREN , son of $PERSON	30103	21978	david_cassidy	katie_cassidy	53
+$CHILDREN , son of $PERSON	4188	5652	erica_jong	molly_jong-fast	53
+$CHILDREN , son of $PERSON	7198	27346	freeman_dyson	esther_dyson	53
+$CHILDREN , son of $PERSON	16879	19797	robert_f._kennedy	rory_kennedy	53
+$CHILDREN , son of $PERSON	3111	6469	kate_mcgarrigle	martha_wainwright	53
+$CHILDREN , son of $PERSON	36995	29489	gena_rowlands	zoe_cassavetes	53
+$CHILDREN , son of $PERSON	10268	9227	john_mortimer	emily_mortimer	53
+$CHILDREN , son of $PERSON	1533	22291	eliel_saarinen	eero_saarinen	53
+$CHILDREN , son of $PERSON	22688	31370	michael_redstone	sumner_redstone	53
+$CHILDREN , son of $PERSON	3078	10711	paul_theroux	marcel_theroux	53
+$CHILDREN , son of $PERSON	34822	10641	shaquille_o'neal	shareef	53
+$CHILDREN , son of $PERSON	34442	8311	dorothy_walker_bush	george_h._w._bush	53
+$CHILDREN , son of $PERSON	38917	27105	keith_carradine	martha_plimpton	53
+$CHILDREN , son of $PERSON	3526	1150	bruce_paltrow	gwyneth_paltrow	53
+$CHILDREN , son of $PERSON	21329	27806	jimmy_brown	sleepy_brown	53
+$CHILDREN , son of $PERSON	11137	33769	sukarno	megawati_sukarnoputri	53
+$CHILDREN , son of $PERSON	39855	18981	abraham_lincoln	robert_todd_lincoln	53
+$CHILDREN , son of $PERSON	36040	8372	darryl_strawberry	d._j._strawberry	53
+$CHILDREN , son of $PERSON	20772	17113	joe_niekro	lance_niekro	53
+$CHILDREN , son of $PERSON	39071	33476	sara_roosevelt	franklin_d._roosevelt	53
+$CHILDREN , son of $PERSON	38217	26818	miller_williams	lucinda_williams	53
+$CHILDREN , son of $PERSON	8390	32507	richard_matheson	richard_christian_matheson	53
+$CHILDREN , son of $PERSON	23047	34686	billy_mckinney	cynthia_mckinney	53
+$CHILDREN , son of $PERSON	25345	22958	lloyd_maines	natalie_maines	53
+$CHILDREN , son of $PERSON	34784	12925	goldie_hawn	oliver_hudson	53
+$CHILDREN , son of $PERSON	39550	1791	phil_simms	chris_simms	53
+$CHILDREN , son of $PERSON	23201	21131	otto_frank	anne_frank	53
+$CHILDREN , son of $PERSON	2012	11008	melvin_van_peebles	mario_van_peebles	53
+$CHILDREN , son of $PERSON	35171	5486	william_matthews	sebastian_matthews	53
+$CHILDREN , son of $PERSON	9008	14557	gertrude_himmelfarb	william_kristol	53
+$CHILDREN , son of $PERSON	6188	8229	tammy_grimes	amanda_plummer	53
+$CHILDREN , son of $PERSON	35722	10252	nelly_banatte	jonathan_vilma	53
+$CHILDREN , son of $PERSON	14973	1308	michael_redgrave	lynn_redgrave	53
+$CHILDREN , son of $PERSON	23734	31540	rupert_murdoch	lachlan_murdoch	53
+$CHILDREN , son of $PERSON	17203	22556	frank_zappa	dweezil_zappa	53
+$CHILDREN , son of $PERSON	23506	7494	judy_garland	liza_minnelli	53
+$CHILDREN , son of $PERSON	6819	28357	gary_merrill	b._d._hyman	53
+$CHILDREN , son of $PERSON	20199	25338	joe_slovo	shawn_slovo	53
+$CHILDREN , son of $PERSON	8716	31135	estée_lauder	ronald_lauder	53
+$CHILDREN , son of $PERSON	14733	2617	william_randolph_hearst	randolph_apperson_hearst	53
+$CHILDREN , son of $PERSON	19490	12613	ursula_merkin	j._ezra_merkin	53
+$CHILDREN , son of $PERSON	1890	1708	david_brinkley	alan_brinkley	53
+$CHILDREN , son of $PERSON	6898	22986	cary_grant	jennifer_grant	53
+$CHILDREN , son of $PERSON	38758	23734	elisabeth_murdoch	rupert_murdoch	53
+$CHILDREN , son of $PERSON	4544	8804	bill_clinton	chelsea_clinton	53
+$CHILDREN , son of $PERSON	17306	1324	jane_birkin	charlotte_gainsbourg	53
+$CHILDREN , son of $PERSON	1571	24527	tony_pérez	eduardo_perez	53
+$CHILDREN , son of $PERSON	18374	28991	a._bartlett_giamatti	paul_giamatti	53
+$CHILDREN , son of $PERSON	41053	31423	woody_guthrie	arlo_guthrie	53
+$CHILDREN , son of $PERSON	38259	22038	robert_mondavi	tim_mondavi	53
+$CHILDREN , son of $PERSON	65	6574	tina_knowles	beyoncé	53
+$CHILDREN , son of $PERSON	38479	29457	john_huston	anjelica_huston	53
+$CHILDREN , son of $PERSON	5893	25663	patti_hansen	alexandra_richards	53
+$CHILDREN , son of $PERSON	33410	35302	kim_il-sung	kim_jong-il	53
+$CHILDREN , son of $PERSON	26654	22898	mick_jagger	elizabeth_jagger	53
+$CHILDREN , son of $PERSON	3359	9344	tony_curtis	jamie_lee_curtis	53
+$CHILDREN , son of $PERSON	24380	19646	william_godwin	mary_shelley	53
+$CHILDREN , son of $PERSON	26629	32891	ravi_shankar	norah_jones	53
+$CHILDREN , son of $PERSON	23201	27877	otto_frank	margot_frank	53
+$CHILDREN , son of $PERSON	25456	5521	dominick_dunne	griffin_dunne	53
+$PERSON and his son $CHILDREN	30860	33213	noam	kenan	42
+$PERSON and his son $CHILDREN	15608	13629	akihito	prince_akishino	42
+$PERSON and his son $CHILDREN	28115	30860	seth	noam	42
+$PERSON and his son $CHILDREN	25809	37238	gilbert_sorrentino	christopher_sorrentino	42
+$PERSON and his son $CHILDREN	4107	40590	jack_buck	joe_buck	42
+$PERSON and his son $CHILDREN	3359	9344	tony_curtis	jamie_lee_curtis	42
+$PERSON and his son $CHILDREN	17312	22898	jerry_hall	elizabeth_jagger	42
+$PERSON and his son $CHILDREN	17573	36717	lloyd_bridges	jeff_bridges	42
+$PERSON and his son $CHILDREN	11793	10663	joe_mantegna	gina_mantegna	42
+$PERSON and his son $CHILDREN	34898	18002	francis_ford_coppola	sofia_coppola	42
+$PERSON and his son $CHILDREN	39550	1791	phil_simms	chris_simms	42
+$PERSON and his son $CHILDREN	17011	12234	michael_lohan	lindsay_lohan	42
+$PERSON and his son $CHILDREN	27472	14395	jimmy_breslin	rosemary_breslin	42
+$PERSON and his son $CHILDREN	16933	16276	rachel_kempson	vanessa_redgrave	42
+$PERSON and his son $CHILDREN	24809	11651	dario_argento	asia_argento	42
+$PERSON and his son $CHILDREN	11601	31300	tom_harmon	mark_harmon	42
+$PERSON and his son $CHILDREN	257	10444	john_gotti	victoria_gotti	42
+$PERSON and his son $CHILDREN	4255	22986	dyan_cannon	jennifer_grant	42
+$PERSON and his son $CHILDREN	21455	6187	jim_bakker	jay_bakker	42
+$PERSON and his son $CHILDREN	17573	20657	lloyd_bridges	beau_bridges	42
+$PERSON and his son $CHILDREN	2372	31493	osama_bin_laden	saad_bin_laden	42
+$PERSON and his son $CHILDREN	6993	18430	lionel_richie	nicole_richie	42
+$PERSON and his son $CHILDREN	2800	10813	sharon_rocha	laci_peterson	42
+$PERSON and his son $CHILDREN	27468	8421	buddy_ryan	rex_ryan	42
+$PERSON and his son $CHILDREN	20496	40252	jane_fonda	troy_garity	42
+$PERSON and his son $CHILDREN	25939	15084	dick_cheney	mary_cheney	42
+$PERSON and his son $CHILDREN	14869	181	jim_chapin	tom_chapin	42
+$PERSON and his son $CHILDREN	26379	22974	mark_miller	penelope_ann_miller	42
+$PERSON and his son $CHILDREN	4586	12435	bruce_dern	laura_dern	42
+$PERSON and his son $CHILDREN	37846	4906	nancy_dickerson	john_dickerson	42
+$PERSON and his son $CHILDREN	36995	10399	gena_rowlands	nick_cassavetes	42
+$PERSON and his son $CHILDREN	32740	18387	caleb_deschanel	zooey_deschanel	42
+$PERSON and his son $CHILDREN	24380	19646	william_godwin	mary_shelley	42
+$PERSON and his son $CHILDREN	65	6574	tina_knowles	beyoncé	42
+$PERSON and his son $CHILDREN	36995	29489	gena_rowlands	zoe_cassavetes	42
+$PERSON and his son $CHILDREN	9959	29106	anthony_minghella	max_minghella	42
+$PERSON and his son $CHILDREN	28509	8455	carole_keeton_strayhorn	scott_mcclellan	42
+$PERSON and his son $CHILDREN	28115	5451	seth	enos	42
+$PERSON and his son $CHILDREN	9008	14557	gertrude_himmelfarb	william_kristol	42
+$PERSON and his son $CHILDREN	7640	19646	mary_wollstonecraft	mary_shelley	42
+$PERSON and his son $CHILDREN	25939	16306	dick_cheney	elizabeth_cheney	42
+$PERSON and his son $CHILDREN	22320	26659	john_smith	sarah_smith	42
+$PERSON and his son $CHILDREN	38993	35315	elvis_presley	lisa_marie_presley	42
+$PERSON and his son $CHILDREN	11573	12265	inge_morath	rebecca_miller	42
+$PERSON and his son $CHILDREN	23863	24106	nancy_reagan	patti_davis	42
+$PERSON and his son $CHILDREN	6408	16434	gabriel_garcía_márquez	rodrigo_garcia	42
+$PERSON and his son $CHILDREN	18010	23066	anthony_depalma	brian_de_palma	42
+$PERSON and his son $CHILDREN	30149	35735	robert_penn_warren	rosanna_warren	42
+$PERSON and his son $CHILDREN	25212	24711	donald_sutherland	kiefer_sutherland	42
+$PERSON and his son $CHILDREN	8559	16925	john_mcphee	martha_mcphee	42
+$PERSON and his son $CHILDREN	20772	17113	joe_niekro	lance_niekro	42
+$PERSON and his son $CHILDREN	35394	18981	mary_todd_lincoln	robert_todd_lincoln	42
+$PERSON and his son $CHILDREN	34469	38206	marcello_mastroianni	chiara_mastroianni	42
+$PERSON and his son $CHILDREN	4497	18298	robert_crumb	sophie_crumb	42
+$PERSON and his son $CHILDREN	28931	11348	james_broderick	matthew_broderick	42
+$PERSON and his son $CHILDREN	7460	38206	catherine_deneuve	chiara_mastroianni	42
+$PERSON and his son $CHILDREN	5795	23240	martin_sheen	emilio_estevez	42
+$PERSON and his son $CHILDREN	8474	34260	alberto_fujimori	keiko_fujimori	42
+$PERSON and his son $CHILDREN	5893	22512	patti_hansen	theodora_richards	42
+$PERSON and his son $CHILDREN	23085	10089	veronica_hearst	fabiola_beracasa	42
+$PERSON and his son $CHILDREN	17694	24106	ronald_reagan	patti_davis	42
+$PERSON and his son $CHILDREN	22901	9620	john_kenneth_galbraith	peter_w._galbraith	42
+$PERSON and his son $CHILDREN	7072	15019	steve_belichick	bill_belichick	42
+$PERSON and his son $CHILDREN	16140	28186	bob_marley	ziggy_marley	42
+$PERSON and his son $CHILDREN	35119	10938	henry_ford	edsel_ford	42
+$PERSON and his son $CHILDREN	38217	26818	miller_williams	lucinda_williams	42
+$PERSON and his son $CHILDREN	20785	26324	william_dean_howells	john_mead_howells	42
+$PERSON and his son $CHILDREN	15786	9209	loudon_wainwright_iii	rufus_wainwright	42
+$PERSON and his son $CHILDREN	3526	1150	bruce_paltrow	gwyneth_paltrow	42
+$PERSON and his son $CHILDREN	16879	12526	robert_f._kennedy	david_kennedy	42
+$PERSON and his son $CHILDREN	30086	9004	bertie_ahern	cecelia_ahern	42
+$PERSON and his son $CHILDREN	28747	2737	guy_molinari	susan_molinari	42
+$PERSON and his son $CHILDREN	9867	6457	lidia_bastianich	joseph_bastianich	42
+$PERSON and his son $CHILDREN	40560	24296	mary_rodgers	adam_guettel	42
+$PERSON and his son $CHILDREN	2622	4805	betty_hemings	sally_hemings	42
+$PERSON and his son $CHILDREN	32131	40881	martha_stewart	alexis_stewart	42
+$PERSON and his son $CHILDREN	22685	6574	mathew_knowles	beyoncé	42
+$PERSON and his son $CHILDREN	16091	15341	colleen_dewhurst	campbell_scott	42
+$PERSON and his son $CHILDREN	5852	30192	norman_chandler	otis_chandler	42
+$PERSON and his son $CHILDREN	40638	30013	hosni_mubarak	gamal_mubarak	42
+$PERSON and his son $CHILDREN	24148	28094	billy_ray_cyrus	miley_cyrus	42
+$PERSON and his son $CHILDREN	12217	38213	ralph_willard	kevin_willard	42
+$PERSON and his son $CHILDREN	24346	10969	muhammad_ali	laila_ali	42
+$PERSON and his son $CHILDREN	38912	6110	jose_rivera	naomi_rivera	42
+$PERSON and his son $CHILDREN	12337	11734	john_f._kennedy	caroline_kennedy	42
+$PERSON and his son $CHILDREN	35003	30924	richard_bennett	joan_bennett	42
+$PERSON and his son $CHILDREN	24838	13930	jimmy_hoffa	james_p._hoffa	42
+$PERSON and his son $CHILDREN	37270	37051	sean_tuohy	michael_oher	42
+$PERSON and his son $CHILDREN	8938	17878	terri_irwin	steve_irwin	42
+$PERSON and his son $CHILDREN	37728	27105	shelley_plimpton	martha_plimpton	42
+$PERSON and his son $CHILDREN	18374	28991	a._bartlett_giamatti	paul_giamatti	42
+$PERSON and his son $CHILDREN	21938	8229	christopher_plummer	amanda_plummer	42
+$PERSON and his son $CHILDREN	38479	29457	john_huston	anjelica_huston	42
+$PERSON and his son $CHILDREN	21014	22812	arthur_hays_sulzberger	arthur_ochs_sulzberger	42
+$PERSON and his son $CHILDREN	18679	16394	roy_blunt	matt_blunt	42
+$PERSON and his son $CHILDREN	34629	10272	jesse_barfield	josh_barfield	42
+$PERSON and his son $CHILDREN	10634	12588	diana_ross	tracee_ellis_ross	42
+$PERSON and his son $CHILDREN	8866	4080	earl_woods	tiger_woods	42
+$PERSON and his son $CHILDREN	38259	23572	robert_mondavi	michael_mondavi	42
+$PERSON and his son $CHILDREN	34784	12925	goldie_hawn	oliver_hudson	42
+$PERSON and his son $CHILDREN	36949	15351	joseph_jackson	michael_jackson	42
+$PERSON and his son $CHILDREN	26759	14657	barbara_bush	jeb_bush	42
+$PERSON and his son $CHILDREN	13094	17411	fernanda_montenegro	fernanda_torres	42
+$PERSON and his son $CHILDREN	2537	15662	thomas_j._dodd	christopher_dodd	42
+$PERSON and his son $CHILDREN	17262	2281	bucky_pizzarelli	john_pizzarelli	42
+$PERSON and his son $CHILDREN	40505	23058	lena_horne	gail_lumet_buckley	42
+$PERSON and his son $CHILDREN	14973	12158	michael_redgrave	corin_redgrave	42
+$PERSON and his son $CHILDREN	16879	19797	robert_f._kennedy	rory_kennedy	42
+$PERSON and his son $CHILDREN	32812	28133	alice_coltrane	ravi_coltrane	42
+$PERSON and his son $CHILDREN	12280	10995	kingsley_amis	martin_amis	42
+$PERSON and his son $CHILDREN	12620	10831	john_c._malone	evan_malone	42
+$PERSON and his son $CHILDREN	16316	17714	kathy_hilton	nicky_hilton	42
+$PERSON and his son $CHILDREN	26100	33673	carl_reiner	rob_reiner	42
+$PERSON and his son $CHILDREN	10726	25663	keith_richards	alexandra_richards	42
+$PERSON and his son $CHILDREN	2012	11008	melvin_van_peebles	mario_van_peebles	42
+$PERSON and his son $CHILDREN	36486	10399	john_cassavetes	nick_cassavetes	42
+$PERSON and his son $CHILDREN	20547	14438	frank_sinatra	nancy_sinatra	42
+$PERSON and his son $CHILDREN	17051	1307	jerry_seinfeld	sascha	42
+$PERSON and his son $CHILDREN	6108	284	timothy_spall	rafe_spall	42
+$PERSON and his son $CHILDREN	8716	19526	estée_lauder	leonard_lauder	42
+$PERSON and his son $CHILDREN	5527	33978	bernard_spitzer	eliot_spitzer	42
+$PERSON and his son $CHILDREN	16140	29538	bob_marley	ky-mani_marley	42
+$PERSON and his son $CHILDREN	16276	29840	vanessa_redgrave	natasha_richardson	42
+$PERSON and his son $CHILDREN	37637	14287	buddy_bell	david_bell	42
+$PERSON and his son $CHILDREN	17231	24577	margaret_harrington	cathleen_black	42
+$PERSON and his son $CHILDREN	38174	38477	indira_gandhi	rajiv_gandhi	42
+$PERSON and his son $CHILDREN	29044	243	abraham	ishmael	42
+

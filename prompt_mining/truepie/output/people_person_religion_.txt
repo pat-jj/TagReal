@@ -1,0 +1,14 @@
+$PERSON religion of $RELIGION
+$RELIGION , $PERSON ,
+part of greater $PERSON $RELIGION
+nation of $RELIGION leader $PERSON
+$PERSON of $RELIGION
+$PERSON (nation of $RELIGION)
+$PERSON , $RELIGION
+$PERSON and $RELIGION
+$PERSON in $RELIGION
+$PERSON ( $RELIGION )
+$PERSON and his religion, $RELIGION
+similar to other $RELIGION religions, $PERSON
+$RELIGION and $PERSON
+$PERSON a $RELIGION

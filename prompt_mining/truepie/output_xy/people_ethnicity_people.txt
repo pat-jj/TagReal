@@ -1,0 +1,22 @@
+[X] such as [Y]
+[Y] , a [X]
+[X] [Y]
+[Y] [X]
+[Y] and the [X]
+[Y] , the [X]
+[Y] , [X]
+[Y] , [X] actor
+[X] president [Y]
+[Y] , president of [X]
+[X] , [Y]
+[X] singer [Y]
+[X] tenor [Y]
+[X] author [Y]
+[X] director [Y]
+[X] film director [Y]
+[X] writer [Y]
+[X] under [Y]
+[X] actor [Y]
+[X] [Y] ,
+
+

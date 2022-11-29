@@ -1,0 +1,27 @@
+{"relation": "business_person_company", "template": "[X] at the [Y]"}
+{"relation": "business_person_company", "template": "[X] works for [Y]"}
+{"relation": "business_person_company", "template": "[X] of [Y] ,"}
+{"relation": "business_person_company", "template": "[X] and the [Y]"}
+{"relation": "business_person_company", "template": "[X] worked at [Y]"}
+{"relation": "business_person_company", "template": "[X] worked for [Y]"}
+{"relation": "business_person_company", "template": "[X] , [Y] ,"}
+{"relation": "business_person_company", "template": "[Y] , [X] ,"}
+{"relation": "business_person_company", "template": "[X] at [Y] ,"}
+{"relation": "business_person_company", "template": "[X] , [Y]"}
+{"relation": "business_person_company", "template": "[X] and [Y]"}
+{"relation": "business_person_company", "template": "[X] works in [Y]"}
+{"relation": "business_person_company", "template": "[Y] , [X]"}
+{"relation": "business_person_company", "template": "[Y] by [X]"}
+{"relation": "business_person_company", "template": "[X] worked in [Y]"}
+{"relation": "business_person_company", "template": "[X] in [Y]"}
+{"relation": "business_person_company", "template": "[Y] and the [X]"}
+{"relation": "business_person_company", "template": "[Y] 's [X]"}
+{"relation": "business_person_company", "template": "[X] employed by [Y]"}
+{"relation": "business_person_company", "template": "[X]  [Y] ,"}
+{"relation": "business_person_company", "template": "[Y] with [X]"}
+{"relation": "business_person_company", "template": "[X] , the [Y]"}
+{"relation": "business_person_company", "template": "[X] at [Y]"}
+{"relation": "business_person_company", "template": "[X] under [Y]"}
+{"relation": "business_person_company", "template": "[X] from [Y]"}
+{"relation": "business_person_company", "template": "[X] \u2013 [Y]"}
+{"relation": "business_person_company", "template": "[Y] under [X]"}

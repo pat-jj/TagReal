@@ -1,0 +1,9 @@
+{"relation": "business_company_founders", "template": "[Y] , founder of [X]"}
+{"relation": "business_company_founders", "template": "[Y] , co-founder of [X]"}
+{"relation": "business_company_founders", "template": "[Y] , founder of the [X]"}
+{"relation": "business_company_founders", "template": "[Y] , the founder of [X] ,"}
+{"relation": "business_company_founders", "template": "[X] mission in [Y]"}
+{"relation": "business_company_founders", "template": "[Y] , founder of [X] ,"}
+{"relation": "business_company_founders", "template": "[Y] , co-founder of [X] ,"}
+{"relation": "business_company_founders", "template": "permanent representative of [Y] to the [X]"}
+{"relation": "business_company_founders", "template": "[X] association of the [Y]"}

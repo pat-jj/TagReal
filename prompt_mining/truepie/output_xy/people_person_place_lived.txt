@@ -1,0 +1,17 @@
+[Y] , [X]
+[X] , [Y]
+[Y] [X]
+[X] [Y]
+[X] - [Y]
+[X] and in [Y]
+[X] lived in [Y]
+[X] , [Y] ,
+[X] at the [Y]
+[X] from the [Y]
+[Y] [X] ,
+[X] at [Y]
+[Y] - born [X]
+[X] , born in [Y]
+[X] , who was born in [Y]
+award : [X] , [Y]
+

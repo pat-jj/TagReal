@@ -1,0 +1,21 @@
+{"relation": "people_person_children", "template": "[X] and [Y]"}
+{"relation": "people_person_children", "template": "[X] , [Y]"}
+{"relation": "people_person_children", "template": "[Y] and [X]"}
+{"relation": "people_person_children", "template": "[X] , [Y] ,"}
+{"relation": "people_person_children", "template": "[X] ' s son [Y]"}
+{"relation": "people_person_children", "template": "[Y] , son of [X]"}
+{"relation": "people_person_children", "template": "[Y] , daughter of [X]"}
+{"relation": "people_person_children", "template": "[X] and his son [Y]"}
+{"relation": "people_person_children", "template": "[Y] , the son of [X]"}
+{"relation": "people_person_children", "template": "[Y] [X]"}
+{"relation": "people_person_children", "template": "[X] [Y]"}
+{"relation": "people_person_children", "template": "[X] , , [Y]"}
+{"relation": "people_person_children", "template": "[Y] , [X] ,"}
+{"relation": "people_person_children", "template": "[X] ; [Y]"}
+{"relation": "people_person_children", "template": "[Y] , [X] ' s son"}
+{"relation": "people_person_children", "template": "[Y] , [X]"}
+{"relation": "people_person_children", "template": "[Y] , [X] '"}
+{"relation": "people_person_children", "template": "[Y] and [X] ,"}
+{"relation": "people_person_children", "template": "[Y] , son of [X] ,"}
+{"relation": "people_person_children", "template": "[X] [Y] ,"}
+{"relation": "people_person_children", "template": "[Y] [X] ,"}

@@ -1,0 +1,16 @@
+[X] died in [Y]
+[X] died at [Y]
+<DECEASED_PERSON>[X]</DECEASED_PERSON>, departed from <PLACE_OF_DEATH>[Y]</PLACE_OF_DEATH>
+<DECEASED_PERSON>[X]</DECEASED_PERSON> departed <PLACE_OF_DEATH>[Y]</PLACE_OF_DEATH>
+[X] returned to [Y]
+[X] museum in [Y] ,
+[X] hall in [Y]
+[X] university in [Y] ,
+centre [X] , [Y]
+[X] studios in [Y]
+[X] hospital in [Y]
+[X] theater in [Y]
+centre [X] in [Y]
+[X] theatre in [Y]
+[X] in [Y] ,
+

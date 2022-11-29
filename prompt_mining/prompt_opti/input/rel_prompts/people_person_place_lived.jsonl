@@ -1,0 +1,16 @@
+{"relation": "people_person_place_lived", "template": "[Y] , [X]"}
+{"relation": "people_person_place_lived", "template": "[X] , [Y]"}
+{"relation": "people_person_place_lived", "template": "[Y] [X]"}
+{"relation": "people_person_place_lived", "template": "[X] [Y]"}
+{"relation": "people_person_place_lived", "template": "[X] - [Y]"}
+{"relation": "people_person_place_lived", "template": "[X] and in [Y]"}
+{"relation": "people_person_place_lived", "template": "[X] lived in [Y]"}
+{"relation": "people_person_place_lived", "template": "[X] , [Y] ,"}
+{"relation": "people_person_place_lived", "template": "[X] at the [Y]"}
+{"relation": "people_person_place_lived", "template": "[X] from the [Y]"}
+{"relation": "people_person_place_lived", "template": "[Y] [X] ,"}
+{"relation": "people_person_place_lived", "template": "[X] at [Y]"}
+{"relation": "people_person_place_lived", "template": "[Y] - born [X]"}
+{"relation": "people_person_place_lived", "template": "[X] , born in [Y]"}
+{"relation": "people_person_place_lived", "template": "[X] , who was born in [Y]"}
+{"relation": "people_person_place_lived", "template": "award : [X] , [Y]"}

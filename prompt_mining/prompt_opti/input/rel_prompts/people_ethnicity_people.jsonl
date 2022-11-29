@@ -1,0 +1,20 @@
+{"relation": "people_ethnicity_people", "template": "[X] such as [Y]"}
+{"relation": "people_ethnicity_people", "template": "[Y] , a [X]"}
+{"relation": "people_ethnicity_people", "template": "[X] [Y]"}
+{"relation": "people_ethnicity_people", "template": "[Y] [X]"}
+{"relation": "people_ethnicity_people", "template": "[Y] and the [X]"}
+{"relation": "people_ethnicity_people", "template": "[Y] , the [X]"}
+{"relation": "people_ethnicity_people", "template": "[Y] , [X]"}
+{"relation": "people_ethnicity_people", "template": "[Y] , [X] actor"}
+{"relation": "people_ethnicity_people", "template": "[X] president [Y]"}
+{"relation": "people_ethnicity_people", "template": "[Y] , president of [X]"}
+{"relation": "people_ethnicity_people", "template": "[X] , [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] singer [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] tenor [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] author [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] director [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] film director [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] writer [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] under [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] actor [Y]"}
+{"relation": "people_ethnicity_people", "template": "[X] [Y] ,"}

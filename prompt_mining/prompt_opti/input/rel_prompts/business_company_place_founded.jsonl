@@ -1,0 +1,13 @@
+{"relation": "business_company_place_founded", "template": "[X] founded in [Y]"}
+{"relation": "business_company_place_founded", "template": "[X] [Y]"}
+{"relation": "business_company_place_founded", "template": "[Y] [X]"}
+{"relation": "business_company_place_founded", "template": "[X] field in [Y]"}
+{"relation": "business_company_place_founded", "template": "[X] , [Y] ,"}
+{"relation": "business_company_place_founded", "template": "[X] park [Y]"}
+{"relation": "business_company_place_founded", "template": "[X] company in [Y]"}
+{"relation": "business_company_place_founded", "template": "[X] of [Y]"}
+{"relation": "business_company_place_founded", "template": "[X] in [Y]"}
+{"relation": "business_company_place_founded", "template": "[X] , [Y]"}
+{"relation": "business_company_place_founded", "template": "[X] in [Y] ,"}
+{"relation": "business_company_place_founded", "template": "[Y] : [X] ,"}
+{"relation": "business_company_place_founded", "template": "[Y] -based [X]"}

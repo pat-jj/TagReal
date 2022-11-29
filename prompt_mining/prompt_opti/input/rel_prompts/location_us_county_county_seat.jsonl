@@ -1,0 +1,22 @@
+{"relation": "location_us_county_county_seat", "template": "[Y] , the seat of [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] , the county seat of [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] , the [X] seat,"}
+{"relation": "location_us_county_county_seat", "template": "[X] center, [Y] ,"}
+{"relation": "location_us_county_county_seat", "template": "[X] , [Y]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] and [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] \u2013 [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] , [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] in [X]"}
+{"relation": "location_us_county_county_seat", "template": "[X] and [Y]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] 's [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] ( [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] & [X]"}
+{"relation": "location_us_county_county_seat", "template": "[X] center, [Y]"}
+{"relation": "location_us_county_county_seat", "template": "[X] courthouse, [Y]"}
+{"relation": "location_us_county_county_seat", "template": "[X] courthouse in [Y]"}
+{"relation": "location_us_county_county_seat", "template": "street in [Y] , [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] / [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] , in [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] and [X]"}
+{"relation": "location_us_county_county_seat", "template": "[Y] - [X] coliseum"}

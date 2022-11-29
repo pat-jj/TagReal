@@ -1,4 +1,5 @@
 /checkpoint/
+.vscode
 /dataset/
 /Volumes/
 /TuckER/data/nyt10/
@@ -57,3 +58,6 @@ __pycache__
 /fb_nyt_origin_data/train_sort.txt
 /fb_nyt_origin_data/text/vec.txt
 /fb_nyt_origin_data/text/train.txt
+
+/prompt_mining/prompt_opti/pre-trained_language_models
+/prompt_mining/prompt_opti/feature_dir

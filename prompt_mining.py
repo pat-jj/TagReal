@@ -239,6 +239,21 @@ def from_meta_pad_to_true_pie(relation, relation_slash, patterns, entity_tokens,
     print(output, file=out_file)
 
 
+def convert_type_to_x_y(relation, head, tail):
+    prompt_file = './prompt_mining/truepie/output/' + relation + '_.txt'
+    output_file_path = './prompt_mining/truepie/output_xy/' + relation + '.txt'
+    output = ""
+
+    with open(prompt_file) as f:
+        lines = f.readlines()
+
+    for line in lines:
+        output += line.replace(f'${head}', '[X]').replace(f'${tail}', '[Y]')
+    
+    out_file = open(output_file_path, 'w', encoding='utf-8')
+    print(output, file=out_file)
+    
+
 def main():
     # corpus = "../../../data/pj20/corpus_text_low.txt"
     relation_set = get_relation_set()
@@ -282,6 +297,10 @@ def main():
         )
         relation_slash = relation_entities[relation]['slash']
         from_meta_pad_to_true_pie(relation, relation_slash, filtered_patterns, entity_tokens)
+
+    for relation in relation_entities.keys():
+        convert_type_to_x_y(relation, relation_entities[relation]['head'], relation_entities[relation]['tail'])
+
 
 
 if __name__ == '__main__':

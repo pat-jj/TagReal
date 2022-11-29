@@ -1,0 +1,14 @@
+{"relation": "people_person_religion", "template": "[X] religion of [Y]"}
+{"relation": "people_person_religion", "template": "[Y] , [X] ,"}
+{"relation": "people_person_religion", "template": "part of greater [X] [Y]"}
+{"relation": "people_person_religion", "template": "nation of [Y] leader [X]"}
+{"relation": "people_person_religion", "template": "[X] of [Y]"}
+{"relation": "people_person_religion", "template": "[X] (nation of [Y])"}
+{"relation": "people_person_religion", "template": "[X] , [Y]"}
+{"relation": "people_person_religion", "template": "[X] and [Y]"}
+{"relation": "people_person_religion", "template": "[X] in [Y]"}
+{"relation": "people_person_religion", "template": "[X] ( [Y] )"}
+{"relation": "people_person_religion", "template": "[X] and his religion, [Y]"}
+{"relation": "people_person_religion", "template": "similar to other [Y] religions, [X]"}
+{"relation": "people_person_religion", "template": "[Y] and [X]"}
+{"relation": "people_person_religion", "template": "[X] a [Y]"}

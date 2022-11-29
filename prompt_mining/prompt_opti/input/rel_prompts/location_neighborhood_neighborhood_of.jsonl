@@ -1,0 +1,39 @@
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] 's [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] , [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] in [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] , [Y] ,"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] district of [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] of [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] neighborhood of [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] area of [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "people from [X] , [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] section of [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "home in [X] , [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] 's [X] ,"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] division, [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] and [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] , [Y] , oregon"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] 's [X] neighborhood."}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] section of [Y] ,"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "people from the [X] , [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] , [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] neighborhood of [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "street in the [X] neighborhood of [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] in the [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] , [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] , [Y]  [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] and [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] 's [X] neighborhood,"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] 's [X] neighborhood"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] and lower [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "neighborhood of [X] , [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] neighborhood of [X] ,"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] of [Y] ,"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] neighborhoods of [Y]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] district of [Y] ,"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] in [Y] , new york."}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[X] neighborhood of [Y] ,"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] \u2019s [X]"}
+{"relation": "location_neighborhood_neighborhood_of", "template": "[Y] neighborhoods of [X] ,"}

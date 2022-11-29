@@ -1,0 +1,46 @@
+{"relation": "people_person_nationality", "template": "[Y] [X]"}
+{"relation": "people_person_nationality", "template": "[X] ( [Y] )"}
+{"relation": "people_person_nationality", "template": "[X] is an [Y]"}
+{"relation": "people_person_nationality", "template": "[X] in [Y]"}
+{"relation": "people_person_nationality", "template": "[X] as [Y]"}
+{"relation": "people_person_nationality", "template": "[X] , [Y]"}
+{"relation": "people_person_nationality", "template": "[Y] , [X]"}
+{"relation": "people_person_nationality", "template": "[X] ( [Y] ),"}
+{"relation": "people_person_nationality", "template": "[X] of [Y]"}
+{"relation": "people_person_nationality", "template": "[Y] , [X] ,"}
+{"relation": "people_person_nationality", "template": "[X] of [Y] ,"}
+{"relation": "people_person_nationality", "template": "[X] in , [Y]"}
+{"relation": "people_person_nationality", "template": "[X] \u2013 ( [Y] )"}
+{"relation": "people_person_nationality", "template": "[Y] - [X]"}
+{"relation": "people_person_nationality", "template": "[X] from [Y] ,"}
+{"relation": "people_person_nationality", "template": "[X] in the [Y]"}
+{"relation": "people_person_nationality", "template": "[X] , the [Y]"}
+{"relation": "people_person_nationality", "template": "[X] from [Y]"}
+{"relation": "people_person_nationality", "template": "[X] and the [Y]"}
+{"relation": "people_person_nationality", "template": "[X] - [Y]"}
+{"relation": "people_person_nationality", "template": "\u2013 [X] , [Y]"}
+{"relation": "people_person_nationality", "template": "[X] of the times of [Y]"}
+{"relation": "people_person_nationality", "template": "[X] , [Y] )"}
+{"relation": "people_person_nationality", "template": "( [Y] ) [X]"}
+{"relation": "people_person_nationality", "template": "[X] [Y]"}
+{"relation": "people_person_nationality", "template": "[Y] ' s [X]"}
+{"relation": "people_person_nationality", "template": "[X] , a [Y]"}
+{"relation": "people_person_nationality", "template": "[X] , an [Y]"}
+{"relation": "people_person_nationality", "template": "[Y] and [X]"}
+{"relation": "people_person_nationality", "template": "[X] ' s [Y]"}
+{"relation": "people_person_nationality", "template": "[X] , [Y] ,"}
+{"relation": "people_person_nationality", "template": "[X] , [Y] '"}
+{"relation": "people_person_nationality", "template": "[Y] under [X]"}
+{"relation": "people_person_nationality", "template": "[Y] by [X]"}
+{"relation": "people_person_nationality", "template": "[X] \u2013 [Y]"}
+{"relation": "people_person_nationality", "template": "[X] , - [Y]"}
+{"relation": "people_person_nationality", "template": "[Y] captain [X]"}
+{"relation": "people_person_nationality", "template": "[Y] ' s [X] ,"}
+{"relation": "people_person_nationality", "template": "[X] of the [Y]"}
+{"relation": "people_person_nationality", "template": "[X] and [Y]"}
+{"relation": "people_person_nationality", "template": "[Y] : [X]"}
+{"relation": "people_person_nationality", "template": "[Y] with [X]"}
+{"relation": "people_person_nationality", "template": "[Y] after [X]"}
+{"relation": "people_person_nationality", "template": "[X] [Y] '"}
+{"relation": "people_person_nationality", "template": "[X] the [Y]"}
+{"relation": "people_person_nationality", "template": "[Y] leader [X]"}

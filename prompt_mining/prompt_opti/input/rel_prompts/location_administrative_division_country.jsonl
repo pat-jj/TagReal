@@ -1,0 +1,18 @@
+{"relation": "location_administrative_division_country", "template": "[X] region of [Y]"}
+{"relation": "location_administrative_division_country", "template": "[X] , [Y]"}
+{"relation": "location_administrative_division_country", "template": "[X] , the capital of [Y]"}
+{"relation": "location_administrative_division_country", "template": "[X] in [Y]"}
+{"relation": "location_administrative_division_country", "template": "[Y] , [X]"}
+{"relation": "location_administrative_division_country", "template": "[X] , in [Y]"}
+{"relation": "location_administrative_division_country", "template": "municipality in [X] , [Y]"}
+{"relation": "location_administrative_division_country", "template": "[Y] in [X]"}
+{"relation": "location_administrative_division_country", "template": "[X] of [Y]"}
+{"relation": "location_administrative_division_country", "template": "[Y] and [X]"}
+{"relation": "location_administrative_division_country", "template": "[X] and [Y]"}
+{"relation": "location_administrative_division_country", "template": "[X] , the [Y]"}
+{"relation": "location_administrative_division_country", "template": "[Y] the [X]"}
+{"relation": "location_administrative_division_country", "template": "[Y] [X]"}
+{"relation": "location_administrative_division_country", "template": "[X] in [Y] ,"}
+{"relation": "location_administrative_division_country", "template": "[X] [Y]"}
+{"relation": "location_administrative_division_country", "template": "[Y] to [X]"}
+{"relation": "location_administrative_division_country", "template": "[X] to [Y]"}

@@ -27,7 +27,9 @@ class TempModel(nn.Module):
         weight = getattr(self, relation)
         num_temp = min(features.size(1), weight.size(0))
         weight = weight[:num_temp]
+        # print(weight)
         features = features[:, :num_temp]
+        # print(features)
 
         weight = weight.exp()
         weight = weight / weight.sum()
@@ -41,14 +43,21 @@ class TempModel(nn.Module):
                 # SHAPE: (batch_size, vocab_size)
                 features = F.log_softmax(features, dim=-1)
             if target is not None:
-                #loss = nn.CrossEntropyLoss(reduction='mean')(features, target)
                 # SHAPE: (batch_size,)
-                loss = torch.gather(features, dim=1, index=target.view(-1, 1))
+                # loss = torch.gather(features, dim=1, index=target.view(-1, 1))
                 if self.enforce_prob:
+                    loss = nn.CrossEntropyLoss(reduction='mean')(features, target)
                     loss = loss.log()
+                    # print('', loss)
+                else:
+                    loss = torch.gather(features, dim=1, index=target.view(-1, 1))
                 if sample_weight is not None:
                     loss = loss * sample_weight
-                loss = -loss.mean()
+                    # print('2', loss)
+                # print(sample_weight)
+                # print('3', loss)
+                loss = loss.mean()
+                # print('4', loss)
                 return loss
         elif len(features.size()) == 2:
             # SHAPE: (batch_size,)

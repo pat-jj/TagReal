@@ -1,26 +1,20 @@
-{"relation": "location_location_contains", "template": "[X]_SUB [X]"}
-{"relation": "location_location_contains", "template": "[X] [X]_SUB"}
-{"relation": "location_location_contains", "template": "[X]_SUB , [X]"}
-{"relation": "location_location_contains", "template": "people from [X]_SUB , [X]"}
-{"relation": "location_location_contains", "template": "[X]_SUB , [X] ,"}
-{"relation": "location_location_contains", "template": "[X]_SUB in [X]"}
-{"relation": "location_location_contains", "template": "[X]_SUB and [X]"}
-{"relation": "location_location_contains", "template": "[X]_SUB , the [X]"}
-{"relation": "location_location_contains", "template": "[X]_SUB , in [X]"}
-{"relation": "location_location_contains", "template": "in [X]_SUB , [X]"}
-{"relation": "location_location_contains", "template": "[X]_SUB , [X] [X]_SUB"}
-{"relation": "location_location_contains", "template": "[X] , [X]_SUB"}
-{"relation": "location_location_contains", "template": "[X] \u2013 [X]_SUB"}
-{"relation": "location_location_contains", "template": "university of [X] , [X]_SUB"}
-{"relation": "location_location_contains", "template": "[X]_SUB , [X] [X]"}
-{"relation": "location_location_contains", "template": "[X] [X]_SUB , [X]"}
-{"relation": "location_location_contains", "template": "east [X]_SUB , [X]"}
-{"relation": "location_location_contains", "template": "university of [X]_SUB in [X]"}
-{"relation": "location_location_contains", "template": "[X] populated places on the [X]_SUB"}
-{"relation": "location_location_contains", "template": "school in [X]_SUB , [X] ,"}
-{"relation": "location_location_contains", "template": "city of [X]_SUB , [X]"}
-{"relation": "location_location_contains", "template": "college in [X]_SUB ,"}
-{"relation": "location_location_contains", "template": "[X]_SUB district of [X]"}
-{"relation": "location_location_contains", "template": "east [X]_SUB ,"}
-{"relation": "location_location_contains", "template": "school in [X]_SUB , [X]"}
-{"relation": "location_location_contains", "template": "home in [X]_SUB , [X] ,"}
+{"relation": "location_location_contains", "template": "[Y] [X]"}
+{"relation": "location_location_contains", "template": "[X] [Y]"}
+{"relation": "location_location_contains", "template": "[Y] , [X]"}
+{"relation": "location_location_contains", "template": "people from [Y] , [X]"}
+{"relation": "location_location_contains", "template": "[Y] , [X] ,"}
+{"relation": "location_location_contains", "template": "[Y] in [X]"}
+{"relation": "location_location_contains", "template": "[Y] and [X]"}
+{"relation": "location_location_contains", "template": "[Y] , the [X]"}
+{"relation": "location_location_contains", "template": "[Y] , in [X]"}
+{"relation": "location_location_contains", "template": "in [Y] , [X]"}
+{"relation": "location_location_contains", "template": "[X] , [Y]"}
+{"relation": "location_location_contains", "template": "university of [X] , [Y]"}
+{"relation": "location_location_contains", "template": "east [Y] , [X]"}
+{"relation": "location_location_contains", "template": "university of [Y] in [X]"}
+{"relation": "location_location_contains", "template": "[X] populated places on the [Y]"}
+{"relation": "location_location_contains", "template": "school in [Y] , [X] ,"}
+{"relation": "location_location_contains", "template": "city of [Y] , [X]"}
+{"relation": "location_location_contains", "template": "[Y] district of [X]"}
+{"relation": "location_location_contains", "template": "school in [Y] , [X]"}
+{"relation": "location_location_contains", "template": "home in [Y] , [X] ,"}

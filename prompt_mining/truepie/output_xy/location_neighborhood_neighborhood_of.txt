@@ -23,7 +23,6 @@ people from the [X] , [Y]
 street in the [X] neighborhood of [Y]
 [Y] in the [X]
 [X] , [Y]
-[X] , [Y]  [X]
 [Y] and [X]
 [Y] 's [X] neighborhood,
 [Y] 's [X] neighborhood

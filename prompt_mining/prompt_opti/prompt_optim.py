@@ -52,14 +52,14 @@ LM_ALL = [
         "label": "bert_base",
         "models_names": ["bert"],
         "bert_model_name": "bert-base-cased",
-        "bert_model_dir": "pre-trained_language_models/bert/cased_L-12_H-768_A-12"
+        "bert_model_dir": "pre-trained_language_models/bert/uncased_L-12_H-768_A-12"
     },
     {
         "lm": "bert",
         "label": "bert_large",
         "models_names": ["bert"],
         "bert_model_name": "bert-large-cased",
-        "bert_model_dir": "pre-trained_language_models/bert/cased_L-24_H-1024_A-16",
+        "bert_model_dir": "pre-trained_language_models/bert/uncased_L-24_H-1024_A-16",
     }
 ]
 
@@ -68,7 +68,7 @@ LM_BERT_BASE = {
     "label": "bert_base",
     "models_names": ["bert"],
     "bert_model_name": "bert-base-cased",
-    "bert_model_dir": "pre-trained_language_models/bert/cased_L-12_H-768_A-12"
+    "bert_model_dir": "pre-trained_language_models/bert/uncased_L-12_H-768_A-12"
 }
 
 LM_BERT_LARGE = {
@@ -76,7 +76,7 @@ LM_BERT_LARGE = {
     "label": "bert_large",
     "models_names": ["bert"],
     "bert_model_name": "bert-large-cased",
-    "bert_model_dir": "pre-trained_language_models/bert/cased_L-24_H-1024_A-16"
+    "bert_model_dir": "pre-trained_language_models/bert/uncased_L-24_H-1024_A-16"
 }
 
 LM_ROBERTA_BASE = {
@@ -147,7 +147,9 @@ def run(
             if method == 'optimize':  # (extract feature) + optimize
                 temp_model = TempModel(rel2numtemp, enforce_prob=enforce_prob, num_feat=num_feat)
                 temp_model.train()
+                print('TmpModel loaded')
                 optimizer = optim.Adam(temp_model.parameters(), lr=1e-1)
+                print('optimizer loaded')
                 temp_model = (temp_model, (optimizer, temperature))
             elif method == 'precompute':  # extract feature
                 # set temp_model[1] = "precompute"
@@ -170,7 +172,8 @@ def run(
             "dataset_filename": "{}/{}{}".format(
                 data_path_pre, relation["relation"], data_path_post
             ),
-            "common_vocab_filename": "pre-trained_language_models/common_vocab_cased.txt",
+            # "common_vocab_filename": "pre-trained_language_models/common_vocab_lowercased.txt",
+            "common_vocab_filename": "pre-trained_language_models/bert/uncased_L-24_H-1024_A-16/vocab.txt",
             "template": "",
             "bert_vocab_name": "vocab.txt",
             "batch_size": batch_size,
@@ -250,6 +253,7 @@ def run(
                             dev_loss = loss
                         loss.backward()
                         optimizer.step()
+                        # print('dev_loss: ', dev_loss)
                         if dev_loss - min_loss < -1e-3:
                             min_loss = dev_loss
                             es = 0
@@ -258,13 +262,14 @@ def run(
                             if es >= 10:
                                 print('early stop')
                                 break
-                continue
-
+                # continue
+        
+        print('jump to run_evaluation')
         Precision1 = run_evaluation(args, shuffle_data=False, model=model,
                                     refine_template=bool(refine_template),
                                     get_objs=get_objs, dynamic=dynamic,
                                     use_prob=use_prob, bt_obj=bt_obj,
-                                    temp_model=temp_model)            
+                                    temp_model=temp_model, relation_name=args.relation)            
 
         if get_objs:
             return
@@ -354,10 +359,10 @@ def run_all_LMs(parameters, LMs):
         run(*parameters, input_param=ip)
 
 
-def precompute():
+def precompute(relation):
     parser = argparse.ArgumentParser(description='run exp for multiple relational phrase')
-    parser.add_argument('--lm_model', type=str, default='bert_base', choices=['bert_base', 'bert_large', 'roberta_base'])
-    parser.add_argument('--rel_file', type=str, default='./input/rel_prompts/business_company_founders.jsonl')
+    parser.add_argument('--lm_model', type=str, default='bert_large', choices=['bert_base', 'bert_large', 'roberta_base'])
+    parser.add_argument('--rel_file', type=str, default=f'./input/rel_prompts/{relation}.jsonl')
     parser.add_argument('--refine_template', type=str, default=None)
     parser.add_argument('--prefix', type=str, default='./input/head_tail/')
     parser.add_argument('--suffix', type=str, default='.jsonl')
@@ -382,8 +387,89 @@ def precompute():
     run_all_LMs(parameters, [name2lm[lm] for lm in args.lm_model.split(':')])
 
 
+def optimize(relation):
+    parser = argparse.ArgumentParser(description='run exp for multiple relational phrase')
+    parser.add_argument('--lm_model', type=str, default='bert_large', choices=['bert_base', 'bert_large', 'roberta_base'])
+    parser.add_argument('--rel_file', type=str, default=f'./input/rel_prompts/{relation}.jsonl')
+    parser.add_argument('--refine_template', type=str, default=None)
+    parser.add_argument('--prefix', type=str, default='./input/head_tail/')
+    parser.add_argument('--suffix', type=str, default='.jsonl')
+    parser.add_argument('--top', type=int, default=None)
+    parser.add_argument('--ensemble', help='ensemble probs of different templates', action='store_true', default=True)
+    parser.add_argument('--get_objs', help='print out objects for evaluation', action='store_true')
+    parser.add_argument('--batch_size', type=int, default=32)
+    parser.add_argument('--dynamic', type=str, help='dynamically select template', default='none')
+    parser.add_argument('--use_prob', help='use prob instead of log prob', action='store_true')
+    parser.add_argument('--temp_model', help='which temp model to use to learn temp weights', default='mixture_optimize')
+    parser.add_argument('--save', help='path to save temp model', default=f'./weights_out/{relation}.pth')
+    parser.add_argument('--load', help='path to load temp model', default=None)
+    parser.add_argument('--feature_dir', help='dir to features', default='./feature_dir/')
+    parser.add_argument('--bt_obj', type=int, help='beam size of bach translation', default=1)
+    parser.add_argument('--enforce_prob', help='whether force the feature to be prob', action='store_true', default=True)
+    parser.add_argument('--num_feat', type=int, help='number of features', default=2)
+    parser.add_argument('--temperature', type=float, help='temperature for sample weight', default=0.0)
+    parser.add_argument('--use_model2', help='use two model in optimization', action='store_true')
+    args = parser.parse_args()
+    
+    parameters = get_relation_phrase_parameters(args)
+    run_all_LMs(parameters, [name2lm[lm] for lm in args.lm_model.split(':')])
+
+
+def predict():
+    parser = argparse.ArgumentParser(description='run exp for multiple relational phrase')
+    parser.add_argument('--lm_model', type=str, default='bert_large', choices=['bert_base', 'bert_large', 'roberta_base'])
+    parser.add_argument('--rel_file', type=str, default='./input/rel_prompts/business_company_founders.jsonl')
+    parser.add_argument('--refine_template', type=str, default=None)
+    parser.add_argument('--prefix', type=str, default='./input/head_tail/')
+    parser.add_argument('--suffix', type=str, default='.jsonl')
+    parser.add_argument('--top', type=int, default=None)
+    parser.add_argument('--ensemble', help='ensemble probs of different templates', action='store_true', default=True)
+    parser.add_argument('--get_objs', help='print out objects for evaluation', action='store_true')
+    parser.add_argument('--batch_size', type=int, default=32)
+    parser.add_argument('--dynamic', type=str, help='dynamically select template', default='none')
+    parser.add_argument('--use_prob', help='use prob instead of log prob', action='store_true')
+    parser.add_argument('--temp_model', help='which temp model to use to learn temp weights', default='mixture_optimize')
+    parser.add_argument('--save', help='path to save temp model', default='./weights_out/business_company_founders.pth')
+    parser.add_argument('--load', help='path to load temp model', default=None)
+    parser.add_argument('--feature_dir', help='dir to features', default='./feature_dir/')
+    parser.add_argument('--bt_obj', type=int, help='beam size of bach translation', default=1)
+    parser.add_argument('--enforce_prob', help='whether force the feature to be prob', action='store_true', default=True)
+    parser.add_argument('--num_feat', type=int, help='number of features', default=2)
+    parser.add_argument('--temperature', type=float, help='temperature for sample weight', default=0.0)
+    parser.add_argument('--use_model2', help='use two model in optimization', action='store_true')
+    args = parser.parse_args()
+    
+    parameters = get_relation_phrase_parameters(args)
+    run_all_LMs(parameters, [name2lm[lm] for lm in args.lm_model.split(':')])
+    return
+
+
 def main():
-    precompute()
+    relation_entities = {
+        'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER', 'slash': 'business/company/founders'},
+        'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED', 'slash': 'business/company/place_founded'},
+        'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY', 'slash': 'business/person/company'},
+        'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY', 'slash': 'location/administrative_division/country'},
+        'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION', 'slash': 'location/country/administrative_divisions'},
+        'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB', 'slash': 'location/location/contains'},
+        'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR', 'slash': 'location/neighborhood/neighborhood_of'},
+        'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT', 'slash': 'location/us_county/county_seat'},
+        'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH', 'slash': 'people/deceased_person/place_of_death'},
+        'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE', 'slash': 'people/ethnicity/people'},
+        'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN', 'slash': 'people/person/children'},
+        'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY', 'slash': 'people/person/ethnicity'},
+        'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY', 'slash': 'people/person/nationality'},
+        'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED', 'slash': 'people/person/place_lived'},
+        'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION', 'slash': 'people/person/religion'},
+    }
+
+    for relation in relation_entities.keys():
+        precompute(relation)
+        optimize(relation)
+
+
+
+
 
 
 if __name__ == '__main__':

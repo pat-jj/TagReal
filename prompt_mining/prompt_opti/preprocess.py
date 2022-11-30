@@ -13,9 +13,12 @@ def preprocess(relation):
         tmp = {}
         if line != '\n':
             head, tail = line.split('\t')[0], line.split('\t')[2][:-1]
+            # if ('_' not in tail):
             tmp['pred'] = relation
-            tmp['sub'] = head
-            tmp['obj'] = tail
+            tmp['sub_label'] = head.replace('_', ' ')
+            tmp['obj_label'] = tail.split('_')[0]
+            # tmp['obj_label'] = tail.replace('_', ' ')
+
             ht_out.append(tmp)
         else:
             break
@@ -35,7 +38,7 @@ def preprocess(relation):
         if line != '\n':
             tmp = {}
             tmp['relation'] = relation
-            tmp['template'] = line[:-1]
+            tmp['template'] = line[:-1].replace('[X]_SUB', '[Y]')
             rp_out.append(tmp)
         else:
             break

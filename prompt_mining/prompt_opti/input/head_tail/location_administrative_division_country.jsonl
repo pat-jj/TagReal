@@ -1,616 +1,616 @@
-{"pred": "location_administrative_division_country", "sub": "southampton", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "down", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "daejeon", "obj": "south_korea"}
-{"pred": "location_administrative_division_country", "sub": "jiangsu", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "esperanza", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "essex", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "pet\u00e9n", "obj": "guatemala"}
-{"pred": "location_administrative_division_country", "sub": "lombardy", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "hamilton_parish", "obj": "bermuda"}
-{"pred": "location_administrative_division_country", "sub": "mexico_city", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "tamil_nadu", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "amsterdam", "obj": "netherlands"}
-{"pred": "location_administrative_division_country", "sub": "hunan", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "penang", "obj": "malaysia"}
-{"pred": "location_administrative_division_country", "sub": "tabasco", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "maribor", "obj": "slovenia"}
-{"pred": "location_administrative_division_country", "sub": "hertfordshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "saskatchewan", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "bam", "obj": "burkina_faso"}
-{"pred": "location_administrative_division_country", "sub": "mount_athos", "obj": "greece"}
-{"pred": "location_administrative_division_country", "sub": "tasmania", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "alabama", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "miranda", "obj": "venezuela"}
-{"pred": "location_administrative_division_country", "sub": "morelos", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "attica", "obj": "greece"}
-{"pred": "location_administrative_division_country", "sub": "new_york_city", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "baja_california", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "haiphong", "obj": "vietnam"}
-{"pred": "location_administrative_division_country", "sub": "puerto_plata", "obj": "dominican_republic"}
-{"pred": "location_administrative_division_country", "sub": "pictou_county", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "palawan", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "bishkek", "obj": "kyrgyzstan"}
-{"pred": "location_administrative_division_country", "sub": "guanajuato", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "toronto", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "quatre_bornes", "obj": "mauritius"}
-{"pred": "location_administrative_division_country", "sub": "ningxia", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "veracruz", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "hainan", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "north_carolina", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "alberta", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "hebei", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "antibes", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "asturias", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "shanxi", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "gedo", "obj": "somalia"}
-{"pred": "location_administrative_division_country", "sub": "colima", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "alsace", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "california", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "prince_edward_island", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "birmingham", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "aleppo", "obj": "syria"}
-{"pred": "location_administrative_division_country", "sub": "johor", "obj": "malaysia"}
-{"pred": "location_administrative_division_country", "sub": "the_hague", "obj": "netherlands"}
-{"pred": "location_administrative_division_country", "sub": "lara", "obj": "venezuela"}
-{"pred": "location_administrative_division_country", "sub": "la_rioja", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "iraqi_kurdistan", "obj": "iraq"}
-{"pred": "location_administrative_division_country", "sub": "iloilo_city", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "new_brunswick", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "santiago_rodr\u00edguez", "obj": "dominican_republic"}
-{"pred": "location_administrative_division_country", "sub": "kefalonia", "obj": "greece"}
-{"pred": "location_administrative_division_country", "sub": "kigoma", "obj": "tanzania"}
-{"pred": "location_administrative_division_country", "sub": "vorarlberg", "obj": "austria"}
-{"pred": "location_administrative_division_country", "sub": "flanders", "obj": "belgium"}
-{"pred": "location_administrative_division_country", "sub": "braga", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "kanchanaburi_province", "obj": "thailand"}
-{"pred": "location_administrative_division_country", "sub": "delaware", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "riga", "obj": "latvia"}
-{"pred": "location_administrative_division_country", "sub": "nayarit", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "sharjah", "obj": "united_arab_emirates"}
-{"pred": "location_administrative_division_country", "sub": "shropshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "north_dakota", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "eastern_region", "obj": "ghana"}
-{"pred": "location_administrative_division_country", "sub": "derby", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "vienna", "obj": "austria"}
-{"pred": "location_administrative_division_country", "sub": "slough", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "jutiapa", "obj": "guatemala"}
-{"pred": "location_administrative_division_country", "sub": "salcedo", "obj": "dominican_republic"}
-{"pred": "location_administrative_division_country", "sub": "beja", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "hampshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "doha", "obj": "qatar"}
-{"pred": "location_administrative_division_country", "sub": "coimbra", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "minas_gerais", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "hubei", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "phang_nga_province", "obj": "thailand"}
-{"pred": "location_administrative_division_country", "sub": "port_of_spain", "obj": "trinidad_and_tobago"}
-{"pred": "location_administrative_division_country", "sub": "western_australia", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "kwazulu-natal", "obj": "south_africa"}
-{"pred": "location_administrative_division_country", "sub": "sihanoukville", "obj": "cambodia"}
-{"pred": "location_administrative_division_country", "sub": "papua", "obj": "indonesia"}
-{"pred": "location_administrative_division_country", "sub": "poole", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "ararat", "obj": "armenia"}
-{"pred": "location_administrative_division_country", "sub": "copenhagen", "obj": "denmark"}
-{"pred": "location_administrative_division_country", "sub": "\u00c1lava", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "dundee", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "waterford", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "north_sumatra", "obj": "indonesia"}
-{"pred": "location_administrative_division_country", "sub": "glasgow", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "yukon", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "tunis", "obj": "tunisia"}
-{"pred": "location_administrative_division_country", "sub": "port_louis", "obj": "mauritius"}
-{"pred": "location_administrative_division_country", "sub": "texas", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "tuscany", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "longford", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "devon", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "gordes", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "kigali", "obj": "rwanda"}
-{"pred": "location_administrative_division_country", "sub": "bristol", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "bamako", "obj": "mali"}
-{"pred": "location_administrative_division_country", "sub": "ulsan", "obj": "south_korea"}
-{"pred": "location_administrative_division_country", "sub": "finnmark", "obj": "norway"}
-{"pred": "location_administrative_division_country", "sub": "cantabria", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "bahia", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "akkar", "obj": "lebanon"}
-{"pred": "location_administrative_division_country", "sub": "paktia_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "chiapas", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "kelantan", "obj": "malaysia"}
-{"pred": "location_administrative_division_country", "sub": "tokyo", "obj": "japan"}
-{"pred": "location_administrative_division_country", "sub": "da_nang", "obj": "vietnam"}
-{"pred": "location_administrative_division_country", "sub": "gwynedd", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "la_vega", "obj": "dominican_republic"}
-{"pred": "location_administrative_division_country", "sub": "goa", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "hawaii", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "west_sussex", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "henan", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "sevastopol", "obj": "ukraine"}
-{"pred": "location_administrative_division_country", "sub": "washington", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "ain", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "khost_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "kansas", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "luxembourg", "obj": "belgium"}
-{"pred": "location_administrative_division_country", "sub": "donegal", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "midlands", "obj": "zimbabwe"}
-{"pred": "location_administrative_division_country", "sub": "rio_grande_do_sul", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "teruel", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "melilla", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "helmand_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "reading", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "taichung", "obj": "republic_of_china"}
-{"pred": "location_administrative_division_country", "sub": "hamburg", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "jilin", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "farah_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "wexford", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "addis_ababa", "obj": "ethiopia"}
-{"pred": "location_administrative_division_country", "sub": "nabeul", "obj": "tunisia"}
-{"pred": "location_administrative_division_country", "sub": "south_carolina", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "bulawayo", "obj": "zimbabwe"}
-{"pred": "location_administrative_division_country", "sub": "havana", "obj": "cuba"}
-{"pred": "location_administrative_division_country", "sub": "bradford", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "yogyakarta", "obj": "indonesia"}
-{"pred": "location_administrative_division_country", "sub": "lattakia", "obj": "syria"}
-{"pred": "location_administrative_division_country", "sub": "vaucluse", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "indiana", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "hong_kong", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "bayelsa_state", "obj": "nigeria"}
-{"pred": "location_administrative_division_country", "sub": "minnesota", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "nevada", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "frankfurt", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "umbria", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "basilicata", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "county_mayo", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "nangarhar_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "pernambuco", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "friuli-venezia_giulia", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "mississippi", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "maharashtra", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "anhui", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "uttar_pradesh", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "zaire", "obj": "angola"}
-{"pred": "location_administrative_division_country", "sub": "al_wadi_al_jadid", "obj": "egypt"}
-{"pred": "location_administrative_division_country", "sub": "cook_islands", "obj": "new_zealand"}
-{"pred": "location_administrative_division_country", "sub": "highland", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "american_samoa", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "liaoning", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "rutland", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "lleida", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "cop\u00e1n", "obj": "honduras"}
-{"pred": "location_administrative_division_country", "sub": "zulia", "obj": "venezuela"}
-{"pred": "location_administrative_division_country", "sub": "leyte", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "york", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "zambezia_province", "obj": "mozambique"}
-{"pred": "location_administrative_division_country", "sub": "oaxaca", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "michigan", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "seoul", "obj": "south_korea"}
-{"pred": "location_administrative_division_country", "sub": "new_york", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "baikonur", "obj": "kazakhstan"}
-{"pred": "location_administrative_division_country", "sub": "liguria", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "marshall_islands", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "bihar", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "conakry", "obj": "guinea"}
-{"pred": "location_administrative_division_country", "sub": "southern_district", "obj": "botswana"}
-{"pred": "location_administrative_division_country", "sub": "nimba_county", "obj": "liberia"}
-{"pred": "location_administrative_division_country", "sub": "cross_river_state", "obj": "nigeria"}
-{"pred": "location_administrative_division_country", "sub": "heilongjiang", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "malacca", "obj": "malaysia"}
-{"pred": "location_administrative_division_country", "sub": "montreal", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "la_altagracia", "obj": "dominican_republic"}
-{"pred": "location_administrative_division_country", "sub": "chihuahua", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "middlesbrough", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "gatineau", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "tashkent", "obj": "uzbekistan"}
-{"pred": "location_administrative_division_country", "sub": "qu\u00e9bec", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "par\u00e1", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "scotland", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "kabardino-balkaria", "obj": "russia"}
-{"pred": "location_administrative_division_country", "sub": "kalmykia", "obj": "russia"}
-{"pred": "location_administrative_division_country", "sub": "county_louth", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "languedoc-roussillon", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "cairo", "obj": "egypt"}
-{"pred": "location_administrative_division_country", "sub": "bali", "obj": "indonesia"}
-{"pred": "location_administrative_division_country", "sub": "south_darfur", "obj": "sudan"}
-{"pred": "location_administrative_division_country", "sub": "new_providence", "obj": "the_bahamas"}
-{"pred": "location_administrative_division_country", "sub": "badghis_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "niamey", "obj": "niger"}
-{"pred": "location_administrative_division_country", "sub": "guizhou", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "monte_cristi", "obj": "dominican_republic"}
-{"pred": "location_administrative_division_country", "sub": "cabanatuan_city", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "utah", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "haryana", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "catalonia", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "northamptonshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "apulia", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "north_yorkshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "goi\u00e1s", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "baghlan_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "herat_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "ljubljana", "obj": "slovenia"}
-{"pred": "location_administrative_division_country", "sub": "tripoli", "obj": "libya"}
-{"pred": "location_administrative_division_country", "sub": "jakarta", "obj": "indonesia"}
-{"pred": "location_administrative_division_country", "sub": "azores", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "wyoming", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "canary_islands", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "marseille", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "damascus", "obj": "syria"}
-{"pred": "location_administrative_division_country", "sub": "calvados", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "kerala", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "loz\u00e8re", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "county_kerry", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "sabratha", "obj": "libya"}
-{"pred": "location_administrative_division_country", "sub": "girona", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "marlborough", "obj": "new_zealand"}
-{"pred": "location_administrative_division_country", "sub": "sikkim", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "vargas", "obj": "venezuela"}
-{"pred": "location_administrative_division_country", "sub": "extremadura", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "manchester", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "ju\u00e1rez", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "ghazni_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "omagh", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "gibraltar", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "kuala_lumpur", "obj": "malaysia"}
-{"pred": "location_administrative_division_country", "sub": "pennsylvania", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "nunavut", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "red_sea", "obj": "sudan"}
-{"pred": "location_administrative_division_country", "sub": "ottawa", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "piau\u00ed", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "san_francisco", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "loei_province", "obj": "thailand"}
-{"pred": "location_administrative_division_country", "sub": "faroe_islands", "obj": "faroe_islands"}
-{"pred": "location_administrative_division_country", "sub": "virginia", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "coventry", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "beijing", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "mali", "obj": "guinea"}
-{"pred": "location_administrative_division_country", "sub": "new_south_wales", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "cornwall", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "cebu", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "taipei", "obj": "republic_of_china"}
-{"pred": "location_administrative_division_country", "sub": "astana", "obj": "kazakhstan"}
-{"pred": "location_administrative_division_country", "sub": "sardinia", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "abruzzo", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "bashkortostan", "obj": "russia"}
-{"pred": "location_administrative_division_country", "sub": "nimruz_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "u\u00edge", "obj": "angola"}
-{"pred": "location_administrative_division_country", "sub": "vanuatu", "obj": "vanuatu"}
-{"pred": "location_administrative_division_country", "sub": "guangxi", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "incheon", "obj": "south_korea"}
-{"pred": "location_administrative_division_country", "sub": "surrey", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "busan", "obj": "south_korea"}
-{"pred": "location_administrative_division_country", "sub": "idaho", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "british_columbia", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "xinjiang", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "queensland", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "hesse", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "andalusia", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "camiguin", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "chittagong", "obj": "bangladesh"}
-{"pred": "location_administrative_division_country", "sub": "sonora", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "new_orleans", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "inner_mongolia", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "budapest", "obj": "hungary"}
-{"pred": "location_administrative_division_country", "sub": "thuringia", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "borno_state", "obj": "nigeria"}
-{"pred": "location_administrative_division_country", "sub": "darfur", "obj": "sudan"}
-{"pred": "location_administrative_division_country", "sub": "taiwan", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "norfolk_island", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "victoria", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "szeged", "obj": "hungary"}
-{"pred": "location_administrative_division_country", "sub": "aragon", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "arunachal_pradesh", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "aceh", "obj": "indonesia"}
-{"pred": "location_administrative_division_country", "sub": "jharkhand", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "eastern_cape", "obj": "south_africa"}
-{"pred": "location_administrative_division_country", "sub": "gansu", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "leicester", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "iowa", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "putrajaya", "obj": "malaysia"}
-{"pred": "location_administrative_division_country", "sub": "manitoba", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "chhattisgarh", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "bangkok", "obj": "thailand"}
-{"pred": "location_administrative_division_country", "sub": "naftalan", "obj": "azerbaijan"}
-{"pred": "location_administrative_division_country", "sub": "mashonaland_west", "obj": "zimbabwe"}
-{"pred": "location_administrative_division_country", "sub": "west_yorkshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "brandenburg", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "falkland_islands", "obj": "falkland_islands"}
-{"pred": "location_administrative_division_country", "sub": "massachusetts", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "aguascalientes", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "ceuta", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "karnataka", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "kunduz_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "derry", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "madeira", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "rh\u00f4ne", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "guadeloupe", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "pita", "obj": "guinea"}
-{"pred": "location_administrative_division_country", "sub": "liverpool", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "dortmund", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "chengdu", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "quezon", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "sinaloa", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "cocl\u00e9_province", "obj": "panama"}
-{"pred": "location_administrative_division_country", "sub": "kaohsiung", "obj": "republic_of_china"}
-{"pred": "location_administrative_division_country", "sub": "huambo", "obj": "angola"}
-{"pred": "location_administrative_division_country", "sub": "hama", "obj": "syria"}
-{"pred": "location_administrative_division_country", "sub": "dublin", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "transnistria", "obj": "moldova"}
-{"pred": "location_administrative_division_country", "sub": "lugo", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "masaya", "obj": "nicaragua"}
-{"pred": "location_administrative_division_country", "sub": "luton", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "wolverhampton", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "almaty", "obj": "kazakhstan"}
-{"pred": "location_administrative_division_country", "sub": "yerevan", "obj": "armenia"}
-{"pred": "location_administrative_division_country", "sub": "punjab", "obj": "pakistan"}
-{"pred": "location_administrative_division_country", "sub": "marne", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "nebraska", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "limpopo", "obj": "south_africa"}
-{"pred": "location_administrative_division_country", "sub": "manila", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "louisiana", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "condesa", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "rajasthan", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "vermont", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "somerset", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "ulster", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "portalegre", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "sichuan", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "jura", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "limousin", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "miskolc", "obj": "hungary"}
-{"pred": "location_administrative_division_country", "sub": "belfast", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "nova_scotia", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "nelson", "obj": "new_zealand"}
-{"pred": "location_administrative_division_country", "sub": "montana", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "oxford", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "gozo", "obj": "malta"}
-{"pred": "location_administrative_division_country", "sub": "puebla", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "aveyron", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "saxony", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "oslo", "obj": "norway"}
-{"pred": "location_administrative_division_country", "sub": "kaesong", "obj": "north_korea"}
-{"pred": "location_administrative_division_country", "sub": "edinburgh", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "bay", "obj": "somalia"}
-{"pred": "location_administrative_division_country", "sub": "chiriqu\u00ed_province", "obj": "panama"}
-{"pred": "location_administrative_division_country", "sub": "county_cork", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "cheshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "nottingham", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "bangui", "obj": "central_african_republic"}
-{"pred": "location_administrative_division_country", "sub": "andhra_pradesh", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "bourgogne", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "south_tyrol", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "crimea", "obj": "ukraine"}
-{"pred": "location_administrative_division_country", "sub": "georgia", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "new_hampshire", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "harare", "obj": "zimbabwe"}
-{"pred": "location_administrative_division_country", "sub": "delhi", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "orissa", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "tibet_autonomous_region", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "missouri", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "shanghai", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "french_polynesia", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "lower_saxony", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "friesland", "obj": "netherlands"}
-{"pred": "location_administrative_division_country", "sub": "wiltshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "tobago", "obj": "trinidad_and_tobago"}
-{"pred": "location_administrative_division_country", "sub": "madhya_pradesh", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "ingushetia", "obj": "russia"}
-{"pred": "location_administrative_division_country", "sub": "corfu", "obj": "greece"}
-{"pred": "location_administrative_division_country", "sub": "paris", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "arkansas", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "plateau_state", "obj": "nigeria"}
-{"pred": "location_administrative_division_country", "sub": "yunnan", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "buenos_aires", "obj": "argentina"}
-{"pred": "location_administrative_division_country", "sub": "sicily", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "wisconsin", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "phnom_penh", "obj": "cambodia"}
-{"pred": "location_administrative_division_country", "sub": "zhejiang", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "south_australia", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "cologne", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "homs", "obj": "syria"}
-{"pred": "location_administrative_division_country", "sub": "jalisco", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "martinique", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "schleswig-holstein", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "mizoram", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "bucharest", "obj": "romania"}
-{"pred": "location_administrative_division_country", "sub": "assam", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "rhineland-palatinate", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "mount_kilimanjaro", "obj": "tanzania"}
-{"pred": "location_administrative_division_country", "sub": "moscow", "obj": "russia"}
-{"pred": "location_administrative_division_country", "sub": "maputo", "obj": "mozambique"}
-{"pred": "location_administrative_division_country", "sub": "northern", "obj": "sudan"}
-{"pred": "location_administrative_division_country", "sub": "malm\u00f6", "obj": "sweden"}
-{"pred": "location_administrative_division_country", "sub": "oklahoma", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "blackpool", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "vista_alegre", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "galway", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "cavite", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "kaduna_state", "obj": "nigeria"}
-{"pred": "location_administrative_division_country", "sub": "chubut_province", "obj": "argentina"}
-{"pred": "location_administrative_division_country", "sub": "s\u00e3o_paulo", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "cort\u00e9s", "obj": "honduras"}
-{"pred": "location_administrative_division_country", "sub": "dubai", "obj": "united_arab_emirates"}
-{"pred": "location_administrative_division_country", "sub": "nanjing", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "niigata_prefecture", "obj": "japan"}
-{"pred": "location_administrative_division_country", "sub": "jersey", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "western_sahara", "obj": "morocco"}
-{"pred": "location_administrative_division_country", "sub": "sucre", "obj": "venezuela"}
-{"pred": "location_administrative_division_country", "sub": "chechnya", "obj": "russia"}
-{"pred": "location_administrative_division_country", "sub": "mitte", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "portland_parish", "obj": "jamaica"}
-{"pred": "location_administrative_division_country", "sub": "lazio", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "zacatecas", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "isles_of_scilly", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "eastern_province", "obj": "sierra_leone"}
-{"pred": "location_administrative_division_country", "sub": "new_jersey", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "san_luis_potos\u00ed", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "dushanbe", "obj": "tajikistan"}
-{"pred": "location_administrative_division_country", "sub": "west_virginia", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "zanzibar", "obj": "tanzania"}
-{"pred": "location_administrative_division_country", "sub": "rhode_island", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "kapisa_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "kent", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "utrecht", "obj": "netherlands"}
-{"pred": "location_administrative_division_country", "sub": "jiangxi", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "baku", "obj": "azerbaijan"}
-{"pred": "location_administrative_division_country", "sub": "matagalpa", "obj": "nicaragua"}
-{"pred": "location_administrative_division_country", "sub": "zabul_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "castell\u00f3n", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "yucat\u00e1n", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "corr\u00e8ze", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "darlington", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "gujarat", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "hanoi", "obj": "vietnam"}
-{"pred": "location_administrative_division_country", "sub": "sabah", "obj": "malaysia"}
-{"pred": "location_administrative_division_country", "sub": "barcelona", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "western_cape", "obj": "south_africa"}
-{"pred": "location_administrative_division_country", "sub": "buenos_aires_province", "obj": "argentina"}
-{"pred": "location_administrative_division_country", "sub": "vienne", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "faro", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "veneto", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "plymouth", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "bogot\u00e1", "obj": "colombia"}
-{"pred": "location_administrative_division_country", "sub": "calabria", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "nuevo_le\u00f3n", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "campania", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "illinois", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "lisburn", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "swansea", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "paktika_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "zagreb", "obj": "croatia"}
-{"pred": "location_administrative_division_country", "sub": "amazonas", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "dorset", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "general_santos_city", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "michoac\u00e1n", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "prague", "obj": "czech_republic"}
-{"pred": "location_administrative_division_country", "sub": "coahuila", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "loire", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "groningen", "obj": "netherlands"}
-{"pred": "location_administrative_division_country", "sub": "frederiksberg", "obj": "denmark"}
-{"pred": "location_administrative_division_country", "sub": "styria", "obj": "austria"}
-{"pred": "location_administrative_division_country", "sub": "lira", "obj": "uganda"}
-{"pred": "location_administrative_division_country", "sub": "brussels", "obj": "belgium"}
-{"pred": "location_administrative_division_country", "sub": "north-west_frontier_province", "obj": "pakistan"}
-{"pred": "location_administrative_division_country", "sub": "dire_dawa", "obj": "ethiopia"}
-{"pred": "location_administrative_division_country", "sub": "dara", "obj": "syria"}
-{"pred": "location_administrative_division_country", "sub": "west_midlands", "obj": "england"}
-{"pred": "location_administrative_division_country", "sub": "mwanza", "obj": "tanzania"}
-{"pred": "location_administrative_division_country", "sub": "tatarstan", "obj": "russia"}
-{"pred": "location_administrative_division_country", "sub": "sofia", "obj": "bulgaria"}
-{"pred": "location_administrative_division_country", "sub": "north_rhine-westphalia", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "wales", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "guam", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "tennessee", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "gloucestershire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "ontario", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "exuma", "obj": "the_bahamas"}
-{"pred": "location_administrative_division_country", "sub": "battambang_province", "obj": "cambodia"}
-{"pred": "location_administrative_division_country", "sub": "emilia-romagna", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "porto", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "easter_island", "obj": "chile"}
-{"pred": "location_administrative_division_country", "sub": "bataan", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "wallonia", "obj": "belgium"}
-{"pred": "location_administrative_division_country", "sub": "ohio", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "austin", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "england", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "quintana_roo", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "kandahar_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "sheffield", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "chongqing", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "kissidougou", "obj": "guinea"}
-{"pred": "location_administrative_division_country", "sub": "vosges", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "burgenland", "obj": "austria"}
-{"pred": "location_administrative_division_country", "sub": "bavaria", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "chiquimula", "obj": "guatemala"}
-{"pred": "location_administrative_division_country", "sub": "cantal", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "kiev", "obj": "ukraine"}
-{"pred": "location_administrative_division_country", "sub": "shaanxi", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "kunar_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "tianjin", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "dhaka", "obj": "bangladesh"}
-{"pred": "location_administrative_division_country", "sub": "san_carlos_city", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "sandys_parish", "obj": "bermuda"}
-{"pred": "location_administrative_division_country", "sub": "kentucky", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "northern_territory", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "county_monaghan", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "aberdeen", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "county_longford", "obj": "republic_of_ireland"}
-{"pred": "location_administrative_division_country", "sub": "pyongyang", "obj": "north_korea"}
-{"pred": "location_administrative_division_country", "sub": "postojna", "obj": "slovenia"}
-{"pred": "location_administrative_division_country", "sub": "aden", "obj": "yemen"}
-{"pred": "location_administrative_division_country", "sub": "berlin", "obj": "germany"}
-{"pred": "location_administrative_division_country", "sub": "greenland", "obj": "denmark"}
-{"pred": "location_administrative_division_country", "sub": "sarawak", "obj": "malaysia"}
-{"pred": "location_administrative_division_country", "sub": "west_coast", "obj": "new_zealand"}
-{"pred": "location_administrative_division_country", "sub": "melbourne", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "qinghai", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "piedmont", "obj": "italy"}
-{"pred": "location_administrative_division_country", "sub": "arusha", "obj": "tanzania"}
-{"pred": "location_administrative_division_country", "sub": "quer\u00e9taro", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "mie_prefecture", "obj": "japan"}
-{"pred": "location_administrative_division_country", "sub": "mekong_delta", "obj": "vietnam"}
-{"pred": "location_administrative_division_country", "sub": "guadalajara", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "east_sussex", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "la_romana", "obj": "dominican_republic"}
-{"pred": "location_administrative_division_country", "sub": "aquitaine", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "wellington", "obj": "new_zealand"}
-{"pred": "location_administrative_division_country", "sub": "christmas_island", "obj": "australia"}
-{"pred": "location_administrative_division_country", "sub": "corsica", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "connecticut", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "pailin", "obj": "cambodia"}
-{"pred": "location_administrative_division_country", "sub": "lisboa", "obj": "portugal"}
-{"pred": "location_administrative_division_country", "sub": "himachal_pradesh", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "biscay", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "tarragona", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "cardiff", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "ho_chi_minh_city", "obj": "vietnam"}
-{"pred": "location_administrative_division_country", "sub": "savoie", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "transylvania", "obj": "romania"}
-{"pred": "location_administrative_division_country", "sub": "shandong", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "quneitra", "obj": "syria"}
-{"pred": "location_administrative_division_country", "sub": "florida", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "fujian", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "fife", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "maryland", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "guerrero", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "macau", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "benghazi", "obj": "libya"}
-{"pred": "location_administrative_division_country", "sub": "durango", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "colorado", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "mato_grosso", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "chandigarh", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "suffolk", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "dagestan", "obj": "russia"}
-{"pred": "location_administrative_division_country", "sub": "guangdong_province", "obj": "china"}
-{"pred": "location_administrative_division_country", "sub": "azuay_province", "obj": "ecuador"}
-{"pred": "location_administrative_division_country", "sub": "bol\u00edvar", "obj": "venezuela"}
-{"pred": "location_administrative_division_country", "sub": "staffordshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "south_dakota", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "warwickshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "kranjska_gora", "obj": "slovenia"}
-{"pred": "location_administrative_division_country", "sub": "lorraine", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "lincolnshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "mindanao", "obj": "philippines"}
-{"pred": "location_administrative_division_country", "sub": "tyrol", "obj": "austria"}
-{"pred": "location_administrative_division_country", "sub": "auvergne", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "manama", "obj": "bahrain"}
-{"pred": "location_administrative_division_country", "sub": "santa_catarina", "obj": "brazil"}
-{"pred": "location_administrative_division_country", "sub": "alaska", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "buckinghamshire", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "maine", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "pattaya", "obj": "thailand"}
-{"pred": "location_administrative_division_country", "sub": "hokkaido", "obj": "japan"}
-{"pred": "location_administrative_division_country", "sub": "northern_ireland", "obj": "united_kingdom"}
-{"pred": "location_administrative_division_country", "sub": "northwest_territories", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "oregon", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "arizona", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "new_caledonia", "obj": "france"}
-{"pred": "location_administrative_division_country", "sub": "independencia", "obj": "dominican_republic"}
-{"pred": "location_administrative_division_country", "sub": "new_mexico", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "galicia", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "balkh_province", "obj": "afghanistan"}
-{"pred": "location_administrative_division_country", "sub": "wake_island", "obj": "united_states_of_america"}
-{"pred": "location_administrative_division_country", "sub": "navarre", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "alicante", "obj": "spain"}
-{"pred": "location_administrative_division_country", "sub": "estel\u00ed", "obj": "nicaragua"}
-{"pred": "location_administrative_division_country", "sub": "hidalgo", "obj": "mexico"}
-{"pred": "location_administrative_division_country", "sub": "hamilton", "obj": "canada"}
-{"pred": "location_administrative_division_country", "sub": "gelderland", "obj": "netherlands"}
-{"pred": "location_administrative_division_country", "sub": "manipur", "obj": "india"}
-{"pred": "location_administrative_division_country", "sub": "daugavpils", "obj": "latvia"}
-{"pred": "location_administrative_division_country", "sub": "cher", "obj": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "southampton", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "down", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "daejeon", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "jiangsu", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "esperanza", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "essex", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "pet\u00e9n", "obj_label": "guatemala"}
+{"pred": "location_administrative_division_country", "sub_label": "lombardy", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "hamilton parish", "obj_label": "bermuda"}
+{"pred": "location_administrative_division_country", "sub_label": "mexico city", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "tamil nadu", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "amsterdam", "obj_label": "netherlands"}
+{"pred": "location_administrative_division_country", "sub_label": "hunan", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "penang", "obj_label": "malaysia"}
+{"pred": "location_administrative_division_country", "sub_label": "tabasco", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "maribor", "obj_label": "slovenia"}
+{"pred": "location_administrative_division_country", "sub_label": "hertfordshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "saskatchewan", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "bam", "obj_label": "burkina"}
+{"pred": "location_administrative_division_country", "sub_label": "mount athos", "obj_label": "greece"}
+{"pred": "location_administrative_division_country", "sub_label": "tasmania", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "alabama", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "miranda", "obj_label": "venezuela"}
+{"pred": "location_administrative_division_country", "sub_label": "morelos", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "attica", "obj_label": "greece"}
+{"pred": "location_administrative_division_country", "sub_label": "new york city", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "baja california", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "haiphong", "obj_label": "vietnam"}
+{"pred": "location_administrative_division_country", "sub_label": "puerto plata", "obj_label": "dominican"}
+{"pred": "location_administrative_division_country", "sub_label": "pictou county", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "palawan", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "bishkek", "obj_label": "kyrgyzstan"}
+{"pred": "location_administrative_division_country", "sub_label": "guanajuato", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "toronto", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "quatre bornes", "obj_label": "mauritius"}
+{"pred": "location_administrative_division_country", "sub_label": "ningxia", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "veracruz", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "hainan", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "north carolina", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "alberta", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "hebei", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "antibes", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "asturias", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "shanxi", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "gedo", "obj_label": "somalia"}
+{"pred": "location_administrative_division_country", "sub_label": "colima", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "alsace", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "california", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "prince edward island", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "birmingham", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "aleppo", "obj_label": "syria"}
+{"pred": "location_administrative_division_country", "sub_label": "johor", "obj_label": "malaysia"}
+{"pred": "location_administrative_division_country", "sub_label": "the hague", "obj_label": "netherlands"}
+{"pred": "location_administrative_division_country", "sub_label": "lara", "obj_label": "venezuela"}
+{"pred": "location_administrative_division_country", "sub_label": "la rioja", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "iraqi kurdistan", "obj_label": "iraq"}
+{"pred": "location_administrative_division_country", "sub_label": "iloilo city", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "new brunswick", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "santiago rodr\u00edguez", "obj_label": "dominican"}
+{"pred": "location_administrative_division_country", "sub_label": "kefalonia", "obj_label": "greece"}
+{"pred": "location_administrative_division_country", "sub_label": "kigoma", "obj_label": "tanzania"}
+{"pred": "location_administrative_division_country", "sub_label": "vorarlberg", "obj_label": "austria"}
+{"pred": "location_administrative_division_country", "sub_label": "flanders", "obj_label": "belgium"}
+{"pred": "location_administrative_division_country", "sub_label": "braga", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "kanchanaburi province", "obj_label": "thailand"}
+{"pred": "location_administrative_division_country", "sub_label": "delaware", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "riga", "obj_label": "latvia"}
+{"pred": "location_administrative_division_country", "sub_label": "nayarit", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "sharjah", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "shropshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "north dakota", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "eastern region", "obj_label": "ghana"}
+{"pred": "location_administrative_division_country", "sub_label": "derby", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "vienna", "obj_label": "austria"}
+{"pred": "location_administrative_division_country", "sub_label": "slough", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "jutiapa", "obj_label": "guatemala"}
+{"pred": "location_administrative_division_country", "sub_label": "salcedo", "obj_label": "dominican"}
+{"pred": "location_administrative_division_country", "sub_label": "beja", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "hampshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "doha", "obj_label": "qatar"}
+{"pred": "location_administrative_division_country", "sub_label": "coimbra", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "minas gerais", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "hubei", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "phang nga province", "obj_label": "thailand"}
+{"pred": "location_administrative_division_country", "sub_label": "port of spain", "obj_label": "trinidad"}
+{"pred": "location_administrative_division_country", "sub_label": "western australia", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "kwazulu-natal", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "sihanoukville", "obj_label": "cambodia"}
+{"pred": "location_administrative_division_country", "sub_label": "papua", "obj_label": "indonesia"}
+{"pred": "location_administrative_division_country", "sub_label": "poole", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "ararat", "obj_label": "armenia"}
+{"pred": "location_administrative_division_country", "sub_label": "copenhagen", "obj_label": "denmark"}
+{"pred": "location_administrative_division_country", "sub_label": "\u00c1lava", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "dundee", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "waterford", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "north sumatra", "obj_label": "indonesia"}
+{"pred": "location_administrative_division_country", "sub_label": "glasgow", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "yukon", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "tunis", "obj_label": "tunisia"}
+{"pred": "location_administrative_division_country", "sub_label": "port louis", "obj_label": "mauritius"}
+{"pred": "location_administrative_division_country", "sub_label": "texas", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "tuscany", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "longford", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "devon", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "gordes", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "kigali", "obj_label": "rwanda"}
+{"pred": "location_administrative_division_country", "sub_label": "bristol", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "bamako", "obj_label": "mali"}
+{"pred": "location_administrative_division_country", "sub_label": "ulsan", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "finnmark", "obj_label": "norway"}
+{"pred": "location_administrative_division_country", "sub_label": "cantabria", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "bahia", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "akkar", "obj_label": "lebanon"}
+{"pred": "location_administrative_division_country", "sub_label": "paktia province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "chiapas", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "kelantan", "obj_label": "malaysia"}
+{"pred": "location_administrative_division_country", "sub_label": "tokyo", "obj_label": "japan"}
+{"pred": "location_administrative_division_country", "sub_label": "da nang", "obj_label": "vietnam"}
+{"pred": "location_administrative_division_country", "sub_label": "gwynedd", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "la vega", "obj_label": "dominican"}
+{"pred": "location_administrative_division_country", "sub_label": "goa", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "hawaii", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "west sussex", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "henan", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "sevastopol", "obj_label": "ukraine"}
+{"pred": "location_administrative_division_country", "sub_label": "washington", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "ain", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "khost province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "kansas", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "luxembourg", "obj_label": "belgium"}
+{"pred": "location_administrative_division_country", "sub_label": "donegal", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "midlands", "obj_label": "zimbabwe"}
+{"pred": "location_administrative_division_country", "sub_label": "rio grande do sul", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "teruel", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "melilla", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "helmand province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "reading", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "taichung", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "hamburg", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "jilin", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "farah province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "wexford", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "addis ababa", "obj_label": "ethiopia"}
+{"pred": "location_administrative_division_country", "sub_label": "nabeul", "obj_label": "tunisia"}
+{"pred": "location_administrative_division_country", "sub_label": "south carolina", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "bulawayo", "obj_label": "zimbabwe"}
+{"pred": "location_administrative_division_country", "sub_label": "havana", "obj_label": "cuba"}
+{"pred": "location_administrative_division_country", "sub_label": "bradford", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "yogyakarta", "obj_label": "indonesia"}
+{"pred": "location_administrative_division_country", "sub_label": "lattakia", "obj_label": "syria"}
+{"pred": "location_administrative_division_country", "sub_label": "vaucluse", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "indiana", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "hong kong", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "bayelsa state", "obj_label": "nigeria"}
+{"pred": "location_administrative_division_country", "sub_label": "minnesota", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "nevada", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "frankfurt", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "umbria", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "basilicata", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "county mayo", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "nangarhar province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "pernambuco", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "friuli-venezia giulia", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "mississippi", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "maharashtra", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "anhui", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "uttar pradesh", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "zaire", "obj_label": "angola"}
+{"pred": "location_administrative_division_country", "sub_label": "al wadi al jadid", "obj_label": "egypt"}
+{"pred": "location_administrative_division_country", "sub_label": "cook islands", "obj_label": "new"}
+{"pred": "location_administrative_division_country", "sub_label": "highland", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "american samoa", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "liaoning", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "rutland", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "lleida", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "cop\u00e1n", "obj_label": "honduras"}
+{"pred": "location_administrative_division_country", "sub_label": "zulia", "obj_label": "venezuela"}
+{"pred": "location_administrative_division_country", "sub_label": "leyte", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "york", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "zambezia province", "obj_label": "mozambique"}
+{"pred": "location_administrative_division_country", "sub_label": "oaxaca", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "michigan", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "seoul", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "new york", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "baikonur", "obj_label": "kazakhstan"}
+{"pred": "location_administrative_division_country", "sub_label": "liguria", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "marshall islands", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "bihar", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "conakry", "obj_label": "guinea"}
+{"pred": "location_administrative_division_country", "sub_label": "southern district", "obj_label": "botswana"}
+{"pred": "location_administrative_division_country", "sub_label": "nimba county", "obj_label": "liberia"}
+{"pred": "location_administrative_division_country", "sub_label": "cross river state", "obj_label": "nigeria"}
+{"pred": "location_administrative_division_country", "sub_label": "heilongjiang", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "malacca", "obj_label": "malaysia"}
+{"pred": "location_administrative_division_country", "sub_label": "montreal", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "la altagracia", "obj_label": "dominican"}
+{"pred": "location_administrative_division_country", "sub_label": "chihuahua", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "middlesbrough", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "gatineau", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "tashkent", "obj_label": "uzbekistan"}
+{"pred": "location_administrative_division_country", "sub_label": "qu\u00e9bec", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "par\u00e1", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "scotland", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "kabardino-balkaria", "obj_label": "russia"}
+{"pred": "location_administrative_division_country", "sub_label": "kalmykia", "obj_label": "russia"}
+{"pred": "location_administrative_division_country", "sub_label": "county louth", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "languedoc-roussillon", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "cairo", "obj_label": "egypt"}
+{"pred": "location_administrative_division_country", "sub_label": "bali", "obj_label": "indonesia"}
+{"pred": "location_administrative_division_country", "sub_label": "south darfur", "obj_label": "sudan"}
+{"pred": "location_administrative_division_country", "sub_label": "new providence", "obj_label": "the"}
+{"pred": "location_administrative_division_country", "sub_label": "badghis province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "niamey", "obj_label": "niger"}
+{"pred": "location_administrative_division_country", "sub_label": "guizhou", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "monte cristi", "obj_label": "dominican"}
+{"pred": "location_administrative_division_country", "sub_label": "cabanatuan city", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "utah", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "haryana", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "catalonia", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "northamptonshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "apulia", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "north yorkshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "goi\u00e1s", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "baghlan province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "herat province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "ljubljana", "obj_label": "slovenia"}
+{"pred": "location_administrative_division_country", "sub_label": "tripoli", "obj_label": "libya"}
+{"pred": "location_administrative_division_country", "sub_label": "jakarta", "obj_label": "indonesia"}
+{"pred": "location_administrative_division_country", "sub_label": "azores", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "wyoming", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "canary islands", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "marseille", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "damascus", "obj_label": "syria"}
+{"pred": "location_administrative_division_country", "sub_label": "calvados", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "kerala", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "loz\u00e8re", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "county kerry", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "sabratha", "obj_label": "libya"}
+{"pred": "location_administrative_division_country", "sub_label": "girona", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "marlborough", "obj_label": "new"}
+{"pred": "location_administrative_division_country", "sub_label": "sikkim", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "vargas", "obj_label": "venezuela"}
+{"pred": "location_administrative_division_country", "sub_label": "extremadura", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "manchester", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "ju\u00e1rez", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "ghazni province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "omagh", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "gibraltar", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "kuala lumpur", "obj_label": "malaysia"}
+{"pred": "location_administrative_division_country", "sub_label": "pennsylvania", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "nunavut", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "red sea", "obj_label": "sudan"}
+{"pred": "location_administrative_division_country", "sub_label": "ottawa", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "piau\u00ed", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "san francisco", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "loei province", "obj_label": "thailand"}
+{"pred": "location_administrative_division_country", "sub_label": "faroe islands", "obj_label": "faroe"}
+{"pred": "location_administrative_division_country", "sub_label": "virginia", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "coventry", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "beijing", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "mali", "obj_label": "guinea"}
+{"pred": "location_administrative_division_country", "sub_label": "new south wales", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "cornwall", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "cebu", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "taipei", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "astana", "obj_label": "kazakhstan"}
+{"pred": "location_administrative_division_country", "sub_label": "sardinia", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "abruzzo", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "bashkortostan", "obj_label": "russia"}
+{"pred": "location_administrative_division_country", "sub_label": "nimruz province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "u\u00edge", "obj_label": "angola"}
+{"pred": "location_administrative_division_country", "sub_label": "vanuatu", "obj_label": "vanuatu"}
+{"pred": "location_administrative_division_country", "sub_label": "guangxi", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "incheon", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "surrey", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "busan", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "idaho", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "british columbia", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "xinjiang", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "queensland", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "hesse", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "andalusia", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "camiguin", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "chittagong", "obj_label": "bangladesh"}
+{"pred": "location_administrative_division_country", "sub_label": "sonora", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "new orleans", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "inner mongolia", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "budapest", "obj_label": "hungary"}
+{"pred": "location_administrative_division_country", "sub_label": "thuringia", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "borno state", "obj_label": "nigeria"}
+{"pred": "location_administrative_division_country", "sub_label": "darfur", "obj_label": "sudan"}
+{"pred": "location_administrative_division_country", "sub_label": "taiwan", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "norfolk island", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "victoria", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "szeged", "obj_label": "hungary"}
+{"pred": "location_administrative_division_country", "sub_label": "aragon", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "arunachal pradesh", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "aceh", "obj_label": "indonesia"}
+{"pred": "location_administrative_division_country", "sub_label": "jharkhand", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "eastern cape", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "gansu", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "leicester", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "iowa", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "putrajaya", "obj_label": "malaysia"}
+{"pred": "location_administrative_division_country", "sub_label": "manitoba", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "chhattisgarh", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "bangkok", "obj_label": "thailand"}
+{"pred": "location_administrative_division_country", "sub_label": "naftalan", "obj_label": "azerbaijan"}
+{"pred": "location_administrative_division_country", "sub_label": "mashonaland west", "obj_label": "zimbabwe"}
+{"pred": "location_administrative_division_country", "sub_label": "west yorkshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "brandenburg", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "falkland islands", "obj_label": "falkland"}
+{"pred": "location_administrative_division_country", "sub_label": "massachusetts", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "aguascalientes", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "ceuta", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "karnataka", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "kunduz province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "derry", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "madeira", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "rh\u00f4ne", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "guadeloupe", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "pita", "obj_label": "guinea"}
+{"pred": "location_administrative_division_country", "sub_label": "liverpool", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "dortmund", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "chengdu", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "quezon", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "sinaloa", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "cocl\u00e9 province", "obj_label": "panama"}
+{"pred": "location_administrative_division_country", "sub_label": "kaohsiung", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "huambo", "obj_label": "angola"}
+{"pred": "location_administrative_division_country", "sub_label": "hama", "obj_label": "syria"}
+{"pred": "location_administrative_division_country", "sub_label": "dublin", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "transnistria", "obj_label": "moldova"}
+{"pred": "location_administrative_division_country", "sub_label": "lugo", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "masaya", "obj_label": "nicaragua"}
+{"pred": "location_administrative_division_country", "sub_label": "luton", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "wolverhampton", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "almaty", "obj_label": "kazakhstan"}
+{"pred": "location_administrative_division_country", "sub_label": "yerevan", "obj_label": "armenia"}
+{"pred": "location_administrative_division_country", "sub_label": "punjab", "obj_label": "pakistan"}
+{"pred": "location_administrative_division_country", "sub_label": "marne", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "nebraska", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "limpopo", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "manila", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "louisiana", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "condesa", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "rajasthan", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "vermont", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "somerset", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "ulster", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "portalegre", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "sichuan", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "jura", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "limousin", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "miskolc", "obj_label": "hungary"}
+{"pred": "location_administrative_division_country", "sub_label": "belfast", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "nova scotia", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "nelson", "obj_label": "new"}
+{"pred": "location_administrative_division_country", "sub_label": "montana", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "oxford", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "gozo", "obj_label": "malta"}
+{"pred": "location_administrative_division_country", "sub_label": "puebla", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "aveyron", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "saxony", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "oslo", "obj_label": "norway"}
+{"pred": "location_administrative_division_country", "sub_label": "kaesong", "obj_label": "north"}
+{"pred": "location_administrative_division_country", "sub_label": "edinburgh", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "bay", "obj_label": "somalia"}
+{"pred": "location_administrative_division_country", "sub_label": "chiriqu\u00ed province", "obj_label": "panama"}
+{"pred": "location_administrative_division_country", "sub_label": "county cork", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "cheshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "nottingham", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "bangui", "obj_label": "central"}
+{"pred": "location_administrative_division_country", "sub_label": "andhra pradesh", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "bourgogne", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "south tyrol", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "crimea", "obj_label": "ukraine"}
+{"pred": "location_administrative_division_country", "sub_label": "georgia", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "new hampshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "harare", "obj_label": "zimbabwe"}
+{"pred": "location_administrative_division_country", "sub_label": "delhi", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "orissa", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "tibet autonomous region", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "missouri", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "shanghai", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "french polynesia", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "lower saxony", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "friesland", "obj_label": "netherlands"}
+{"pred": "location_administrative_division_country", "sub_label": "wiltshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "tobago", "obj_label": "trinidad"}
+{"pred": "location_administrative_division_country", "sub_label": "madhya pradesh", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "ingushetia", "obj_label": "russia"}
+{"pred": "location_administrative_division_country", "sub_label": "corfu", "obj_label": "greece"}
+{"pred": "location_administrative_division_country", "sub_label": "paris", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "arkansas", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "plateau state", "obj_label": "nigeria"}
+{"pred": "location_administrative_division_country", "sub_label": "yunnan", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "buenos aires", "obj_label": "argentina"}
+{"pred": "location_administrative_division_country", "sub_label": "sicily", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "wisconsin", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "phnom penh", "obj_label": "cambodia"}
+{"pred": "location_administrative_division_country", "sub_label": "zhejiang", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "south australia", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "cologne", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "homs", "obj_label": "syria"}
+{"pred": "location_administrative_division_country", "sub_label": "jalisco", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "martinique", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "schleswig-holstein", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "mizoram", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "bucharest", "obj_label": "romania"}
+{"pred": "location_administrative_division_country", "sub_label": "assam", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "rhineland-palatinate", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "mount kilimanjaro", "obj_label": "tanzania"}
+{"pred": "location_administrative_division_country", "sub_label": "moscow", "obj_label": "russia"}
+{"pred": "location_administrative_division_country", "sub_label": "maputo", "obj_label": "mozambique"}
+{"pred": "location_administrative_division_country", "sub_label": "northern", "obj_label": "sudan"}
+{"pred": "location_administrative_division_country", "sub_label": "malm\u00f6", "obj_label": "sweden"}
+{"pred": "location_administrative_division_country", "sub_label": "oklahoma", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "blackpool", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "vista alegre", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "galway", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "cavite", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "kaduna state", "obj_label": "nigeria"}
+{"pred": "location_administrative_division_country", "sub_label": "chubut province", "obj_label": "argentina"}
+{"pred": "location_administrative_division_country", "sub_label": "s\u00e3o paulo", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "cort\u00e9s", "obj_label": "honduras"}
+{"pred": "location_administrative_division_country", "sub_label": "dubai", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "nanjing", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "niigata prefecture", "obj_label": "japan"}
+{"pred": "location_administrative_division_country", "sub_label": "jersey", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "western sahara", "obj_label": "morocco"}
+{"pred": "location_administrative_division_country", "sub_label": "sucre", "obj_label": "venezuela"}
+{"pred": "location_administrative_division_country", "sub_label": "chechnya", "obj_label": "russia"}
+{"pred": "location_administrative_division_country", "sub_label": "mitte", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "portland parish", "obj_label": "jamaica"}
+{"pred": "location_administrative_division_country", "sub_label": "lazio", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "zacatecas", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "isles of scilly", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "eastern province", "obj_label": "sierra"}
+{"pred": "location_administrative_division_country", "sub_label": "new jersey", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "san luis potos\u00ed", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "dushanbe", "obj_label": "tajikistan"}
+{"pred": "location_administrative_division_country", "sub_label": "west virginia", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "zanzibar", "obj_label": "tanzania"}
+{"pred": "location_administrative_division_country", "sub_label": "rhode island", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "kapisa province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "kent", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "utrecht", "obj_label": "netherlands"}
+{"pred": "location_administrative_division_country", "sub_label": "jiangxi", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "baku", "obj_label": "azerbaijan"}
+{"pred": "location_administrative_division_country", "sub_label": "matagalpa", "obj_label": "nicaragua"}
+{"pred": "location_administrative_division_country", "sub_label": "zabul province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "castell\u00f3n", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "yucat\u00e1n", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "corr\u00e8ze", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "darlington", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "gujarat", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "hanoi", "obj_label": "vietnam"}
+{"pred": "location_administrative_division_country", "sub_label": "sabah", "obj_label": "malaysia"}
+{"pred": "location_administrative_division_country", "sub_label": "barcelona", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "western cape", "obj_label": "south"}
+{"pred": "location_administrative_division_country", "sub_label": "buenos aires province", "obj_label": "argentina"}
+{"pred": "location_administrative_division_country", "sub_label": "vienne", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "faro", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "veneto", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "plymouth", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "bogot\u00e1", "obj_label": "colombia"}
+{"pred": "location_administrative_division_country", "sub_label": "calabria", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "nuevo le\u00f3n", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "campania", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "illinois", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "lisburn", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "swansea", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "paktika province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "zagreb", "obj_label": "croatia"}
+{"pred": "location_administrative_division_country", "sub_label": "amazonas", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "dorset", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "general santos city", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "michoac\u00e1n", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "prague", "obj_label": "czech"}
+{"pred": "location_administrative_division_country", "sub_label": "coahuila", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "loire", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "groningen", "obj_label": "netherlands"}
+{"pred": "location_administrative_division_country", "sub_label": "frederiksberg", "obj_label": "denmark"}
+{"pred": "location_administrative_division_country", "sub_label": "styria", "obj_label": "austria"}
+{"pred": "location_administrative_division_country", "sub_label": "lira", "obj_label": "uganda"}
+{"pred": "location_administrative_division_country", "sub_label": "brussels", "obj_label": "belgium"}
+{"pred": "location_administrative_division_country", "sub_label": "north-west frontier province", "obj_label": "pakistan"}
+{"pred": "location_administrative_division_country", "sub_label": "dire dawa", "obj_label": "ethiopia"}
+{"pred": "location_administrative_division_country", "sub_label": "dara", "obj_label": "syria"}
+{"pred": "location_administrative_division_country", "sub_label": "west midlands", "obj_label": "england"}
+{"pred": "location_administrative_division_country", "sub_label": "mwanza", "obj_label": "tanzania"}
+{"pred": "location_administrative_division_country", "sub_label": "tatarstan", "obj_label": "russia"}
+{"pred": "location_administrative_division_country", "sub_label": "sofia", "obj_label": "bulgaria"}
+{"pred": "location_administrative_division_country", "sub_label": "north rhine-westphalia", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "wales", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "guam", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "tennessee", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "gloucestershire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "ontario", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "exuma", "obj_label": "the"}
+{"pred": "location_administrative_division_country", "sub_label": "battambang province", "obj_label": "cambodia"}
+{"pred": "location_administrative_division_country", "sub_label": "emilia-romagna", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "porto", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "easter island", "obj_label": "chile"}
+{"pred": "location_administrative_division_country", "sub_label": "bataan", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "wallonia", "obj_label": "belgium"}
+{"pred": "location_administrative_division_country", "sub_label": "ohio", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "austin", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "england", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "quintana roo", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "kandahar province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "sheffield", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "chongqing", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "kissidougou", "obj_label": "guinea"}
+{"pred": "location_administrative_division_country", "sub_label": "vosges", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "burgenland", "obj_label": "austria"}
+{"pred": "location_administrative_division_country", "sub_label": "bavaria", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "chiquimula", "obj_label": "guatemala"}
+{"pred": "location_administrative_division_country", "sub_label": "cantal", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "kiev", "obj_label": "ukraine"}
+{"pred": "location_administrative_division_country", "sub_label": "shaanxi", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "kunar province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "tianjin", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "dhaka", "obj_label": "bangladesh"}
+{"pred": "location_administrative_division_country", "sub_label": "san carlos city", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "sandys parish", "obj_label": "bermuda"}
+{"pred": "location_administrative_division_country", "sub_label": "kentucky", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "northern territory", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "county monaghan", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "aberdeen", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "county longford", "obj_label": "republic"}
+{"pred": "location_administrative_division_country", "sub_label": "pyongyang", "obj_label": "north"}
+{"pred": "location_administrative_division_country", "sub_label": "postojna", "obj_label": "slovenia"}
+{"pred": "location_administrative_division_country", "sub_label": "aden", "obj_label": "yemen"}
+{"pred": "location_administrative_division_country", "sub_label": "berlin", "obj_label": "germany"}
+{"pred": "location_administrative_division_country", "sub_label": "greenland", "obj_label": "denmark"}
+{"pred": "location_administrative_division_country", "sub_label": "sarawak", "obj_label": "malaysia"}
+{"pred": "location_administrative_division_country", "sub_label": "west coast", "obj_label": "new"}
+{"pred": "location_administrative_division_country", "sub_label": "melbourne", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "qinghai", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "piedmont", "obj_label": "italy"}
+{"pred": "location_administrative_division_country", "sub_label": "arusha", "obj_label": "tanzania"}
+{"pred": "location_administrative_division_country", "sub_label": "quer\u00e9taro", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "mie prefecture", "obj_label": "japan"}
+{"pred": "location_administrative_division_country", "sub_label": "mekong delta", "obj_label": "vietnam"}
+{"pred": "location_administrative_division_country", "sub_label": "guadalajara", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "east sussex", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "la romana", "obj_label": "dominican"}
+{"pred": "location_administrative_division_country", "sub_label": "aquitaine", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "wellington", "obj_label": "new"}
+{"pred": "location_administrative_division_country", "sub_label": "christmas island", "obj_label": "australia"}
+{"pred": "location_administrative_division_country", "sub_label": "corsica", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "connecticut", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "pailin", "obj_label": "cambodia"}
+{"pred": "location_administrative_division_country", "sub_label": "lisboa", "obj_label": "portugal"}
+{"pred": "location_administrative_division_country", "sub_label": "himachal pradesh", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "biscay", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "tarragona", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "cardiff", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "ho chi minh city", "obj_label": "vietnam"}
+{"pred": "location_administrative_division_country", "sub_label": "savoie", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "transylvania", "obj_label": "romania"}
+{"pred": "location_administrative_division_country", "sub_label": "shandong", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "quneitra", "obj_label": "syria"}
+{"pred": "location_administrative_division_country", "sub_label": "florida", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "fujian", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "fife", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "maryland", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "guerrero", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "macau", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "benghazi", "obj_label": "libya"}
+{"pred": "location_administrative_division_country", "sub_label": "durango", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "colorado", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "mato grosso", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "chandigarh", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "suffolk", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "dagestan", "obj_label": "russia"}
+{"pred": "location_administrative_division_country", "sub_label": "guangdong province", "obj_label": "china"}
+{"pred": "location_administrative_division_country", "sub_label": "azuay province", "obj_label": "ecuador"}
+{"pred": "location_administrative_division_country", "sub_label": "bol\u00edvar", "obj_label": "venezuela"}
+{"pred": "location_administrative_division_country", "sub_label": "staffordshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "south dakota", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "warwickshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "kranjska gora", "obj_label": "slovenia"}
+{"pred": "location_administrative_division_country", "sub_label": "lorraine", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "lincolnshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "mindanao", "obj_label": "philippines"}
+{"pred": "location_administrative_division_country", "sub_label": "tyrol", "obj_label": "austria"}
+{"pred": "location_administrative_division_country", "sub_label": "auvergne", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "manama", "obj_label": "bahrain"}
+{"pred": "location_administrative_division_country", "sub_label": "santa catarina", "obj_label": "brazil"}
+{"pred": "location_administrative_division_country", "sub_label": "alaska", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "buckinghamshire", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "maine", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "pattaya", "obj_label": "thailand"}
+{"pred": "location_administrative_division_country", "sub_label": "hokkaido", "obj_label": "japan"}
+{"pred": "location_administrative_division_country", "sub_label": "northern ireland", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "northwest territories", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "oregon", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "arizona", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "new caledonia", "obj_label": "france"}
+{"pred": "location_administrative_division_country", "sub_label": "independencia", "obj_label": "dominican"}
+{"pred": "location_administrative_division_country", "sub_label": "new mexico", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "galicia", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "balkh province", "obj_label": "afghanistan"}
+{"pred": "location_administrative_division_country", "sub_label": "wake island", "obj_label": "united"}
+{"pred": "location_administrative_division_country", "sub_label": "navarre", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "alicante", "obj_label": "spain"}
+{"pred": "location_administrative_division_country", "sub_label": "estel\u00ed", "obj_label": "nicaragua"}
+{"pred": "location_administrative_division_country", "sub_label": "hidalgo", "obj_label": "mexico"}
+{"pred": "location_administrative_division_country", "sub_label": "hamilton", "obj_label": "canada"}
+{"pred": "location_administrative_division_country", "sub_label": "gelderland", "obj_label": "netherlands"}
+{"pred": "location_administrative_division_country", "sub_label": "manipur", "obj_label": "india"}
+{"pred": "location_administrative_division_country", "sub_label": "daugavpils", "obj_label": "latvia"}
+{"pred": "location_administrative_division_country", "sub_label": "cher", "obj_label": "france"}

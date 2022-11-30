@@ -1,455 +1,455 @@
-{"pred": "business_company_place_founded", "sub": "publishamerica", "obj": "maryland"}
-{"pred": "business_company_place_founded", "sub": "comcast", "obj": "tupelo"}
-{"pred": "business_company_place_founded", "sub": "fujitsu", "obj": "kawasaki"}
-{"pred": "business_company_place_founded", "sub": "chlo\u00e9", "obj": "paris"}
-{"pred": "business_company_place_founded", "sub": "general_dynamics", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "piper_jaffray", "obj": "minneapolis"}
-{"pred": "business_company_place_founded", "sub": "yash_raj_films", "obj": "mumbai"}
-{"pred": "business_company_place_founded", "sub": "sybase", "obj": "berkeley"}
-{"pred": "business_company_place_founded", "sub": "decca_records", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "vonage", "obj": "edison"}
-{"pred": "business_company_place_founded", "sub": "google", "obj": "stanford_university"}
-{"pred": "business_company_place_founded", "sub": "motorola", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "dominion_resources", "obj": "virginia"}
-{"pred": "business_company_place_founded", "sub": "industrial_and_commercial_bank_of_china", "obj": "beijing"}
-{"pred": "business_company_place_founded", "sub": "halliburton", "obj": "dallas"}
-{"pred": "business_company_place_founded", "sub": "tjx_companies", "obj": "framingham"}
-{"pred": "business_company_place_founded", "sub": "applied_minds", "obj": "glendale"}
-{"pred": "business_company_place_founded", "sub": "advanced_medical_optics", "obj": "santa_ana"}
-{"pred": "business_company_place_founded", "sub": "wizz_air", "obj": "budapest"}
-{"pred": "business_company_place_founded", "sub": "pathmark", "obj": "carteret"}
-{"pred": "business_company_place_founded", "sub": "casio", "obj": "tokyo"}
-{"pred": "business_company_place_founded", "sub": "burger_king", "obj": "miami"}
-{"pred": "business_company_place_founded", "sub": "rogers_media", "obj": "toronto"}
-{"pred": "business_company_place_founded", "sub": "discovery_communications", "obj": "bethesda"}
-{"pred": "business_company_place_founded", "sub": "boston_beer_company", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "acadian_ambulance", "obj": "lafayette"}
-{"pred": "business_company_place_founded", "sub": "virgin_unite", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "taschen", "obj": "cologne"}
-{"pred": "business_company_place_founded", "sub": "kimberly-clark", "obj": "neenah"}
-{"pred": "business_company_place_founded", "sub": "linden_lab", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "liberty_mutual", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "h&r_block", "obj": "kansas_city"}
-{"pred": "business_company_place_founded", "sub": "mattel", "obj": "el_segundo"}
-{"pred": "business_company_place_founded", "sub": "pseudo.com", "obj": "new_york"}
-{"pred": "business_company_place_founded", "sub": "fairfield_greenwich_group", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "williams-sonoma", "obj": "sonoma"}
-{"pred": "business_company_place_founded", "sub": "universal_studios", "obj": "hollywood"}
-{"pred": "business_company_place_founded", "sub": "saint-gobain", "obj": "france"}
-{"pred": "business_company_place_founded", "sub": "jvc", "obj": "yokohama"}
-{"pred": "business_company_place_founded", "sub": "kana", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "national_football_league", "obj": "canton"}
-{"pred": "business_company_place_founded", "sub": "seamlessweb", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "universal_studios", "obj": "san_fernando_valley"}
-{"pred": "business_company_place_founded", "sub": "atari", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "citgo", "obj": "bartlesville"}
-{"pred": "business_company_place_founded", "sub": "deere_&_company", "obj": "moline"}
-{"pred": "business_company_place_founded", "sub": "jordan_marsh", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "tesla_motors", "obj": "san_carlos"}
-{"pred": "business_company_place_founded", "sub": "battelle_memorial_institute", "obj": "columbus"}
-{"pred": "business_company_place_founded", "sub": "johnny_rockets", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "media_general", "obj": "richmond"}
-{"pred": "business_company_place_founded", "sub": "general_electric", "obj": "edison"}
-{"pred": "business_company_place_founded", "sub": "brookstone", "obj": "merrimack"}
-{"pred": "business_company_place_founded", "sub": "maytag", "obj": "iowa"}
-{"pred": "business_company_place_founded", "sub": "bank_of_montreal", "obj": "montreal"}
-{"pred": "business_company_place_founded", "sub": "tweeter", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "cameron", "obj": "houston"}
-{"pred": "business_company_place_founded", "sub": "royal_caribbean_international", "obj": "norway"}
-{"pred": "business_company_place_founded", "sub": "gulf_oil", "obj": "pittsburgh"}
-{"pred": "business_company_place_founded", "sub": "jadrolinija", "obj": "rijeka"}
-{"pred": "business_company_place_founded", "sub": "hni_corporation", "obj": "muscatine"}
-{"pred": "business_company_place_founded", "sub": "altria_group", "obj": "virginia"}
-{"pred": "business_company_place_founded", "sub": "zale_corporation", "obj": "wichita_falls"}
-{"pred": "business_company_place_founded", "sub": "area", "obj": "finland"}
-{"pred": "business_company_place_founded", "sub": "siebel_systems", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "seamlessweb", "obj": "new_york"}
-{"pred": "business_company_place_founded", "sub": "yle", "obj": "helsinki"}
-{"pred": "business_company_place_founded", "sub": "alfa_romeo", "obj": "milan"}
-{"pred": "business_company_place_founded", "sub": "state_bank_of_india", "obj": "kolkata"}
-{"pred": "business_company_place_founded", "sub": "michaels", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "keller_williams_realty", "obj": "austin"}
-{"pred": "business_company_place_founded", "sub": "td_ameritrade", "obj": "omaha"}
-{"pred": "business_company_place_founded", "sub": "chery_automobile", "obj": "wuhu"}
-{"pred": "business_company_place_founded", "sub": "rightnow_technologies", "obj": "bozeman"}
-{"pred": "business_company_place_founded", "sub": "news_corporation", "obj": "adelaide"}
-{"pred": "business_company_place_founded", "sub": "pepsico", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "allison_transmission", "obj": "indianapolis"}
-{"pred": "business_company_place_founded", "sub": "alibaba.com", "obj": "hangzhou"}
-{"pred": "business_company_place_founded", "sub": "eaton_vance", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "mary_kay", "obj": "dallas"}
-{"pred": "business_company_place_founded", "sub": "artoon", "obj": "yokohama"}
-{"pred": "business_company_place_founded", "sub": "lennar_corporation", "obj": "miami"}
-{"pred": "business_company_place_founded", "sub": "eton_park_capital_management", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "wally", "obj": "monaco"}
-{"pred": "business_company_place_founded", "sub": "visteon", "obj": "michigan"}
-{"pred": "business_company_place_founded", "sub": "safeco", "obj": "seattle"}
-{"pred": "business_company_place_founded", "sub": "turnbull_&_asser", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "rolex", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "tellme_networks", "obj": "mountain_view"}
-{"pred": "business_company_place_founded", "sub": "eletropaulo", "obj": "toronto"}
-{"pred": "business_company_place_founded", "sub": "nvr", "obj": "pittsburgh"}
-{"pred": "business_company_place_founded", "sub": "konica_minolta", "obj": "osaka"}
-{"pred": "business_company_place_founded", "sub": "fulbright_&_jaworski", "obj": "houston"}
-{"pred": "business_company_place_founded", "sub": "the_new_york_times_company", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "columbia_pictures", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "ct", "obj": "new_jersey"}
-{"pred": "business_company_place_founded", "sub": "autodesk", "obj": "mill_valley"}
-{"pred": "business_company_place_founded", "sub": "powerset", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "clear_channel_communications", "obj": "san_antonio"}
-{"pred": "business_company_place_founded", "sub": "prudential_financial", "obj": "newark"}
-{"pred": "business_company_place_founded", "sub": "samsonite", "obj": "denver"}
-{"pred": "business_company_place_founded", "sub": "vf_corporation", "obj": "pennsylvania"}
-{"pred": "business_company_place_founded", "sub": "videoegg", "obj": "connecticut"}
-{"pred": "business_company_place_founded", "sub": "mexx", "obj": "netherlands"}
-{"pred": "business_company_place_founded", "sub": "orica", "obj": "australia"}
-{"pred": "business_company_place_founded", "sub": "microsoft", "obj": "albuquerque"}
-{"pred": "business_company_place_founded", "sub": "thomas_hooker_brewing_company", "obj": "hartford"}
-{"pred": "business_company_place_founded", "sub": "acronis", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "hughes_hubbard_&_reed", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "am\u00e9rica_m\u00f3vil", "obj": "mexico_city"}
-{"pred": "business_company_place_founded", "sub": "kmart", "obj": "detroit"}
-{"pred": "business_company_place_founded", "sub": "greenpeace", "obj": "vancouver"}
-{"pred": "business_company_place_founded", "sub": "qualcomm", "obj": "san_diego"}
-{"pred": "business_company_place_founded", "sub": "touchstone_television", "obj": "burbank"}
-{"pred": "business_company_place_founded", "sub": "mozilla_corporation", "obj": "mountain_view"}
-{"pred": "business_company_place_founded", "sub": "nintendo", "obj": "kyoto"}
-{"pred": "business_company_place_founded", "sub": "ricoh", "obj": "tokyo"}
-{"pred": "business_company_place_founded", "sub": "pratt_&_whitney", "obj": "hartford"}
-{"pred": "business_company_place_founded", "sub": "hastings_entertainment", "obj": "amarillo"}
-{"pred": "business_company_place_founded", "sub": "bank_of_china", "obj": "beijing"}
-{"pred": "business_company_place_founded", "sub": "cbs_corporation", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "whole_foods_market", "obj": "austin"}
-{"pred": "business_company_place_founded", "sub": "newbury_comics", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "konami", "obj": "tokyo"}
-{"pred": "business_company_place_founded", "sub": "barnes_&_noble", "obj": "wheaton"}
-{"pred": "business_company_place_founded", "sub": "cryptic_studios", "obj": "los_gatos"}
-{"pred": "business_company_place_founded", "sub": "boingo_wireless", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "bethesda_softworks", "obj": "rockville"}
-{"pred": "business_company_place_founded", "sub": "trend_micro", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "price_club", "obj": "san_diego"}
-{"pred": "business_company_place_founded", "sub": "cox_enterprises", "obj": "dayton"}
-{"pred": "business_company_place_founded", "sub": "electronic_arts", "obj": "redwood_city"}
-{"pred": "business_company_place_founded", "sub": "hewitt_associates", "obj": "lake_forest"}
-{"pred": "business_company_place_founded", "sub": "wal-mart", "obj": "rogers"}
-{"pred": "business_company_place_founded", "sub": "fred_meyer", "obj": "portland"}
-{"pred": "business_company_place_founded", "sub": "groupe_danone", "obj": "barcelona"}
-{"pred": "business_company_place_founded", "sub": "kimco_realty_corporation", "obj": "new_hyde_park"}
-{"pred": "business_company_place_founded", "sub": "amnesty_international_usa", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "new_line_cinema", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "walla", "obj": "israel"}
-{"pred": "business_company_place_founded", "sub": "first_national_bank", "obj": "overland_park"}
-{"pred": "business_company_place_founded", "sub": "deloitte_touche_tohmatsu", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "oracle_corporation", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "texaco", "obj": "beaumont"}
-{"pred": "business_company_place_founded", "sub": "aldo", "obj": "montreal"}
-{"pred": "business_company_place_founded", "sub": "translational_genomics_research_institute", "obj": "phoenix"}
-{"pred": "business_company_place_founded", "sub": "virgin_group", "obj": "united_kingdom"}
-{"pred": "business_company_place_founded", "sub": "taco_bell", "obj": "jacksonville"}
-{"pred": "business_company_place_founded", "sub": "groupe_danone", "obj": "spain"}
-{"pred": "business_company_place_founded", "sub": "zedo", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "folgers", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "securities_exchange_company", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "qantas", "obj": "winton"}
-{"pred": "business_company_place_founded", "sub": "blizzard_entertainment", "obj": "irvine"}
-{"pred": "business_company_place_founded", "sub": "corbis", "obj": "seattle"}
-{"pred": "business_company_place_founded", "sub": "federated_department_stores", "obj": "columbus"}
-{"pred": "business_company_place_founded", "sub": "coldwell_banker", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "alltel", "obj": "little_rock"}
-{"pred": "business_company_place_founded", "sub": "mcfarlane_toys", "obj": "tempe"}
-{"pred": "business_company_place_founded", "sub": "goetze", "obj": "baltimore"}
-{"pred": "business_company_place_founded", "sub": "marantz", "obj": "kew_gardens"}
-{"pred": "business_company_place_founded", "sub": "take-two_interactive", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "debenhams", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "odwalla", "obj": "santa_cruz"}
-{"pred": "business_company_place_founded", "sub": "georgia-pacific", "obj": "augusta"}
-{"pred": "business_company_place_founded", "sub": "clsa", "obj": "hong_kong"}
-{"pred": "business_company_place_founded", "sub": "google", "obj": "menlo_park"}
-{"pred": "business_company_place_founded", "sub": "alcon", "obj": "fort_worth"}
-{"pred": "business_company_place_founded", "sub": "puget_sound_energy", "obj": "seattle"}
-{"pred": "business_company_place_founded", "sub": "viz_media", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "petrochina", "obj": "beijing"}
-{"pred": "business_company_place_founded", "sub": "havas", "obj": "france"}
-{"pred": "business_company_place_founded", "sub": "rentrak", "obj": "portland"}
-{"pred": "business_company_place_founded", "sub": "developers_diversified_realty_corporation", "obj": "cleveland"}
-{"pred": "business_company_place_founded", "sub": "nokia", "obj": "espoo"}
-{"pred": "business_company_place_founded", "sub": "american_apparel", "obj": "montreal"}
-{"pred": "business_company_place_founded", "sub": "ecm", "obj": "munich"}
-{"pred": "business_company_place_founded", "sub": "nomura_holdings", "obj": "osaka"}
-{"pred": "business_company_place_founded", "sub": "boeing", "obj": "seattle"}
-{"pred": "business_company_place_founded", "sub": "bank_of_new_york", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "rockstar_games", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "nabisco", "obj": "east_hanover"}
-{"pred": "business_company_place_founded", "sub": "netsuite", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "webster_bank", "obj": "waterbury"}
-{"pred": "business_company_place_founded", "sub": "mitsubishi_electric", "obj": "tokyo"}
-{"pred": "business_company_place_founded", "sub": "national_amusements", "obj": "dedham"}
-{"pred": "business_company_place_founded", "sub": "indieflix", "obj": "seattle"}
-{"pred": "business_company_place_founded", "sub": "dow_jones_&_company", "obj": "new_york"}
-{"pred": "business_company_place_founded", "sub": "west_elm", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "dreamworks", "obj": "glendale"}
-{"pred": "business_company_place_founded", "sub": "garmin", "obj": "wichita"}
-{"pred": "business_company_place_founded", "sub": "parsons_corporation", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "apple_records", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "young_&_rubicam", "obj": "philadelphia"}
-{"pred": "business_company_place_founded", "sub": "the_weather_channel", "obj": "atlanta"}
-{"pred": "business_company_place_founded", "sub": "maserati", "obj": "bologna"}
-{"pred": "business_company_place_founded", "sub": "apple_corps", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "kraft_foods", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "station_casinos", "obj": "las_vegas"}
-{"pred": "business_company_place_founded", "sub": "hasbro", "obj": "hasbrouck_heights"}
-{"pred": "business_company_place_founded", "sub": "harvard_university_press", "obj": "cambridge"}
-{"pred": "business_company_place_founded", "sub": "sunoco", "obj": "pittsburgh"}
-{"pred": "business_company_place_founded", "sub": "albertsons", "obj": "boise"}
-{"pred": "business_company_place_founded", "sub": "pfizer", "obj": "brooklyn"}
-{"pred": "business_company_place_founded", "sub": "fiat", "obj": "turin"}
-{"pred": "business_company_place_founded", "sub": "performics", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "salesforce.com", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "hunter_douglas", "obj": "d\u00fcsseldorf"}
-{"pred": "business_company_place_founded", "sub": "discover_financial", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "nortel_networks", "obj": "montreal"}
-{"pred": "business_company_place_founded", "sub": "bank_of_ireland", "obj": "dublin"}
-{"pred": "business_company_place_founded", "sub": "harmonix_music_systems", "obj": "cambridge"}
-{"pred": "business_company_place_founded", "sub": "alcoa", "obj": "pittsburgh"}
-{"pred": "business_company_place_founded", "sub": "thq", "obj": "agoura_hills"}
-{"pred": "business_company_place_founded", "sub": "target_corporation", "obj": "minneapolis"}
-{"pred": "business_company_place_founded", "sub": "travelzoo", "obj": "mountain_view"}
-{"pred": "business_company_place_founded", "sub": "analog_devices", "obj": "cambridge"}
-{"pred": "business_company_place_founded", "sub": "fox_searchlight_pictures", "obj": "hollywood"}
-{"pred": "business_company_place_founded", "sub": "olivetti", "obj": "ivrea"}
-{"pred": "business_company_place_founded", "sub": "lettuce_entertain_you_enterprises", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "crate_and_barrel", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "patterson_belknap_webb_&_tyler", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "def_jam_recordings", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "funimation_entertainment", "obj": "fort_worth"}
-{"pred": "business_company_place_founded", "sub": "dax", "obj": "frankfurt"}
-{"pred": "business_company_place_founded", "sub": "costco", "obj": "seattle"}
-{"pred": "business_company_place_founded", "sub": "humana", "obj": "louisville"}
-{"pred": "business_company_place_founded", "sub": "genzyme", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "clif_bar", "obj": "berkeley"}
-{"pred": "business_company_place_founded", "sub": "valley_national_bank", "obj": "passaic"}
-{"pred": "business_company_place_founded", "sub": "intelligent_systems", "obj": "tokyo"}
-{"pred": "business_company_place_founded", "sub": "loeb", "obj": "ottawa"}
-{"pred": "business_company_place_founded", "sub": "brooks_brothers", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "overbrook_entertainment", "obj": "beverly_hills"}
-{"pred": "business_company_place_founded", "sub": "topshop", "obj": "sheffield"}
-{"pred": "business_company_place_founded", "sub": "american_international_group", "obj": "shanghai"}
-{"pred": "business_company_place_founded", "sub": "melbourne_house", "obj": "melbourne"}
-{"pred": "business_company_place_founded", "sub": "best_buy", "obj": "minnesota"}
-{"pred": "business_company_place_founded", "sub": "topps", "obj": "brooklyn"}
-{"pred": "business_company_place_founded", "sub": "dunkin'_donuts", "obj": "quincy"}
-{"pred": "business_company_place_founded", "sub": "hard_rock_cafe", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "anheuser-busch", "obj": "st._louis"}
-{"pred": "business_company_place_founded", "sub": "nbc_sports", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "ibm", "obj": "endicott"}
-{"pred": "business_company_place_founded", "sub": "bbc", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "doubleclick", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "counterpane_internet_security", "obj": "santa_clara"}
-{"pred": "business_company_place_founded", "sub": "china_construction_bank", "obj": "beijing"}
-{"pred": "business_company_place_founded", "sub": "home_depot", "obj": "atlanta"}
-{"pred": "business_company_place_founded", "sub": "acxiom", "obj": "conway"}
-{"pred": "business_company_place_founded", "sub": "touchstone_pictures", "obj": "burbank"}
-{"pred": "business_company_place_founded", "sub": "hearst_corporation", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "general_mills", "obj": "minneapolis"}
-{"pred": "business_company_place_founded", "sub": "goldman_sachs", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "lucasarts", "obj": "marin_county"}
-{"pred": "business_company_place_founded", "sub": "planet_hollywood", "obj": "new_york"}
-{"pred": "business_company_place_founded", "sub": "massey_energy", "obj": "richmond"}
-{"pred": "business_company_place_founded", "sub": "subway", "obj": "miami"}
-{"pred": "business_company_place_founded", "sub": "benchmark_capital", "obj": "menlo_park"}
-{"pred": "business_company_place_founded", "sub": "bank_of_china", "obj": "republic_of_china"}
-{"pred": "business_company_place_founded", "sub": "timken_company", "obj": "st._louis"}
-{"pred": "business_company_place_founded", "sub": "evraz_group", "obj": "moscow"}
-{"pred": "business_company_place_founded", "sub": "bonwit_teller", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "aldine_press", "obj": "venice"}
-{"pred": "business_company_place_founded", "sub": "shanghai_tang", "obj": "hong_kong"}
-{"pred": "business_company_place_founded", "sub": "liz_claiborne_inc.", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "altria_group", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "mister_softee", "obj": "philadelphia"}
-{"pred": "business_company_place_founded", "sub": "tupperware", "obj": "orlando"}
-{"pred": "business_company_place_founded", "sub": "monsanto", "obj": "st._louis"}
-{"pred": "business_company_place_founded", "sub": "oxford_university_press", "obj": "oxford"}
-{"pred": "business_company_place_founded", "sub": "electronic_data_systems", "obj": "texas"}
-{"pred": "business_company_place_founded", "sub": "borders_group", "obj": "ann_arbor"}
-{"pred": "business_company_place_founded", "sub": "mega_bloks", "obj": "montreal"}
-{"pred": "business_company_place_founded", "sub": "san_francisco_opera", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "liberty_mutual", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "subway", "obj": "bridgeport"}
-{"pred": "business_company_place_founded", "sub": "vizio", "obj": "costa_mesa"}
-{"pred": "business_company_place_founded", "sub": "proenza_schouler", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "avon_products", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "mcgraw-hill", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "nec", "obj": "tokyo"}
-{"pred": "business_company_place_founded", "sub": "xerox", "obj": "rochester"}
-{"pred": "business_company_place_founded", "sub": "meredith_corporation", "obj": "des_moines"}
-{"pred": "business_company_place_founded", "sub": "i._magnin", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "infosys", "obj": "pune"}
-{"pred": "business_company_place_founded", "sub": "zipcar", "obj": "cambridge"}
-{"pred": "business_company_place_founded", "sub": "latham_&_watkins", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "enron", "obj": "omaha"}
-{"pred": "business_company_place_founded", "sub": "american_apparel", "obj": "south_carolina"}
-{"pred": "business_company_place_founded", "sub": "canon", "obj": "tokyo"}
-{"pred": "business_company_place_founded", "sub": "agence_france-presse", "obj": "paris"}
-{"pred": "business_company_place_founded", "sub": "pioneer_investments", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "o'reilly_media", "obj": "newton"}
-{"pred": "business_company_place_founded", "sub": "marimekko", "obj": "helsinki"}
-{"pred": "business_company_place_founded", "sub": "automatic_data_processing", "obj": "paterson"}
-{"pred": "business_company_place_founded", "sub": "germs", "obj": "georgetown_university"}
-{"pred": "business_company_place_founded", "sub": "wells_fargo", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "merrill_lynch", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "herbalife", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "lehman_brothers", "obj": "montgomery"}
-{"pred": "business_company_place_founded", "sub": "the_world", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "pepsico", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "bel_canto", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "backbone_entertainment", "obj": "vancouver"}
-{"pred": "business_company_place_founded", "sub": "al_jazeera", "obj": "doha"}
-{"pred": "business_company_place_founded", "sub": "sun_microsystems", "obj": "stanford_university"}
-{"pred": "business_company_place_founded", "sub": "american_apparel", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "dell_international_services", "obj": "bangalore"}
-{"pred": "business_company_place_founded", "sub": "john_wiley_&_sons", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "holt_renfrew", "obj": "quebec_city"}
-{"pred": "business_company_place_founded", "sub": "hollywood_pictures", "obj": "burbank"}
-{"pred": "business_company_place_founded", "sub": "allianz", "obj": "berlin"}
-{"pred": "business_company_place_founded", "sub": "utah_street_networks", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "bank_of_america", "obj": "bank_of_italy"}
-{"pred": "business_company_place_founded", "sub": "akqa", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "newell_rubbermaid", "obj": "ogdensburg"}
-{"pred": "business_company_place_founded", "sub": "sk_telecom", "obj": "seoul"}
-{"pred": "business_company_place_founded", "sub": "shopzilla", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "softbank", "obj": "tokyo"}
-{"pred": "business_company_place_founded", "sub": "pantone", "obj": "new_jersey"}
-{"pred": "business_company_place_founded", "sub": "saatchi_&_saatchi", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "haier", "obj": "qingdao"}
-{"pred": "business_company_place_founded", "sub": "nestl\u00e9", "obj": "vevey"}
-{"pred": "business_company_place_founded", "sub": "kohn_pedersen_fox", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "skandia", "obj": "stockholm"}
-{"pred": "business_company_place_founded", "sub": "turner_broadcasting", "obj": "atlanta"}
-{"pred": "business_company_place_founded", "sub": "canadian_imperial_bank_of_commerce", "obj": "toronto"}
-{"pred": "business_company_place_founded", "sub": "marks_&_spencer", "obj": "leeds"}
-{"pred": "business_company_place_founded", "sub": "dimension_films", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "marine_stewardship_council", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "marsh_&_mclennan_companies", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "reebok", "obj": "england"}
-{"pred": "business_company_place_founded", "sub": "reebok", "obj": "bolton"}
-{"pred": "business_company_place_founded", "sub": "yivo_institute_for_jewish_research", "obj": "vilnius"}
-{"pred": "business_company_place_founded", "sub": "gilead_sciences", "obj": "foster_city"}
-{"pred": "business_company_place_founded", "sub": "adobe_systems", "obj": "mountain_view"}
-{"pred": "business_company_place_founded", "sub": "friendster", "obj": "mountain_view"}
-{"pred": "business_company_place_founded", "sub": "pizza_hut", "obj": "wichita"}
-{"pred": "business_company_place_founded", "sub": "tribune_company", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "universal_studios", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "bank_sepah", "obj": "rasht"}
-{"pred": "business_company_place_founded", "sub": "general_electric", "obj": "schenectady"}
-{"pred": "business_company_place_founded", "sub": "extreme_associates", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "roosevelt_institution", "obj": "stanford_university"}
-{"pred": "business_company_place_founded", "sub": "itsu", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "eddie_bauer", "obj": "seattle"}
-{"pred": "business_company_place_founded", "sub": "brinker_international", "obj": "dallas"}
-{"pred": "business_company_place_founded", "sub": "strawberry_frog", "obj": "amsterdam"}
-{"pred": "business_company_place_founded", "sub": "speedo", "obj": "bondi_beach"}
-{"pred": "business_company_place_founded", "sub": "sonic_solutions", "obj": "novato"}
-{"pred": "business_company_place_founded", "sub": "eircom", "obj": "ireland"}
-{"pred": "business_company_place_founded", "sub": "rand_mcnally", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "home_depot", "obj": "marietta"}
-{"pred": "business_company_place_founded", "sub": "house_of_blues", "obj": "cambridge"}
-{"pred": "business_company_place_founded", "sub": "dell", "obj": "austin"}
-{"pred": "business_company_place_founded", "sub": "reprise_media", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "est\u00e9e_lauder_companies", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "long_&_foster", "obj": "fairfax"}
-{"pred": "business_company_place_founded", "sub": "delage", "obj": "paris"}
-{"pred": "business_company_place_founded", "sub": "suncor_energy", "obj": "montreal"}
-{"pred": "business_company_place_founded", "sub": "torys", "obj": "toronto"}
-{"pred": "business_company_place_founded", "sub": "blimpie", "obj": "hoboken"}
-{"pred": "business_company_place_founded", "sub": "gannett_company", "obj": "rochester"}
-{"pred": "business_company_place_founded", "sub": "creative_artists_agency", "obj": "beverly_hills"}
-{"pred": "business_company_place_founded", "sub": "bertelsmann", "obj": "g\u00fctersloh"}
-{"pred": "business_company_place_founded", "sub": "mannatech", "obj": "coppell"}
-{"pred": "business_company_place_founded", "sub": "american_century_investments", "obj": "kansas_city"}
-{"pred": "business_company_place_founded", "sub": "e._w._scripps_company", "obj": "cleveland"}
-{"pred": "business_company_place_founded", "sub": "cathay_pacific", "obj": "hong_kong"}
-{"pred": "business_company_place_founded", "sub": "bank_hapoalim", "obj": "israel"}
-{"pred": "business_company_place_founded", "sub": "bank_of_america", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "wikimedia_foundation", "obj": "st._petersburg"}
-{"pred": "business_company_place_founded", "sub": "gap_inc.", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "convergys", "obj": "cincinnati"}
-{"pred": "business_company_place_founded", "sub": "club_monaco", "obj": "toronto"}
-{"pred": "business_company_place_founded", "sub": "viropharma", "obj": "exton"}
-{"pred": "business_company_place_founded", "sub": "pepsico", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "netvibes", "obj": "paris"}
-{"pred": "business_company_place_founded", "sub": "hewlett-packard", "obj": "palo_alto"}
-{"pred": "business_company_place_founded", "sub": "lojack", "obj": "massachusetts"}
-{"pred": "business_company_place_founded", "sub": "general_motors", "obj": "flint"}
-{"pred": "business_company_place_founded", "sub": "paramount_pictures", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "triborough_bridge_and_tunnel_authority", "obj": "new_york"}
-{"pred": "business_company_place_founded", "sub": "citigroup", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "china_national_petroleum_corporation", "obj": "beijing"}
-{"pred": "business_company_place_founded", "sub": "comverse_technology", "obj": "israel"}
-{"pred": "business_company_place_founded", "sub": "philips", "obj": "eindhoven"}
-{"pred": "business_company_place_founded", "sub": "tiffany_&_co.", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "regal_entertainment_group", "obj": "knoxville"}
-{"pred": "business_company_place_founded", "sub": "banana_republic", "obj": "mill_valley"}
-{"pred": "business_company_place_founded", "sub": "lazard", "obj": "new_orleans"}
-{"pred": "business_company_place_founded", "sub": "henry_schein", "obj": "queens"}
-{"pred": "business_company_place_founded", "sub": "northern_bank", "obj": "belfast"}
-{"pred": "business_company_place_founded", "sub": "berkshire_hathaway", "obj": "new_bedford"}
-{"pred": "business_company_place_founded", "sub": "nina_ricci", "obj": "paris"}
-{"pred": "business_company_place_founded", "sub": "hilton_hotels_corporation", "obj": "cisco"}
-{"pred": "business_company_place_founded", "sub": "firefly_studios", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "capital_economics", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "powerset", "obj": "palo_alto"}
-{"pred": "business_company_place_founded", "sub": "principal_financial_group", "obj": "des_moines"}
-{"pred": "business_company_place_founded", "sub": "university_of_strathclyde", "obj": "glasgow"}
-{"pred": "business_company_place_founded", "sub": "marshalls", "obj": "boston"}
-{"pred": "business_company_place_founded", "sub": "compuserve", "obj": "columbus"}
-{"pred": "business_company_place_founded", "sub": "darden_restaurants", "obj": "lakeland"}
-{"pred": "business_company_place_founded", "sub": "hsbc", "obj": "hong_kong"}
-{"pred": "business_company_place_founded", "sub": "digg", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "hero_honda", "obj": "gurgaon"}
-{"pred": "business_company_place_founded", "sub": "bertone", "obj": "turin"}
-{"pred": "business_company_place_founded", "sub": "ericsson", "obj": "stockholm"}
-{"pred": "business_company_place_founded", "sub": "duesenberg", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "walt_disney_pictures", "obj": "burbank"}
-{"pred": "business_company_place_founded", "sub": "msnbc", "obj": "new_jersey"}
-{"pred": "business_company_place_founded", "sub": "liberty_property_trust", "obj": "philadelphia"}
-{"pred": "business_company_place_founded", "sub": "tasti_d-lite", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "bank_of_credit_and_commerce_international", "obj": "london"}
-{"pred": "business_company_place_founded", "sub": "restoration_hardware", "obj": "eureka"}
-{"pred": "business_company_place_founded", "sub": "wyeth", "obj": "philadelphia"}
-{"pred": "business_company_place_founded", "sub": "archer_daniels_midland", "obj": "minneapolis"}
-{"pred": "business_company_place_founded", "sub": "research_in_motion", "obj": "waterloo"}
-{"pred": "business_company_place_founded", "sub": "hospira", "obj": "lake_forest"}
-{"pred": "business_company_place_founded", "sub": "maxfli", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "michaels", "obj": "dallas"}
-{"pred": "business_company_place_founded", "sub": "wipro_technologies", "obj": "india"}
-{"pred": "business_company_place_founded", "sub": "mutual_of_omaha", "obj": "omaha"}
-{"pred": "business_company_place_founded", "sub": "bank_of_italy", "obj": "san_francisco"}
-{"pred": "business_company_place_founded", "sub": "martha_stewart_living_omnimedia", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "silvercup_studios", "obj": "queens"}
-{"pred": "business_company_place_founded", "sub": "century_21_real_estate", "obj": "california"}
-{"pred": "business_company_place_founded", "sub": "taco_bell", "obj": "downey"}
-{"pred": "business_company_place_founded", "sub": "legg_mason", "obj": "baltimore"}
-{"pred": "business_company_place_founded", "sub": "wells_fargo", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "trend_micro", "obj": "united_states_of_america"}
-{"pred": "business_company_place_founded", "sub": "northrop_grumman", "obj": "denver"}
-{"pred": "business_company_place_founded", "sub": "tokyopop", "obj": "los_angeles"}
-{"pred": "business_company_place_founded", "sub": "cadbury", "obj": "birmingham"}
-{"pred": "business_company_place_founded", "sub": "peabody_energy", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "steuben_glass_works", "obj": "corning"}
-{"pred": "business_company_place_founded", "sub": "julien", "obj": "quebec_city"}
-{"pred": "business_company_place_founded", "sub": "virgin_megastore", "obj": "oxford_street"}
-{"pred": "business_company_place_founded", "sub": "chalco", "obj": "beijing"}
-{"pred": "business_company_place_founded", "sub": "knoll", "obj": "new_york_city"}
-{"pred": "business_company_place_founded", "sub": "raytheon", "obj": "cambridge"}
-{"pred": "business_company_place_founded", "sub": "budweiser", "obj": "st._louis"}
-{"pred": "business_company_place_founded", "sub": "diebold_election_systems", "obj": "ohio"}
-{"pred": "business_company_place_founded", "sub": "miles", "obj": "bergen"}
-{"pred": "business_company_place_founded", "sub": "officemax", "obj": "cleveland"}
-{"pred": "business_company_place_founded", "sub": "bioware", "obj": "edmonton"}
-{"pred": "business_company_place_founded", "sub": "ssa_global_technologies", "obj": "chicago"}
-{"pred": "business_company_place_founded", "sub": "belo", "obj": "dallas"}
-{"pred": "business_company_place_founded", "sub": "netflix", "obj": "scotts_valley"}
-{"pred": "business_company_place_founded", "sub": "sony_computer_entertainment", "obj": "san_diego"}
-{"pred": "business_company_place_founded", "sub": "jerini", "obj": "berlin"}
-{"pred": "business_company_place_founded", "sub": "starhub", "obj": "singapore"}
-{"pred": "business_company_place_founded", "sub": "bell_mobility", "obj": "toronto"}
+{"pred": "business_company_place_founded", "sub_label": "publishamerica", "obj_label": "maryland"}
+{"pred": "business_company_place_founded", "sub_label": "comcast", "obj_label": "tupelo"}
+{"pred": "business_company_place_founded", "sub_label": "fujitsu", "obj_label": "kawasaki"}
+{"pred": "business_company_place_founded", "sub_label": "chlo\u00e9", "obj_label": "paris"}
+{"pred": "business_company_place_founded", "sub_label": "general dynamics", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "piper jaffray", "obj_label": "minneapolis"}
+{"pred": "business_company_place_founded", "sub_label": "yash raj films", "obj_label": "mumbai"}
+{"pred": "business_company_place_founded", "sub_label": "sybase", "obj_label": "berkeley"}
+{"pred": "business_company_place_founded", "sub_label": "decca records", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "vonage", "obj_label": "edison"}
+{"pred": "business_company_place_founded", "sub_label": "google", "obj_label": "stanford"}
+{"pred": "business_company_place_founded", "sub_label": "motorola", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "dominion resources", "obj_label": "virginia"}
+{"pred": "business_company_place_founded", "sub_label": "industrial and commercial bank of china", "obj_label": "beijing"}
+{"pred": "business_company_place_founded", "sub_label": "halliburton", "obj_label": "dallas"}
+{"pred": "business_company_place_founded", "sub_label": "tjx companies", "obj_label": "framingham"}
+{"pred": "business_company_place_founded", "sub_label": "applied minds", "obj_label": "glendale"}
+{"pred": "business_company_place_founded", "sub_label": "advanced medical optics", "obj_label": "santa"}
+{"pred": "business_company_place_founded", "sub_label": "wizz air", "obj_label": "budapest"}
+{"pred": "business_company_place_founded", "sub_label": "pathmark", "obj_label": "carteret"}
+{"pred": "business_company_place_founded", "sub_label": "casio", "obj_label": "tokyo"}
+{"pred": "business_company_place_founded", "sub_label": "burger king", "obj_label": "miami"}
+{"pred": "business_company_place_founded", "sub_label": "rogers media", "obj_label": "toronto"}
+{"pred": "business_company_place_founded", "sub_label": "discovery communications", "obj_label": "bethesda"}
+{"pred": "business_company_place_founded", "sub_label": "boston beer company", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "acadian ambulance", "obj_label": "lafayette"}
+{"pred": "business_company_place_founded", "sub_label": "virgin unite", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "taschen", "obj_label": "cologne"}
+{"pred": "business_company_place_founded", "sub_label": "kimberly-clark", "obj_label": "neenah"}
+{"pred": "business_company_place_founded", "sub_label": "linden lab", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "liberty mutual", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "h&r block", "obj_label": "kansas"}
+{"pred": "business_company_place_founded", "sub_label": "mattel", "obj_label": "el"}
+{"pred": "business_company_place_founded", "sub_label": "pseudo.com", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "fairfield greenwich group", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "williams-sonoma", "obj_label": "sonoma"}
+{"pred": "business_company_place_founded", "sub_label": "universal studios", "obj_label": "hollywood"}
+{"pred": "business_company_place_founded", "sub_label": "saint-gobain", "obj_label": "france"}
+{"pred": "business_company_place_founded", "sub_label": "jvc", "obj_label": "yokohama"}
+{"pred": "business_company_place_founded", "sub_label": "kana", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "national football league", "obj_label": "canton"}
+{"pred": "business_company_place_founded", "sub_label": "seamlessweb", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "universal studios", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "atari", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "citgo", "obj_label": "bartlesville"}
+{"pred": "business_company_place_founded", "sub_label": "deere & company", "obj_label": "moline"}
+{"pred": "business_company_place_founded", "sub_label": "jordan marsh", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "tesla motors", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "battelle memorial institute", "obj_label": "columbus"}
+{"pred": "business_company_place_founded", "sub_label": "johnny rockets", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "media general", "obj_label": "richmond"}
+{"pred": "business_company_place_founded", "sub_label": "general electric", "obj_label": "edison"}
+{"pred": "business_company_place_founded", "sub_label": "brookstone", "obj_label": "merrimack"}
+{"pred": "business_company_place_founded", "sub_label": "maytag", "obj_label": "iowa"}
+{"pred": "business_company_place_founded", "sub_label": "bank of montreal", "obj_label": "montreal"}
+{"pred": "business_company_place_founded", "sub_label": "tweeter", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "cameron", "obj_label": "houston"}
+{"pred": "business_company_place_founded", "sub_label": "royal caribbean international", "obj_label": "norway"}
+{"pred": "business_company_place_founded", "sub_label": "gulf oil", "obj_label": "pittsburgh"}
+{"pred": "business_company_place_founded", "sub_label": "jadrolinija", "obj_label": "rijeka"}
+{"pred": "business_company_place_founded", "sub_label": "hni corporation", "obj_label": "muscatine"}
+{"pred": "business_company_place_founded", "sub_label": "altria group", "obj_label": "virginia"}
+{"pred": "business_company_place_founded", "sub_label": "zale corporation", "obj_label": "wichita"}
+{"pred": "business_company_place_founded", "sub_label": "area", "obj_label": "finland"}
+{"pred": "business_company_place_founded", "sub_label": "siebel systems", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "seamlessweb", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "yle", "obj_label": "helsinki"}
+{"pred": "business_company_place_founded", "sub_label": "alfa romeo", "obj_label": "milan"}
+{"pred": "business_company_place_founded", "sub_label": "state bank of india", "obj_label": "kolkata"}
+{"pred": "business_company_place_founded", "sub_label": "michaels", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "keller williams realty", "obj_label": "austin"}
+{"pred": "business_company_place_founded", "sub_label": "td ameritrade", "obj_label": "omaha"}
+{"pred": "business_company_place_founded", "sub_label": "chery automobile", "obj_label": "wuhu"}
+{"pred": "business_company_place_founded", "sub_label": "rightnow technologies", "obj_label": "bozeman"}
+{"pred": "business_company_place_founded", "sub_label": "news corporation", "obj_label": "adelaide"}
+{"pred": "business_company_place_founded", "sub_label": "pepsico", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "allison transmission", "obj_label": "indianapolis"}
+{"pred": "business_company_place_founded", "sub_label": "alibaba.com", "obj_label": "hangzhou"}
+{"pred": "business_company_place_founded", "sub_label": "eaton vance", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "mary kay", "obj_label": "dallas"}
+{"pred": "business_company_place_founded", "sub_label": "artoon", "obj_label": "yokohama"}
+{"pred": "business_company_place_founded", "sub_label": "lennar corporation", "obj_label": "miami"}
+{"pred": "business_company_place_founded", "sub_label": "eton park capital management", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "wally", "obj_label": "monaco"}
+{"pred": "business_company_place_founded", "sub_label": "visteon", "obj_label": "michigan"}
+{"pred": "business_company_place_founded", "sub_label": "safeco", "obj_label": "seattle"}
+{"pred": "business_company_place_founded", "sub_label": "turnbull & asser", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "rolex", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "tellme networks", "obj_label": "mountain"}
+{"pred": "business_company_place_founded", "sub_label": "eletropaulo", "obj_label": "toronto"}
+{"pred": "business_company_place_founded", "sub_label": "nvr", "obj_label": "pittsburgh"}
+{"pred": "business_company_place_founded", "sub_label": "konica minolta", "obj_label": "osaka"}
+{"pred": "business_company_place_founded", "sub_label": "fulbright & jaworski", "obj_label": "houston"}
+{"pred": "business_company_place_founded", "sub_label": "the new york times company", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "columbia pictures", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "ct", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "autodesk", "obj_label": "mill"}
+{"pred": "business_company_place_founded", "sub_label": "powerset", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "clear channel communications", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "prudential financial", "obj_label": "newark"}
+{"pred": "business_company_place_founded", "sub_label": "samsonite", "obj_label": "denver"}
+{"pred": "business_company_place_founded", "sub_label": "vf corporation", "obj_label": "pennsylvania"}
+{"pred": "business_company_place_founded", "sub_label": "videoegg", "obj_label": "connecticut"}
+{"pred": "business_company_place_founded", "sub_label": "mexx", "obj_label": "netherlands"}
+{"pred": "business_company_place_founded", "sub_label": "orica", "obj_label": "australia"}
+{"pred": "business_company_place_founded", "sub_label": "microsoft", "obj_label": "albuquerque"}
+{"pred": "business_company_place_founded", "sub_label": "thomas hooker brewing company", "obj_label": "hartford"}
+{"pred": "business_company_place_founded", "sub_label": "acronis", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "hughes hubbard & reed", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "am\u00e9rica m\u00f3vil", "obj_label": "mexico"}
+{"pred": "business_company_place_founded", "sub_label": "kmart", "obj_label": "detroit"}
+{"pred": "business_company_place_founded", "sub_label": "greenpeace", "obj_label": "vancouver"}
+{"pred": "business_company_place_founded", "sub_label": "qualcomm", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "touchstone television", "obj_label": "burbank"}
+{"pred": "business_company_place_founded", "sub_label": "mozilla corporation", "obj_label": "mountain"}
+{"pred": "business_company_place_founded", "sub_label": "nintendo", "obj_label": "kyoto"}
+{"pred": "business_company_place_founded", "sub_label": "ricoh", "obj_label": "tokyo"}
+{"pred": "business_company_place_founded", "sub_label": "pratt & whitney", "obj_label": "hartford"}
+{"pred": "business_company_place_founded", "sub_label": "hastings entertainment", "obj_label": "amarillo"}
+{"pred": "business_company_place_founded", "sub_label": "bank of china", "obj_label": "beijing"}
+{"pred": "business_company_place_founded", "sub_label": "cbs corporation", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "whole foods market", "obj_label": "austin"}
+{"pred": "business_company_place_founded", "sub_label": "newbury comics", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "konami", "obj_label": "tokyo"}
+{"pred": "business_company_place_founded", "sub_label": "barnes & noble", "obj_label": "wheaton"}
+{"pred": "business_company_place_founded", "sub_label": "cryptic studios", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "boingo wireless", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "bethesda softworks", "obj_label": "rockville"}
+{"pred": "business_company_place_founded", "sub_label": "trend micro", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "price club", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "cox enterprises", "obj_label": "dayton"}
+{"pred": "business_company_place_founded", "sub_label": "electronic arts", "obj_label": "redwood"}
+{"pred": "business_company_place_founded", "sub_label": "hewitt associates", "obj_label": "lake"}
+{"pred": "business_company_place_founded", "sub_label": "wal-mart", "obj_label": "rogers"}
+{"pred": "business_company_place_founded", "sub_label": "fred meyer", "obj_label": "portland"}
+{"pred": "business_company_place_founded", "sub_label": "groupe danone", "obj_label": "barcelona"}
+{"pred": "business_company_place_founded", "sub_label": "kimco realty corporation", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "amnesty international usa", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "new line cinema", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "walla", "obj_label": "israel"}
+{"pred": "business_company_place_founded", "sub_label": "first national bank", "obj_label": "overland"}
+{"pred": "business_company_place_founded", "sub_label": "deloitte touche tohmatsu", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "oracle corporation", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "texaco", "obj_label": "beaumont"}
+{"pred": "business_company_place_founded", "sub_label": "aldo", "obj_label": "montreal"}
+{"pred": "business_company_place_founded", "sub_label": "translational genomics research institute", "obj_label": "phoenix"}
+{"pred": "business_company_place_founded", "sub_label": "virgin group", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "taco bell", "obj_label": "jacksonville"}
+{"pred": "business_company_place_founded", "sub_label": "groupe danone", "obj_label": "spain"}
+{"pred": "business_company_place_founded", "sub_label": "zedo", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "folgers", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "securities exchange company", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "qantas", "obj_label": "winton"}
+{"pred": "business_company_place_founded", "sub_label": "blizzard entertainment", "obj_label": "irvine"}
+{"pred": "business_company_place_founded", "sub_label": "corbis", "obj_label": "seattle"}
+{"pred": "business_company_place_founded", "sub_label": "federated department stores", "obj_label": "columbus"}
+{"pred": "business_company_place_founded", "sub_label": "coldwell banker", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "alltel", "obj_label": "little"}
+{"pred": "business_company_place_founded", "sub_label": "mcfarlane toys", "obj_label": "tempe"}
+{"pred": "business_company_place_founded", "sub_label": "goetze", "obj_label": "baltimore"}
+{"pred": "business_company_place_founded", "sub_label": "marantz", "obj_label": "kew"}
+{"pred": "business_company_place_founded", "sub_label": "take-two interactive", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "debenhams", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "odwalla", "obj_label": "santa"}
+{"pred": "business_company_place_founded", "sub_label": "georgia-pacific", "obj_label": "augusta"}
+{"pred": "business_company_place_founded", "sub_label": "clsa", "obj_label": "hong"}
+{"pred": "business_company_place_founded", "sub_label": "google", "obj_label": "menlo"}
+{"pred": "business_company_place_founded", "sub_label": "alcon", "obj_label": "fort"}
+{"pred": "business_company_place_founded", "sub_label": "puget sound energy", "obj_label": "seattle"}
+{"pred": "business_company_place_founded", "sub_label": "viz media", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "petrochina", "obj_label": "beijing"}
+{"pred": "business_company_place_founded", "sub_label": "havas", "obj_label": "france"}
+{"pred": "business_company_place_founded", "sub_label": "rentrak", "obj_label": "portland"}
+{"pred": "business_company_place_founded", "sub_label": "developers diversified realty corporation", "obj_label": "cleveland"}
+{"pred": "business_company_place_founded", "sub_label": "nokia", "obj_label": "espoo"}
+{"pred": "business_company_place_founded", "sub_label": "american apparel", "obj_label": "montreal"}
+{"pred": "business_company_place_founded", "sub_label": "ecm", "obj_label": "munich"}
+{"pred": "business_company_place_founded", "sub_label": "nomura holdings", "obj_label": "osaka"}
+{"pred": "business_company_place_founded", "sub_label": "boeing", "obj_label": "seattle"}
+{"pred": "business_company_place_founded", "sub_label": "bank of new york", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "rockstar games", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "nabisco", "obj_label": "east"}
+{"pred": "business_company_place_founded", "sub_label": "netsuite", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "webster bank", "obj_label": "waterbury"}
+{"pred": "business_company_place_founded", "sub_label": "mitsubishi electric", "obj_label": "tokyo"}
+{"pred": "business_company_place_founded", "sub_label": "national amusements", "obj_label": "dedham"}
+{"pred": "business_company_place_founded", "sub_label": "indieflix", "obj_label": "seattle"}
+{"pred": "business_company_place_founded", "sub_label": "dow jones & company", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "west elm", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "dreamworks", "obj_label": "glendale"}
+{"pred": "business_company_place_founded", "sub_label": "garmin", "obj_label": "wichita"}
+{"pred": "business_company_place_founded", "sub_label": "parsons corporation", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "apple records", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "young & rubicam", "obj_label": "philadelphia"}
+{"pred": "business_company_place_founded", "sub_label": "the weather channel", "obj_label": "atlanta"}
+{"pred": "business_company_place_founded", "sub_label": "maserati", "obj_label": "bologna"}
+{"pred": "business_company_place_founded", "sub_label": "apple corps", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "kraft foods", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "station casinos", "obj_label": "las"}
+{"pred": "business_company_place_founded", "sub_label": "hasbro", "obj_label": "hasbrouck"}
+{"pred": "business_company_place_founded", "sub_label": "harvard university press", "obj_label": "cambridge"}
+{"pred": "business_company_place_founded", "sub_label": "sunoco", "obj_label": "pittsburgh"}
+{"pred": "business_company_place_founded", "sub_label": "albertsons", "obj_label": "boise"}
+{"pred": "business_company_place_founded", "sub_label": "pfizer", "obj_label": "brooklyn"}
+{"pred": "business_company_place_founded", "sub_label": "fiat", "obj_label": "turin"}
+{"pred": "business_company_place_founded", "sub_label": "performics", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "salesforce.com", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "hunter douglas", "obj_label": "d\u00fcsseldorf"}
+{"pred": "business_company_place_founded", "sub_label": "discover financial", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "nortel networks", "obj_label": "montreal"}
+{"pred": "business_company_place_founded", "sub_label": "bank of ireland", "obj_label": "dublin"}
+{"pred": "business_company_place_founded", "sub_label": "harmonix music systems", "obj_label": "cambridge"}
+{"pred": "business_company_place_founded", "sub_label": "alcoa", "obj_label": "pittsburgh"}
+{"pred": "business_company_place_founded", "sub_label": "thq", "obj_label": "agoura"}
+{"pred": "business_company_place_founded", "sub_label": "target corporation", "obj_label": "minneapolis"}
+{"pred": "business_company_place_founded", "sub_label": "travelzoo", "obj_label": "mountain"}
+{"pred": "business_company_place_founded", "sub_label": "analog devices", "obj_label": "cambridge"}
+{"pred": "business_company_place_founded", "sub_label": "fox searchlight pictures", "obj_label": "hollywood"}
+{"pred": "business_company_place_founded", "sub_label": "olivetti", "obj_label": "ivrea"}
+{"pred": "business_company_place_founded", "sub_label": "lettuce entertain you enterprises", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "crate and barrel", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "patterson belknap webb & tyler", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "def jam recordings", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "funimation entertainment", "obj_label": "fort"}
+{"pred": "business_company_place_founded", "sub_label": "dax", "obj_label": "frankfurt"}
+{"pred": "business_company_place_founded", "sub_label": "costco", "obj_label": "seattle"}
+{"pred": "business_company_place_founded", "sub_label": "humana", "obj_label": "louisville"}
+{"pred": "business_company_place_founded", "sub_label": "genzyme", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "clif bar", "obj_label": "berkeley"}
+{"pred": "business_company_place_founded", "sub_label": "valley national bank", "obj_label": "passaic"}
+{"pred": "business_company_place_founded", "sub_label": "intelligent systems", "obj_label": "tokyo"}
+{"pred": "business_company_place_founded", "sub_label": "loeb", "obj_label": "ottawa"}
+{"pred": "business_company_place_founded", "sub_label": "brooks brothers", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "overbrook entertainment", "obj_label": "beverly"}
+{"pred": "business_company_place_founded", "sub_label": "topshop", "obj_label": "sheffield"}
+{"pred": "business_company_place_founded", "sub_label": "american international group", "obj_label": "shanghai"}
+{"pred": "business_company_place_founded", "sub_label": "melbourne house", "obj_label": "melbourne"}
+{"pred": "business_company_place_founded", "sub_label": "best buy", "obj_label": "minnesota"}
+{"pred": "business_company_place_founded", "sub_label": "topps", "obj_label": "brooklyn"}
+{"pred": "business_company_place_founded", "sub_label": "dunkin' donuts", "obj_label": "quincy"}
+{"pred": "business_company_place_founded", "sub_label": "hard rock cafe", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "anheuser-busch", "obj_label": "st."}
+{"pred": "business_company_place_founded", "sub_label": "nbc sports", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "ibm", "obj_label": "endicott"}
+{"pred": "business_company_place_founded", "sub_label": "bbc", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "doubleclick", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "counterpane internet security", "obj_label": "santa"}
+{"pred": "business_company_place_founded", "sub_label": "china construction bank", "obj_label": "beijing"}
+{"pred": "business_company_place_founded", "sub_label": "home depot", "obj_label": "atlanta"}
+{"pred": "business_company_place_founded", "sub_label": "acxiom", "obj_label": "conway"}
+{"pred": "business_company_place_founded", "sub_label": "touchstone pictures", "obj_label": "burbank"}
+{"pred": "business_company_place_founded", "sub_label": "hearst corporation", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "general mills", "obj_label": "minneapolis"}
+{"pred": "business_company_place_founded", "sub_label": "goldman sachs", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "lucasarts", "obj_label": "marin"}
+{"pred": "business_company_place_founded", "sub_label": "planet hollywood", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "massey energy", "obj_label": "richmond"}
+{"pred": "business_company_place_founded", "sub_label": "subway", "obj_label": "miami"}
+{"pred": "business_company_place_founded", "sub_label": "benchmark capital", "obj_label": "menlo"}
+{"pred": "business_company_place_founded", "sub_label": "bank of china", "obj_label": "republic"}
+{"pred": "business_company_place_founded", "sub_label": "timken company", "obj_label": "st."}
+{"pred": "business_company_place_founded", "sub_label": "evraz group", "obj_label": "moscow"}
+{"pred": "business_company_place_founded", "sub_label": "bonwit teller", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "aldine press", "obj_label": "venice"}
+{"pred": "business_company_place_founded", "sub_label": "shanghai tang", "obj_label": "hong"}
+{"pred": "business_company_place_founded", "sub_label": "liz claiborne inc.", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "altria group", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "mister softee", "obj_label": "philadelphia"}
+{"pred": "business_company_place_founded", "sub_label": "tupperware", "obj_label": "orlando"}
+{"pred": "business_company_place_founded", "sub_label": "monsanto", "obj_label": "st."}
+{"pred": "business_company_place_founded", "sub_label": "oxford university press", "obj_label": "oxford"}
+{"pred": "business_company_place_founded", "sub_label": "electronic data systems", "obj_label": "texas"}
+{"pred": "business_company_place_founded", "sub_label": "borders group", "obj_label": "ann"}
+{"pred": "business_company_place_founded", "sub_label": "mega bloks", "obj_label": "montreal"}
+{"pred": "business_company_place_founded", "sub_label": "san francisco opera", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "liberty mutual", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "subway", "obj_label": "bridgeport"}
+{"pred": "business_company_place_founded", "sub_label": "vizio", "obj_label": "costa"}
+{"pred": "business_company_place_founded", "sub_label": "proenza schouler", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "avon products", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "mcgraw-hill", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "nec", "obj_label": "tokyo"}
+{"pred": "business_company_place_founded", "sub_label": "xerox", "obj_label": "rochester"}
+{"pred": "business_company_place_founded", "sub_label": "meredith corporation", "obj_label": "des"}
+{"pred": "business_company_place_founded", "sub_label": "i. magnin", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "infosys", "obj_label": "pune"}
+{"pred": "business_company_place_founded", "sub_label": "zipcar", "obj_label": "cambridge"}
+{"pred": "business_company_place_founded", "sub_label": "latham & watkins", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "enron", "obj_label": "omaha"}
+{"pred": "business_company_place_founded", "sub_label": "american apparel", "obj_label": "south"}
+{"pred": "business_company_place_founded", "sub_label": "canon", "obj_label": "tokyo"}
+{"pred": "business_company_place_founded", "sub_label": "agence france-presse", "obj_label": "paris"}
+{"pred": "business_company_place_founded", "sub_label": "pioneer investments", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "o'reilly media", "obj_label": "newton"}
+{"pred": "business_company_place_founded", "sub_label": "marimekko", "obj_label": "helsinki"}
+{"pred": "business_company_place_founded", "sub_label": "automatic data processing", "obj_label": "paterson"}
+{"pred": "business_company_place_founded", "sub_label": "germs", "obj_label": "georgetown"}
+{"pred": "business_company_place_founded", "sub_label": "wells fargo", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "merrill lynch", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "herbalife", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "lehman brothers", "obj_label": "montgomery"}
+{"pred": "business_company_place_founded", "sub_label": "the world", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "pepsico", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "bel canto", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "backbone entertainment", "obj_label": "vancouver"}
+{"pred": "business_company_place_founded", "sub_label": "al jazeera", "obj_label": "doha"}
+{"pred": "business_company_place_founded", "sub_label": "sun microsystems", "obj_label": "stanford"}
+{"pred": "business_company_place_founded", "sub_label": "american apparel", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "dell international services", "obj_label": "bangalore"}
+{"pred": "business_company_place_founded", "sub_label": "john wiley & sons", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "holt renfrew", "obj_label": "quebec"}
+{"pred": "business_company_place_founded", "sub_label": "hollywood pictures", "obj_label": "burbank"}
+{"pred": "business_company_place_founded", "sub_label": "allianz", "obj_label": "berlin"}
+{"pred": "business_company_place_founded", "sub_label": "utah street networks", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "bank of america", "obj_label": "bank"}
+{"pred": "business_company_place_founded", "sub_label": "akqa", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "newell rubbermaid", "obj_label": "ogdensburg"}
+{"pred": "business_company_place_founded", "sub_label": "sk telecom", "obj_label": "seoul"}
+{"pred": "business_company_place_founded", "sub_label": "shopzilla", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "softbank", "obj_label": "tokyo"}
+{"pred": "business_company_place_founded", "sub_label": "pantone", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "saatchi & saatchi", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "haier", "obj_label": "qingdao"}
+{"pred": "business_company_place_founded", "sub_label": "nestl\u00e9", "obj_label": "vevey"}
+{"pred": "business_company_place_founded", "sub_label": "kohn pedersen fox", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "skandia", "obj_label": "stockholm"}
+{"pred": "business_company_place_founded", "sub_label": "turner broadcasting", "obj_label": "atlanta"}
+{"pred": "business_company_place_founded", "sub_label": "canadian imperial bank of commerce", "obj_label": "toronto"}
+{"pred": "business_company_place_founded", "sub_label": "marks & spencer", "obj_label": "leeds"}
+{"pred": "business_company_place_founded", "sub_label": "dimension films", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "marine stewardship council", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "marsh & mclennan companies", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "reebok", "obj_label": "england"}
+{"pred": "business_company_place_founded", "sub_label": "reebok", "obj_label": "bolton"}
+{"pred": "business_company_place_founded", "sub_label": "yivo institute for jewish research", "obj_label": "vilnius"}
+{"pred": "business_company_place_founded", "sub_label": "gilead sciences", "obj_label": "foster"}
+{"pred": "business_company_place_founded", "sub_label": "adobe systems", "obj_label": "mountain"}
+{"pred": "business_company_place_founded", "sub_label": "friendster", "obj_label": "mountain"}
+{"pred": "business_company_place_founded", "sub_label": "pizza hut", "obj_label": "wichita"}
+{"pred": "business_company_place_founded", "sub_label": "tribune company", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "universal studios", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "bank sepah", "obj_label": "rasht"}
+{"pred": "business_company_place_founded", "sub_label": "general electric", "obj_label": "schenectady"}
+{"pred": "business_company_place_founded", "sub_label": "extreme associates", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "roosevelt institution", "obj_label": "stanford"}
+{"pred": "business_company_place_founded", "sub_label": "itsu", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "eddie bauer", "obj_label": "seattle"}
+{"pred": "business_company_place_founded", "sub_label": "brinker international", "obj_label": "dallas"}
+{"pred": "business_company_place_founded", "sub_label": "strawberry frog", "obj_label": "amsterdam"}
+{"pred": "business_company_place_founded", "sub_label": "speedo", "obj_label": "bondi"}
+{"pred": "business_company_place_founded", "sub_label": "sonic solutions", "obj_label": "novato"}
+{"pred": "business_company_place_founded", "sub_label": "eircom", "obj_label": "ireland"}
+{"pred": "business_company_place_founded", "sub_label": "rand mcnally", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "home depot", "obj_label": "marietta"}
+{"pred": "business_company_place_founded", "sub_label": "house of blues", "obj_label": "cambridge"}
+{"pred": "business_company_place_founded", "sub_label": "dell", "obj_label": "austin"}
+{"pred": "business_company_place_founded", "sub_label": "reprise media", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "est\u00e9e lauder companies", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "long & foster", "obj_label": "fairfax"}
+{"pred": "business_company_place_founded", "sub_label": "delage", "obj_label": "paris"}
+{"pred": "business_company_place_founded", "sub_label": "suncor energy", "obj_label": "montreal"}
+{"pred": "business_company_place_founded", "sub_label": "torys", "obj_label": "toronto"}
+{"pred": "business_company_place_founded", "sub_label": "blimpie", "obj_label": "hoboken"}
+{"pred": "business_company_place_founded", "sub_label": "gannett company", "obj_label": "rochester"}
+{"pred": "business_company_place_founded", "sub_label": "creative artists agency", "obj_label": "beverly"}
+{"pred": "business_company_place_founded", "sub_label": "bertelsmann", "obj_label": "g\u00fctersloh"}
+{"pred": "business_company_place_founded", "sub_label": "mannatech", "obj_label": "coppell"}
+{"pred": "business_company_place_founded", "sub_label": "american century investments", "obj_label": "kansas"}
+{"pred": "business_company_place_founded", "sub_label": "e. w. scripps company", "obj_label": "cleveland"}
+{"pred": "business_company_place_founded", "sub_label": "cathay pacific", "obj_label": "hong"}
+{"pred": "business_company_place_founded", "sub_label": "bank hapoalim", "obj_label": "israel"}
+{"pred": "business_company_place_founded", "sub_label": "bank of america", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "wikimedia foundation", "obj_label": "st."}
+{"pred": "business_company_place_founded", "sub_label": "gap inc.", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "convergys", "obj_label": "cincinnati"}
+{"pred": "business_company_place_founded", "sub_label": "club monaco", "obj_label": "toronto"}
+{"pred": "business_company_place_founded", "sub_label": "viropharma", "obj_label": "exton"}
+{"pred": "business_company_place_founded", "sub_label": "pepsico", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "netvibes", "obj_label": "paris"}
+{"pred": "business_company_place_founded", "sub_label": "hewlett-packard", "obj_label": "palo"}
+{"pred": "business_company_place_founded", "sub_label": "lojack", "obj_label": "massachusetts"}
+{"pred": "business_company_place_founded", "sub_label": "general motors", "obj_label": "flint"}
+{"pred": "business_company_place_founded", "sub_label": "paramount pictures", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "triborough bridge and tunnel authority", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "citigroup", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "china national petroleum corporation", "obj_label": "beijing"}
+{"pred": "business_company_place_founded", "sub_label": "comverse technology", "obj_label": "israel"}
+{"pred": "business_company_place_founded", "sub_label": "philips", "obj_label": "eindhoven"}
+{"pred": "business_company_place_founded", "sub_label": "tiffany & co.", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "regal entertainment group", "obj_label": "knoxville"}
+{"pred": "business_company_place_founded", "sub_label": "banana republic", "obj_label": "mill"}
+{"pred": "business_company_place_founded", "sub_label": "lazard", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "henry schein", "obj_label": "queens"}
+{"pred": "business_company_place_founded", "sub_label": "northern bank", "obj_label": "belfast"}
+{"pred": "business_company_place_founded", "sub_label": "berkshire hathaway", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "nina ricci", "obj_label": "paris"}
+{"pred": "business_company_place_founded", "sub_label": "hilton hotels corporation", "obj_label": "cisco"}
+{"pred": "business_company_place_founded", "sub_label": "firefly studios", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "capital economics", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "powerset", "obj_label": "palo"}
+{"pred": "business_company_place_founded", "sub_label": "principal financial group", "obj_label": "des"}
+{"pred": "business_company_place_founded", "sub_label": "university of strathclyde", "obj_label": "glasgow"}
+{"pred": "business_company_place_founded", "sub_label": "marshalls", "obj_label": "boston"}
+{"pred": "business_company_place_founded", "sub_label": "compuserve", "obj_label": "columbus"}
+{"pred": "business_company_place_founded", "sub_label": "darden restaurants", "obj_label": "lakeland"}
+{"pred": "business_company_place_founded", "sub_label": "hsbc", "obj_label": "hong"}
+{"pred": "business_company_place_founded", "sub_label": "digg", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "hero honda", "obj_label": "gurgaon"}
+{"pred": "business_company_place_founded", "sub_label": "bertone", "obj_label": "turin"}
+{"pred": "business_company_place_founded", "sub_label": "ericsson", "obj_label": "stockholm"}
+{"pred": "business_company_place_founded", "sub_label": "duesenberg", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "walt disney pictures", "obj_label": "burbank"}
+{"pred": "business_company_place_founded", "sub_label": "msnbc", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "liberty property trust", "obj_label": "philadelphia"}
+{"pred": "business_company_place_founded", "sub_label": "tasti d-lite", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "bank of credit and commerce international", "obj_label": "london"}
+{"pred": "business_company_place_founded", "sub_label": "restoration hardware", "obj_label": "eureka"}
+{"pred": "business_company_place_founded", "sub_label": "wyeth", "obj_label": "philadelphia"}
+{"pred": "business_company_place_founded", "sub_label": "archer daniels midland", "obj_label": "minneapolis"}
+{"pred": "business_company_place_founded", "sub_label": "research in motion", "obj_label": "waterloo"}
+{"pred": "business_company_place_founded", "sub_label": "hospira", "obj_label": "lake"}
+{"pred": "business_company_place_founded", "sub_label": "maxfli", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "michaels", "obj_label": "dallas"}
+{"pred": "business_company_place_founded", "sub_label": "wipro technologies", "obj_label": "india"}
+{"pred": "business_company_place_founded", "sub_label": "mutual of omaha", "obj_label": "omaha"}
+{"pred": "business_company_place_founded", "sub_label": "bank of italy", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "martha stewart living omnimedia", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "silvercup studios", "obj_label": "queens"}
+{"pred": "business_company_place_founded", "sub_label": "century 21 real estate", "obj_label": "california"}
+{"pred": "business_company_place_founded", "sub_label": "taco bell", "obj_label": "downey"}
+{"pred": "business_company_place_founded", "sub_label": "legg mason", "obj_label": "baltimore"}
+{"pred": "business_company_place_founded", "sub_label": "wells fargo", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "trend micro", "obj_label": "united"}
+{"pred": "business_company_place_founded", "sub_label": "northrop grumman", "obj_label": "denver"}
+{"pred": "business_company_place_founded", "sub_label": "tokyopop", "obj_label": "los"}
+{"pred": "business_company_place_founded", "sub_label": "cadbury", "obj_label": "birmingham"}
+{"pred": "business_company_place_founded", "sub_label": "peabody energy", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "steuben glass works", "obj_label": "corning"}
+{"pred": "business_company_place_founded", "sub_label": "julien", "obj_label": "quebec"}
+{"pred": "business_company_place_founded", "sub_label": "virgin megastore", "obj_label": "oxford"}
+{"pred": "business_company_place_founded", "sub_label": "chalco", "obj_label": "beijing"}
+{"pred": "business_company_place_founded", "sub_label": "knoll", "obj_label": "new"}
+{"pred": "business_company_place_founded", "sub_label": "raytheon", "obj_label": "cambridge"}
+{"pred": "business_company_place_founded", "sub_label": "budweiser", "obj_label": "st."}
+{"pred": "business_company_place_founded", "sub_label": "diebold election systems", "obj_label": "ohio"}
+{"pred": "business_company_place_founded", "sub_label": "miles", "obj_label": "bergen"}
+{"pred": "business_company_place_founded", "sub_label": "officemax", "obj_label": "cleveland"}
+{"pred": "business_company_place_founded", "sub_label": "bioware", "obj_label": "edmonton"}
+{"pred": "business_company_place_founded", "sub_label": "ssa global technologies", "obj_label": "chicago"}
+{"pred": "business_company_place_founded", "sub_label": "belo", "obj_label": "dallas"}
+{"pred": "business_company_place_founded", "sub_label": "netflix", "obj_label": "scotts"}
+{"pred": "business_company_place_founded", "sub_label": "sony computer entertainment", "obj_label": "san"}
+{"pred": "business_company_place_founded", "sub_label": "jerini", "obj_label": "berlin"}
+{"pred": "business_company_place_founded", "sub_label": "starhub", "obj_label": "singapore"}
+{"pred": "business_company_place_founded", "sub_label": "bell mobility", "obj_label": "toronto"}

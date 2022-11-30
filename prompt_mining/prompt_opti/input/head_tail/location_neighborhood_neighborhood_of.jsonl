@@ -1,849 +1,849 @@
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_germany", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_new_york", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "koreatown", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "waterside_plaza", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "samos", "obj": "tucson"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hillcrest", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "prospect_park", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kew_gardens", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "grand", "obj": "riverside"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dillard", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "love_field", "obj": "dallas"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "glenwood", "obj": "san_rafael"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "willets_point", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bayway", "obj": "elizabeth"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "germantown", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "warner_center", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "alphabet_city", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "upper_west_side", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cascade", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fishtown", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "broad_channel", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mission_dolores", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "electchester", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "stapleton", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "herald_square", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "canal_street", "obj": "buffalo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jackson_heights", "obj": "edmonton"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "college_point", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "nob_hill", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hegewisch", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "eagle_rock", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pearl_district", "obj": "portland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tottenville", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "brooklyn_heights", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jackson_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_harrison", "obj": "tucson"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "coal_harbour", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "greenwich_village", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "britannia", "obj": "ottawa"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "coney_island", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_norwalk", "obj": "fairfield_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "stuyvesant_town", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dorchester", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hawaii_kai", "obj": "honolulu"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ybor_city", "obj": "tampa"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "murray_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lincoln_square", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_roxbury", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "harajuku", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "marina", "obj": "san_diego_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "weeksville", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "canarsie", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "windsor_terrace", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bedford-stuyvesant", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lenox_hill", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_town", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "woodhaven", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bagley", "obj": "detroit"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_street_seaport", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "harding_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "burnside", "obj": "chicagoland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "uptown", "obj": "memphis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "manhattanville", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_lake", "obj": "atlanta"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "richmond_valley", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_jamaica", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "herald_square", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "del_ray", "obj": "alexandria"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "eliot", "obj": "portland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "upper_manhattan", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "prospect_hill", "obj": "new_haven"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sheepshead_bay", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "irish_channel", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pacific_heights", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "yurakucho", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "vinegar_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "charlestown", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "todt_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tanglewood", "obj": "houston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "main_street", "obj": "dallas"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "akihabara", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "volker", "obj": "kansas_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "forest_hills", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mill_basin", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_beach", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_hills", "obj": "pittsburgh"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fort_hamilton", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "broadway", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "manton", "obj": "providence"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "utopia", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "emerson_hill", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "oakley", "obj": "cincinnati"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "angora", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "capilano", "obj": "edmonton"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "college_hill", "obj": "st._louis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cypress_hills", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "grenelle", "obj": "paris"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sugar_hill", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "highbridge", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "whitestone", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "stanley_park", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bryant", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "morningside_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "old_town", "obj": "chicagoland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "black_rock", "obj": "bridgeport"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hollis", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dogtown", "obj": "oakland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_lake_union", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "downtown_eastside", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bronzeville", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "brighton_beach", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "forest_hills", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "over-the-rhine", "obj": "cincinnati"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "queensbridge", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "park_hill", "obj": "denver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "beechhurst", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "nob_hill", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hollywood_hills", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "battery_park_city", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "grand_boulevard", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bay_ridge", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "squirrel_hill", "obj": "pittsburgh"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "charles", "obj": "providence"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bywater", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_new_york", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "canarsie", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_falls", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "woodside", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "coto_de_caza", "obj": "orange_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jericho_beach", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ballard", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "elliot", "obj": "pittsburgh"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "carroll_gardens", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lighthouse_hill", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tenderloin", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "upper_manhattan", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "palms", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "watts", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_italy", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "new_utrecht", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "san_ysidro", "obj": "san_diego_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bensonhurst", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "starrett_city", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sugar_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "japantown", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "terrace_park", "obj": "tampa"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "new_springville", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lincoln_place", "obj": "pittsburgh"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jackson_heights", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "greenwood_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "annadale", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "holmby_hills", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "richmond_heights", "obj": "orlando"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "flushing", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jamaica_plain", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "century_city", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "beacon_hill", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pelham_manor", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rockefeller_center", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "haight-ashbury", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "windsor_terrace", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "long_wharf", "obj": "new_haven"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rossville", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_park", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "powerhouse_arts_district", "obj": "jersey_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_end", "obj": "st._louis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ocean_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pioneer_square", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "peter_cooper_village", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "russian_hill", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "liberty_island", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "great_kills", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_beach", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "touro", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "oakwood", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mechanicsville", "obj": "ottawa"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sutton_place", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "telegraph_hill", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "san_ysidro", "obj": "san_diego"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jamaica_hills", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "midland_beach", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "washington_heights", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "holy_cross", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "central_station", "obj": "chicagoland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ellis_island", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "far_rockaway", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "willowbrook", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "echo_park", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "homeland", "obj": "baltimore"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bricktown", "obj": "oklahoma_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "middle_village", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "howard_beach", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "wedgwood", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "new_dorp", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "greenpoint", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ingleside", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "brickell", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kapolei", "obj": "honolulu"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rose_hill", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hayes_valley", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bensonhurst", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "morrisania", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "exchange_place", "obj": "jersey_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bellerose", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "morris_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "asakusa", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "grand", "obj": "inland_empire"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "midtown", "obj": "detroit"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lower_ninth_ward", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "myers", "obj": "tucson"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dyker_heights", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lindenwood", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "riverside_park", "obj": "fort_lauderdale"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "old_town_chinatown", "obj": "portland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "midtown_manhattan", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "old_city", "obj": "knoxville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "upper_east_side", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sutton_place", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "river_walk", "obj": "ottawa"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dongan_hills", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "abell", "obj": "baltimore"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dogpatch", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "barclay", "obj": "baltimore"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "newport_coast", "obj": "orange_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "odaiba", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "woodhaven", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "coney_island", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_street_seaport", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_italy", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "watson_island", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "strickland", "obj": "oxnard"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_boston", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mission_bay", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bergen_beach", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ocean_parkway", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "roslindale", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "false_creek", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jamaica_estates", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "arden_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rockaway_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "la_jolla", "obj": "san_diego"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cranbury", "obj": "fairfield_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "st._vincent", "obj": "fairfield_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sherman_oaks", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kenwood", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "coral_shores", "obj": "fort_lauderdale"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "treasure_island", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "medora", "obj": "louisville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hollis", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kenmore_square", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "alamo_heights", "obj": "san_antonio"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "linden_hills", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bay_islands", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "greenwood_heights", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "coconut_grove", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sea_cliff", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cambria_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "homecrest", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_ozone_park", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shimokitazawa", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "co-op_city", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kew_gardens_hills", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "point_loma", "obj": "san_diego"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "marine_park", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "longfellow", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "flatbush", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "brooklyn_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_valley", "obj": "san_jose"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_williamsburg", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "san_pedro", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "battery_park_city", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mariners_harbor", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "howard_beach", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "twin_peaks", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "azabu", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "university_circle", "obj": "cleveland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "parkchester", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "far_rockaway", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_village", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "miracle_mile", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_elmhurst", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "new_utrecht", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ravenswood", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "seward_park", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pelham_bay", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "plum_beach", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "trocad\u00e9ro", "obj": "paris"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "gerritsen_beach", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "woodlawn", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_hollywood", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_los_angeles", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "arden_heights", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "electchester", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "carrick", "obj": "pittsburgh"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "crown_heights", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "midwood", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "middle_village", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "university_heights", "obj": "newark"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "black_rock", "obj": "fairfield"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "seventh_ward", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "prospect_heights", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "westview", "obj": "atlanta"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bayside", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "franklin_square", "obj": "syracuse"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "buckman", "obj": "portland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lenox_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "todt_hill", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "starrett_city", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cranbury", "obj": "norwalk"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "leimert_park", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hillcrest", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "belle_harbor", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pike_place_market", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fisher_island", "obj": "miami_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_phoenix", "obj": "phoenix"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "baldwin_village", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mill_basin", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bergen_beach", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "st._roch", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bankhead", "obj": "atlanta"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "river_market", "obj": "kansas_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "prospect_park_south", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "egbertville", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fort_wadsworth", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "vinegar_hill", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rogers_park", "obj": "chicagoland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "flushing", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mill_creek", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ironbound", "obj": "newark"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "granada_hills", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "boerum_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "russian_hill", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mount_washington", "obj": "baltimore"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "batignolles", "obj": "paris"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "manoa", "obj": "honolulu"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "glenbrook", "obj": "fairfield_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "les_halles", "obj": "paris"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dongan_hills", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "belle_harbor", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "glengarry", "obj": "edmonton"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cutler", "obj": "miami-dade_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "liberty_island", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "throgs_neck", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "point_loma", "obj": "san_diego_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_lawndale", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lower_east_side", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "laurel_canyon", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mariners_harbor", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "edgewater", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "central_station", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "noe_valley", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "haight-ashbury", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_paterson", "obj": "paterson"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "glen", "obj": "baltimore"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "clinton_hill", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rego_park", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "springfield_gardens", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "soundview", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "prince_charles", "obj": "edmonton"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cleveland_circle", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "chatsworth", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lake", "obj": "milwaukee"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "columbus_circle", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "oakland_gardens", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "stapleton", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hayes_valley", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tenderloin", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "baychester", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_village", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "soho", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rosebank", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shippan", "obj": "stamford"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "columbus_circle", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "seagate", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "long_island_city", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "albany_park", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "northrop", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "arden", "obj": "indianapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "boerum_hill", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "field", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kew_gardens", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hudson_heights", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "buckhead", "obj": "atlanta"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "beechhurst", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "country_club", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "port_richmond", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "seagate", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_jamaica", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_side", "obj": "buffalo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "travis", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "queens_village", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "country_club_plaza", "obj": "kansas_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ghazaliya", "obj": "baghdad"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fresh_meadows", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bath_beach", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "elmwood_park", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lodo", "obj": "denver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mattapan", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "flatlands", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "astoria", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hollis_hills", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "callahan", "obj": "orlando"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "montlake", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "woodland_hills", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ditmas_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "arverne", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mount_baker", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "faubourg_marigny", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bowery", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "gowanus", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jamaica_estates", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_flatbush", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "japantown", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "westerleigh", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jamaica_hills", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "san_telmo", "obj": "buenos_aires"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "morningside_heights", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "torrey_pines", "obj": "san_diego"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sherwood_forest", "obj": "charlotte"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "collins_park", "obj": "miami_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kalihi", "obj": "honolulu"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hamilton_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "marunouchi", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_beach", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "waterside_plaza", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rockaway_beach", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "prospect_hill", "obj": "new_haven_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "washington_avenue", "obj": "miami_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "yorkville", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "upper_west_side", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "liberty_city", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "broad_channel", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "brooklyn_navy_yard", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "times_square", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "university_of_british_columbia", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "el_cortez", "obj": "tucson"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rubbertown", "obj": "louisville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "academy", "obj": "st._louis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rockaway_park", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shinbashi", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "schuylkill", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "eastside", "obj": "long_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_of_market", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "talmadge", "obj": "san_diego"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "manhattanville", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bradley", "obj": "louisville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "alton_road", "obj": "miami_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "madison_park", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "millwall", "obj": "london"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "howe", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "utopia", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mechanicsville", "obj": "atlanta"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "devonshire", "obj": "dallas"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "logan_square", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "university", "obj": "riverside"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "douglaston", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_elmhurst", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "whitestone", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pleasant_plains", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_robertson", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "westchester", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "downtown_brooklyn", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "capitol_hill", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mill_river", "obj": "new_haven_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rainier_beach", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "montmartre", "obj": "paris"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "park_slope", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "montparnasse", "obj": "paris"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_liberty", "obj": "pittsburgh"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mill_river", "obj": "new_haven"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "marina", "obj": "san_diego"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "amity", "obj": "new_haven"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "longfellow", "obj": "oakland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rustic_canyon", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "belle_isle", "obj": "miami_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hollygrove", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hamilton_heights", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "marcus_garvey_park", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_granville", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "new_dorp", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ingleside", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "liberty_state_park", "obj": "jersey_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bel-air", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "salt_lake", "obj": "honolulu"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "maspeth", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "times_square", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "elysian_park", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "black_rock", "obj": "fairfield_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rincon_hill", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "university", "obj": "inland_empire"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dyker_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hale", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "st._vincent", "obj": "bridgeport"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_panhandle", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "clason_point", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "murray_hill", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jefferies", "obj": "detroit"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dumbo", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pelham_gardens", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "castleton_corners", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mount_airy", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "marble_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "carroll_park", "obj": "long_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "storyville", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "midtown_miami", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hamilton_park", "obj": "dallas"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fordham", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "grymes_hill", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "roosevelt_island", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "leonidas", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ocean_beach", "obj": "san_diego_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "washington_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "green_lake", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "treasure_island", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rosebank", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tsukiji", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "neve_tzedek", "obj": "tel_aviv"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "roxbury", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mckinley", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "holliswood", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "atlantic_station", "obj": "atlanta"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "weequahic", "obj": "newark"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "turtle_bay", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_orange", "obj": "orlando"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "the_hill", "obj": "new_haven"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fort_wadsworth", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_ozone_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "prospect_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "oxford_circle", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "los_cerritos", "obj": "long_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "graniteville", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "boyle_heights", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "governors_island", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "glenville", "obj": "cleveland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "belle_haven", "obj": "fairfax_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_neck", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "northridge", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "upper_east_side", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fresh_meadows", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rego_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "anaheim", "obj": "orange_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "college_point", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ocean_parkway", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "neponsit", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bushwick", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "balboa_island", "obj": "newport_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ritchie", "obj": "edmonton"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "montefiore", "obj": "tel_aviv"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "castleberry_hill", "obj": "atlanta"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "reseda", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "new_lots", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bay_ridge", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "spanish_harlem", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "talmadge", "obj": "san_diego_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "spanish_harlem", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "gramercy", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "belltown", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_tokyo", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "stapleton_heights", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "van_nuys", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "penrose", "obj": "st._louis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "stuyvesant_town", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "silver_lake", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "briarwood", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "potrero_hill", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tudor_city", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "toluca_lake", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "new_lots", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bellerose", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "los_feliz", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "westlake", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hallmark", "obj": "louisville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "eltingville", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "punjabi_market", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_end", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "penn_center", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lower_manhattan", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cobble_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "benedict_canyon", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "midwood", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "corcoran", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ocean_hill", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shippan_point", "obj": "fairfield_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_adams", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_flatbush", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fisher_island", "obj": "miami-dade_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "queens_village", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "manayunk", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "downtown", "obj": "providence"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_boston", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "treme", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "federal_hill", "obj": "baltimore"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "allston", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "poletown", "obj": "detroit"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "black_pearl", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lower_east_side", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bay_islands", "obj": "san_rafael"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "millard", "obj": "omaha"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "midtown_manhattan", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "breezy_point", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sheepshead_bay", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dogtown", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ravenswood", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "frankford", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "travis", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "malba", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "del_cerro", "obj": "san_diego"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "roosevelt_island", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "zayouna", "obj": "baghdad"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mandarin", "obj": "jacksonville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_central", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "menomonee_valley", "obj": "milwaukee"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ditmas_park", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_hills", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "boston_university", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rowayton", "obj": "fairfield_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shippan_point", "obj": "stamford"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dunning", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_street", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_new_brighton", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hollywood", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "carroll_gardens", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "laurel_heights", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "laurelton", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "overtown", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sewell", "obj": "tucson"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "stuyvesant_heights", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hancock_park", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "annadale", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mcqueen", "obj": "edmonton"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "seaview", "obj": "seattle"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dunning", "obj": "chicagoland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "grand_boulevard", "obj": "chicagoland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shadyside", "obj": "pittsburgh"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cobble_hill", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_havana", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "angelino_heights", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bayard", "obj": "jacksonville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "washington_park", "obj": "denver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "glenwood", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "park_slope", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "roppongi", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "inwood", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "downtown_brooklyn", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "preston_hollow", "obj": "dallas"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "washington_square", "obj": "syracuse"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "peter_cooper_village", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tiffany", "obj": "st._louis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tribeca", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pacific_palisades", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "broadway", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "weeksville", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_hills", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "douglaston", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "huguenot", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "newport_coast", "obj": "newport_beach"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "greektown", "obj": "baltimore"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fieldston", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "clear_lake_city", "obj": "houston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ginza", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "garden_district", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "old_town", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "studio_city", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "playa_del_rey", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "gramercy", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "haifa_street", "obj": "baghdad"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "midland_beach", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_neck", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "texas_christian_university", "obj": "fort_worth"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dogpatch", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "port_libert\u00e9", "obj": "jersey_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "canoga_park", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_beach", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shorewood", "obj": "milwaukee"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "second_avenue", "obj": "albany"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "red_hook", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "woodrow", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "arverne", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fort_greene", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_vancouver", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "river_oaks", "obj": "houston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kenny", "obj": "minneapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "eastwick", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "greenwich_village", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "brighton_beach", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_village", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shaw", "obj": "st._louis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "port_richmond", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tottenville", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "clinton_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "marcus_garvey_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "oakwood", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "north_hill", "obj": "akron"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sunset_park", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "grasmere", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "golden_triangle", "obj": "denver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "maspeth", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_columbus", "obj": "columbus"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "belknap", "obj": "louisville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_germany", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "the_hill", "obj": "new_haven_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "holmesburg", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "borough_park", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "long_island_city", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "springfield_gardens", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bayside", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "reed", "obj": "portland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sweet_auburn", "obj": "atlanta"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "richmond_valley", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pelham_parkway", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "inner_harbor", "obj": "baltimore"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ellis_island", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_village", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lorelei", "obj": "edmonton"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "soho", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "orlando_executive_airport", "obj": "orlando"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "encino", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "black_bottom", "obj": "detroit"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "dumbo", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cambria_heights", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "paulus_hook", "obj": "jersey_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tudor_city", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tremont", "obj": "cleveland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lake_lucerne", "obj": "miami-dade_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "nora", "obj": "indianapolis"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sunset_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "m\u00e9nilmontant", "obj": "paris"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lincoln_heights", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "southwest", "obj": "syracuse"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "santa_teresa", "obj": "san_jose"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_campus", "obj": "austin"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "carville", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "astoria", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "beachwood_canyon", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "back_bay", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kips_bay", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fort_greene", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kadhimiya", "obj": "baghdad"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "jacobs", "obj": "louisville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "noe_valley", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "riverdale", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "flatbush", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "broadmoor", "obj": "little_rock"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ozone_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "barbary_coast", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "riverwalk", "obj": "fort_lauderdale"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "queensbridge", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "village_green", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "williamsbridge", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "glenbrook", "obj": "stamford"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mt._washington", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bowery", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bercy", "obj": "paris"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "oakland_gardens", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bedford-stuyvesant", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mott_haven", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tribeca", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "french_quarter", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "little_haiti", "obj": "miami"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lincoln_square", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "atwood", "obj": "orange_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rockaway_beach", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "gerritsen_beach", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kips_bay", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "harbor_gateway", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rowayton", "obj": "norwalk"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "carville", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pomonok", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "chinatown", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "woodside", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_oak_lane", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_norwalk", "obj": "norwalk"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rogers_park", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "barbary_coast", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "chinatown", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_new_brighton", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bergman", "obj": "edmonton"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "koreatown", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "south_norwalk", "obj": "norwalk"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "boynton", "obj": "detroit"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "mayfair", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "brooklyn_navy_yard", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rockefeller_center", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "eltingville", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lindenwood", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "chicago_loop", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "shiodome", "obj": "tokyo"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "san_jose", "obj": "san_jose"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "willets_point", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "greenpoint", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sea_cliff", "obj": "san_francisco"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ozone_park", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "columbia_point", "obj": "boston"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "kitsilano", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "grymes_hill", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "recoleta", "obj": "buenos_aires"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "audubon", "obj": "new_orleans"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ben_ali", "obj": "sacramento"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bushwick", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "inwood", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bishop_arts_district", "obj": "dallas"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_tremont", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "karrada", "obj": "baghdad"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "red_hook", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "vailsburg", "obj": "newark"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lowry", "obj": "denver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sun_valley", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "new_springville", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "lower_manhattan", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "governors_island", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rosedale", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "breezy_point", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fort_hamilton", "obj": "brooklyn"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "embree", "obj": "garland"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "harlem", "obj": "manhattan"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "telegraph_hill", "obj": "san_francisco_bay_area"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "east_norwalk", "obj": "fairfield_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bedford_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "turtle_bay", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "fair_haven", "obj": "new_haven"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "cypress_hills", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "crown_heights", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "pico-union", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "burnside", "obj": "chicago"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "los_angeles_international_airport", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hollis_hills", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "laurelton", "obj": "queens"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "west_los_angeles", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "thai_town", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "rosedale", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "yaletown", "obj": "vancouver"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "richmondtown", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "harlem", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "northern_liberties", "obj": "philadelphia"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "sedgwick", "obj": "syracuse"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "ocean_beach", "obj": "san_diego"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "amity", "obj": "new_haven_county"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "puerto_madero", "obj": "buenos_aires"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "spuyten_duyvil", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "merriman", "obj": "akron"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "bunker_hill", "obj": "los_angeles"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "smoketown", "obj": "louisville"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "tompkinsville", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "hurriya", "obj": "baghdad"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "morris_park", "obj": "new_york_city"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "westerleigh", "obj": "staten_island"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "linwood", "obj": "cincinnati"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "elvira", "obj": "tucson"}
-{"pred": "location_neighborhood_neighborhood_of", "sub": "allerton", "obj": "new_york_city"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little germany", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east new york", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "koreatown", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "waterside plaza", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "samos", "obj_label": "tucson"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hillcrest", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "prospect park", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kew gardens", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "grand", "obj_label": "riverside"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dillard", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "love field", "obj_label": "dallas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "glenwood", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "willets point", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bayway", "obj_label": "elizabeth"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "germantown", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "warner center", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "alphabet city", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "upper west side", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cascade", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fishtown", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "broad channel", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mission dolores", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "electchester", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "stapleton", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "herald square", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "canal street", "obj_label": "buffalo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jackson heights", "obj_label": "edmonton"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "college point", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "nob hill", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hegewisch", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "eagle rock", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pearl district", "obj_label": "portland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tottenville", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "brooklyn heights", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jackson heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south harrison", "obj_label": "tucson"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "coal harbour", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "greenwich village", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "britannia", "obj_label": "ottawa"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "coney island", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south norwalk", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "stuyvesant town", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dorchester", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hawaii kai", "obj_label": "honolulu"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ybor city", "obj_label": "tampa"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "murray hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lincoln square", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west roxbury", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "harajuku", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "marina", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "weeksville", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "canarsie", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "windsor terrace", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bedford-stuyvesant", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lenox hill", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west town", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "woodhaven", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bagley", "obj_label": "detroit"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south street seaport", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "harding park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "burnside", "obj_label": "chicagoland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "uptown", "obj_label": "memphis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "manhattanville", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east lake", "obj_label": "atlanta"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "richmond valley", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south jamaica", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "herald square", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "del ray", "obj_label": "alexandria"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "eliot", "obj_label": "portland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "upper manhattan", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "prospect hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sheepshead bay", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "irish channel", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pacific heights", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "yurakucho", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "vinegar hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "charlestown", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "todt hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tanglewood", "obj_label": "houston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "main street", "obj_label": "dallas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "akihabara", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "volker", "obj_label": "kansas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "forest hills", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mill basin", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north beach", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east hills", "obj_label": "pittsburgh"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fort hamilton", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "broadway", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "manton", "obj_label": "providence"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "utopia", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "emerson hill", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "oakley", "obj_label": "cincinnati"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "angora", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "capilano", "obj_label": "edmonton"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "college hill", "obj_label": "st."}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cypress hills", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "grenelle", "obj_label": "paris"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sugar hill", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "highbridge", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "whitestone", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "stanley park", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bryant", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "morningside heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "old town", "obj_label": "chicagoland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "black rock", "obj_label": "bridgeport"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hollis", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dogtown", "obj_label": "oakland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south lake union", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "downtown eastside", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bronzeville", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "brighton beach", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "forest hills", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "over-the-rhine", "obj_label": "cincinnati"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "queensbridge", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "park hill", "obj_label": "denver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "beechhurst", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "nob hill", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hollywood hills", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "battery park city", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "grand boulevard", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bay ridge", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "squirrel hill", "obj_label": "pittsburgh"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "charles", "obj_label": "providence"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bywater", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east new york", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "canarsie", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east falls", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "woodside", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "coto de caza", "obj_label": "orange"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jericho beach", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ballard", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "elliot", "obj_label": "pittsburgh"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "carroll gardens", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lighthouse hill", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tenderloin", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "upper manhattan", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "palms", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "watts", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little italy", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "new utrecht", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "san ysidro", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bensonhurst", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "starrett city", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sugar hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "japantown", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "terrace park", "obj_label": "tampa"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "new springville", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lincoln place", "obj_label": "pittsburgh"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jackson heights", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "greenwood heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "annadale", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "holmby hills", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "richmond heights", "obj_label": "orlando"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "flushing", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jamaica plain", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "century city", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "beacon hill", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pelham manor", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rockefeller center", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "haight-ashbury", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "windsor terrace", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "long wharf", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rossville", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south park", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "powerhouse arts district", "obj_label": "jersey"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west end", "obj_label": "st."}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ocean hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pioneer square", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "peter cooper village", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "russian hill", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "liberty island", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "great kills", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south beach", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "touro", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "oakwood", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mechanicsville", "obj_label": "ottawa"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sutton place", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "telegraph hill", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "san ysidro", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jamaica hills", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "midland beach", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "washington heights", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "holy cross", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "central station", "obj_label": "chicagoland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ellis island", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "far rockaway", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "willowbrook", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "echo park", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "homeland", "obj_label": "baltimore"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bricktown", "obj_label": "oklahoma"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "middle village", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "howard beach", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "wedgwood", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "new dorp", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "greenpoint", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ingleside", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "brickell", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kapolei", "obj_label": "honolulu"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rose hill", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hayes valley", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bensonhurst", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "morrisania", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "exchange place", "obj_label": "jersey"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bellerose", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "morris heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "asakusa", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "grand", "obj_label": "inland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "midtown", "obj_label": "detroit"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lower ninth ward", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "myers", "obj_label": "tucson"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dyker heights", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lindenwood", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "riverside park", "obj_label": "fort"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "old town chinatown", "obj_label": "portland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "midtown manhattan", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "old city", "obj_label": "knoxville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "upper east side", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sutton place", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "river walk", "obj_label": "ottawa"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dongan hills", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "abell", "obj_label": "baltimore"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dogpatch", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "barclay", "obj_label": "baltimore"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "newport coast", "obj_label": "orange"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "odaiba", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "woodhaven", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "coney island", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south street seaport", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little italy", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "watson island", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "strickland", "obj_label": "oxnard"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south boston", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mission bay", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bergen beach", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ocean parkway", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "roslindale", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "false creek", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jamaica estates", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "arden heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rockaway park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "la jolla", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cranbury", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "st. vincent", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sherman oaks", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kenwood", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "coral shores", "obj_label": "fort"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "treasure island", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "medora", "obj_label": "louisville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hollis", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kenmore square", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "alamo heights", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "linden hills", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bay islands", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "greenwood heights", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "coconut grove", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sea cliff", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cambria heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "homecrest", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south ozone park", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shimokitazawa", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "co-op city", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kew gardens hills", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "point loma", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "marine park", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "longfellow", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "flatbush", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "brooklyn heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west valley", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east williamsburg", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "san pedro", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "battery park city", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mariners harbor", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "howard beach", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "twin peaks", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "azabu", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "university circle", "obj_label": "cleveland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "parkchester", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "far rockaway", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east village", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "miracle mile", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east elmhurst", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "new utrecht", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ravenswood", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "seward park", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pelham bay", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "plum beach", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "trocad\u00e9ro", "obj_label": "paris"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "gerritsen beach", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "woodlawn", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north hollywood", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south los angeles", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "arden heights", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "electchester", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "carrick", "obj_label": "pittsburgh"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "crown heights", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "midwood", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "middle village", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "university heights", "obj_label": "newark"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "black rock", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "seventh ward", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "prospect heights", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "westview", "obj_label": "atlanta"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bayside", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "franklin square", "obj_label": "syracuse"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "buckman", "obj_label": "portland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lenox hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "todt hill", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "starrett city", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cranbury", "obj_label": "norwalk"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "leimert park", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hillcrest", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "belle harbor", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pike place market", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fisher island", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south phoenix", "obj_label": "phoenix"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "baldwin village", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mill basin", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bergen beach", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "st. roch", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bankhead", "obj_label": "atlanta"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "river market", "obj_label": "kansas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "prospect park south", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "egbertville", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fort wadsworth", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "vinegar hill", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rogers park", "obj_label": "chicagoland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "flushing", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mill creek", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ironbound", "obj_label": "newark"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "granada hills", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "boerum hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "russian hill", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mount washington", "obj_label": "baltimore"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "batignolles", "obj_label": "paris"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "manoa", "obj_label": "honolulu"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "glenbrook", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "les halles", "obj_label": "paris"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dongan hills", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "belle harbor", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "glengarry", "obj_label": "edmonton"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cutler", "obj_label": "miami-dade"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "liberty island", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "throgs neck", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "point loma", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north lawndale", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lower east side", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "laurel canyon", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mariners harbor", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "edgewater", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "central station", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "noe valley", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "haight-ashbury", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south paterson", "obj_label": "paterson"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "glen", "obj_label": "baltimore"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "clinton hill", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rego park", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "springfield gardens", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "soundview", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "prince charles", "obj_label": "edmonton"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cleveland circle", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "chatsworth", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lake", "obj_label": "milwaukee"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "columbus circle", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "oakland gardens", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "stapleton", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hayes valley", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tenderloin", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "baychester", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west village", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "soho", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rosebank", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shippan", "obj_label": "stamford"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "columbus circle", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "seagate", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "long island city", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "albany park", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "northrop", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "arden", "obj_label": "indianapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "boerum hill", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "field", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kew gardens", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hudson heights", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "buckhead", "obj_label": "atlanta"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "beechhurst", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "country club", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "port richmond", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "seagate", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south jamaica", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east side", "obj_label": "buffalo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "travis", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "queens village", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "country club plaza", "obj_label": "kansas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ghazaliya", "obj_label": "baghdad"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fresh meadows", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bath beach", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "elmwood park", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lodo", "obj_label": "denver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mattapan", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "flatlands", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "astoria", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hollis hills", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "callahan", "obj_label": "orlando"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "montlake", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "woodland hills", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ditmas park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "arverne", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mount baker", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "faubourg marigny", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bowery", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "gowanus", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jamaica estates", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east flatbush", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "japantown", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "westerleigh", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jamaica hills", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "san telmo", "obj_label": "buenos"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "morningside heights", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "torrey pines", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sherwood forest", "obj_label": "charlotte"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "collins park", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kalihi", "obj_label": "honolulu"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hamilton heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "marunouchi", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north beach", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "waterside plaza", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rockaway beach", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "prospect hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "washington avenue", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "yorkville", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "upper west side", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "liberty city", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "broad channel", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "brooklyn navy yard", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "times square", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "university of british columbia", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "el cortez", "obj_label": "tucson"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rubbertown", "obj_label": "louisville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "academy", "obj_label": "st."}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rockaway park", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shinbashi", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "schuylkill", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "eastside", "obj_label": "long"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south of market", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "talmadge", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "manhattanville", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bradley", "obj_label": "louisville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "alton road", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "madison park", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "millwall", "obj_label": "london"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "howe", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "utopia", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mechanicsville", "obj_label": "atlanta"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "devonshire", "obj_label": "dallas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "logan square", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "university", "obj_label": "riverside"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "douglaston", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east elmhurst", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "whitestone", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pleasant plains", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south robertson", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "westchester", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "downtown brooklyn", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "capitol hill", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mill river", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rainier beach", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "montmartre", "obj_label": "paris"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "park slope", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "montparnasse", "obj_label": "paris"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east liberty", "obj_label": "pittsburgh"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mill river", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "marina", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "amity", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "longfellow", "obj_label": "oakland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rustic canyon", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "belle isle", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hollygrove", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hamilton heights", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "marcus garvey park", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south granville", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "new dorp", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ingleside", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "liberty state park", "obj_label": "jersey"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bel-air", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "salt lake", "obj_label": "honolulu"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "maspeth", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "times square", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "elysian park", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "black rock", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rincon hill", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "university", "obj_label": "inland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dyker heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hale", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "st. vincent", "obj_label": "bridgeport"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north panhandle", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "clason point", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "murray hill", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jefferies", "obj_label": "detroit"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dumbo", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pelham gardens", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "castleton corners", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mount airy", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "marble hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "carroll park", "obj_label": "long"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "storyville", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "midtown miami", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hamilton park", "obj_label": "dallas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fordham", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "grymes hill", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "roosevelt island", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "leonidas", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ocean beach", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "washington heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "green lake", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "treasure island", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rosebank", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tsukiji", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "neve tzedek", "obj_label": "tel"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "roxbury", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mckinley", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "holliswood", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "atlantic station", "obj_label": "atlanta"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "weequahic", "obj_label": "newark"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "turtle bay", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north orange", "obj_label": "orlando"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "the hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fort wadsworth", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south ozone park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "prospect heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "oxford circle", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "los cerritos", "obj_label": "long"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "graniteville", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "boyle heights", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "governors island", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "glenville", "obj_label": "cleveland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "belle haven", "obj_label": "fairfax"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little neck", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "northridge", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "upper east side", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fresh meadows", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rego park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "anaheim", "obj_label": "orange"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "college point", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ocean parkway", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "neponsit", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bushwick", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "balboa island", "obj_label": "newport"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ritchie", "obj_label": "edmonton"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "montefiore", "obj_label": "tel"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "castleberry hill", "obj_label": "atlanta"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "reseda", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "new lots", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bay ridge", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "spanish harlem", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "talmadge", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "spanish harlem", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "gramercy", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "belltown", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little tokyo", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "stapleton heights", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "van nuys", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "penrose", "obj_label": "st."}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "stuyvesant town", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "silver lake", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "briarwood", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "potrero hill", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tudor city", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "toluca lake", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "new lots", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bellerose", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "los feliz", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "westlake", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hallmark", "obj_label": "louisville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "eltingville", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "punjabi market", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south end", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "penn center", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lower manhattan", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cobble hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "benedict canyon", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "midwood", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "corcoran", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ocean hill", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shippan point", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west adams", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east flatbush", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fisher island", "obj_label": "miami-dade"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "queens village", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "manayunk", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "downtown", "obj_label": "providence"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east boston", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "treme", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "federal hill", "obj_label": "baltimore"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "allston", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "poletown", "obj_label": "detroit"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "black pearl", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lower east side", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bay islands", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "millard", "obj_label": "omaha"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "midtown manhattan", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "breezy point", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sheepshead bay", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dogtown", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ravenswood", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "frankford", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "travis", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "malba", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "del cerro", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "roosevelt island", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "zayouna", "obj_label": "baghdad"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mandarin", "obj_label": "jacksonville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north central", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "menomonee valley", "obj_label": "milwaukee"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ditmas park", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west hills", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "boston university", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rowayton", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shippan point", "obj_label": "stamford"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dunning", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south street", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west new brighton", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hollywood", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "carroll gardens", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "laurel heights", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "laurelton", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "overtown", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sewell", "obj_label": "tucson"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "stuyvesant heights", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hancock park", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "annadale", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mcqueen", "obj_label": "edmonton"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "seaview", "obj_label": "seattle"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dunning", "obj_label": "chicagoland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "grand boulevard", "obj_label": "chicagoland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shadyside", "obj_label": "pittsburgh"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cobble hill", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little havana", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "angelino heights", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bayard", "obj_label": "jacksonville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "washington park", "obj_label": "denver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "glenwood", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "park slope", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "roppongi", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "inwood", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "downtown brooklyn", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "preston hollow", "obj_label": "dallas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "washington square", "obj_label": "syracuse"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "peter cooper village", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tiffany", "obj_label": "st."}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tribeca", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pacific palisades", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "broadway", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "weeksville", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north hills", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "douglaston", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "huguenot", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "newport coast", "obj_label": "newport"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "greektown", "obj_label": "baltimore"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fieldston", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "clear lake city", "obj_label": "houston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ginza", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "garden district", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "old town", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "studio city", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "playa del rey", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "gramercy", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "haifa street", "obj_label": "baghdad"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "midland beach", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little neck", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "texas christian university", "obj_label": "fort"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dogpatch", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "port libert\u00e9", "obj_label": "jersey"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "canoga park", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south beach", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shorewood", "obj_label": "milwaukee"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "second avenue", "obj_label": "albany"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "red hook", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "woodrow", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "arverne", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fort greene", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east vancouver", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "river oaks", "obj_label": "houston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kenny", "obj_label": "minneapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "eastwick", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "greenwich village", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "brighton beach", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west village", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shaw", "obj_label": "st."}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "port richmond", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tottenville", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "clinton hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "marcus garvey park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "oakwood", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "north hill", "obj_label": "akron"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sunset park", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "grasmere", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "golden triangle", "obj_label": "denver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "maspeth", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west columbus", "obj_label": "columbus"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "belknap", "obj_label": "louisville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little germany", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "the hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "holmesburg", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "borough park", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "long island city", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "springfield gardens", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bayside", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "reed", "obj_label": "portland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sweet auburn", "obj_label": "atlanta"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "richmond valley", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pelham parkway", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "inner harbor", "obj_label": "baltimore"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ellis island", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east village", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lorelei", "obj_label": "edmonton"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "soho", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "orlando executive airport", "obj_label": "orlando"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "encino", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "black bottom", "obj_label": "detroit"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "dumbo", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cambria heights", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "paulus hook", "obj_label": "jersey"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tudor city", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tremont", "obj_label": "cleveland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lake lucerne", "obj_label": "miami-dade"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "nora", "obj_label": "indianapolis"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sunset park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "m\u00e9nilmontant", "obj_label": "paris"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lincoln heights", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "southwest", "obj_label": "syracuse"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "santa teresa", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west campus", "obj_label": "austin"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "carville", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "astoria", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "beachwood canyon", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "back bay", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kips bay", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fort greene", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kadhimiya", "obj_label": "baghdad"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "jacobs", "obj_label": "louisville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "noe valley", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "riverdale", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "flatbush", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "broadmoor", "obj_label": "little"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ozone park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "barbary coast", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "riverwalk", "obj_label": "fort"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "queensbridge", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "village green", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "williamsbridge", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "glenbrook", "obj_label": "stamford"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mt. washington", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bowery", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bercy", "obj_label": "paris"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "oakland gardens", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bedford-stuyvesant", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mott haven", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tribeca", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "french quarter", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "little haiti", "obj_label": "miami"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lincoln square", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "atwood", "obj_label": "orange"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rockaway beach", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "gerritsen beach", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kips bay", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "harbor gateway", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rowayton", "obj_label": "norwalk"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "carville", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pomonok", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "chinatown", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "woodside", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west oak lane", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east norwalk", "obj_label": "norwalk"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rogers park", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "barbary coast", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "chinatown", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west new brighton", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bergman", "obj_label": "edmonton"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "koreatown", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "south norwalk", "obj_label": "norwalk"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "boynton", "obj_label": "detroit"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "mayfair", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "brooklyn navy yard", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rockefeller center", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "eltingville", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lindenwood", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "chicago loop", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "shiodome", "obj_label": "tokyo"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "san jose", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "willets point", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "greenpoint", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sea cliff", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ozone park", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "columbia point", "obj_label": "boston"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "kitsilano", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "grymes hill", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "recoleta", "obj_label": "buenos"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "audubon", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ben ali", "obj_label": "sacramento"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bushwick", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "inwood", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bishop arts district", "obj_label": "dallas"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east tremont", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "karrada", "obj_label": "baghdad"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "red hook", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "vailsburg", "obj_label": "newark"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lowry", "obj_label": "denver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sun valley", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "new springville", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "lower manhattan", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "governors island", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rosedale", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "breezy point", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fort hamilton", "obj_label": "brooklyn"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "embree", "obj_label": "garland"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "harlem", "obj_label": "manhattan"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "telegraph hill", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "east norwalk", "obj_label": "fairfield"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bedford park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "turtle bay", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "fair haven", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "cypress hills", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "crown heights", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "pico-union", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "burnside", "obj_label": "chicago"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "los angeles international airport", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hollis hills", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "laurelton", "obj_label": "queens"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "west los angeles", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "thai town", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "rosedale", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "yaletown", "obj_label": "vancouver"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "richmondtown", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "harlem", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "northern liberties", "obj_label": "philadelphia"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "sedgwick", "obj_label": "syracuse"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "ocean beach", "obj_label": "san"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "amity", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "puerto madero", "obj_label": "buenos"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "spuyten duyvil", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "merriman", "obj_label": "akron"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "bunker hill", "obj_label": "los"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "smoketown", "obj_label": "louisville"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "tompkinsville", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "hurriya", "obj_label": "baghdad"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "morris park", "obj_label": "new"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "westerleigh", "obj_label": "staten"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "linwood", "obj_label": "cincinnati"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "elvira", "obj_label": "tucson"}
+{"pred": "location_neighborhood_neighborhood_of", "sub_label": "allerton", "obj_label": "new"}

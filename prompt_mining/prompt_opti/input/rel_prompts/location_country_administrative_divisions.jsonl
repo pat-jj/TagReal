@@ -15,11 +15,8 @@
 {"relation": "location_country_administrative_divisions", "template": "[Y] from [X]"}
 {"relation": "location_country_administrative_divisions", "template": "[X] at [Y]"}
 {"relation": "location_country_administrative_divisions", "template": "[X] ' s [Y] region"}
-{"relation": "location_country_administrative_divisions", "template": "[X] \u2013 [Y]"}
-{"relation": "location_country_administrative_divisions", "template": "[Y] \u2013 [X]"}
 {"relation": "location_country_administrative_divisions", "template": "[Y] / [X]"}
 {"relation": "location_country_administrative_divisions", "template": "[X] ' s [Y]"}
-{"relation": "location_country_administrative_divisions", "template": "[X] [Y] , [X]"}
 {"relation": "location_country_administrative_divisions", "template": "[X] , [Y] ,"}
 {"relation": "location_country_administrative_divisions", "template": "[Y] , [X] ,"}
 {"relation": "location_country_administrative_divisions", "template": "province of , [Y] , [X]"}

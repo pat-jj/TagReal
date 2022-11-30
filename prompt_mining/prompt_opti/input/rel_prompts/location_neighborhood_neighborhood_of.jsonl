@@ -23,7 +23,6 @@
 {"relation": "location_neighborhood_neighborhood_of", "template": "street in the [X] neighborhood of [Y]"}
 {"relation": "location_neighborhood_neighborhood_of", "template": "[Y] in the [X]"}
 {"relation": "location_neighborhood_neighborhood_of", "template": "[X] , [Y]"}
-{"relation": "location_neighborhood_neighborhood_of", "template": "[X] , [Y]  [X]"}
 {"relation": "location_neighborhood_neighborhood_of", "template": "[Y] and [X]"}
 {"relation": "location_neighborhood_neighborhood_of", "template": "[Y] 's [X] neighborhood,"}
 {"relation": "location_neighborhood_neighborhood_of", "template": "[Y] 's [X] neighborhood"}

@@ -229,16 +229,21 @@ def filter_samples(model, samples, vocab_subset, max_sentence_length, template):
     msg = ""
     new_samples = []
     samples_exluded = 0
+    cnt = 0
     for sample in samples:
+        cnt += 1
         excluded = False
         if "obj_label" in sample and "sub_label" in sample:
+            print(cnt)
 
             obj_label_ids = model.get_id(sample["obj_label"])
+            print(obj_label_ids)
 
             if obj_label_ids:
                 recostructed_word = " ".join(
                     [model.vocab[x] for x in obj_label_ids]
                 ).strip()
+                print(recostructed_word)
             else:
                 recostructed_word = None
 
@@ -313,7 +318,8 @@ def main(args,
          dynamic='none',
          use_prob=False,
          bt_obj=None,
-         temp_model=None):
+         temp_model=None,
+         relation_name=None):
 
     if len(args.models_names) > 1:
         raise ValueError('Please specify a single language model (e.g., --lm "bert").')
@@ -512,6 +518,9 @@ def main(args,
     features_list2 = []
     bt_features_list = []
     label_index_tensor_list = []
+    
+    
+    result = {}
 
     for i in tqdm(range(len(samples_batches_li))):
 
@@ -558,7 +567,7 @@ def main(args,
                 token_logprob = token_logprob * mask_tensor
                 consist_score = token_logprob.sum(-1) / mask_tensor.sum(-1)  # normalized prob
 
-            '''
+            
             if vocab_subset is not None:
                 # filter log_probs
                 filtered_log_probs_list = model.filter_logprobs(
@@ -566,7 +575,7 @@ def main(args,
                 )
             else:
                 filtered_log_probs_list = original_log_probs_list
-            '''
+            
 
             # get the prediction probability
             if vocab_subset is not None:
@@ -659,8 +668,10 @@ def main(args,
 
         label_index_list = []
         obj_word_list = []
+        vocab_subset = None
         for sample in samples_b:
             obj_label_id = model.get_id(sample["obj_label"])
+            # print(obj_label_id, sample["obj_label"])
 
             # MAKE SURE THAT obj_label IS IN VOCABULARIES
             if obj_label_id is None:
@@ -670,11 +681,13 @@ def main(args,
                     )
                 )
             elif model.vocab[obj_label_id[0]] != sample["obj_label"]:
+                # print(model.vocab[obj_label_id[0]], sample["obj_label"])
                 raise ValueError(
                     "object label {} not in model vocabulary".format(
                         sample["obj_label"]
                     )
                 )
+
             elif vocab_subset is not None and sample["obj_label"] not in vocab_subset:
                 raise ValueError(
                     "object label {} not in vocab subset".format(sample["obj_label"])
@@ -683,6 +696,8 @@ def main(args,
             label_index_list.append(obj_label_id)
             obj_word_list.append(sample['obj_label'])
 
+        # print('label_index_list:', label_index_list)
+        # print('obj_word_list', obj_word_list)
         if dynamic == 'all_topk' or \
                 dynamic.startswith('real_lm_topk') or \
                 dynamic.startswith('obj_lm_topk') or \
@@ -697,6 +712,8 @@ def main(args,
                     len(sentences_b_all), len(filter_lp_merge2) // len(sentences_b_all), -1).permute(1, 0, 2)
             # SHAPE: (batch_size)
             label_index_tensor = torch.tensor([index_list.index(li[0]) for li in label_index_list])
+            # label_index_tensor = torch.tensor([index_list.index(li[0]) for li in label_index_list])
+
             c_inc = np.array(metrics.analyze_prob(
                 filter_lp_merge, label_index_tensor, output=False, method='sample'))
             c_inc_stat += c_inc
@@ -714,6 +731,7 @@ def main(args,
             elif optimizer == 'precompute':  # pre-compute and save featuers
                 lp = filter_lp_merge
                 # SHAPE: (batch_size * num_temp)
+                # print('label_index_tensor: ', label_index_tensor)
                 features = torch.gather(lp.contiguous().view(-1, lp.size(-1)), dim=1,
                                         index=label_index_tensor.repeat(lp.size(1)).view(-1, 1))
                 features = features.view(-1, lp.size(1))
@@ -758,6 +776,7 @@ def main(args,
                 objs_ind = torch.sort(objs_ind, dim=-1)[0]  # the index must be ascending
             elif optimizer == 'precompute':  # use ground truth
                 objs_ind = label_index_tensor.view(-1, 1)
+                # print('objs_ind: ', objs_ind)
                 bt_obj = 1
             elif optimizer is not None:  # get both ground truth and beam search
                 # SHAPE: (batch_size, bt_obj)
@@ -768,11 +787,19 @@ def main(args,
 
             # bach translation
             sub_lp_list = []
+            idx = 0
             for sentences_b, samples_b_this in zip(sentences_b_all, samples_b_all):  # iter over templates
+                if idx not in result.keys():
+                    result[idx] = []
                 for obj_i in range(bt_obj):  # iter over objs
                     sentences_b_mask_sub = []
                     for s, obj_pred, obj_word in zip(samples_b_this, objs_ind, obj_word_list):
                         replace_tok = used_vocab[obj_pred[obj_i].item()]
+
+
+                        result[idx].append((replace_tok, obj_word))
+
+
                         if optimizer == 'precompute':
                             assert replace_tok.strip() == obj_word.strip()
                         sentences_b_mask_sub.append([replace_list(s['sub_masked_sentences'][0][0], model.mask_token, replace_tok)])
@@ -787,10 +814,19 @@ def main(args,
                     sub_lp = sub_lp * mask_tensor
                     sub_lp_avg = sub_lp.sum(-1) / mask_tensor.sum(-1)  # normalized prob
                     sub_lp_list.append(sub_lp_avg)
+                idx += 1
+
+            # out_name = f'./output/raw_results/{relation_name}.json'
+            # open(out_name, 'w').close()
+            # with open(out_name, "w") as outfile:
+            #     json.dump(result, outfile)
+
 
             # SHAPE: (batch_size, num_temp, top_obj_num)
             num_temp = len(sentences_b_all)
             sub_lp_list = torch.cat(sub_lp_list, 0).view(num_temp, bt_obj, -1).permute(2, 0, 1)
+            # print(sub_lp_list)
+
 
             if optimizer == 'precompute':
                 bt_features_list.append(sub_lp_list.squeeze(-1))
@@ -874,16 +910,16 @@ def main(args,
                 element["sample_perplexity"] = sample_perplexity
                 element["sample_Precision1"] = result_masked_topk["P_AT_1"]
 
-                # print()
-                # print("idx: {}".format(idx))
-                # print("masked_entity: {}".format(result_masked_topk['masked_entity']))
-                # for yi in range(10):
-                #     print("\t{} {}".format(yi,result_masked_topk['topk'][yi]))
-                # print("masked_indices_list: {}".format(masked_indices_list[idx]))
-                # print("sample_MRR: {}".format(sample_MRR))
-                # print("sample_P: {}".format(sample_P))
-                # print("sample: {}".format(sample))
-                # print()
+                print()
+                print("idx: {}".format(idx))
+                print("masked_entity: {}".format(result_masked_topk['masked_entity']))
+                for yi in range(10):
+                    print("\t{} {}".format(yi,result_masked_topk['topk'][yi]))
+                print("masked_indices_list: {}".format(masked_indices_list[idx]))
+                print("sample_MRR: {}".format(sample_MRR))
+                print("sample_P: {}".format(sample_P))
+                print("sample: {}".format(sample))
+                print()
 
                 MRR[temp_id] += sample_MRR
                 Precision[temp_id] += sample_P
@@ -948,17 +984,26 @@ def main(args,
             label_count = torch.bincount(label_index_tensor)
             label_count = torch.index_select(label_count, 0, label_index_tensor)
             sample_weight = F.softmax(temperature * torch.log(1.0 / label_count.float()), 0) * label_index_tensor.size(0)
+            # print(sample_weight)
             min_loss = 1e10
             es = 0
             batch_size = 128
+            # print(features)
             for e in range(500):
+                # print(e)
                 # loss = temp_model_(args.relation, features.cuda(), target=label_index_tensor.cuda(), use_softmax=True)
                 loss_li = []
                 for b in range(0, features.size(0), batch_size):
+                    # print(b)
                     features_b = features[b:b + batch_size].cuda()
                     label_index_tensor_b = label_index_tensor[b:b + batch_size].cuda()
                     sample_weight_b = sample_weight[b:b + batch_size].cuda()
+                    # print(args.relation)
+                    # print(f'features_b: {features_b.size()}, sample_weight_b: {sample_weight_b.size()}, label_index_tensor_b: {label_index_tensor_b.size()}')
+                    # print(sample_weight_b)
+                    # print(label_index_tensor_b)
                     loss = temp_model_(args.relation, features_b, target=label_index_tensor_b, sample_weight=sample_weight_b, use_softmax=True)
+                    # print('loss: ', loss)
                     if model2 is not None:
                         features2_b = features2[b:b + batch_size].cuda()
                         loss2 = temp_model_(args.relation, features2_b, target=label_index_tensor_b, sample_weight=sample_weight_b, use_softmax=True)
@@ -967,13 +1012,15 @@ def main(args,
                     loss.backward()
                     optimizer.step()
                     loss_li.append(loss.cpu().item())
+                    # print('batch loss:', loss_li)
                 dev_loss = np.mean(loss_li)
-                if dev_loss - min_loss < -1e-3:
+                print(dev_loss)
+                if dev_loss - min_loss < -1e-4:
                     min_loss = dev_loss
                     es = 0
                 else:
                     es += 1
-                    if es >= 30:
+                    if es >= 50:
                         print('early stop')
                         break
             temp_model_.cpu()

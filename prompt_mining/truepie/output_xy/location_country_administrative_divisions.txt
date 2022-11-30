@@ -15,11 +15,8 @@
 [Y] from [X]
 [X] at [Y]
 [X] ' s [Y] region
-[X] – [Y]
-[Y] – [X]
 [Y] / [X]
 [X] ' s [Y]
-[X] [Y] , [X]
 [X] , [Y] ,
 [Y] , [X] ,
 province of , [Y] , [X]

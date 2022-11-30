@@ -1,583 +1,583 @@
-{"pred": "business_company_founders", "sub": "kayak", "obj": "paul_english"}
-{"pred": "business_company_founders", "sub": "chez_panisse", "obj": "paul_aratow"}
-{"pred": "business_company_founders", "sub": "ice.com", "obj": "shmuel_gniwisch"}
-{"pred": "business_company_founders", "sub": "swarthmore_college", "obj": "lucretia_mott"}
-{"pred": "business_company_founders", "sub": "general_foods", "obj": "marjorie_merriweather_post"}
-{"pred": "business_company_founders", "sub": "playboy_enterprises", "obj": "hugh_hefner"}
-{"pred": "business_company_founders", "sub": "intel_corporation", "obj": "gordon_moore"}
-{"pred": "business_company_founders", "sub": "kqed", "obj": "james_day"}
-{"pred": "business_company_founders", "sub": "bauhaus", "obj": "walter_gropius"}
-{"pred": "business_company_founders", "sub": "american_psychological_association", "obj": "g._stanley_hall"}
-{"pred": "business_company_founders", "sub": "cardinal_health", "obj": "robert_d._walter"}
-{"pred": "business_company_founders", "sub": "elevation_partners", "obj": "bono"}
-{"pred": "business_company_founders", "sub": "shopzilla", "obj": "farhad_mohit"}
-{"pred": "business_company_founders", "sub": "netflix", "obj": "reed_hastings"}
-{"pred": "business_company_founders", "sub": "o'reilly_media", "obj": "tim_o'reilly"}
-{"pred": "business_company_founders", "sub": "liberty_university", "obj": "jerry_falwell"}
-{"pred": "business_company_founders", "sub": "sports_illustrated", "obj": "henry_luce"}
-{"pred": "business_company_founders", "sub": "national_collegiate_athletic_association", "obj": "theodore_roosevelt"}
-{"pred": "business_company_founders", "sub": "virgin_blue", "obj": "richard_branson"}
-{"pred": "business_company_founders", "sub": "spot_runner", "obj": "nick_grouf"}
-{"pred": "business_company_founders", "sub": "generation_investment_management", "obj": "david_blood"}
-{"pred": "business_company_founders", "sub": "bad_boy_records", "obj": "sean_combs"}
-{"pred": "business_company_founders", "sub": "blackrock", "obj": "laurence_d._fink"}
-{"pred": "business_company_founders", "sub": "sony", "obj": "akio_morita"}
-{"pred": "business_company_founders", "sub": "versace", "obj": "gianni_versace"}
-{"pred": "business_company_founders", "sub": "university_of_pennsylvania", "obj": "george_whitefield"}
-{"pred": "business_company_founders", "sub": "cranbrook_educational_community", "obj": "eliel_saarinen"}
-{"pred": "business_company_founders", "sub": "dow_jones_&_company", "obj": "charles_dow"}
-{"pred": "business_company_founders", "sub": "brightcove", "obj": "jeremy_allaire"}
-{"pred": "business_company_founders", "sub": "cafepress.com", "obj": "fred_durham"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "haiti"}
-{"pred": "business_company_founders", "sub": "funimation_entertainment", "obj": "gen_fukunaga"}
-{"pred": "business_company_founders", "sub": "a&m_records", "obj": "herb_alpert"}
-{"pred": "business_company_founders", "sub": "nasdaq", "obj": "nasd"}
-{"pred": "business_company_founders", "sub": "vontu", "obj": "joseph_ansanelli"}
-{"pred": "business_company_founders", "sub": "honest_tea", "obj": "seth_goldman"}
-{"pred": "business_company_founders", "sub": "hambrecht_&_quist", "obj": "bill_hambrecht"}
-{"pred": "business_company_founders", "sub": "the_huffington_post", "obj": "kenneth_lerer"}
-{"pred": "business_company_founders", "sub": "university_of_utah", "obj": "brigham_young"}
-{"pred": "business_company_founders", "sub": "duke_energy", "obj": "james_buchanan_duke"}
-{"pred": "business_company_founders", "sub": "international_coal_group", "obj": "wilbur_ross"}
-{"pred": "business_company_founders", "sub": "liz_claiborne_inc.", "obj": "liz_claiborne"}
-{"pred": "business_company_founders", "sub": "united_states_forest_service", "obj": "theodore_roosevelt"}
-{"pred": "business_company_founders", "sub": "bharatiya_janata_party", "obj": "atal_bihari_vajpayee"}
-{"pred": "business_company_founders", "sub": "mtv", "obj": "robert_w._pittman"}
-{"pred": "business_company_founders", "sub": "alcoa", "obj": "andrew_w._mellon"}
-{"pred": "business_company_founders", "sub": "royal_academy", "obj": "joshua_reynolds"}
-{"pred": "business_company_founders", "sub": "apple_corps", "obj": "paul_mccartney"}
-{"pred": "business_company_founders", "sub": "black_entertainment_television", "obj": "robert_l._johnson"}
-{"pred": "business_company_founders", "sub": "alibaba.com", "obj": "jack_ma"}
-{"pred": "business_company_founders", "sub": "dogster", "obj": "ted_rheingold"}
-{"pred": "business_company_founders", "sub": "nicole_miller", "obj": "bud_konheim"}
-{"pred": "business_company_founders", "sub": "barnes_&_noble", "obj": "leonard_riggio"}
-{"pred": "business_company_founders", "sub": "united_states_agency_for_international_development", "obj": "john_f._kennedy"}
-{"pred": "business_company_founders", "sub": "digium", "obj": "mark_spencer"}
-{"pred": "business_company_founders", "sub": "dimension_films", "obj": "bob_weinstein"}
-{"pred": "business_company_founders", "sub": "defense_intelligence_agency", "obj": "robert_mcnamara"}
-{"pred": "business_company_founders", "sub": "the_washington_times", "obj": "sun_myung_moon"}
-{"pred": "business_company_founders", "sub": "mellon_financial", "obj": "andrew_w._mellon"}
-{"pred": "business_company_founders", "sub": "alvin_ailey_american_dance_theater", "obj": "alvin_ailey"}
-{"pred": "business_company_founders", "sub": "leapfrog_ventures", "obj": "peter_rip"}
-{"pred": "business_company_founders", "sub": "federal_trade_commission", "obj": "woodrow_wilson"}
-{"pred": "business_company_founders", "sub": "aol", "obj": "jim_kimsey"}
-{"pred": "business_company_founders", "sub": "payscale", "obj": "joe_giordano"}
-{"pred": "business_company_founders", "sub": "open_source_applications_foundation", "obj": "mitchell_kapor"}
-{"pred": "business_company_founders", "sub": "magna_entertainment_corporation", "obj": "frank_stronach"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "argentina"}
-{"pred": "business_company_founders", "sub": "sun_microsystems", "obj": "vinod_khosla"}
-{"pred": "business_company_founders", "sub": "counterpane_internet_security", "obj": "bruce_schneier"}
-{"pred": "business_company_founders", "sub": "columbia_pictures", "obj": "harry_cohn"}
-{"pred": "business_company_founders", "sub": "international_lease_finance_corporation", "obj": "steven_f._udvar-hazy"}
-{"pred": "business_company_founders", "sub": "united_states_army_corps_of_engineers", "obj": "george_washington"}
-{"pred": "business_company_founders", "sub": "creative_artists_agency", "obj": "michael_ovitz"}
-{"pred": "business_company_founders", "sub": "revver", "obj": "steven_starr"}
-{"pred": "business_company_founders", "sub": "benchmark_capital", "obj": "bob_kagle"}
-{"pred": "business_company_founders", "sub": "national_gallery_of_art", "obj": "andrew_w._mellon"}
-{"pred": "business_company_founders", "sub": "saban", "obj": "haim_saban"}
-{"pred": "business_company_founders", "sub": "price_club", "obj": "sol_price"}
-{"pred": "business_company_founders", "sub": "really_useful_group", "obj": "andrew_lloyd_webber"}
-{"pred": "business_company_founders", "sub": "harvard_graduate_school_of_design", "obj": "walter_gropius"}
-{"pred": "business_company_founders", "sub": "khosla_ventures", "obj": "vinod_khosla"}
-{"pred": "business_company_founders", "sub": "economic_policy_institute", "obj": "robert_reich"}
-{"pred": "business_company_founders", "sub": "congressional_black_caucus", "obj": "shirley_chisholm"}
-{"pred": "business_company_founders", "sub": "pennsylvania_academy_of_the_fine_arts", "obj": "charles_willson_peale"}
-{"pred": "business_company_founders", "sub": "clickstar", "obj": "morgan_freeman"}
-{"pred": "business_company_founders", "sub": "shanghai_cooperation_organization", "obj": "china"}
-{"pred": "business_company_founders", "sub": "joffrey_ballet", "obj": "robert_joffrey"}
-{"pred": "business_company_founders", "sub": "carnegie_institute_of_technology", "obj": "andrew_carnegie"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "united_kingdom"}
-{"pred": "business_company_founders", "sub": "united_artists", "obj": "d._w._griffith"}
-{"pred": "business_company_founders", "sub": "expedia", "obj": "richard_barton"}
-{"pred": "business_company_founders", "sub": "kansas_city_royals", "obj": "ewing_kauffman"}
-{"pred": "business_company_founders", "sub": "enron", "obj": "kenneth_lay"}
-{"pred": "business_company_founders", "sub": "skype", "obj": "niklas_zennstr\u00f6m"}
-{"pred": "business_company_founders", "sub": "standard_oil", "obj": "william_rockefeller"}
-{"pred": "business_company_founders", "sub": "starbucks", "obj": "howard_schultz"}
-{"pred": "business_company_founders", "sub": "disney_channel", "obj": "walt_disney"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "france"}
-{"pred": "business_company_founders", "sub": "automatic_data_processing", "obj": "frank_lautenberg"}
-{"pred": "business_company_founders", "sub": "federal_emergency_management_agency", "obj": "jimmy_carter"}
-{"pred": "business_company_founders", "sub": "walt_disney_world_resort", "obj": "walt_disney"}
-{"pred": "business_company_founders", "sub": "transportation_security_administration", "obj": "george_w._bush"}
-{"pred": "business_company_founders", "sub": "myspace", "obj": "tom_anderson"}
-{"pred": "business_company_founders", "sub": "chermayeff_&_geismar", "obj": "ivan_chermayeff"}
-{"pred": "business_company_founders", "sub": "helio", "obj": "sky_dayton"}
-{"pred": "business_company_founders", "sub": "teach_for_america", "obj": "wendy_kopp"}
-{"pred": "business_company_founders", "sub": "bill_&_melinda_gates_foundation", "obj": "bill_gates"}
-{"pred": "business_company_founders", "sub": "alfa_group", "obj": "mikhail_fridman"}
-{"pred": "business_company_founders", "sub": "weta_workshop", "obj": "peter_jackson"}
-{"pred": "business_company_founders", "sub": "club_penguin", "obj": "lance_priebe"}
-{"pred": "business_company_founders", "sub": "university_of_pennsylvania", "obj": "benjamin_franklin"}
-{"pred": "business_company_founders", "sub": "bill_&_melinda_gates_foundation", "obj": "melinda_gates"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "ecuador"}
-{"pred": "business_company_founders", "sub": "heritage_foundation", "obj": "paul_weyrich"}
-{"pred": "business_company_founders", "sub": "carnegie_endowment_for_international_peace", "obj": "andrew_carnegie"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "italy"}
-{"pred": "business_company_founders", "sub": "burton", "obj": "jake_burton_carpenter"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "honduras"}
-{"pred": "business_company_founders", "sub": "solomon_r._guggenheim_museum", "obj": "solomon_r._guggenheim"}
-{"pred": "business_company_founders", "sub": "j.c._penney", "obj": "j._c._penney"}
-{"pred": "business_company_founders", "sub": "simon_wiesenthal_center", "obj": "simon_wiesenthal"}
-{"pred": "business_company_founders", "sub": "microsoft", "obj": "bill_gates"}
-{"pred": "business_company_founders", "sub": "mirabilis", "obj": "yossi_vardi"}
-{"pred": "business_company_founders", "sub": "medianews_group", "obj": "william_dean_singleton"}
-{"pred": "business_company_founders", "sub": "citrix_systems", "obj": "ed_iacobucci"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "dominican_republic"}
-{"pred": "business_company_founders", "sub": "mcfarlane_toys", "obj": "todd_mcfarlane"}
-{"pred": "business_company_founders", "sub": "raytheon", "obj": "vannevar_bush"}
-{"pred": "business_company_founders", "sub": "united_states_environmental_protection_agency", "obj": "richard_nixon"}
-{"pred": "business_company_founders", "sub": "magnatune", "obj": "john_buckman"}
-{"pred": "business_company_founders", "sub": "realnetworks", "obj": "robert_glaser"}
-{"pred": "business_company_founders", "sub": "tesla_motors", "obj": "martin_eberhard"}
-{"pred": "business_company_founders", "sub": "new-york_historical_society", "obj": "dewitt_clinton"}
-{"pred": "business_company_founders", "sub": "morphosis", "obj": "michael_rotondi"}
-{"pred": "business_company_founders", "sub": "united_states_information_agency", "obj": "dwight_d._eisenhower"}
-{"pred": "business_company_founders", "sub": "rogers_stirk_harbour_&_partners", "obj": "richard_rogers"}
-{"pred": "business_company_founders", "sub": "standard_oil", "obj": "john_d._rockefeller"}
-{"pred": "business_company_founders", "sub": "est\u00e9e_lauder_companies", "obj": "ronald_lauder"}
-{"pred": "business_company_founders", "sub": "perella_weinberg_partners", "obj": "peter_weinberg"}
-{"pred": "business_company_founders", "sub": "cooper_union", "obj": "peter_cooper"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "united_states_of_america"}
-{"pred": "business_company_founders", "sub": "electronic_arts", "obj": "trip_hawkins"}
-{"pred": "business_company_founders", "sub": "union_pacific_railroad", "obj": "abraham_lincoln"}
-{"pred": "business_company_founders", "sub": "perella_weinberg_partners", "obj": "joseph_r._perella"}
-{"pred": "business_company_founders", "sub": "four_seasons_hotels", "obj": "isadore_sharp"}
-{"pred": "business_company_founders", "sub": "carnegie_steel_company", "obj": "andrew_carnegie"}
-{"pred": "business_company_founders", "sub": "cold_spring_harbor_laboratory", "obj": "charles_davenport"}
-{"pred": "business_company_founders", "sub": "dreamworks", "obj": "jeffrey_katzenberg"}
-{"pred": "business_company_founders", "sub": "gazprom_neft", "obj": "roman_abramovich"}
-{"pred": "business_company_founders", "sub": "steven_holl_architects", "obj": "steven_holl"}
-{"pred": "business_company_founders", "sub": "endemol", "obj": "john_de_mol"}
-{"pred": "business_company_founders", "sub": "sony_computer_entertainment", "obj": "norio_ohga"}
-{"pred": "business_company_founders", "sub": "hebrew_university_of_jerusalem", "obj": "albert_einstein"}
-{"pred": "business_company_founders", "sub": "aldine_press", "obj": "aldus_manutius"}
-{"pred": "business_company_founders", "sub": "random_house", "obj": "donald_klopfer"}
-{"pred": "business_company_founders", "sub": "university_of_denver", "obj": "john_evans"}
-{"pred": "business_company_founders", "sub": "brigham_young_university", "obj": "brigham_young"}
-{"pred": "business_company_founders", "sub": "amway", "obj": "richard_devos"}
-{"pred": "business_company_founders", "sub": "gestapo", "obj": "hermann_g\u00f6ring"}
-{"pred": "business_company_founders", "sub": "jetblue_airways", "obj": "david_neeleman"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "costa_rica"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "norway"}
-{"pred": "business_company_founders", "sub": "kohn_pedersen_fox", "obj": "sheldon_fox"}
-{"pred": "business_company_founders", "sub": "world_bank", "obj": "john_maynard_keynes"}
-{"pred": "business_company_founders", "sub": "budget_suites_of_america", "obj": "robert_bigelow"}
-{"pred": "business_company_founders", "sub": "ford_motor_company", "obj": "henry_ford"}
-{"pred": "business_company_founders", "sub": "studio_ghibli", "obj": "isao_takahata"}
-{"pred": "business_company_founders", "sub": "dow_chemical_company", "obj": "herbert_henry_dow"}
-{"pred": "business_company_founders", "sub": "barrick_gold", "obj": "peter_munk"}
-{"pred": "business_company_founders", "sub": "arquitectonica", "obj": "andr\u00e9s_duany"}
-{"pred": "business_company_founders", "sub": "dow_jones_&_company", "obj": "edward_jones"}
-{"pred": "business_company_founders", "sub": "virgin_unite", "obj": "richard_branson"}
-{"pred": "business_company_founders", "sub": "social_security_administration", "obj": "franklin_d._roosevelt"}
-{"pred": "business_company_founders", "sub": "leo_burnett_worldwide", "obj": "leo_burnett"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "venezuela"}
-{"pred": "business_company_founders", "sub": "chanel", "obj": "coco_chanel"}
-{"pred": "business_company_founders", "sub": "hospital_corporation_of_america", "obj": "bill_frist"}
-{"pred": "business_company_founders", "sub": "marimba", "obj": "kim_polese"}
-{"pred": "business_company_founders", "sub": "paypal", "obj": "peter_thiel"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "luxembourg"}
-{"pred": "business_company_founders", "sub": "powerset", "obj": "steve_newcomb"}
-{"pred": "business_company_founders", "sub": "jangl", "obj": "michael_cerda"}
-{"pred": "business_company_founders", "sub": "nasa", "obj": "john_f._kennedy"}
-{"pred": "business_company_founders", "sub": "sony_ericsson", "obj": "sony"}
-{"pred": "business_company_founders", "sub": "apple_corps", "obj": "ringo_starr"}
-{"pred": "business_company_founders", "sub": "shin_corporation", "obj": "thaksin_shinawatra"}
-{"pred": "business_company_founders", "sub": "dreamworks", "obj": "david_geffen"}
-{"pred": "business_company_founders", "sub": "carnival_cruise_lines", "obj": "ted_arison"}
-{"pred": "business_company_founders", "sub": "electronic_arts", "obj": "bing_gordon"}
-{"pred": "business_company_founders", "sub": "healthsouth", "obj": "richard_m._scrushy"}
-{"pred": "business_company_founders", "sub": "hollinger_inc.", "obj": "conrad_black"}
-{"pred": "business_company_founders", "sub": "council_on_foreign_relations", "obj": "herbert_hoover"}
-{"pred": "business_company_founders", "sub": "televisa", "obj": "emilio_azc\u00e1rraga_vidaurreta"}
-{"pred": "business_company_founders", "sub": "psv_eindhoven", "obj": "philips"}
-{"pred": "business_company_founders", "sub": "dischord_records", "obj": "ian_mackaye"}
-{"pred": "business_company_founders", "sub": "citizens_against_government_waste", "obj": "jack_anderson"}
-{"pred": "business_company_founders", "sub": "ppr", "obj": "fran\u00e7ois_pinault"}
-{"pred": "business_company_founders", "sub": "northwestern_university", "obj": "john_evans"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "poland"}
-{"pred": "business_company_founders", "sub": "office_of_strategic_services", "obj": "franklin_d._roosevelt"}
-{"pred": "business_company_founders", "sub": "rusal", "obj": "roman_abramovich"}
-{"pred": "business_company_founders", "sub": "fox_broadcasting_company", "obj": "barry_diller"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "liberia"}
-{"pred": "business_company_founders", "sub": "seagram", "obj": "samuel_bronfman"}
-{"pred": "business_company_founders", "sub": "saatchi_&_saatchi", "obj": "charles_saatchi"}
-{"pred": "business_company_founders", "sub": "clickstar", "obj": "lori_mccreary"}
-{"pred": "business_company_founders", "sub": "spyglass_entertainment", "obj": "gary_barber"}
-{"pred": "business_company_founders", "sub": "burrill_&_company", "obj": "g._steven_burrill"}
-{"pred": "business_company_founders", "sub": "squaretrade", "obj": "steve_abernethy"}
-{"pred": "business_company_founders", "sub": "electronic_data_systems", "obj": "ross_perot"}
-{"pred": "business_company_founders", "sub": "youtube", "obj": "jawed_karim"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "uruguay"}
-{"pred": "business_company_founders", "sub": "library_of_america", "obj": "edmund_wilson"}
-{"pred": "business_company_founders", "sub": "institute_of_culinary_education", "obj": "peter_kump"}
-{"pred": "business_company_founders", "sub": "hewlett-packard", "obj": "david_packard"}
-{"pred": "business_company_founders", "sub": "solomon_r._guggenheim_museum", "obj": "peggy_guggenheim"}
-{"pred": "business_company_founders", "sub": "united_states_department_of_homeland_security", "obj": "george_w._bush"}
-{"pred": "business_company_founders", "sub": "gamefly", "obj": "sean_spector"}
-{"pred": "business_company_founders", "sub": "wpp_group", "obj": "martin_sorrell"}
-{"pred": "business_company_founders", "sub": "nasa", "obj": "dwight_d._eisenhower"}
-{"pred": "business_company_founders", "sub": "royal_academy", "obj": "thomas_gainsborough"}
-{"pred": "business_company_founders", "sub": "royal_academy", "obj": "benjamin_west"}
-{"pred": "business_company_founders", "sub": "easyjet", "obj": "stelios_haji-ioannou"}
-{"pred": "business_company_founders", "sub": "armadillo_aerospace", "obj": "john_carmack"}
-{"pred": "business_company_founders", "sub": "nasa", "obj": "richard_nixon"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "belgium"}
-{"pred": "business_company_founders", "sub": "random_house", "obj": "bennett_cerf"}
-{"pred": "business_company_founders", "sub": "european_union", "obj": "winston_churchill"}
-{"pred": "business_company_founders", "sub": "westjet", "obj": "clive_beddoe"}
-{"pred": "business_company_founders", "sub": "national_amusements", "obj": "michael_redstone"}
-{"pred": "business_company_founders", "sub": "grameen_bank", "obj": "muhammad_yunus"}
-{"pred": "business_company_founders", "sub": "netsuite", "obj": "larry_ellison"}
-{"pred": "business_company_founders", "sub": "academy_of_motion_picture_arts_and_sciences", "obj": "louis_b._mayer"}
-{"pred": "business_company_founders", "sub": "boston_properties", "obj": "mortimer_zuckerman"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "peru"}
-{"pred": "business_company_founders", "sub": "ford_foundation", "obj": "henry_ford"}
-{"pred": "business_company_founders", "sub": "shutterfly", "obj": "andy_young"}
-{"pred": "business_company_founders", "sub": "microsoft_research", "obj": "nathan_myhrvold"}
-{"pred": "business_company_founders", "sub": "emc_corporation", "obj": "richard_egan"}
-{"pred": "business_company_founders", "sub": "chez_panisse", "obj": "alice_waters"}
-{"pred": "business_company_founders", "sub": "baker_botts", "obj": "james_baker"}
-{"pred": "business_company_founders", "sub": "vatican_museums", "obj": "pope_julius_ii"}
-{"pred": "business_company_founders", "sub": "elevation_partners", "obj": "roger_mcnamee"}
-{"pred": "business_company_founders", "sub": "glam_media", "obj": "samir_arora"}
-{"pred": "business_company_founders", "sub": "hard_rock_cafe", "obj": "peter_morton"}
-{"pred": "business_company_founders", "sub": "time-life", "obj": "henry_luce"}
-{"pred": "business_company_founders", "sub": "genzyme", "obj": "sheridan_snyder"}
-{"pred": "business_company_founders", "sub": "general_motors", "obj": "william_c._durant"}
-{"pred": "business_company_founders", "sub": "maytag", "obj": "f._l._maytag"}
-{"pred": "business_company_founders", "sub": "duke_university", "obj": "james_buchanan_duke"}
-{"pred": "business_company_founders", "sub": "atari", "obj": "nolan_bushnell"}
-{"pred": "business_company_founders", "sub": "viaweb", "obj": "paul_graham"}
-{"pred": "business_company_founders", "sub": "lucasfilm", "obj": "george_lucas"}
-{"pred": "business_company_founders", "sub": "toyota_motor_corporation", "obj": "kiichiro_toyoda"}
-{"pred": "business_company_founders", "sub": "ecm", "obj": "manfred_eicher"}
-{"pred": "business_company_founders", "sub": "microsoft_research", "obj": "bill_gates"}
-{"pred": "business_company_founders", "sub": "british_american_tobacco", "obj": "james_buchanan_duke"}
-{"pred": "business_company_founders", "sub": "veoh", "obj": "dmitry_shapiro"}
-{"pred": "business_company_founders", "sub": "shanghai_cooperation_organization", "obj": "tajikistan"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "netherlands"}
-{"pred": "business_company_founders", "sub": "petrobras", "obj": "get\u00falio_vargas"}
-{"pred": "business_company_founders", "sub": "virgin_megastore", "obj": "richard_branson"}
-{"pred": "business_company_founders", "sub": "english_national_ballet", "obj": "alicia_markova"}
-{"pred": "business_company_founders", "sub": "peace_corps", "obj": "john_f._kennedy"}
-{"pred": "business_company_founders", "sub": "boingo_wireless", "obj": "sky_dayton"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "czechoslovakia"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "egypt"}
-{"pred": "business_company_founders", "sub": "apple_records", "obj": "ringo_starr"}
-{"pred": "business_company_founders", "sub": "dkny", "obj": "donna_karan"}
-{"pred": "business_company_founders", "sub": "shanghai_cooperation_organization", "obj": "russia"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "nicaragua"}
-{"pred": "business_company_founders", "sub": "u.s._steel", "obj": "andrew_carnegie"}
-{"pred": "business_company_founders", "sub": "compaq", "obj": "jim_harris"}
-{"pred": "business_company_founders", "sub": "j._paul_getty_museum", "obj": "j._paul_getty"}
-{"pred": "business_company_founders", "sub": "association_of_tennis_professionals", "obj": "cliff_drysdale"}
-{"pred": "business_company_founders", "sub": "arquitectonica", "obj": "bernardo_fort-brescia"}
-{"pred": "business_company_founders", "sub": "metro-goldwyn-mayer", "obj": "samuel_goldwyn"}
-{"pred": "business_company_founders", "sub": "tesla_motors", "obj": "elon_musk"}
-{"pred": "business_company_founders", "sub": "endemol", "obj": "joop_van_den_ende"}
-{"pred": "business_company_founders", "sub": "cornell_university", "obj": "andrew_dickson_white"}
-{"pred": "business_company_founders", "sub": "electric_lady_studios", "obj": "jimi_hendrix"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "brazil"}
-{"pred": "business_company_founders", "sub": "bain_capital", "obj": "mitt_romney"}
-{"pred": "business_company_founders", "sub": "reganbooks", "obj": "judith_regan"}
-{"pred": "business_company_founders", "sub": "united_states_department_of_energy", "obj": "jimmy_carter"}
-{"pred": "business_company_founders", "sub": "house_of_blues", "obj": "dan_aykroyd"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "denmark"}
-{"pred": "business_company_founders", "sub": "zerofootprint", "obj": "ron_dembo"}
-{"pred": "business_company_founders", "sub": "new_line_cinema", "obj": "robert_shaye"}
-{"pred": "business_company_founders", "sub": "virgin_galactic", "obj": "burt_rutan"}
-{"pred": "business_company_founders", "sub": "pixar", "obj": "steve_jobs"}
-{"pred": "business_company_founders", "sub": "fox_broadcasting_company", "obj": "rupert_murdoch"}
-{"pred": "business_company_founders", "sub": "overbrook_entertainment", "obj": "james_lassiter"}
-{"pred": "business_company_founders", "sub": "comcast", "obj": "ralph_j._roberts"}
-{"pred": "business_company_founders", "sub": "pinnacle_entertainment", "obj": "jack_warner"}
-{"pred": "business_company_founders", "sub": "dreamworks_animation", "obj": "jeffrey_katzenberg"}
-{"pred": "business_company_founders", "sub": "miramax_films", "obj": "bob_weinstein"}
-{"pred": "business_company_founders", "sub": "united_states_naval_academy", "obj": "george_bancroft"}
-{"pred": "business_company_founders", "sub": "kaboodle", "obj": "manish_chandra"}
-{"pred": "business_company_founders", "sub": "miramax_films", "obj": "harvey_weinstein"}
-{"pred": "business_company_founders", "sub": "virgin_group", "obj": "richard_branson"}
-{"pred": "business_company_founders", "sub": "american_international_group", "obj": "cornelius_vander_starr"}
-{"pred": "business_company_founders", "sub": "united_states_military_academy", "obj": "thomas_jefferson"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "bolivia"}
-{"pred": "business_company_founders", "sub": "sun_microsystems", "obj": "scott_g._mcnealy"}
-{"pred": "business_company_founders", "sub": "generation_investment_management", "obj": "al_gore"}
-{"pred": "business_company_founders", "sub": "rockefeller_university", "obj": "john_d._rockefeller"}
-{"pred": "business_company_founders", "sub": "collabnet", "obj": "tim_o'reilly"}
-{"pred": "business_company_founders", "sub": "google", "obj": "sergey_brin"}
-{"pred": "business_company_founders", "sub": "infosys", "obj": "kris_gopalakrishnan"}
-{"pred": "business_company_founders", "sub": "omidyar_network", "obj": "pierre_omidyar"}
-{"pred": "business_company_founders", "sub": "grove_press", "obj": "barney_rosset"}
-{"pred": "business_company_founders", "sub": "university_of_chicago", "obj": "john_dewey"}
-{"pred": "business_company_founders", "sub": "overbrook_entertainment", "obj": "will_smith"}
-{"pred": "business_company_founders", "sub": "bloomberg_l.p.", "obj": "michael_bloomberg"}
-{"pred": "business_company_founders", "sub": "solomon_r._guggenheim_foundation", "obj": "solomon_r._guggenheim"}
-{"pred": "business_company_founders", "sub": "givenchy", "obj": "hubert_de_givenchy"}
-{"pred": "business_company_founders", "sub": "hearst_magazines", "obj": "william_randolph_hearst"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "colombia"}
-{"pred": "business_company_founders", "sub": "southern_california_institute_of_architecture", "obj": "thom_mayne"}
-{"pred": "business_company_founders", "sub": "fiat", "obj": "giovanni_agnelli"}
-{"pred": "business_company_founders", "sub": "american_red_cross", "obj": "clara_barton"}
-{"pred": "business_company_founders", "sub": "zentropa", "obj": "lars_von_trier"}
-{"pred": "business_company_founders", "sub": "american_philosophical_society", "obj": "benjamin_franklin"}
-{"pred": "business_company_founders", "sub": "damballa", "obj": "david_dagon"}
-{"pred": "business_company_founders", "sub": "lowermybills.com", "obj": "matt_coffin"}
-{"pred": "business_company_founders", "sub": "national_audubon_society", "obj": "john_muir"}
-{"pred": "business_company_founders", "sub": "drew_university", "obj": "daniel_drew"}
-{"pred": "business_company_founders", "sub": "kb_home", "obj": "eli_broad"}
-{"pred": "business_company_founders", "sub": "idealab", "obj": "bill_gross"}
-{"pred": "business_company_founders", "sub": "e._w._scripps_company", "obj": "e._w._scripps"}
-{"pred": "business_company_founders", "sub": "cargill", "obj": "w.w._cargill"}
-{"pred": "business_company_founders", "sub": "capitol_records", "obj": "johnny_mercer"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "new_zealand"}
-{"pred": "business_company_founders", "sub": "gestapo", "obj": "adolf_hitler"}
-{"pred": "business_company_founders", "sub": "sun_microsystems", "obj": "bill_joy"}
-{"pred": "business_company_founders", "sub": "las_vegas_sands", "obj": "steve_wynn"}
-{"pred": "business_company_founders", "sub": "flickr", "obj": "caterina_fake"}
-{"pred": "business_company_founders", "sub": "xm_satellite_radio", "obj": "hugh_panero"}
-{"pred": "business_company_founders", "sub": "pinger", "obj": "greg_woock"}
-{"pred": "business_company_founders", "sub": "trans_world_airlines", "obj": "howard_hughes"}
-{"pred": "business_company_founders", "sub": "elevation_partners", "obj": "fred_d._anderson"}
-{"pred": "business_company_founders", "sub": "joost", "obj": "janus_friis"}
-{"pred": "business_company_founders", "sub": "apple_records", "obj": "john_lennon"}
-{"pred": "business_company_founders", "sub": "solomon_r._guggenheim_museum", "obj": "frank_lloyd_wright"}
-{"pred": "business_company_founders", "sub": "amazon.com", "obj": "jeffrey_p._bezos"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "norway"}
-{"pred": "business_company_founders", "sub": "scientology", "obj": "l._ron_hubbard"}
-{"pred": "business_company_founders", "sub": "apple_records", "obj": "george_harrison"}
-{"pred": "business_company_founders", "sub": "wal-mart", "obj": "sam_walton"}
-{"pred": "business_company_founders", "sub": "visible_path", "obj": "antony_brydon"}
-{"pred": "business_company_founders", "sub": "citadel_investment_group", "obj": "kenneth_c._griffin"}
-{"pred": "business_company_founders", "sub": "paypal", "obj": "max_levchin"}
-{"pred": "business_company_founders", "sub": "dyson", "obj": "james_dyson"}
-{"pred": "business_company_founders", "sub": "regency_enterprises", "obj": "arnon_milchan"}
-{"pred": "business_company_founders", "sub": "planetary_society", "obj": "carl_sagan"}
-{"pred": "business_company_founders", "sub": "interscope_records", "obj": "jimmy_iovine"}
-{"pred": "business_company_founders", "sub": "technet", "obj": "john_doerr"}
-{"pred": "business_company_founders", "sub": "rockstar_games", "obj": "dan_houser"}
-{"pred": "business_company_founders", "sub": "news_corporation", "obj": "fox_broadcasting_company"}
-{"pred": "business_company_founders", "sub": "carnegie_mellon_university", "obj": "andrew_carnegie"}
-{"pred": "business_company_founders", "sub": "new_york_fashion_week", "obj": "eleanor_lambert"}
-{"pred": "business_company_founders", "sub": "national_science_foundation", "obj": "vannevar_bush"}
-{"pred": "business_company_founders", "sub": "cnn", "obj": "ted_turner"}
-{"pred": "business_company_founders", "sub": "academy_of_motion_picture_arts_and_sciences", "obj": "cecil_b._demille"}
-{"pred": "business_company_founders", "sub": "european_union", "obj": "paul-henri_spaak"}
-{"pred": "business_company_founders", "sub": "ella_baker_center_for_human_rights", "obj": "van_jones"}
-{"pred": "business_company_founders", "sub": "oracle_corporation", "obj": "larry_ellison"}
-{"pred": "business_company_founders", "sub": "council_on_foreign_relations", "obj": "walter_lippmann"}
-{"pred": "business_company_founders", "sub": "lucasarts", "obj": "george_lucas"}
-{"pred": "business_company_founders", "sub": "skype", "obj": "janus_friis"}
-{"pred": "business_company_founders", "sub": "paramount_pictures", "obj": "dreamworks"}
-{"pred": "business_company_founders", "sub": "snyder_communications", "obj": "daniel_snyder"}
-{"pred": "business_company_founders", "sub": "central_european_university", "obj": "george_soros"}
-{"pred": "business_company_founders", "sub": "mga_entertainment", "obj": "isaac_larian"}
-{"pred": "business_company_founders", "sub": "meebo", "obj": "seth_j._sternberg"}
-{"pred": "business_company_founders", "sub": "discovery_communications", "obj": "john_hendricks"}
-{"pred": "business_company_founders", "sub": "trinity_broadcasting_network", "obj": "paul_crouch"}
-{"pred": "business_company_founders", "sub": "universal_studios", "obj": "dreamworks"}
-{"pred": "business_company_founders", "sub": "zopa", "obj": "richard_duvall"}
-{"pred": "business_company_founders", "sub": "gazprom", "obj": "viktor_chernomyrdin"}
-{"pred": "business_company_founders", "sub": "fox_news_channel", "obj": "rupert_murdoch"}
-{"pred": "business_company_founders", "sub": "sony_computer_entertainment", "obj": "ken_kutaragi"}
-{"pred": "business_company_founders", "sub": "arista_records", "obj": "clive_davis"}
-{"pred": "business_company_founders", "sub": "school_of_american_ballet", "obj": "george_balanchine"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "iceland"}
-{"pred": "business_company_founders", "sub": "chlo\u00e9", "obj": "karl_lagerfeld"}
-{"pred": "business_company_founders", "sub": "defense_advanced_research_projects_agency", "obj": "dwight_d._eisenhower"}
-{"pred": "business_company_founders", "sub": "motown_records", "obj": "berry_gordy"}
-{"pred": "business_company_founders", "sub": "library_of_congress", "obj": "john_adams"}
-{"pred": "business_company_founders", "sub": "worldwide_pants", "obj": "david_letterman"}
-{"pred": "business_company_founders", "sub": "united_artists", "obj": "douglas_fairbanks"}
-{"pred": "business_company_founders", "sub": "zazzle", "obj": "robert_beaver"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "belgium"}
-{"pred": "business_company_founders", "sub": "public_policy_productions", "obj": "roger_weisberg"}
-{"pred": "business_company_founders", "sub": "choicestream", "obj": "michael_strickman"}
-{"pred": "business_company_founders", "sub": "blackstone_group", "obj": "stephen_a._schwarzman"}
-{"pred": "business_company_founders", "sub": "proenza_schouler", "obj": "lazaro_hernandez"}
-{"pred": "business_company_founders", "sub": "national_oceanic_and_atmospheric_administration", "obj": "richard_nixon"}
-{"pred": "business_company_founders", "sub": "harmonix_music_systems", "obj": "eran_egozy"}
-{"pred": "business_company_founders", "sub": "gnomonsong", "obj": "andy_cabic"}
-{"pred": "business_company_founders", "sub": "amherst_college", "obj": "noah_webster"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "canada"}
-{"pred": "business_company_founders", "sub": "apple_corps", "obj": "george_harrison"}
-{"pred": "business_company_founders", "sub": "new_york_medical_college", "obj": "william_cullen_bryant"}
-{"pred": "business_company_founders", "sub": "rockefeller_foundation", "obj": "john_d._rockefeller"}
-{"pred": "business_company_founders", "sub": "wikimedia_foundation", "obj": "jimmy_wales"}
-{"pred": "business_company_founders", "sub": "gnomonsong", "obj": "devendra_banhart"}
-{"pred": "business_company_founders", "sub": "postini", "obj": "scott_petry"}
-{"pred": "business_company_founders", "sub": "united_negro_college_fund", "obj": "mary_mcleod_bethune"}
-{"pred": "business_company_founders", "sub": "rahal_letterman_racing", "obj": "david_letterman"}
-{"pred": "business_company_founders", "sub": "glencore", "obj": "marc_rich"}
-{"pred": "business_company_founders", "sub": "united_artists", "obj": "mary_pickford"}
-{"pred": "business_company_founders", "sub": "fox_news_channel", "obj": "roger_ailes"}
-{"pred": "business_company_founders", "sub": "united_states_atomic_energy_commission", "obj": "harry_s._truman"}
-{"pred": "business_company_founders", "sub": "brown_university", "obj": "john_brown"}
-{"pred": "business_company_founders", "sub": "academy_of_motion_picture_arts_and_sciences", "obj": "mary_pickford"}
-{"pred": "business_company_founders", "sub": "revolution_health_group", "obj": "steve_case"}
-{"pred": "business_company_founders", "sub": "sky_italia", "obj": "rupert_murdoch"}
-{"pred": "business_company_founders", "sub": "cox_enterprises", "obj": "james_m._cox"}
-{"pred": "business_company_founders", "sub": "terra_firma_capital_partners", "obj": "guy_hands"}
-{"pred": "business_company_founders", "sub": "weta_digital", "obj": "peter_jackson"}
-{"pred": "business_company_founders", "sub": "bazaarvoice", "obj": "brett_hurt"}
-{"pred": "business_company_founders", "sub": "dell", "obj": "michael_s._dell"}
-{"pred": "business_company_founders", "sub": "macandrews_&_forbes_holdings", "obj": "ronald_perelman"}
-{"pred": "business_company_founders", "sub": "imagine_entertainment", "obj": "ron_howard"}
-{"pred": "business_company_founders", "sub": "national_labor_relations_board", "obj": "franklin_d._roosevelt"}
-{"pred": "business_company_founders", "sub": "museum_of_modern_art", "obj": "abby_aldrich_rockefeller"}
-{"pred": "business_company_founders", "sub": "studio_ghibli", "obj": "hayao_miyazaki"}
-{"pred": "business_company_founders", "sub": "weta_digital", "obj": "jamie_selkirk"}
-{"pred": "business_company_founders", "sub": "city_lights_bookstore", "obj": "lawrence_ferlinghetti"}
-{"pred": "business_company_founders", "sub": "microsoft", "obj": "paul_allen"}
-{"pred": "business_company_founders", "sub": "dreamworks", "obj": "steven_spielberg"}
-{"pred": "business_company_founders", "sub": "pixsense", "obj": "faraz_hoodbhoy"}
-{"pred": "business_company_founders", "sub": "american_fur_company", "obj": "john_jacob_astor"}
-{"pred": "business_company_founders", "sub": "adidas", "obj": "adolf_dassler"}
-{"pred": "business_company_founders", "sub": "international_rice_research_institute", "obj": "ford_foundation"}
-{"pred": "business_company_founders", "sub": "roman_catholic_church", "obj": "jesus_christ"}
-{"pred": "business_company_founders", "sub": "weta_workshop", "obj": "jamie_selkirk"}
-{"pred": "business_company_founders", "sub": "porsche", "obj": "ferdinand_porsche"}
-{"pred": "business_company_founders", "sub": "salesforce.com", "obj": "marc_benioff"}
-{"pred": "business_company_founders", "sub": "fisker_coachbuild", "obj": "henrik_fisker"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "netherlands"}
-{"pred": "business_company_founders", "sub": "corbis", "obj": "bill_gates"}
-{"pred": "business_company_founders", "sub": "collabnet", "obj": "brian_behlendorf"}
-{"pred": "business_company_founders", "sub": "martha_stewart_living_omnimedia", "obj": "martha_stewart"}
-{"pred": "business_company_founders", "sub": "bbc", "obj": "john_peel"}
-{"pred": "business_company_founders", "sub": "digg", "obj": "jay_adelson"}
-{"pred": "business_company_founders", "sub": "blockbuster", "obj": "wayne_huizenga"}
-{"pred": "business_company_founders", "sub": "sac_capital_partners", "obj": "steven_a._cohen"}
-{"pred": "business_company_founders", "sub": "qwest", "obj": "philip_anschutz"}
-{"pred": "business_company_founders", "sub": "brookings_institution", "obj": "peter_r._orszag"}
-{"pred": "business_company_founders", "sub": "critical_mention", "obj": "sean_morgan"}
-{"pred": "business_company_founders", "sub": "amblin_entertainment", "obj": "kathleen_kennedy"}
-{"pred": "business_company_founders", "sub": "dreamworks_animation", "obj": "steven_spielberg"}
-{"pred": "business_company_founders", "sub": "rocawear", "obj": "jay-z"}
-{"pred": "business_company_founders", "sub": "upn", "obj": "paramount_pictures"}
-{"pred": "business_company_founders", "sub": "brookings_institution", "obj": "robert_rubin"}
-{"pred": "business_company_founders", "sub": "facebook", "obj": "mark_zuckerberg"}
-{"pred": "business_company_founders", "sub": "red_army", "obj": "mao_zedong"}
-{"pred": "business_company_founders", "sub": "paypal", "obj": "elon_musk"}
-{"pred": "business_company_founders", "sub": "new_america_foundation", "obj": "michael_lind"}
-{"pred": "business_company_founders", "sub": "paychex", "obj": "tom_golisano"}
-{"pred": "business_company_founders", "sub": "atom_entertainment", "obj": "mika_salmi"}
-{"pred": "business_company_founders", "sub": "international_rice_research_institute", "obj": "rockefeller_foundation"}
-{"pred": "business_company_founders", "sub": "giuliani_partners", "obj": "rudy_giuliani"}
-{"pred": "business_company_founders", "sub": "vanguard_animation", "obj": "john_h._williams"}
-{"pred": "business_company_founders", "sub": "united_press_international", "obj": "e._w._scripps"}
-{"pred": "business_company_founders", "sub": "cbs", "obj": "william_s._paley"}
-{"pred": "business_company_founders", "sub": "united_artists", "obj": "charlie_chaplin"}
-{"pred": "business_company_founders", "sub": "akademiks", "obj": "donwan_harrell"}
-{"pred": "business_company_founders", "sub": "esalen_institute", "obj": "michael_murphy"}
-{"pred": "business_company_founders", "sub": "childress_vineyards", "obj": "richard_childress"}
-{"pred": "business_company_founders", "sub": "polo_ralph_lauren", "obj": "ralph_lauren"}
-{"pred": "business_company_founders", "sub": "skywalker_sound", "obj": "george_lucas"}
-{"pred": "business_company_founders", "sub": "doubleclick", "obj": "kevin_p._ryan"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "panama"}
-{"pred": "business_company_founders", "sub": "est\u00e9e_lauder_companies", "obj": "leonard_lauder"}
-{"pred": "business_company_founders", "sub": "myspace", "obj": "chris_dewolfe"}
-{"pred": "business_company_founders", "sub": "def_jam_recordings", "obj": "russell_simmons"}
-{"pred": "business_company_founders", "sub": "youtube", "obj": "chad_hurley"}
-{"pred": "business_company_founders", "sub": "dreamworks_animation", "obj": "david_geffen"}
-{"pred": "business_company_founders", "sub": "deere_&_company", "obj": "john_deere"}
-{"pred": "business_company_founders", "sub": "proenza_schouler", "obj": "jack_mccollough"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "united_states_of_america"}
-{"pred": "business_company_founders", "sub": "island_records", "obj": "chris_blackwell"}
-{"pred": "business_company_founders", "sub": "time_inc.", "obj": "henry_luce"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "iraq"}
-{"pred": "business_company_founders", "sub": "google", "obj": "larry_page"}
-{"pred": "business_company_founders", "sub": "howard_hughes_medical_institute", "obj": "howard_hughes"}
-{"pred": "business_company_founders", "sub": "harmonix_music_systems", "obj": "alex_rigopulos"}
-{"pred": "business_company_founders", "sub": "bell_labs", "obj": "alexander_graham_bell"}
-{"pred": "business_company_founders", "sub": "university_of_chicago", "obj": "john_d._rockefeller"}
-{"pred": "business_company_founders", "sub": "home_depot", "obj": "bernard_marcus"}
-{"pred": "business_company_founders", "sub": "medio_systems", "obj": "brian_lent"}
-{"pred": "business_company_founders", "sub": "new_york_jets", "obj": "harry_wismer"}
-{"pred": "business_company_founders", "sub": "hammer_museum", "obj": "armand_hammer"}
-{"pred": "business_company_founders", "sub": "peerflix", "obj": "billy_mcnair"}
-{"pred": "business_company_founders", "sub": "morgans_hotel_group", "obj": "ian_schrager"}
-{"pred": "business_company_founders", "sub": "federal_emergency_management_agency", "obj": "zbigniew_brzezinski"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "luxembourg"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "ethiopia"}
-{"pred": "business_company_founders", "sub": "news_corporation", "obj": "rupert_murdoch"}
-{"pred": "business_company_founders", "sub": "morphosis", "obj": "thom_mayne"}
-{"pred": "business_company_founders", "sub": "sony", "obj": "masaru_ibuka"}
-{"pred": "business_company_founders", "sub": "biovail", "obj": "eugene_melnyk"}
-{"pred": "business_company_founders", "sub": "playtone", "obj": "gary_goetzman"}
-{"pred": "business_company_founders", "sub": "rolling_stone", "obj": "jann_wenner"}
-{"pred": "business_company_founders", "sub": "southern_poverty_law_center", "obj": "julian_bond"}
-{"pred": "business_company_founders", "sub": "tennessee_valley_authority", "obj": "franklin_d._roosevelt"}
-{"pred": "business_company_founders", "sub": "club_penguin", "obj": "lane_merrifield"}
-{"pred": "business_company_founders", "sub": "summit_entertainment", "obj": "arnon_milchan"}
-{"pred": "business_company_founders", "sub": "california_institute_of_the_arts", "obj": "walt_disney"}
-{"pred": "business_company_founders", "sub": "qwest_communications", "obj": "philip_anschutz"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "paraguay"}
-{"pred": "business_company_founders", "sub": "federal_bureau_of_investigation", "obj": "theodore_roosevelt"}
-{"pred": "business_company_founders", "sub": "equinix", "obj": "jay_adelson"}
-{"pred": "business_company_founders", "sub": "factory_records", "obj": "tony_wilson"}
-{"pred": "business_company_founders", "sub": "hearst_corporation", "obj": "william_randolph_hearst"}
-{"pred": "business_company_founders", "sub": "clark_university", "obj": "g._stanley_hall"}
-{"pred": "business_company_founders", "sub": "united_states_military_academy", "obj": "george_washington"}
-{"pred": "business_company_founders", "sub": "brillstein-grey_entertainment", "obj": "brad_grey"}
-{"pred": "business_company_founders", "sub": "united_states_department_of_agriculture", "obj": "abraham_lincoln"}
-{"pred": "business_company_founders", "sub": "est\u00e9e_lauder_companies", "obj": "est\u00e9e_lauder"}
-{"pred": "business_company_founders", "sub": "penske_racing", "obj": "roger_penske"}
-{"pred": "business_company_founders", "sub": "fedex", "obj": "frederick_w._smith"}
-{"pred": "business_company_founders", "sub": "livedoor", "obj": "takafumi_horie"}
-{"pred": "business_company_founders", "sub": "time_warner", "obj": "steve_case"}
-{"pred": "business_company_founders", "sub": "general_services_administration", "obj": "harry_s._truman"}
-{"pred": "business_company_founders", "sub": "united_nations", "obj": "saudi_arabia"}
-{"pred": "business_company_founders", "sub": "applied_minds", "obj": "bran_ferren"}
-{"pred": "business_company_founders", "sub": "playtone", "obj": "tom_hanks"}
-{"pred": "business_company_founders", "sub": "apple_records", "obj": "paul_mccartney"}
-{"pred": "business_company_founders", "sub": "earthlink", "obj": "sky_dayton"}
-{"pred": "business_company_founders", "sub": "lexus", "obj": "eiji_toyoda"}
-{"pred": "business_company_founders", "sub": "oral_roberts_university", "obj": "oral_roberts"}
-{"pred": "business_company_founders", "sub": "aol", "obj": "steve_case"}
-{"pred": "business_company_founders", "sub": "broadway_video", "obj": "lorne_michaels"}
-{"pred": "business_company_founders", "sub": "a&m_records", "obj": "jerry_moss"}
-{"pred": "business_company_founders", "sub": "knights_of_columbus", "obj": "michael_j._mcgivney"}
-{"pred": "business_company_founders", "sub": "tvr", "obj": "trevor_wilkinson"}
-{"pred": "business_company_founders", "sub": "linden_lab", "obj": "philip_rosedale"}
-{"pred": "business_company_founders", "sub": "food_and_drug_administration", "obj": "theodore_roosevelt"}
-{"pred": "business_company_founders", "sub": "european_union", "obj": "jean_monnet"}
-{"pred": "business_company_founders", "sub": "apple_corps", "obj": "john_lennon"}
-{"pred": "business_company_founders", "sub": "international_monetary_fund", "obj": "john_maynard_keynes"}
-{"pred": "business_company_founders", "sub": "kfc", "obj": "colonel_sanders"}
-{"pred": "business_company_founders", "sub": "turner_broadcasting", "obj": "ted_turner"}
-{"pred": "business_company_founders", "sub": "bank_of_new_york", "obj": "alexander_hamilton"}
-{"pred": "business_company_founders", "sub": "chermayeff_&_geismar", "obj": "tom_geismar"}
-{"pred": "business_company_founders", "sub": "tuskegee_university", "obj": "booker_t._washington"}
-{"pred": "business_company_founders", "sub": "groove_networks", "obj": "ray_ozzie"}
-{"pred": "business_company_founders", "sub": "polaroid_corporation", "obj": "edwin_h._land"}
-{"pred": "business_company_founders", "sub": "hilton_hotels", "obj": "barron_hilton"}
-{"pred": "business_company_founders", "sub": "imagine_entertainment", "obj": "brian_grazer"}
-{"pred": "business_company_founders", "sub": "pratt_institute", "obj": "charles_pratt"}
-{"pred": "business_company_founders", "sub": "enron", "obj": "jeffrey_skilling"}
-{"pred": "business_company_founders", "sub": "sony_ericsson", "obj": "ericsson"}
-{"pred": "business_company_founders", "sub": "shanghai_cooperation_organization", "obj": "kazakhstan"}
-{"pred": "business_company_founders", "sub": "general_electric", "obj": "thomas_edison"}
-{"pred": "business_company_founders", "sub": "united_states_naval_academy", "obj": "james_k._polk"}
-{"pred": "business_company_founders", "sub": "united_states_department_of_health_and_human_services", "obj": "john_baldacci"}
-{"pred": "business_company_founders", "sub": "metro-goldwyn-mayer", "obj": "louis_b._mayer"}
-{"pred": "business_company_founders", "sub": "council_on_foreign_relations", "obj": "david_rockefeller"}
-{"pred": "business_company_founders", "sub": "american_civil_liberties_union", "obj": "norman_thomas"}
-{"pred": "business_company_founders", "sub": "pixar", "obj": "edwin_catmull"}
-{"pred": "business_company_founders", "sub": "red_army", "obj": "leon_trotsky"}
-{"pred": "business_company_founders", "sub": "mediaset", "obj": "silvio_berlusconi"}
-{"pred": "business_company_founders", "sub": "universal_music_group", "obj": "jimmy_iovine"}
-{"pred": "business_company_founders", "sub": "netscape", "obj": "marc_andreessen"}
-{"pred": "business_company_founders", "sub": "apollo_management", "obj": "leon_black"}
-{"pred": "business_company_founders", "sub": "united_states_department_of_education", "obj": "jimmy_carter"}
-{"pred": "business_company_founders", "sub": "intel_corporation", "obj": "robert_noyce"}
-{"pred": "business_company_founders", "sub": "magna_international", "obj": "frank_stronach"}
-{"pred": "business_company_founders", "sub": "academy_of_motion_picture_arts_and_sciences", "obj": "douglas_fairbanks"}
-{"pred": "business_company_founders", "sub": "gulf_oil", "obj": "andrew_w._mellon"}
-{"pred": "business_company_founders", "sub": "merriam-webster", "obj": "noah_webster"}
-{"pred": "business_company_founders", "sub": "party_of_the_democratic_revolution", "obj": "andr\u00e9s_manuel_l\u00f3pez_obrador"}
-{"pred": "business_company_founders", "sub": "american_pharmaceutical_partners", "obj": "patrick_soon-shiong"}
-{"pred": "business_company_founders", "sub": "council_on_foreign_relations", "obj": "paul_warburg"}
-{"pred": "business_company_founders", "sub": "illinois_institute_of_technology", "obj": "ludwig_mies_van_der_rohe"}
-{"pred": "business_company_founders", "sub": "shanghai_cooperation_organization", "obj": "uzbekistan"}
-{"pred": "business_company_founders", "sub": "north_atlantic_treaty_organization", "obj": "portugal"}
+{"pred": "business_company_founders", "sub_label": "kayak", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "chez panisse", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "ice.com", "obj_label": "shmuel"}
+{"pred": "business_company_founders", "sub_label": "swarthmore college", "obj_label": "lucretia"}
+{"pred": "business_company_founders", "sub_label": "general foods", "obj_label": "marjorie"}
+{"pred": "business_company_founders", "sub_label": "playboy enterprises", "obj_label": "hugh"}
+{"pred": "business_company_founders", "sub_label": "intel corporation", "obj_label": "gordon"}
+{"pred": "business_company_founders", "sub_label": "kqed", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "bauhaus", "obj_label": "walter"}
+{"pred": "business_company_founders", "sub_label": "american psychological association", "obj_label": "g."}
+{"pred": "business_company_founders", "sub_label": "cardinal health", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "elevation partners", "obj_label": "bono"}
+{"pred": "business_company_founders", "sub_label": "shopzilla", "obj_label": "farhad"}
+{"pred": "business_company_founders", "sub_label": "netflix", "obj_label": "reed"}
+{"pred": "business_company_founders", "sub_label": "o'reilly media", "obj_label": "tim"}
+{"pred": "business_company_founders", "sub_label": "liberty university", "obj_label": "jerry"}
+{"pred": "business_company_founders", "sub_label": "sports illustrated", "obj_label": "henry"}
+{"pred": "business_company_founders", "sub_label": "national collegiate athletic association", "obj_label": "theodore"}
+{"pred": "business_company_founders", "sub_label": "virgin blue", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "spot runner", "obj_label": "nick"}
+{"pred": "business_company_founders", "sub_label": "generation investment management", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "bad boy records", "obj_label": "sean"}
+{"pred": "business_company_founders", "sub_label": "blackrock", "obj_label": "laurence"}
+{"pred": "business_company_founders", "sub_label": "sony", "obj_label": "akio"}
+{"pred": "business_company_founders", "sub_label": "versace", "obj_label": "gianni"}
+{"pred": "business_company_founders", "sub_label": "university of pennsylvania", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "cranbrook educational community", "obj_label": "eliel"}
+{"pred": "business_company_founders", "sub_label": "dow jones & company", "obj_label": "charles"}
+{"pred": "business_company_founders", "sub_label": "brightcove", "obj_label": "jeremy"}
+{"pred": "business_company_founders", "sub_label": "cafepress.com", "obj_label": "fred"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "haiti"}
+{"pred": "business_company_founders", "sub_label": "funimation entertainment", "obj_label": "gen"}
+{"pred": "business_company_founders", "sub_label": "a&m records", "obj_label": "herb"}
+{"pred": "business_company_founders", "sub_label": "nasdaq", "obj_label": "nasd"}
+{"pred": "business_company_founders", "sub_label": "vontu", "obj_label": "joseph"}
+{"pred": "business_company_founders", "sub_label": "honest tea", "obj_label": "seth"}
+{"pred": "business_company_founders", "sub_label": "hambrecht & quist", "obj_label": "bill"}
+{"pred": "business_company_founders", "sub_label": "the huffington post", "obj_label": "kenneth"}
+{"pred": "business_company_founders", "sub_label": "university of utah", "obj_label": "brigham"}
+{"pred": "business_company_founders", "sub_label": "duke energy", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "international coal group", "obj_label": "wilbur"}
+{"pred": "business_company_founders", "sub_label": "liz claiborne inc.", "obj_label": "liz"}
+{"pred": "business_company_founders", "sub_label": "united states forest service", "obj_label": "theodore"}
+{"pred": "business_company_founders", "sub_label": "bharatiya janata party", "obj_label": "atal"}
+{"pred": "business_company_founders", "sub_label": "mtv", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "alcoa", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "royal academy", "obj_label": "joshua"}
+{"pred": "business_company_founders", "sub_label": "apple corps", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "black entertainment television", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "alibaba.com", "obj_label": "jack"}
+{"pred": "business_company_founders", "sub_label": "dogster", "obj_label": "ted"}
+{"pred": "business_company_founders", "sub_label": "nicole miller", "obj_label": "bud"}
+{"pred": "business_company_founders", "sub_label": "barnes & noble", "obj_label": "leonard"}
+{"pred": "business_company_founders", "sub_label": "united states agency for international development", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "digium", "obj_label": "mark"}
+{"pred": "business_company_founders", "sub_label": "dimension films", "obj_label": "bob"}
+{"pred": "business_company_founders", "sub_label": "defense intelligence agency", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "the washington times", "obj_label": "sun"}
+{"pred": "business_company_founders", "sub_label": "mellon financial", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "alvin ailey american dance theater", "obj_label": "alvin"}
+{"pred": "business_company_founders", "sub_label": "leapfrog ventures", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "federal trade commission", "obj_label": "woodrow"}
+{"pred": "business_company_founders", "sub_label": "aol", "obj_label": "jim"}
+{"pred": "business_company_founders", "sub_label": "payscale", "obj_label": "joe"}
+{"pred": "business_company_founders", "sub_label": "open source applications foundation", "obj_label": "mitchell"}
+{"pred": "business_company_founders", "sub_label": "magna entertainment corporation", "obj_label": "frank"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "argentina"}
+{"pred": "business_company_founders", "sub_label": "sun microsystems", "obj_label": "vinod"}
+{"pred": "business_company_founders", "sub_label": "counterpane internet security", "obj_label": "bruce"}
+{"pred": "business_company_founders", "sub_label": "columbia pictures", "obj_label": "harry"}
+{"pred": "business_company_founders", "sub_label": "international lease finance corporation", "obj_label": "steven"}
+{"pred": "business_company_founders", "sub_label": "united states army corps of engineers", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "creative artists agency", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "revver", "obj_label": "steven"}
+{"pred": "business_company_founders", "sub_label": "benchmark capital", "obj_label": "bob"}
+{"pred": "business_company_founders", "sub_label": "national gallery of art", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "saban", "obj_label": "haim"}
+{"pred": "business_company_founders", "sub_label": "price club", "obj_label": "sol"}
+{"pred": "business_company_founders", "sub_label": "really useful group", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "harvard graduate school of design", "obj_label": "walter"}
+{"pred": "business_company_founders", "sub_label": "khosla ventures", "obj_label": "vinod"}
+{"pred": "business_company_founders", "sub_label": "economic policy institute", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "congressional black caucus", "obj_label": "shirley"}
+{"pred": "business_company_founders", "sub_label": "pennsylvania academy of the fine arts", "obj_label": "charles"}
+{"pred": "business_company_founders", "sub_label": "clickstar", "obj_label": "morgan"}
+{"pred": "business_company_founders", "sub_label": "shanghai cooperation organization", "obj_label": "china"}
+{"pred": "business_company_founders", "sub_label": "joffrey ballet", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "carnegie institute of technology", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "united"}
+{"pred": "business_company_founders", "sub_label": "united artists", "obj_label": "d."}
+{"pred": "business_company_founders", "sub_label": "expedia", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "kansas city royals", "obj_label": "ewing"}
+{"pred": "business_company_founders", "sub_label": "enron", "obj_label": "kenneth"}
+{"pred": "business_company_founders", "sub_label": "skype", "obj_label": "niklas"}
+{"pred": "business_company_founders", "sub_label": "standard oil", "obj_label": "william"}
+{"pred": "business_company_founders", "sub_label": "starbucks", "obj_label": "howard"}
+{"pred": "business_company_founders", "sub_label": "disney channel", "obj_label": "walt"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "france"}
+{"pred": "business_company_founders", "sub_label": "automatic data processing", "obj_label": "frank"}
+{"pred": "business_company_founders", "sub_label": "federal emergency management agency", "obj_label": "jimmy"}
+{"pred": "business_company_founders", "sub_label": "walt disney world resort", "obj_label": "walt"}
+{"pred": "business_company_founders", "sub_label": "transportation security administration", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "myspace", "obj_label": "tom"}
+{"pred": "business_company_founders", "sub_label": "chermayeff & geismar", "obj_label": "ivan"}
+{"pred": "business_company_founders", "sub_label": "helio", "obj_label": "sky"}
+{"pred": "business_company_founders", "sub_label": "teach for america", "obj_label": "wendy"}
+{"pred": "business_company_founders", "sub_label": "bill & melinda gates foundation", "obj_label": "bill"}
+{"pred": "business_company_founders", "sub_label": "alfa group", "obj_label": "mikhail"}
+{"pred": "business_company_founders", "sub_label": "weta workshop", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "club penguin", "obj_label": "lance"}
+{"pred": "business_company_founders", "sub_label": "university of pennsylvania", "obj_label": "benjamin"}
+{"pred": "business_company_founders", "sub_label": "bill & melinda gates foundation", "obj_label": "melinda"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "ecuador"}
+{"pred": "business_company_founders", "sub_label": "heritage foundation", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "carnegie endowment for international peace", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "italy"}
+{"pred": "business_company_founders", "sub_label": "burton", "obj_label": "jake"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "honduras"}
+{"pred": "business_company_founders", "sub_label": "solomon r. guggenheim museum", "obj_label": "solomon"}
+{"pred": "business_company_founders", "sub_label": "j.c. penney", "obj_label": "j."}
+{"pred": "business_company_founders", "sub_label": "simon wiesenthal center", "obj_label": "simon"}
+{"pred": "business_company_founders", "sub_label": "microsoft", "obj_label": "bill"}
+{"pred": "business_company_founders", "sub_label": "mirabilis", "obj_label": "yossi"}
+{"pred": "business_company_founders", "sub_label": "medianews group", "obj_label": "william"}
+{"pred": "business_company_founders", "sub_label": "citrix systems", "obj_label": "ed"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "dominican"}
+{"pred": "business_company_founders", "sub_label": "mcfarlane toys", "obj_label": "todd"}
+{"pred": "business_company_founders", "sub_label": "raytheon", "obj_label": "vannevar"}
+{"pred": "business_company_founders", "sub_label": "united states environmental protection agency", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "magnatune", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "realnetworks", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "tesla motors", "obj_label": "martin"}
+{"pred": "business_company_founders", "sub_label": "new-york historical society", "obj_label": "dewitt"}
+{"pred": "business_company_founders", "sub_label": "morphosis", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "united states information agency", "obj_label": "dwight"}
+{"pred": "business_company_founders", "sub_label": "rogers stirk harbour & partners", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "standard oil", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "est\u00e9e lauder companies", "obj_label": "ronald"}
+{"pred": "business_company_founders", "sub_label": "perella weinberg partners", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "cooper union", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "united"}
+{"pred": "business_company_founders", "sub_label": "electronic arts", "obj_label": "trip"}
+{"pred": "business_company_founders", "sub_label": "union pacific railroad", "obj_label": "abraham"}
+{"pred": "business_company_founders", "sub_label": "perella weinberg partners", "obj_label": "joseph"}
+{"pred": "business_company_founders", "sub_label": "four seasons hotels", "obj_label": "isadore"}
+{"pred": "business_company_founders", "sub_label": "carnegie steel company", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "cold spring harbor laboratory", "obj_label": "charles"}
+{"pred": "business_company_founders", "sub_label": "dreamworks", "obj_label": "jeffrey"}
+{"pred": "business_company_founders", "sub_label": "gazprom neft", "obj_label": "roman"}
+{"pred": "business_company_founders", "sub_label": "steven holl architects", "obj_label": "steven"}
+{"pred": "business_company_founders", "sub_label": "endemol", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "sony computer entertainment", "obj_label": "norio"}
+{"pred": "business_company_founders", "sub_label": "hebrew university of jerusalem", "obj_label": "albert"}
+{"pred": "business_company_founders", "sub_label": "aldine press", "obj_label": "aldus"}
+{"pred": "business_company_founders", "sub_label": "random house", "obj_label": "donald"}
+{"pred": "business_company_founders", "sub_label": "university of denver", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "brigham young university", "obj_label": "brigham"}
+{"pred": "business_company_founders", "sub_label": "amway", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "gestapo", "obj_label": "hermann"}
+{"pred": "business_company_founders", "sub_label": "jetblue airways", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "costa"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "norway"}
+{"pred": "business_company_founders", "sub_label": "kohn pedersen fox", "obj_label": "sheldon"}
+{"pred": "business_company_founders", "sub_label": "world bank", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "budget suites of america", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "ford motor company", "obj_label": "henry"}
+{"pred": "business_company_founders", "sub_label": "studio ghibli", "obj_label": "isao"}
+{"pred": "business_company_founders", "sub_label": "dow chemical company", "obj_label": "herbert"}
+{"pred": "business_company_founders", "sub_label": "barrick gold", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "arquitectonica", "obj_label": "andr\u00e9s"}
+{"pred": "business_company_founders", "sub_label": "dow jones & company", "obj_label": "edward"}
+{"pred": "business_company_founders", "sub_label": "virgin unite", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "social security administration", "obj_label": "franklin"}
+{"pred": "business_company_founders", "sub_label": "leo burnett worldwide", "obj_label": "leo"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "venezuela"}
+{"pred": "business_company_founders", "sub_label": "chanel", "obj_label": "coco"}
+{"pred": "business_company_founders", "sub_label": "hospital corporation of america", "obj_label": "bill"}
+{"pred": "business_company_founders", "sub_label": "marimba", "obj_label": "kim"}
+{"pred": "business_company_founders", "sub_label": "paypal", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "luxembourg"}
+{"pred": "business_company_founders", "sub_label": "powerset", "obj_label": "steve"}
+{"pred": "business_company_founders", "sub_label": "jangl", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "nasa", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "sony ericsson", "obj_label": "sony"}
+{"pred": "business_company_founders", "sub_label": "apple corps", "obj_label": "ringo"}
+{"pred": "business_company_founders", "sub_label": "shin corporation", "obj_label": "thaksin"}
+{"pred": "business_company_founders", "sub_label": "dreamworks", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "carnival cruise lines", "obj_label": "ted"}
+{"pred": "business_company_founders", "sub_label": "electronic arts", "obj_label": "bing"}
+{"pred": "business_company_founders", "sub_label": "healthsouth", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "hollinger inc.", "obj_label": "conrad"}
+{"pred": "business_company_founders", "sub_label": "council on foreign relations", "obj_label": "herbert"}
+{"pred": "business_company_founders", "sub_label": "televisa", "obj_label": "emilio"}
+{"pred": "business_company_founders", "sub_label": "psv eindhoven", "obj_label": "philips"}
+{"pred": "business_company_founders", "sub_label": "dischord records", "obj_label": "ian"}
+{"pred": "business_company_founders", "sub_label": "citizens against government waste", "obj_label": "jack"}
+{"pred": "business_company_founders", "sub_label": "ppr", "obj_label": "fran\u00e7ois"}
+{"pred": "business_company_founders", "sub_label": "northwestern university", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "poland"}
+{"pred": "business_company_founders", "sub_label": "office of strategic services", "obj_label": "franklin"}
+{"pred": "business_company_founders", "sub_label": "rusal", "obj_label": "roman"}
+{"pred": "business_company_founders", "sub_label": "fox broadcasting company", "obj_label": "barry"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "liberia"}
+{"pred": "business_company_founders", "sub_label": "seagram", "obj_label": "samuel"}
+{"pred": "business_company_founders", "sub_label": "saatchi & saatchi", "obj_label": "charles"}
+{"pred": "business_company_founders", "sub_label": "clickstar", "obj_label": "lori"}
+{"pred": "business_company_founders", "sub_label": "spyglass entertainment", "obj_label": "gary"}
+{"pred": "business_company_founders", "sub_label": "burrill & company", "obj_label": "g."}
+{"pred": "business_company_founders", "sub_label": "squaretrade", "obj_label": "steve"}
+{"pred": "business_company_founders", "sub_label": "electronic data systems", "obj_label": "ross"}
+{"pred": "business_company_founders", "sub_label": "youtube", "obj_label": "jawed"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "uruguay"}
+{"pred": "business_company_founders", "sub_label": "library of america", "obj_label": "edmund"}
+{"pred": "business_company_founders", "sub_label": "institute of culinary education", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "hewlett-packard", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "solomon r. guggenheim museum", "obj_label": "peggy"}
+{"pred": "business_company_founders", "sub_label": "united states department of homeland security", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "gamefly", "obj_label": "sean"}
+{"pred": "business_company_founders", "sub_label": "wpp group", "obj_label": "martin"}
+{"pred": "business_company_founders", "sub_label": "nasa", "obj_label": "dwight"}
+{"pred": "business_company_founders", "sub_label": "royal academy", "obj_label": "thomas"}
+{"pred": "business_company_founders", "sub_label": "royal academy", "obj_label": "benjamin"}
+{"pred": "business_company_founders", "sub_label": "easyjet", "obj_label": "stelios"}
+{"pred": "business_company_founders", "sub_label": "armadillo aerospace", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "nasa", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "belgium"}
+{"pred": "business_company_founders", "sub_label": "random house", "obj_label": "bennett"}
+{"pred": "business_company_founders", "sub_label": "european union", "obj_label": "winston"}
+{"pred": "business_company_founders", "sub_label": "westjet", "obj_label": "clive"}
+{"pred": "business_company_founders", "sub_label": "national amusements", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "grameen bank", "obj_label": "muhammad"}
+{"pred": "business_company_founders", "sub_label": "netsuite", "obj_label": "larry"}
+{"pred": "business_company_founders", "sub_label": "academy of motion picture arts and sciences", "obj_label": "louis"}
+{"pred": "business_company_founders", "sub_label": "boston properties", "obj_label": "mortimer"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "peru"}
+{"pred": "business_company_founders", "sub_label": "ford foundation", "obj_label": "henry"}
+{"pred": "business_company_founders", "sub_label": "shutterfly", "obj_label": "andy"}
+{"pred": "business_company_founders", "sub_label": "microsoft research", "obj_label": "nathan"}
+{"pred": "business_company_founders", "sub_label": "emc corporation", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "chez panisse", "obj_label": "alice"}
+{"pred": "business_company_founders", "sub_label": "baker botts", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "vatican museums", "obj_label": "pope"}
+{"pred": "business_company_founders", "sub_label": "elevation partners", "obj_label": "roger"}
+{"pred": "business_company_founders", "sub_label": "glam media", "obj_label": "samir"}
+{"pred": "business_company_founders", "sub_label": "hard rock cafe", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "time-life", "obj_label": "henry"}
+{"pred": "business_company_founders", "sub_label": "genzyme", "obj_label": "sheridan"}
+{"pred": "business_company_founders", "sub_label": "general motors", "obj_label": "william"}
+{"pred": "business_company_founders", "sub_label": "maytag", "obj_label": "f."}
+{"pred": "business_company_founders", "sub_label": "duke university", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "atari", "obj_label": "nolan"}
+{"pred": "business_company_founders", "sub_label": "viaweb", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "lucasfilm", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "toyota motor corporation", "obj_label": "kiichiro"}
+{"pred": "business_company_founders", "sub_label": "ecm", "obj_label": "manfred"}
+{"pred": "business_company_founders", "sub_label": "microsoft research", "obj_label": "bill"}
+{"pred": "business_company_founders", "sub_label": "british american tobacco", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "veoh", "obj_label": "dmitry"}
+{"pred": "business_company_founders", "sub_label": "shanghai cooperation organization", "obj_label": "tajikistan"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "netherlands"}
+{"pred": "business_company_founders", "sub_label": "petrobras", "obj_label": "get\u00falio"}
+{"pred": "business_company_founders", "sub_label": "virgin megastore", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "english national ballet", "obj_label": "alicia"}
+{"pred": "business_company_founders", "sub_label": "peace corps", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "boingo wireless", "obj_label": "sky"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "czechoslovakia"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "egypt"}
+{"pred": "business_company_founders", "sub_label": "apple records", "obj_label": "ringo"}
+{"pred": "business_company_founders", "sub_label": "dkny", "obj_label": "donna"}
+{"pred": "business_company_founders", "sub_label": "shanghai cooperation organization", "obj_label": "russia"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "nicaragua"}
+{"pred": "business_company_founders", "sub_label": "u.s. steel", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "compaq", "obj_label": "jim"}
+{"pred": "business_company_founders", "sub_label": "j. paul getty museum", "obj_label": "j."}
+{"pred": "business_company_founders", "sub_label": "association of tennis professionals", "obj_label": "cliff"}
+{"pred": "business_company_founders", "sub_label": "arquitectonica", "obj_label": "bernardo"}
+{"pred": "business_company_founders", "sub_label": "metro-goldwyn-mayer", "obj_label": "samuel"}
+{"pred": "business_company_founders", "sub_label": "tesla motors", "obj_label": "elon"}
+{"pred": "business_company_founders", "sub_label": "endemol", "obj_label": "joop"}
+{"pred": "business_company_founders", "sub_label": "cornell university", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "electric lady studios", "obj_label": "jimi"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "brazil"}
+{"pred": "business_company_founders", "sub_label": "bain capital", "obj_label": "mitt"}
+{"pred": "business_company_founders", "sub_label": "reganbooks", "obj_label": "judith"}
+{"pred": "business_company_founders", "sub_label": "united states department of energy", "obj_label": "jimmy"}
+{"pred": "business_company_founders", "sub_label": "house of blues", "obj_label": "dan"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "denmark"}
+{"pred": "business_company_founders", "sub_label": "zerofootprint", "obj_label": "ron"}
+{"pred": "business_company_founders", "sub_label": "new line cinema", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "virgin galactic", "obj_label": "burt"}
+{"pred": "business_company_founders", "sub_label": "pixar", "obj_label": "steve"}
+{"pred": "business_company_founders", "sub_label": "fox broadcasting company", "obj_label": "rupert"}
+{"pred": "business_company_founders", "sub_label": "overbrook entertainment", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "comcast", "obj_label": "ralph"}
+{"pred": "business_company_founders", "sub_label": "pinnacle entertainment", "obj_label": "jack"}
+{"pred": "business_company_founders", "sub_label": "dreamworks animation", "obj_label": "jeffrey"}
+{"pred": "business_company_founders", "sub_label": "miramax films", "obj_label": "bob"}
+{"pred": "business_company_founders", "sub_label": "united states naval academy", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "kaboodle", "obj_label": "manish"}
+{"pred": "business_company_founders", "sub_label": "miramax films", "obj_label": "harvey"}
+{"pred": "business_company_founders", "sub_label": "virgin group", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "american international group", "obj_label": "cornelius"}
+{"pred": "business_company_founders", "sub_label": "united states military academy", "obj_label": "thomas"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "bolivia"}
+{"pred": "business_company_founders", "sub_label": "sun microsystems", "obj_label": "scott"}
+{"pred": "business_company_founders", "sub_label": "generation investment management", "obj_label": "al"}
+{"pred": "business_company_founders", "sub_label": "rockefeller university", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "collabnet", "obj_label": "tim"}
+{"pred": "business_company_founders", "sub_label": "google", "obj_label": "sergey"}
+{"pred": "business_company_founders", "sub_label": "infosys", "obj_label": "kris"}
+{"pred": "business_company_founders", "sub_label": "omidyar network", "obj_label": "pierre"}
+{"pred": "business_company_founders", "sub_label": "grove press", "obj_label": "barney"}
+{"pred": "business_company_founders", "sub_label": "university of chicago", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "overbrook entertainment", "obj_label": "will"}
+{"pred": "business_company_founders", "sub_label": "bloomberg l.p.", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "solomon r. guggenheim foundation", "obj_label": "solomon"}
+{"pred": "business_company_founders", "sub_label": "givenchy", "obj_label": "hubert"}
+{"pred": "business_company_founders", "sub_label": "hearst magazines", "obj_label": "william"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "colombia"}
+{"pred": "business_company_founders", "sub_label": "southern california institute of architecture", "obj_label": "thom"}
+{"pred": "business_company_founders", "sub_label": "fiat", "obj_label": "giovanni"}
+{"pred": "business_company_founders", "sub_label": "american red cross", "obj_label": "clara"}
+{"pred": "business_company_founders", "sub_label": "zentropa", "obj_label": "lars"}
+{"pred": "business_company_founders", "sub_label": "american philosophical society", "obj_label": "benjamin"}
+{"pred": "business_company_founders", "sub_label": "damballa", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "lowermybills.com", "obj_label": "matt"}
+{"pred": "business_company_founders", "sub_label": "national audubon society", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "drew university", "obj_label": "daniel"}
+{"pred": "business_company_founders", "sub_label": "kb home", "obj_label": "eli"}
+{"pred": "business_company_founders", "sub_label": "idealab", "obj_label": "bill"}
+{"pred": "business_company_founders", "sub_label": "e. w. scripps company", "obj_label": "e."}
+{"pred": "business_company_founders", "sub_label": "cargill", "obj_label": "w.w."}
+{"pred": "business_company_founders", "sub_label": "capitol records", "obj_label": "johnny"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "new"}
+{"pred": "business_company_founders", "sub_label": "gestapo", "obj_label": "adolf"}
+{"pred": "business_company_founders", "sub_label": "sun microsystems", "obj_label": "bill"}
+{"pred": "business_company_founders", "sub_label": "las vegas sands", "obj_label": "steve"}
+{"pred": "business_company_founders", "sub_label": "flickr", "obj_label": "caterina"}
+{"pred": "business_company_founders", "sub_label": "xm satellite radio", "obj_label": "hugh"}
+{"pred": "business_company_founders", "sub_label": "pinger", "obj_label": "greg"}
+{"pred": "business_company_founders", "sub_label": "trans world airlines", "obj_label": "howard"}
+{"pred": "business_company_founders", "sub_label": "elevation partners", "obj_label": "fred"}
+{"pred": "business_company_founders", "sub_label": "joost", "obj_label": "janus"}
+{"pred": "business_company_founders", "sub_label": "apple records", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "solomon r. guggenheim museum", "obj_label": "frank"}
+{"pred": "business_company_founders", "sub_label": "amazon.com", "obj_label": "jeffrey"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "norway"}
+{"pred": "business_company_founders", "sub_label": "scientology", "obj_label": "l."}
+{"pred": "business_company_founders", "sub_label": "apple records", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "wal-mart", "obj_label": "sam"}
+{"pred": "business_company_founders", "sub_label": "visible path", "obj_label": "antony"}
+{"pred": "business_company_founders", "sub_label": "citadel investment group", "obj_label": "kenneth"}
+{"pred": "business_company_founders", "sub_label": "paypal", "obj_label": "max"}
+{"pred": "business_company_founders", "sub_label": "dyson", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "regency enterprises", "obj_label": "arnon"}
+{"pred": "business_company_founders", "sub_label": "planetary society", "obj_label": "carl"}
+{"pred": "business_company_founders", "sub_label": "interscope records", "obj_label": "jimmy"}
+{"pred": "business_company_founders", "sub_label": "technet", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "rockstar games", "obj_label": "dan"}
+{"pred": "business_company_founders", "sub_label": "news corporation", "obj_label": "fox"}
+{"pred": "business_company_founders", "sub_label": "carnegie mellon university", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "new york fashion week", "obj_label": "eleanor"}
+{"pred": "business_company_founders", "sub_label": "national science foundation", "obj_label": "vannevar"}
+{"pred": "business_company_founders", "sub_label": "cnn", "obj_label": "ted"}
+{"pred": "business_company_founders", "sub_label": "academy of motion picture arts and sciences", "obj_label": "cecil"}
+{"pred": "business_company_founders", "sub_label": "european union", "obj_label": "paul-henri"}
+{"pred": "business_company_founders", "sub_label": "ella baker center for human rights", "obj_label": "van"}
+{"pred": "business_company_founders", "sub_label": "oracle corporation", "obj_label": "larry"}
+{"pred": "business_company_founders", "sub_label": "council on foreign relations", "obj_label": "walter"}
+{"pred": "business_company_founders", "sub_label": "lucasarts", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "skype", "obj_label": "janus"}
+{"pred": "business_company_founders", "sub_label": "paramount pictures", "obj_label": "dreamworks"}
+{"pred": "business_company_founders", "sub_label": "snyder communications", "obj_label": "daniel"}
+{"pred": "business_company_founders", "sub_label": "central european university", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "mga entertainment", "obj_label": "isaac"}
+{"pred": "business_company_founders", "sub_label": "meebo", "obj_label": "seth"}
+{"pred": "business_company_founders", "sub_label": "discovery communications", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "trinity broadcasting network", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "universal studios", "obj_label": "dreamworks"}
+{"pred": "business_company_founders", "sub_label": "zopa", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "gazprom", "obj_label": "viktor"}
+{"pred": "business_company_founders", "sub_label": "fox news channel", "obj_label": "rupert"}
+{"pred": "business_company_founders", "sub_label": "sony computer entertainment", "obj_label": "ken"}
+{"pred": "business_company_founders", "sub_label": "arista records", "obj_label": "clive"}
+{"pred": "business_company_founders", "sub_label": "school of american ballet", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "iceland"}
+{"pred": "business_company_founders", "sub_label": "chlo\u00e9", "obj_label": "karl"}
+{"pred": "business_company_founders", "sub_label": "defense advanced research projects agency", "obj_label": "dwight"}
+{"pred": "business_company_founders", "sub_label": "motown records", "obj_label": "berry"}
+{"pred": "business_company_founders", "sub_label": "library of congress", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "worldwide pants", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "united artists", "obj_label": "douglas"}
+{"pred": "business_company_founders", "sub_label": "zazzle", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "belgium"}
+{"pred": "business_company_founders", "sub_label": "public policy productions", "obj_label": "roger"}
+{"pred": "business_company_founders", "sub_label": "choicestream", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "blackstone group", "obj_label": "stephen"}
+{"pred": "business_company_founders", "sub_label": "proenza schouler", "obj_label": "lazaro"}
+{"pred": "business_company_founders", "sub_label": "national oceanic and atmospheric administration", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "harmonix music systems", "obj_label": "eran"}
+{"pred": "business_company_founders", "sub_label": "gnomonsong", "obj_label": "andy"}
+{"pred": "business_company_founders", "sub_label": "amherst college", "obj_label": "noah"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "canada"}
+{"pred": "business_company_founders", "sub_label": "apple corps", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "new york medical college", "obj_label": "william"}
+{"pred": "business_company_founders", "sub_label": "rockefeller foundation", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "wikimedia foundation", "obj_label": "jimmy"}
+{"pred": "business_company_founders", "sub_label": "gnomonsong", "obj_label": "devendra"}
+{"pred": "business_company_founders", "sub_label": "postini", "obj_label": "scott"}
+{"pred": "business_company_founders", "sub_label": "united negro college fund", "obj_label": "mary"}
+{"pred": "business_company_founders", "sub_label": "rahal letterman racing", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "glencore", "obj_label": "marc"}
+{"pred": "business_company_founders", "sub_label": "united artists", "obj_label": "mary"}
+{"pred": "business_company_founders", "sub_label": "fox news channel", "obj_label": "roger"}
+{"pred": "business_company_founders", "sub_label": "united states atomic energy commission", "obj_label": "harry"}
+{"pred": "business_company_founders", "sub_label": "brown university", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "academy of motion picture arts and sciences", "obj_label": "mary"}
+{"pred": "business_company_founders", "sub_label": "revolution health group", "obj_label": "steve"}
+{"pred": "business_company_founders", "sub_label": "sky italia", "obj_label": "rupert"}
+{"pred": "business_company_founders", "sub_label": "cox enterprises", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "terra firma capital partners", "obj_label": "guy"}
+{"pred": "business_company_founders", "sub_label": "weta digital", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "bazaarvoice", "obj_label": "brett"}
+{"pred": "business_company_founders", "sub_label": "dell", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "macandrews & forbes holdings", "obj_label": "ronald"}
+{"pred": "business_company_founders", "sub_label": "imagine entertainment", "obj_label": "ron"}
+{"pred": "business_company_founders", "sub_label": "national labor relations board", "obj_label": "franklin"}
+{"pred": "business_company_founders", "sub_label": "museum of modern art", "obj_label": "abby"}
+{"pred": "business_company_founders", "sub_label": "studio ghibli", "obj_label": "hayao"}
+{"pred": "business_company_founders", "sub_label": "weta digital", "obj_label": "jamie"}
+{"pred": "business_company_founders", "sub_label": "city lights bookstore", "obj_label": "lawrence"}
+{"pred": "business_company_founders", "sub_label": "microsoft", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "dreamworks", "obj_label": "steven"}
+{"pred": "business_company_founders", "sub_label": "pixsense", "obj_label": "faraz"}
+{"pred": "business_company_founders", "sub_label": "american fur company", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "adidas", "obj_label": "adolf"}
+{"pred": "business_company_founders", "sub_label": "international rice research institute", "obj_label": "ford"}
+{"pred": "business_company_founders", "sub_label": "roman catholic church", "obj_label": "jesus"}
+{"pred": "business_company_founders", "sub_label": "weta workshop", "obj_label": "jamie"}
+{"pred": "business_company_founders", "sub_label": "porsche", "obj_label": "ferdinand"}
+{"pred": "business_company_founders", "sub_label": "salesforce.com", "obj_label": "marc"}
+{"pred": "business_company_founders", "sub_label": "fisker coachbuild", "obj_label": "henrik"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "netherlands"}
+{"pred": "business_company_founders", "sub_label": "corbis", "obj_label": "bill"}
+{"pred": "business_company_founders", "sub_label": "collabnet", "obj_label": "brian"}
+{"pred": "business_company_founders", "sub_label": "martha stewart living omnimedia", "obj_label": "martha"}
+{"pred": "business_company_founders", "sub_label": "bbc", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "digg", "obj_label": "jay"}
+{"pred": "business_company_founders", "sub_label": "blockbuster", "obj_label": "wayne"}
+{"pred": "business_company_founders", "sub_label": "sac capital partners", "obj_label": "steven"}
+{"pred": "business_company_founders", "sub_label": "qwest", "obj_label": "philip"}
+{"pred": "business_company_founders", "sub_label": "brookings institution", "obj_label": "peter"}
+{"pred": "business_company_founders", "sub_label": "critical mention", "obj_label": "sean"}
+{"pred": "business_company_founders", "sub_label": "amblin entertainment", "obj_label": "kathleen"}
+{"pred": "business_company_founders", "sub_label": "dreamworks animation", "obj_label": "steven"}
+{"pred": "business_company_founders", "sub_label": "rocawear", "obj_label": "jay-z"}
+{"pred": "business_company_founders", "sub_label": "upn", "obj_label": "paramount"}
+{"pred": "business_company_founders", "sub_label": "brookings institution", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "facebook", "obj_label": "mark"}
+{"pred": "business_company_founders", "sub_label": "red army", "obj_label": "mao"}
+{"pred": "business_company_founders", "sub_label": "paypal", "obj_label": "elon"}
+{"pred": "business_company_founders", "sub_label": "new america foundation", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "paychex", "obj_label": "tom"}
+{"pred": "business_company_founders", "sub_label": "atom entertainment", "obj_label": "mika"}
+{"pred": "business_company_founders", "sub_label": "international rice research institute", "obj_label": "rockefeller"}
+{"pred": "business_company_founders", "sub_label": "giuliani partners", "obj_label": "rudy"}
+{"pred": "business_company_founders", "sub_label": "vanguard animation", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "united press international", "obj_label": "e."}
+{"pred": "business_company_founders", "sub_label": "cbs", "obj_label": "william"}
+{"pred": "business_company_founders", "sub_label": "united artists", "obj_label": "charlie"}
+{"pred": "business_company_founders", "sub_label": "akademiks", "obj_label": "donwan"}
+{"pred": "business_company_founders", "sub_label": "esalen institute", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "childress vineyards", "obj_label": "richard"}
+{"pred": "business_company_founders", "sub_label": "polo ralph lauren", "obj_label": "ralph"}
+{"pred": "business_company_founders", "sub_label": "skywalker sound", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "doubleclick", "obj_label": "kevin"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "panama"}
+{"pred": "business_company_founders", "sub_label": "est\u00e9e lauder companies", "obj_label": "leonard"}
+{"pred": "business_company_founders", "sub_label": "myspace", "obj_label": "chris"}
+{"pred": "business_company_founders", "sub_label": "def jam recordings", "obj_label": "russell"}
+{"pred": "business_company_founders", "sub_label": "youtube", "obj_label": "chad"}
+{"pred": "business_company_founders", "sub_label": "dreamworks animation", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "deere & company", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "proenza schouler", "obj_label": "jack"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "united"}
+{"pred": "business_company_founders", "sub_label": "island records", "obj_label": "chris"}
+{"pred": "business_company_founders", "sub_label": "time inc.", "obj_label": "henry"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "iraq"}
+{"pred": "business_company_founders", "sub_label": "google", "obj_label": "larry"}
+{"pred": "business_company_founders", "sub_label": "howard hughes medical institute", "obj_label": "howard"}
+{"pred": "business_company_founders", "sub_label": "harmonix music systems", "obj_label": "alex"}
+{"pred": "business_company_founders", "sub_label": "bell labs", "obj_label": "alexander"}
+{"pred": "business_company_founders", "sub_label": "university of chicago", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "home depot", "obj_label": "bernard"}
+{"pred": "business_company_founders", "sub_label": "medio systems", "obj_label": "brian"}
+{"pred": "business_company_founders", "sub_label": "new york jets", "obj_label": "harry"}
+{"pred": "business_company_founders", "sub_label": "hammer museum", "obj_label": "armand"}
+{"pred": "business_company_founders", "sub_label": "peerflix", "obj_label": "billy"}
+{"pred": "business_company_founders", "sub_label": "morgans hotel group", "obj_label": "ian"}
+{"pred": "business_company_founders", "sub_label": "federal emergency management agency", "obj_label": "zbigniew"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "luxembourg"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "ethiopia"}
+{"pred": "business_company_founders", "sub_label": "news corporation", "obj_label": "rupert"}
+{"pred": "business_company_founders", "sub_label": "morphosis", "obj_label": "thom"}
+{"pred": "business_company_founders", "sub_label": "sony", "obj_label": "masaru"}
+{"pred": "business_company_founders", "sub_label": "biovail", "obj_label": "eugene"}
+{"pred": "business_company_founders", "sub_label": "playtone", "obj_label": "gary"}
+{"pred": "business_company_founders", "sub_label": "rolling stone", "obj_label": "jann"}
+{"pred": "business_company_founders", "sub_label": "southern poverty law center", "obj_label": "julian"}
+{"pred": "business_company_founders", "sub_label": "tennessee valley authority", "obj_label": "franklin"}
+{"pred": "business_company_founders", "sub_label": "club penguin", "obj_label": "lane"}
+{"pred": "business_company_founders", "sub_label": "summit entertainment", "obj_label": "arnon"}
+{"pred": "business_company_founders", "sub_label": "california institute of the arts", "obj_label": "walt"}
+{"pred": "business_company_founders", "sub_label": "qwest communications", "obj_label": "philip"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "paraguay"}
+{"pred": "business_company_founders", "sub_label": "federal bureau of investigation", "obj_label": "theodore"}
+{"pred": "business_company_founders", "sub_label": "equinix", "obj_label": "jay"}
+{"pred": "business_company_founders", "sub_label": "factory records", "obj_label": "tony"}
+{"pred": "business_company_founders", "sub_label": "hearst corporation", "obj_label": "william"}
+{"pred": "business_company_founders", "sub_label": "clark university", "obj_label": "g."}
+{"pred": "business_company_founders", "sub_label": "united states military academy", "obj_label": "george"}
+{"pred": "business_company_founders", "sub_label": "brillstein-grey entertainment", "obj_label": "brad"}
+{"pred": "business_company_founders", "sub_label": "united states department of agriculture", "obj_label": "abraham"}
+{"pred": "business_company_founders", "sub_label": "est\u00e9e lauder companies", "obj_label": "est\u00e9e"}
+{"pred": "business_company_founders", "sub_label": "penske racing", "obj_label": "roger"}
+{"pred": "business_company_founders", "sub_label": "fedex", "obj_label": "frederick"}
+{"pred": "business_company_founders", "sub_label": "livedoor", "obj_label": "takafumi"}
+{"pred": "business_company_founders", "sub_label": "time warner", "obj_label": "steve"}
+{"pred": "business_company_founders", "sub_label": "general services administration", "obj_label": "harry"}
+{"pred": "business_company_founders", "sub_label": "united nations", "obj_label": "saudi"}
+{"pred": "business_company_founders", "sub_label": "applied minds", "obj_label": "bran"}
+{"pred": "business_company_founders", "sub_label": "playtone", "obj_label": "tom"}
+{"pred": "business_company_founders", "sub_label": "apple records", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "earthlink", "obj_label": "sky"}
+{"pred": "business_company_founders", "sub_label": "lexus", "obj_label": "eiji"}
+{"pred": "business_company_founders", "sub_label": "oral roberts university", "obj_label": "oral"}
+{"pred": "business_company_founders", "sub_label": "aol", "obj_label": "steve"}
+{"pred": "business_company_founders", "sub_label": "broadway video", "obj_label": "lorne"}
+{"pred": "business_company_founders", "sub_label": "a&m records", "obj_label": "jerry"}
+{"pred": "business_company_founders", "sub_label": "knights of columbus", "obj_label": "michael"}
+{"pred": "business_company_founders", "sub_label": "tvr", "obj_label": "trevor"}
+{"pred": "business_company_founders", "sub_label": "linden lab", "obj_label": "philip"}
+{"pred": "business_company_founders", "sub_label": "food and drug administration", "obj_label": "theodore"}
+{"pred": "business_company_founders", "sub_label": "european union", "obj_label": "jean"}
+{"pred": "business_company_founders", "sub_label": "apple corps", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "international monetary fund", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "kfc", "obj_label": "colonel"}
+{"pred": "business_company_founders", "sub_label": "turner broadcasting", "obj_label": "ted"}
+{"pred": "business_company_founders", "sub_label": "bank of new york", "obj_label": "alexander"}
+{"pred": "business_company_founders", "sub_label": "chermayeff & geismar", "obj_label": "tom"}
+{"pred": "business_company_founders", "sub_label": "tuskegee university", "obj_label": "booker"}
+{"pred": "business_company_founders", "sub_label": "groove networks", "obj_label": "ray"}
+{"pred": "business_company_founders", "sub_label": "polaroid corporation", "obj_label": "edwin"}
+{"pred": "business_company_founders", "sub_label": "hilton hotels", "obj_label": "barron"}
+{"pred": "business_company_founders", "sub_label": "imagine entertainment", "obj_label": "brian"}
+{"pred": "business_company_founders", "sub_label": "pratt institute", "obj_label": "charles"}
+{"pred": "business_company_founders", "sub_label": "enron", "obj_label": "jeffrey"}
+{"pred": "business_company_founders", "sub_label": "sony ericsson", "obj_label": "ericsson"}
+{"pred": "business_company_founders", "sub_label": "shanghai cooperation organization", "obj_label": "kazakhstan"}
+{"pred": "business_company_founders", "sub_label": "general electric", "obj_label": "thomas"}
+{"pred": "business_company_founders", "sub_label": "united states naval academy", "obj_label": "james"}
+{"pred": "business_company_founders", "sub_label": "united states department of health and human services", "obj_label": "john"}
+{"pred": "business_company_founders", "sub_label": "metro-goldwyn-mayer", "obj_label": "louis"}
+{"pred": "business_company_founders", "sub_label": "council on foreign relations", "obj_label": "david"}
+{"pred": "business_company_founders", "sub_label": "american civil liberties union", "obj_label": "norman"}
+{"pred": "business_company_founders", "sub_label": "pixar", "obj_label": "edwin"}
+{"pred": "business_company_founders", "sub_label": "red army", "obj_label": "leon"}
+{"pred": "business_company_founders", "sub_label": "mediaset", "obj_label": "silvio"}
+{"pred": "business_company_founders", "sub_label": "universal music group", "obj_label": "jimmy"}
+{"pred": "business_company_founders", "sub_label": "netscape", "obj_label": "marc"}
+{"pred": "business_company_founders", "sub_label": "apollo management", "obj_label": "leon"}
+{"pred": "business_company_founders", "sub_label": "united states department of education", "obj_label": "jimmy"}
+{"pred": "business_company_founders", "sub_label": "intel corporation", "obj_label": "robert"}
+{"pred": "business_company_founders", "sub_label": "magna international", "obj_label": "frank"}
+{"pred": "business_company_founders", "sub_label": "academy of motion picture arts and sciences", "obj_label": "douglas"}
+{"pred": "business_company_founders", "sub_label": "gulf oil", "obj_label": "andrew"}
+{"pred": "business_company_founders", "sub_label": "merriam-webster", "obj_label": "noah"}
+{"pred": "business_company_founders", "sub_label": "party of the democratic revolution", "obj_label": "andr\u00e9s"}
+{"pred": "business_company_founders", "sub_label": "american pharmaceutical partners", "obj_label": "patrick"}
+{"pred": "business_company_founders", "sub_label": "council on foreign relations", "obj_label": "paul"}
+{"pred": "business_company_founders", "sub_label": "illinois institute of technology", "obj_label": "ludwig"}
+{"pred": "business_company_founders", "sub_label": "shanghai cooperation organization", "obj_label": "uzbekistan"}
+{"pred": "business_company_founders", "sub_label": "north atlantic treaty organization", "obj_label": "portugal"}

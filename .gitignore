@@ -61,3 +61,5 @@ __pycache__
 
 /prompt_mining/prompt_opti/pre-trained_language_models
 /prompt_mining/prompt_opti/feature_dir
+/prompt_mining/prompt_opti/weights_out
+/prompt_mining/prompt_opti/output

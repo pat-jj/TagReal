@@ -7,6 +7,7 @@
 __pycache__
 .idea
 .ipynb_checkpoints
+*.log
 
 
 /.git/objects/pack/tmp_pack_ED5Yfh
@@ -63,3 +64,4 @@ __pycache__
 /prompt_mining/prompt_opti/feature_dir
 /prompt_mining/prompt_opti/weights_out
 /prompt_mining/prompt_opti/output/results
+/log

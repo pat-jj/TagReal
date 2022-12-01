@@ -6,17 +6,26 @@ from collections import defaultdict
 from os.path import join, abspath, dirname
 from torch.utils.data import DataLoader
 from data_utils.dataset import *
+from datetime import datetime
 import numpy as np
 import sys
 import os
 
-logging.basicConfig(
-    format='%(asctime)s - %(message)s',
-    level=logging.INFO,
-    filename='./FB60K_NYT10_train_log.log',
-    filemode='w'
-    )
-logger = logging.getLogger()
+
+def setup_logger(name, f_name, level=logging.INFO):
+    """To setup as many loggers as you want"""
+    now = datetime.now().strftime("%Y_%m_%d_%H_%M")
+    formatter = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+    handler = logging.FileHandler(filename=f'./log/{f_name}-{now}.log')        
+    handler.setFormatter(formatter)
+
+    logger = logging.getLogger(name)
+    logger.setLevel(level)
+    logger.addHandler(handler)
+
+    return logger
+
+logger = setup_logger("train_logger", "FB60K-NYT10-train")
 
 def get_f1_binary(goldens, preds, threshold):
     tmp = []
@@ -177,7 +186,7 @@ def evaluate_link_prediction_using_classification(self, epoch_idx, index, output
         res_head = link_predicate(self.args, scores, self.link_dataset_head.triple_list, valid=False, head=True)
         if output_scores:
             model_name = 'ours'
-            f = open(f'{self.args.data_dir}/{model_name}.link_prediction_head_scores.txt', 'w')
+            f = open(f'./log/link_prediction_head_scores.txt', 'w')
             for i in range(len(scores)):
                 f.write(f'{self.link_dataset_head.triple_list[i]}\t{scores[i]}\t{preds[i]}\n')
             f.close()

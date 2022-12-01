@@ -1,12 +1,12 @@
-export CUDA_VISIBLE_DEVICES=2,3,4,5
+export CUDA_VISIBLE_DEVICES=1,2,3,4,5,6,7
 
-python3 -m torch.distributed.launch --nproc_per_node=4 tagreal.py \
+python3 -m torch.distributed.launch --nproc_per_node=7 tagreal.py \
 --model_name luke \
 --pseudo_token [PROMPT] \
 --template \(1,1,1,1,1,1\) \
 --max_epoch 10 \
 --batch_size 16 \
---early_stop 20 \
+--early_stop 10 \
 --lr 5e-5 \
 --lm_lr 1e-6 \
 --seed 234 \
@@ -15,7 +15,7 @@ python3 -m torch.distributed.launch --nproc_per_node=4 tagreal.py \
 --lstm_dropout 0.0 \
 --data_dir ./dataset/FB60K-NYT10 \
 --out_dir ./checkpoint/FB60K-NYT10 \
---valid_step 10000 \
+--valid_step 1000 \
 --use_lm_finetune \
 --recall_k 30 \
 --pos_K 30 \

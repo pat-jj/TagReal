@@ -1,5 +1,7 @@
 import os
 import sys
+from datetime import datetime 
+from copy import deepcopy
 from eval_utils import *
 import argparse
 import torch
@@ -23,6 +25,8 @@ SUPPORT_MODELS = ['bert-base-cased', 'bert-large-cased', 'bert-base-uncased', 'b
                   'gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl',
                   'roberta-base', 'roberta-large', 'luke', 'kepler',
                   'megatron_11b']
+
+# logger_set = setup_logger(name='set_logger', f_name='FB60K_NYT_set')
 
 
 def set_seed(args):
@@ -323,8 +327,10 @@ class BasicDataWiki:
             for line in lines:
                 triple, text = line.split('####SPLIT####')
                 h, r, t = triple.split('||')
-                triple_ = (h, r, t)
+                triple_ = h +'\t' + r + '\t' + t
                 self.triple2text[triple_] = text[:-1]
+            # logger_set.info(f'triple2text{self.triple2text}')
+            
         else:
             self.triple2text = None
 
@@ -368,7 +374,8 @@ class BasicDatasetWiki(Dataset):
 
     def convert_from_triple_to_sentence(self, triple):
         h, r, t = triple
-        triple_ = (h, r, t)
+        h_, t_ = self.entity2label[h], self.entity2label[t]
+        triple_ = h_ +'\t' + r + '\t' + t_
 
         this_template = self.relation2template[r].strip()
 
@@ -519,9 +526,9 @@ def get_dataloader(args, tokenizer):
             args.recall_k
         )
 
-    train_loader = DataLoader(train_set, batch_size=args.batch_size, shuffle=True)
-    dev_loader = DataLoader(dev_set, batch_size=args.batch_size)
-    test_loader = DataLoader(test_set, batch_size=args.batch_size)
+    # train_loader = DataLoader(train_set, batch_size=args.batch_size, shuffle=True)
+    # dev_loader = DataLoader(dev_set, batch_size=args.batch_size)
+    # test_loader = DataLoader(test_set, batch_size=args.batch_size)
     
     ch_test_loader, oh_test_loader = None, None
 
@@ -530,15 +537,15 @@ def get_dataloader(args, tokenizer):
     else:
         o_test_loader = None
 
-    if args.link_prediction:
-        link_loader_tail = DataLoader(link_dataset_tail, batch_size=args.batch_size)
-        link_loader_head = DataLoader(link_dataset_head, batch_size=args.batch_size)
-    else:
-        link_loader_tail = None
-        link_loader_head = None
-        link_dataset_tail = None
-        link_dataset_head = None
-    return train_set, train_loader,  dev_loader, test_loader, ch_test_loader, oh_test_loader, o_test_loader, link_loader_head, link_loader_tail, len(basic_data.relation2idx), link_dataset_head, link_dataset_tail
+    # if args.link_prediction:
+    #     # link_loader_tail = DataLoader(link_dataset_tail, batch_size=args.batch_size)
+    #     # link_loader_head = DataLoader(link_dataset_head, batch_size=args.batch_size)
+    # else:
+    #     link_loader_tail = None
+    #     link_loader_head = None
+    #     link_dataset_tail = None
+    #     link_dataset_head = None
+    return train_set, test_set, dev_set, link_dataset_head, link_dataset_tail, ch_test_loader, oh_test_loader, o_test_loader, len(basic_data.relation2idx)
 
 
 class PTuneForLAMA(torch.nn.Module):
@@ -563,14 +570,14 @@ class PTuneForLAMA(torch.nn.Module):
         
         if len(self.device_ids) > 1:
             self.model = self.model.cuda(args.local_rank)
-#             self.model = torch.nn.parallel.DistributedDataParallel(self.model, device_ids=self.device_ids)
+            self.model = torch.nn.SyncBatchNorm.convert_sync_batchnorm(self.model)
             self.model = torch.nn.parallel.DistributedDataParallel(self.model, 
                                                      device_ids=[args.local_rank], 
                                                      output_device=args.local_rank, 
                                                      find_unused_parameters=False, 
                                                      broadcast_buffers=False)
             
-        self.model.module.to(self.device)
+        # self.model.module.to(self.device)
         # self.model.to(self.device)
         
         
@@ -597,6 +604,7 @@ class PTuneForLAMA(torch.nn.Module):
         self.prompt_encoder = KEPromptEncoder(self.template, self.hidden_size, self.tokenizer, self.device, args, self.relation_num)
         self.prompt_encoder = self.prompt_encoder.to(self.device)
 
+
     def embed_input(self, queries, rs_tensor):
         bz = queries.shape[0]
         queries_for_embedding = queries.clone()
@@ -610,9 +618,9 @@ class PTuneForLAMA(torch.nn.Module):
                 raw_embeds[bidx, blocked_indices[bidx, i], :] = replace_embeds[bidx, i, :]
         return raw_embeds
 
-    def forward_classification(self, texts, rs, labels, return_candidates=False):
+    def forward_classification(self, texts, rs, labels, return_candidates=False, bz=None):
         if self.args.model_name == 'luke':
-            return self.forward_classification_luke(texts, rs, labels, return_candidates)
+            return self.forward_classification_luke(texts, rs, labels, return_candidates, bz)
         bz = len(texts)
 
         # construct query ids
@@ -635,7 +643,8 @@ class PTuneForLAMA(torch.nn.Module):
 
         return loss, float(acc) / bz, (labels.tolist(), torch.argmax(logits, dim=-1).tolist(), logits)
     
-    def forward_classification_luke(self, texts, rs, labels, return_candidates=False):
+
+    def forward_classification_luke(self, texts, rs, labels, return_candidates=False, bz=None):
         bz = len(texts)
         input_texts = []
         input_entities = []
@@ -659,11 +668,11 @@ class PTuneForLAMA(torch.nn.Module):
             return_tensors="pt"
             )
 
-        encoding = {k: v.to(self.device) for k, v in encoding.items()}
-        output = self.model(**encoding, labels=labels.to(self.device))
+        encoding = {k: v.cuda(self.args.local_rank, non_blocking=True) for k, v in encoding.items()}
+        output = self.model(**encoding, labels=labels.cuda(self.args.local_rank, non_blocking=True))
 
         loss, logits = output.loss, output.logits
-        acc = torch.sum(torch.argmax(logits, dim=-1) == labels.to(self.device))
+        acc = torch.sum(torch.argmax(logits, dim=-1) == labels.cuda(self.args.local_rank, non_blocking=True))
 
         return loss, float(acc) / bz, (labels.tolist(), torch.argmax(logits, dim=-1).tolist(), logits)
 
@@ -682,7 +691,9 @@ class Trainer(object):
 
     def __init__(self, args):
         self.args = args
-        self.device = torch.device('cuda')
+        global device 
+        device = torch.device("cuda", args.local_rank)
+        self.device = device
         self.devices, self.device_ids = self.prepare_gpu(8)
 
         # load tokenizer
@@ -695,7 +706,8 @@ class Trainer(object):
         else:
             self.tokenizer = AutoTokenizer.from_pretrained(self.args.model_name)
         os.makedirs(self.get_save_path(), exist_ok=True)
-        self.train_set, self.train_loader, self.dev_loader, self.test_loader, self.ch_test_loader, self.oh_test_loader, self.o_test_loader, self.link_loader_head, self.link_loader_tail, relation_num, self.link_dataset_head, self.link_dataset_tail = get_dataloader(
+
+        self.train_set, self.test_set, self.dev_set, self.link_dataset_head, self.link_dataset_tail, self.ch_test_loader, self.oh_test_loader, self.o_test_loader, relation_num = get_dataloader(
             args, self.tokenizer)
         self.model = PTuneForLAMA(args, self.device, self.device_ids, self.args.template, self.tokenizer, relation_num)
 
@@ -749,6 +761,13 @@ class Trainer(object):
 
         # multi-gpus
         self.train_sampler = torch.utils.data.distributed.DistributedSampler(self.train_set)
+        self.test_sampler = torch.utils.data.distributed.DistributedSampler(self.test_set)
+        self.dev_sampler = torch.utils.data.distributed.DistributedSampler(self.dev_set)
+        self.link_tail_sampler = torch.utils.data.distributed.DistributedSampler(self.link_dataset_tail)
+        self.link_head_sampler = torch.utils.data.distributed.DistributedSampler(self.link_dataset_head)
+
+
+
         self.train_loader = torch.utils.data.DataLoader(self.train_set,
                                                         batch_size=self.args.batch_size,
                                                         shuffle=False,
@@ -756,17 +775,31 @@ class Trainer(object):
                                                         pin_memory=True,
                                                         drop_last=True,
                                                         sampler=self.train_sampler)
+        self.test_loader = torch.utils.data.DataLoader(self.test_set, batch_size=self.args.batch_size, sampler=self.test_sampler)
+        self.dev_loader = torch.utils.data.DataLoader(self.dev_set, batch_size=self.args.batch_size, sampler=self.test_sampler)
+        self.link_loader_tail = torch.utils.data.DataLoader(self.link_dataset_tail, batch_size=self.args.batch_size, sampler=self.link_tail_sampler)
+        self.link_loader_head = torch.utils.data.DataLoader(self.link_dataset_head, batch_size=self.args.batch_size, sampler=self.link_head_sampler)
+
+
+        
 
         for epoch_idx in range(self.args.max_epoch):
             # run training
             self.train_sampler.set_epoch(epoch_idx)  # 这句莫忘，否则相当于没有shuffle数据
             pbar = tqdm(self.train_loader)
+            self.model.train()
             for batch_idx, batch in enumerate(pbar):
-                self.model.train()
 
                 optimizer.zero_grad()
+                # print(encoding)
 
-                loss, acc, _ = self.model.forward_classification(batch[0], batch[1], batch[2])
+                loss, acc, _ = self.model.forward_classification(
+                    texts=batch[0],
+                    # [rs.cuda(self.args.local_rank, non_blocking=True) for rs in batch[1]],
+                    # labels=[label.cuda(self.args.local_rank, non_blocking=True) for label in batch[2]],
+                    rs=batch[1],
+                    labels=batch[2],
+                    )
                 pbar.set_description(f"Loss {float(loss.mean()):.6g}, acc {acc:.4g}")
 
                 #                 print("\n begin back propagation for epoch", epoch_idx)
@@ -786,7 +819,7 @@ class Trainer(object):
 
                     # Link Prediction
                     if self.args.link_prediction and not (batch_idx == 0 and epoch_idx == 0):
-                        evaluate_link_prediction_using_classification(self, epoch_idx, batch_idx, output_scores=False)
+                        evaluate_link_prediction_using_classification(self, epoch_idx, batch_idx, output_scores=True)
 
                     # Early stop and save
                     if dev_results >= best_dev:

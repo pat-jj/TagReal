@@ -1,0 +1,16 @@
+[X] died in [Y]	0.35333207
+[X] died at [Y]	0.34312975
+<DECEASED_PERSON>[X]</DECEASED_PERSON>, departed from <PLACE_OF_DEATH>[Y]</PLACE_OF_DEATH>	0.14299507
+<DECEASED_PERSON>[X]</DECEASED_PERSON> departed <PLACE_OF_DEATH>[Y]</PLACE_OF_DEATH>	0.14177765
+[X] returned to [Y]	0.16869517
+[X] museum in [Y] ,	0.3828648
+[X] hall in [Y]	0.21327738
+[X] university in [Y] ,	0.47442758
+centre [X] , [Y]	0.0
+[X] studios in [Y]	0.06223856
+[X] hospital in [Y]	0.062427267
+[X] theater in [Y]	0.061496384
+centre [X] in [Y]	0.05728591
+[X] theatre in [Y]	0.055193122
+[X] in [Y] ,	0.057471942
+

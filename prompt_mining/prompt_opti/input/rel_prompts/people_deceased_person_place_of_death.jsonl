@@ -1,7 +1,7 @@
 {"relation": "people_deceased_person_place_of_death", "template": "[X] died in [Y]"}
 {"relation": "people_deceased_person_place_of_death", "template": "[X] died at [Y]"}
-{"relation": "people_deceased_person_place_of_death", "template": "<DECEASED_PERSON>[X]</DECEASED_PERSON>, departed from <PLACE_OF_DEATH>[Y]</PLACE_OF_DEATH>"}
-{"relation": "people_deceased_person_place_of_death", "template": "<DECEASED_PERSON>[X]</DECEASED_PERSON> departed <PLACE_OF_DEATH>[Y]</PLACE_OF_DEATH>"}
+{"relation": "people_deceased_person_place_of_death", "template": "[X], departed from [Y]"}
+{"relation": "people_deceased_person_place_of_death", "template": "[X] departed [Y]"}
 {"relation": "people_deceased_person_place_of_death", "template": "[X] returned to [Y]"}
 {"relation": "people_deceased_person_place_of_death", "template": "[X] museum in [Y] ,"}
 {"relation": "people_deceased_person_place_of_death", "template": "[X] hall in [Y]"}

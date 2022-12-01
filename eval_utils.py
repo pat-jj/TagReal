@@ -1,4 +1,5 @@
 from sklearn.metrics import f1_score, precision_recall_fscore_support, mean_squared_error, mean_absolute_error
+import logging
 import torch
 from tqdm import tqdm
 from collections import defaultdict
@@ -8,6 +9,14 @@ from data_utils.dataset import *
 import numpy as np
 import sys
 import os
+
+logging.basicConfig(
+    format='%(asctime)s - %(message)s',
+    level=logging.INFO,
+    filename='./FB60K_NYT10_train_log.log',
+    filemode='w'
+    )
+logger = logging.getLogger()
 
 def get_f1_binary(goldens, preds, threshold):
     tmp = []
@@ -74,7 +83,8 @@ def evaluate_classification_using_classification(self, epoch_idx):
                 with open(f'classification_results/{dataset}.{evaluate_type}.{epoch_idx}.txt', 'w') as f:
                     for i in range(len(triples)):
                         f.write('{}\t{}\t{}\n'.format(triples[i], preds[i], scores[i]))
-            print("{} Epoch {}, Acc: {}, Prec: {}, Recall: {}, F1: {}".format(evaluate_type, epoch_idx, acc, prec, recall, f1))
+            eval_msg = "{} Epoch {}, Acc: {}, Prec: {}, Recall: {}, F1: {}".format(evaluate_type, epoch_idx, acc, prec, recall, f1)
+            logger.info(eval_msg)
             return f1
 
     self.model.eval()
@@ -142,15 +152,15 @@ def link_predicate(args, idx2score, link_triple_list, valid=False, head=False):
             else:
                 hits[hits_level].append(0.0)
     if head:
-        print('Head:')
+        logger.info('Head:')
     else:
-        print('Tail:')
-    res = [np.mean(hits[9]), np.mean(hits[2]), np.mean(hits[0]), np.mean(ranks), np.mean(1./np.array(ranks))]
-    print('Hits @10: {0}'.format(res[0]))
-    print('Hits @3: {0}'.format(res[1]))
-    print('Hits @1: {0}'.format(res[2]))
-    print('Mean rank: {0}'.format(res[3]))
-    print('Mean reciprocal rank: {0}'.format(res[4]))
+        logger.info('Tail:')
+    res = [np.mean(hits[9]), np.mean(hits[4]), np.mean(hits[0]), np.mean(ranks), np.mean(1./np.array(ranks))]
+    logger.info('Hits @10: {0}'.format(res[0]))
+    logger.info('Hits @5: {0}'.format(res[1]))
+    logger.info('Hits @1: {0}'.format(res[2]))
+    logger.info('Mean rank: {0}'.format(res[3]))
+    logger.info('Mean reciprocal rank: {0}'.format(res[4]))
     return res
 
 def evaluate_link_prediction_using_classification(self, epoch_idx, index, output_scores=False):
@@ -188,9 +198,9 @@ def evaluate_link_prediction_using_classification(self, epoch_idx, index, output
             f.close()
         # avg
         res_avg = [(res_head[i] + res_tail[i]) / 2.0 for i in range(len(res_head))]
-        print('Avg:')
-        print('Hits @10: {0}'.format(res_avg[0]))
-        print('Hits @3: {0}'.format(res_avg[1]))
-        print('Hits @1: {0}'.format(res_avg[2]))
-        print('Mean rank: {0}'.format(res_avg[3]))
-        print('Mean reciprocal rank: {0}'.format(res_avg[4]))
+        logger.info('Avg:')
+        logger.info('Hits @10: {0}'.format(res_avg[0]))
+        logger.info('Hits @5: {0}'.format(res_avg[1]))
+        logger.info('Hits @1: {0}'.format(res_avg[2]))
+        logger.info('Mean rank: {0}'.format(res_avg[3]))
+        logger.info('Mean reciprocal rank: {0}'.format(res_avg[4]))

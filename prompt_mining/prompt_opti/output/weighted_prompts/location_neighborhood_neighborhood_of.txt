@@ -1,0 +1,39 @@
+[Y] [X]	0.35932904
+[X] [Y]	0.06689108
+[Y] 's [X]	0.08223586
+[X] , [Y]	0.0817678
+[X] in [Y]	0.08094105
+[X] , [Y] ,	0.08086701
+[X] district of [Y]	0.081936285
+[X] of [Y]	0.07223923
+[X] neighborhood of [Y]	0.22218515
+[X] area of [Y]	0.5247525
+people from [X] , [Y]	0.1794713
+[X] section of [Y]	0.060548637
+home in [X] , [Y]	0.0821599
+[Y] 's [X] ,	0.54128486
+[Y] division, [X]	0.08235114
+[X] and [Y]	0.10847818
+[X] , [Y] , oregon	0.08231233
+[Y] 's [X] neighborhood.	0.59286803
+[X] section of [Y] ,	0.08659907
+people from the [X] , [Y]	0.05002458
+[Y] , [X]	0.0497915
+[Y] neighborhood of [X]	0.046872355
+street in the [X] neighborhood of [Y]	0.047986485
+[Y] in the [X]	0.0
+[X] , [Y]	0.06489651
+[Y] and [X]	0.06113287
+[Y] 's [X] neighborhood,	0.049741905
+[Y] 's [X] neighborhood	0.0016768794
+[X] and lower [Y]	0.042977296
+neighborhood of [X] , [Y]	0.04995999
+[Y] neighborhood of [X] ,	0.1133506
+[X] of [Y] ,	0.02037017
+[X] neighborhoods of [Y]	0.041019164
+[X] district of [Y] ,	0.05278285
+[X] in [Y] , new york.	0.019051792
+[X] neighborhood of [Y] ,	0.04571104
+[Y] ’s [X]	0.04985643
+[Y] neighborhoods of [X] ,	0.04984924
+

@@ -1,0 +1,21 @@
+[Y] [X]	0.19524513
+[X] [Y]	0.35569578
+[Y] , [X]	0.23814413
+people from [Y] , [X]	0.074377954
+[Y] , [X] ,	0.22049451
+[Y] in [X]	0.013992741
+[Y] and [X]	0.19807024
+[Y] , the [X]	0.07407171
+[Y] , in [X]	1.0
+in [Y] , [X]	0.48936224
+[X] , [Y]	0.012683082
+university of [X] , [Y]	0.012517614
+east [Y] , [X]	0.108181246
+university of [Y] in [X]	0.012617771
+[X] populated places on the [Y]	0.012373267
+school in [Y] , [X] ,	0.14567435
+city of [Y] , [X]	0.011871341
+[Y] district of [X]	0.010320094
+school in [Y] , [X]	0.0061141993
+home in [Y] , [X] ,	0.01061297
+

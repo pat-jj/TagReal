@@ -65,6 +65,7 @@ class PTuneForLAMA(torch.nn.Module):
         self.spell_length = sum(self.template)
         self.prompt_encoder = KEPromptEncoder(self.template, self.hidden_size, self.tokenizer, self.device, args, self.relation_num)
         self.prompt_encoder = self.prompt_encoder.to(self.device)
+        
 
     def embed_input(self, queries, rs_tensor):
         bz = queries.shape[0]

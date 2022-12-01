@@ -1,7 +1,7 @@
-export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5
+export CUDA_VISIBLE_DEVICES=2,3,4,5
 
-python3 -m torch.distributed.launch --nproc_per_node=6 cli.py \
---model_name roberta-large \
+python3 -m torch.distributed.launch --nproc_per_node=4 tagreal.py \
+--model_name luke \
 --pseudo_token [PROMPT] \
 --template \(1,1,1,1,1,1\) \
 --max_epoch 10 \

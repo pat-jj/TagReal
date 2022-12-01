@@ -27,7 +27,7 @@ LM_ALL = [
         "label": "transformerxl",
         "models_names": ["transformerxl"],
         "transformerxl_model_name": 'transfo-xl-wt103',
-        "transformerxl_model_dir": "pre-trained_language_models/transformerxl/transfo-xl-wt103/"
+        "transformerxl_model_dir": "../../../../../../srv/scratch1/pj20/data/pre-trained_language_models/transformerxl/transfo-xl-wt103/"
     },
     # {
     #     "lm": "elmo",
@@ -35,7 +35,7 @@ LM_ALL = [
     #     "models_names": ["elmo"],
     #     "elmo_model_name": 'elmo_2x4096_512_2048cnn_2xhighway',
     #     "elmo_vocab_name": 'vocab-2016-09-10.txt',
-    #     "elmo_model_dir": "pre-trained_language_models/elmo/original",
+    #     "elmo_model_dir": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/elmo/original",
     #     "elmo_warm_up_cycles": 10
     # },
     #     {
@@ -44,7 +44,7 @@ LM_ALL = [
     #     "models_names": ["elmo"],
     #     "elmo_model_name": "elmo_2x4096_512_2048cnn_2xhighway_5.5B",
     #     "elmo_vocab_name": "vocab-enwiki-news-500000.txt",
-    #     "elmo_model_dir": "pre-trained_language_models/elmo/original5.5B/",
+    #     "elmo_model_dir": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/elmo/original5.5B/",
     #     "elmo_warm_up_cycles": 10
     # },
     {
@@ -52,14 +52,14 @@ LM_ALL = [
         "label": "bert_base",
         "models_names": ["bert"],
         "bert_model_name": "bert-base-cased",
-        "bert_model_dir": "pre-trained_language_models/bert/uncased_L-12_H-768_A-12"
+        "bert_model_dir": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/bert/uncased_L-12_H-768_A-12"
     },
     {
         "lm": "bert",
         "label": "bert_large",
         "models_names": ["bert"],
         "bert_model_name": "bert-large-cased",
-        "bert_model_dir": "pre-trained_language_models/bert/uncased_L-24_H-1024_A-16",
+        "bert_model_dir": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/bert/uncased_L-24_H-1024_A-16",
     }
 ]
 
@@ -68,7 +68,7 @@ LM_BERT_BASE = {
     "label": "bert_base",
     "models_names": ["bert"],
     "bert_model_name": "bert-base-cased",
-    "bert_model_dir": "pre-trained_language_models/bert/uncased_L-12_H-768_A-12"
+    "bert_model_dir": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/bert/uncased_L-12_H-768_A-12"
 }
 
 LM_BERT_LARGE = {
@@ -76,7 +76,7 @@ LM_BERT_LARGE = {
     "label": "bert_large",
     "models_names": ["bert"],
     "bert_model_name": "bert-large-cased",
-    "bert_model_dir": "pre-trained_language_models/bert/uncased_L-24_H-1024_A-16"
+    "bert_model_dir": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/bert/uncased_L-24_H-1024_A-16"
 }
 
 LM_ROBERTA_BASE = {
@@ -84,7 +84,7 @@ LM_ROBERTA_BASE = {
     "label": "roberta_base",
     "models_names": ["roberta"],
     "roberta_model_name": "model.pt",
-    "roberta_model_dir": "pre-trained_language_models/roberta/roberta.base",
+    "roberta_model_dir": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/roberta/roberta.base",
     "roberta_vocab_name": "dict.txt"
 }
 
@@ -117,7 +117,7 @@ def run(
         "label": "bert_large",
         "models_names": ["bert"],
         "bert_model_name": "bert-large-cased",
-        "bert_model_dir": "pre-trained_language_models/bert/cased_L-24_H-1024_A-16",
+        "bert_model_dir": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/bert/cased_L-24_H-1024_A-16",
     },
 ):
     model = None
@@ -172,8 +172,8 @@ def run(
             "dataset_filename": "{}/{}{}".format(
                 data_path_pre, relation["relation"], data_path_post
             ),
-            # "common_vocab_filename": "pre-trained_language_models/common_vocab_lowercased.txt",
-            "common_vocab_filename": "pre-trained_language_models/bert/uncased_L-24_H-1024_A-16/vocab.txt",
+            # "common_vocab_filename": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/common_vocab_lowercased.txt",
+            "common_vocab_filename": "../../../../../../srv/scratch1/pj20/pre-trained_language_models/bert/uncased_L-24_H-1024_A-16/vocab.txt",
             "template": "",
             "bert_vocab_name": "vocab.txt",
             "batch_size": batch_size,
@@ -401,7 +401,7 @@ def optimize(relation):
     parser.add_argument('--dynamic', type=str, help='dynamically select template', default='none')
     parser.add_argument('--use_prob', help='use prob instead of log prob', action='store_true')
     parser.add_argument('--temp_model', help='which temp model to use to learn temp weights', default='mixture_optimize')
-    parser.add_argument('--save', help='path to save temp model', default=f'./weights_out/{relation}.pth')
+    parser.add_argument('--save', help='path to save temp model', default=f'./weights_out/two_features/{relation}.pth')
     parser.add_argument('--load', help='path to load temp model', default=None)
     parser.add_argument('--feature_dir', help='dir to features', default='./feature_dir/')
     parser.add_argument('--bt_obj', type=int, help='beam size of bach translation', default=1)
@@ -413,51 +413,22 @@ def optimize(relation):
     
     parameters = get_relation_phrase_parameters(args)
     run_all_LMs(parameters, [name2lm[lm] for lm in args.lm_model.split(':')])
-
-
-def predict():
-    parser = argparse.ArgumentParser(description='run exp for multiple relational phrase')
-    parser.add_argument('--lm_model', type=str, default='bert_large', choices=['bert_base', 'bert_large', 'roberta_base'])
-    parser.add_argument('--rel_file', type=str, default='./input/rel_prompts/business_company_founders.jsonl')
-    parser.add_argument('--refine_template', type=str, default=None)
-    parser.add_argument('--prefix', type=str, default='./input/head_tail/')
-    parser.add_argument('--suffix', type=str, default='.jsonl')
-    parser.add_argument('--top', type=int, default=None)
-    parser.add_argument('--ensemble', help='ensemble probs of different templates', action='store_true', default=True)
-    parser.add_argument('--get_objs', help='print out objects for evaluation', action='store_true')
-    parser.add_argument('--batch_size', type=int, default=32)
-    parser.add_argument('--dynamic', type=str, help='dynamically select template', default='none')
-    parser.add_argument('--use_prob', help='use prob instead of log prob', action='store_true')
-    parser.add_argument('--temp_model', help='which temp model to use to learn temp weights', default='mixture_optimize')
-    parser.add_argument('--save', help='path to save temp model', default='./weights_out/business_company_founders.pth')
-    parser.add_argument('--load', help='path to load temp model', default=None)
-    parser.add_argument('--feature_dir', help='dir to features', default='./feature_dir/')
-    parser.add_argument('--bt_obj', type=int, help='beam size of bach translation', default=1)
-    parser.add_argument('--enforce_prob', help='whether force the feature to be prob', action='store_true', default=True)
-    parser.add_argument('--num_feat', type=int, help='number of features', default=2)
-    parser.add_argument('--temperature', type=float, help='temperature for sample weight', default=0.0)
-    parser.add_argument('--use_model2', help='use two model in optimization', action='store_true')
-    args = parser.parse_args()
-    
-    parameters = get_relation_phrase_parameters(args)
-    run_all_LMs(parameters, [name2lm[lm] for lm in args.lm_model.split(':')])
-    return
 
 
 def main():
     relation_entities = {
-        'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER', 'slash': 'business/company/founders'},
-        'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED', 'slash': 'business/company/place_founded'},
-        'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY', 'slash': 'business/person/company'},
-        'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY', 'slash': 'location/administrative_division/country'},
-        'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION', 'slash': 'location/country/administrative_divisions'},
-        'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB', 'slash': 'location/location/contains'},
-        'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR', 'slash': 'location/neighborhood/neighborhood_of'},
-        'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT', 'slash': 'location/us_county/county_seat'},
-        'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH', 'slash': 'people/deceased_person/place_of_death'},
-        'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE', 'slash': 'people/ethnicity/people'},
-        'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN', 'slash': 'people/person/children'},
-        'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY', 'slash': 'people/person/ethnicity'},
+        # 'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER', 'slash': 'business/company/founders'},
+        # 'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED', 'slash': 'business/company/place_founded'},
+        # 'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY', 'slash': 'business/person/company'},
+        # 'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY', 'slash': 'location/administrative_division/country'},
+        # 'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION', 'slash': 'location/country/administrative_divisions'},
+        # 'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB', 'slash': 'location/location/contains'},
+        # 'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR', 'slash': 'location/neighborhood/neighborhood_of'},
+        # 'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT', 'slash': 'location/us_county/county_seat'},
+        # 'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH', 'slash': 'people/deceased_person/place_of_death'},
+        # 'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE', 'slash': 'people/ethnicity/people'},
+        # 'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN', 'slash': 'people/person/children'},
+        # 'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY', 'slash': 'people/person/ethnicity'},
         'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY', 'slash': 'people/person/nationality'},
         'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED', 'slash': 'people/person/place_lived'},
         'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION', 'slash': 'people/person/religion'},

@@ -1,0 +1,10 @@
+[Y] , founder of [X]	0.89708185
+[Y] , co-founder of [X]	0.7770071
+[Y] , founder of the [X]	0.076572634
+[Y] , the founder of [X] ,	0.86262316
+[X] mission in [Y]	0.07272947
+[Y] , founder of [X] ,	0.037975222
+[Y] , co-founder of [X] ,	0.080708526
+permanent representative of [Y] to the [X]	0.16171567
+[X] association of the [Y]	0.033069503
+

@@ -1,0 +1,5 @@
+2022-12-01 01:45:30,274 - Added key: store_based_barrier_key:1 to store for rank: 2
+2022-12-01 01:45:30,284 - Rank 1: Completed store-based barrier for key:store_based_barrier_key:1 with 4 nodes.
+2022-12-01 01:46:01,003 - Dev Epoch 0, Acc: 0.5, Prec: 0.5, Recall: 1.0, F1: 0.6666666666666666
+2022-12-01 01:46:24,827 - Test Epoch 0, Acc: 0.5, Prec: 0.5, Recall: 1.0, F1: 0.6666666666666666
+2022-12-01 01:46:24,845 - Reducer buckets have been rebuilt in this iteration.

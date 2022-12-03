@@ -383,7 +383,7 @@ class BasicDatasetWiki(Dataset):
             sentence = self.triple2text[triple_] if triple_ in self.triple2text.keys() else 'None'
 
             #TODO
-            this_template = f'{sentence} . {this_template}'
+            this_template = f'{sentence} [SEP] {this_template}'
 
         if self.entity2label is not None:
             h, t = self.entity2label[h], self.entity2label[t]

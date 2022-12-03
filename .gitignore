@@ -8,6 +8,7 @@ __pycache__
 .idea
 .ipynb_checkpoints
 *.log
+.history
 
 
 /.git/objects/pack/tmp_pack_ED5Yfh

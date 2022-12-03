@@ -100,10 +100,12 @@ class Experiment:
 
         test_data_idxs = self.get_data_idxs(data)
         er_vocab = self.get_er_vocab(self.get_data_idxs(d.data))
+        self.seen_data = d.train_data + d.valid_data +d.test_data
+        self.seen_data = set(map(tuple, self.seen_data))
 
         print("Number of data points: %d" % len(test_data_idxs))
         
-        for i in range(0, len(test_data_idxs), self.batch_size):
+        for i in tqdm(range(0, len(test_data_idxs), self.batch_size)):
             data_batch, _ = self.get_batch(er_vocab, test_data_idxs, i)
             e1_idx = torch.tensor(data_batch[:,0])
             r_idx = torch.tensor(data_batch[:,1])
@@ -134,7 +136,19 @@ class Experiment:
                     # ft.write('SPLIT\n')
 
             for j in range(data_batch.shape[0]):
+                
                 rank = np.where(sort_idxs[j]==e2_idx[j].item())[0][0]
+
+                for h in range(10):
+                    e1_in = self.idxs_entity[e1_idx[j].item()]
+                    r_in = self.idxs_relation[r_idx[j].item()]
+                    e2_pred = self.idxs_entity[sort_idxs[j][h]]
+                    # print((e1_in, r_in, e2_pred))
+                    if (e1_in, r_in, e2_pred) in self.seen_data:
+                        # take the highest rank
+                        rank = h
+                        break
+
                 ranks.append(rank+1)
 
                 for hits_level in range(10):
@@ -145,7 +159,7 @@ class Experiment:
                 f.write('{}\t{}\t{}\t{}\n'.format(self.idxs_entity[int(e1_idx_cpu[j])], self.idxs_relation[int(r_idx_cpu[j])], self.idxs_entity[int(e2_idx_cpu[j])], rank + 1))
 
         print('Hits @10: {0}'.format(np.mean(hits[9])))
-        print('Hits @3: {0}'.format(np.mean(hits[2])))
+        print('Hits @5: {0}'.format(np.mean(hits[4])))
         print('Hits @1: {0}'.format(np.mean(hits[0])))
         print('Mean rank: {0}'.format(np.mean(ranks)))
         print('Mean reciprocal rank: {0}'.format(np.mean(1./np.array(ranks))))
@@ -210,7 +224,7 @@ class Experiment:
             print('Epoch: {}, Time: {}s, Loss: {}'.format(it, time.time()-start_train, np.mean(losses)))
             model.eval()
             with torch.no_grad():
-                if it % 50 == 0:
+                if it % 50 == 0 and it != 0:
                     print("Test:")
                     self.evaluate(model, d.test_data, out_lp_constraints=False)
                 if it == self.num_iterations - 1:
@@ -252,7 +266,7 @@ if __name__ == '__main__':
     dataset = args.dataset
     data_dir = "data/%s/" % dataset
     torch.backends.cudnn.deterministic = True 
-    seed = 20
+    seed = 5583
     np.random.seed(seed)
     torch.manual_seed(seed)
     if torch.cuda.is_available:

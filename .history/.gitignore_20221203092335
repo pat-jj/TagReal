@@ -67,6 +67,7 @@ __pycache__
 /prompt_mining/prompt_opti/weights_out
 /prompt_mining/prompt_opti/output/results
 /p_tuning
+
 /log
 /.git/objects/pack/pack-bbeb1aae8d86fb457af1ba8a3acb2b4455e945c7.pack
 /TuckER/data/FB60K-NYT10/raw_data/nyt10_train_raw.json

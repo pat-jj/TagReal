@@ -423,11 +423,12 @@ class KEDatasetWiki(BasicDatasetWiki):
         relation_list = []
         texts, rs, labels, triples = [], [], [], []
         pos_lines = open(pos_file).readlines()
-        neg_rand_lines = open(neg_file_random).readlines()
+        neg_rand_lines = open(neg_file_random).readlines()[:-1]
         if neg_file_kge is not None:
-            neg_kge_lines = open(neg_file_kge).readlines()
-        #     random.shuffle(neg_kge_lines)
+            neg_kge_lines = open(neg_file_kge).readlines()[:-1]
+            # random.shuffle(neg_kge_lines)
         # WARNING: data must be shuffled
+
         # random.shuffle(neg_rand_lines)
         rand_neg_k = int(self.neg_K * self.random_neg_ratio)
         kge_neg_k = self.neg_K - rand_neg_k
@@ -439,6 +440,7 @@ class KEDatasetWiki(BasicDatasetWiki):
                 rs.append(self.relation2idx[pos_triple[1]])
                 triples.append('\t'.join(pos_triple))
             for x in range(rand_neg_k * i, rand_neg_k * (i + 1)):
+                
                 neg_triple = neg_rand_lines[x].strip().split('\t')
                 texts.append(self.convert_from_triple_to_sentence(neg_triple))
                 labels.append(0)
@@ -497,16 +499,21 @@ def get_dataloader(args, tokenizer):
         neg_K=args.neg_K,
         random_neg_ratio=args.random_neg_ratio
     )
+    print("Finished building train set")
+
     test_set = KEDatasetWiki(
         join(args.data_dir, 'test_pos.txt'), 
         join(args.data_dir, 'test_neg.txt'), 
         basic_data
     )
+    print("Finished building test set")
+
     dev_set = KEDatasetWiki(
         join(args.data_dir, 'valid_pos.txt'), 
         join(args.data_dir, 'valid_neg.txt'), 
         basic_data
     )
+    print("Finished building dev set")
 
     if args.test_open:
         o_test_set = KEDatasetWiki(
@@ -626,20 +633,20 @@ class PTuneForLAMA(torch.nn.Module):
         # construct query ids
         prompt_tokens = [self.pseudo_token_id]
         queries = [torch.LongTensor(self.prompt_encoder.get_query(texts[i], rs[i], prompt_tokens)).squeeze(0) for i in range(bz)]
-        queries = pad_sequence(queries, True, padding_value=self.pad_token_id).long().to(self.device)
+        queries = pad_sequence(queries, True, padding_value=self.pad_token_id).long().cuda(self.args.local_rank, non_blocking=True)
 
         # construct label ids
         attention_mask = queries != self.pad_token_id
-        rs_tensor = torch.LongTensor(rs).to(self.device)
+        rs_tensor = torch.LongTensor(rs).cuda(self.args.local_rank, non_blocking=True)
 
         # get embedded input
         inputs_embeds = self.embed_input(queries, rs_tensor)
 
-        output = self.model(inputs_embeds=inputs_embeds.to(self.device),
-                            attention_mask=attention_mask.to(self.device).bool(),
-                            labels=labels.to(self.device))
+        output = self.model(inputs_embeds=inputs_embeds.cuda(self.args.local_rank, non_blocking=True),
+                            attention_mask=attention_mask.cuda(self.args.local_rank, non_blocking=True).bool(),
+                            labels=labels.cuda(self.args.local_rank, non_blocking=True))
         loss, logits = output.loss, output.logits
-        acc = torch.sum(torch.argmax(logits, dim=-1) == labels.to(self.device))
+        acc = torch.sum(torch.argmax(logits, dim=-1) == labels.cuda(self.args.local_rank, non_blocking=True))
 
         return loss, float(acc) / bz, (labels.tolist(), torch.argmax(logits, dim=-1).tolist(), logits)
     
@@ -751,11 +758,11 @@ class Trainer(object):
         params = [
             {
                 'params': self.model.model.parameters(),
-                #  'lr': self.args.lm_lr
+                 'lr': self.args.lm_lr
                  }
             ]
         # if self.args.use_lm_finetune:
-            # params.append({'params': self.model.prompt_encoder.parameters()})
+        #     params.append({'params': self.model.prompt_encoder.parameters()})
         optimizer = torch.optim.Adam(params, lr=self.args.lr, weight_decay=self.args.weight_decay)
         my_lr_scheduler = torch.optim.lr_scheduler.ExponentialLR(optimizer=optimizer, gamma=self.args.decay_rate)
 
@@ -763,8 +770,8 @@ class Trainer(object):
         self.train_sampler = torch.utils.data.distributed.DistributedSampler(self.train_set)
         self.test_sampler = torch.utils.data.distributed.DistributedSampler(self.test_set)
         self.dev_sampler = torch.utils.data.distributed.DistributedSampler(self.dev_set)
-        self.link_tail_sampler = torch.utils.data.distributed.DistributedSampler(self.link_dataset_tail)
-        self.link_head_sampler = torch.utils.data.distributed.DistributedSampler(self.link_dataset_head)
+        # self.link_tail_sampler = torch.utils.data.distributed.DistributedSampler(self.link_dataset_tail)
+        # self.link_head_sampler = torch.utils.data.distributed.DistributedSampler(self.link_dataset_head)
 
 
 
@@ -772,13 +779,21 @@ class Trainer(object):
                                                         batch_size=self.args.batch_size,
                                                         shuffle=False,
                                                         num_workers=16,
-                                                        pin_memory=True,
+                                                        # pin_memory=True,
                                                         drop_last=True,
                                                         sampler=self.train_sampler)
-        self.test_loader = torch.utils.data.DataLoader(self.test_set, batch_size=self.args.batch_size, sampler=self.test_sampler)
-        self.dev_loader = torch.utils.data.DataLoader(self.dev_set, batch_size=self.args.batch_size, sampler=self.test_sampler)
-        self.link_loader_tail = torch.utils.data.DataLoader(self.link_dataset_tail, batch_size=self.args.batch_size, sampler=self.link_tail_sampler)
-        self.link_loader_head = torch.utils.data.DataLoader(self.link_dataset_head, batch_size=self.args.batch_size, sampler=self.link_head_sampler)
+        self.test_loader = torch.utils.data.DataLoader(self.test_set, batch_size=self.args.batch_size, sampler=self.test_sampler, drop_last=True)
+        self.dev_loader = torch.utils.data.DataLoader(self.dev_set, batch_size=self.args.batch_size, sampler=self.dev_sampler, drop_last=True)
+        self.link_loader_tail = torch.utils.data.DataLoader(
+            self.link_dataset_tail, 
+            batch_size=self.args.batch_size, 
+            # sampler=self.link_tail_sampler, 
+            )
+        self.link_loader_head = torch.utils.data.DataLoader(
+            self.link_dataset_head,
+             batch_size=self.args.batch_size,
+            #   sampler=self.link_head_sampler,
+            )
 
 
         

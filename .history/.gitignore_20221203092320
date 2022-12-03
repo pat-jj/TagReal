@@ -100,7 +100,7 @@ __pycache__
 /dataset/FB60K-NYT10-old/FB60K-NYT10.tucker.256.test.link_prediction.txt
 /dataset/FB60K-NYT10-old/link_prediction_head.txt
 /dataset/FB60K-NYT10-old/link_prediction_tail.txt
-/dataset/FB60K-NYT10-old/train_neg_kge_all.txt
+.dataset/FB60K-NYT10-old/train_neg_kge_all.txt
 /dataset/FB60K-NYT10-old/train_neg_rand.txt
 /dataset/FB60K-NYT10/FB60K-NYT10.tucker.256.kge_neg.txt
 /dataset/FB60K-NYT10/FB60K-NYT10.tucker.256.test.link_prediction.txt

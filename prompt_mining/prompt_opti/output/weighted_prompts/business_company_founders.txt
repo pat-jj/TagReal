@@ -7,4 +7,4 @@
 [Y] , co-founder of [X] ,	0.080708526
 permanent representative of [Y] to the [X]	0.16171567
 [X] association of the [Y]	0.033069503
-
+[Y], chairman of [X]    0.3048

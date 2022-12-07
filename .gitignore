@@ -8,7 +8,6 @@ __pycache__
 .idea
 .ipynb_checkpoints
 *.log
-.history
 
 
 /.git/objects/pack/tmp_pack_ED5Yfh
@@ -131,3 +130,8 @@ __pycache__
 /CPL_processed_data/test_pos1.npy
 /CPL_processed_data/test_pos2.npy
 /CPL_processed_data/test_mask.npy
+
+/analysis.ipynb
+/TuckER/data/
+/TuckER/output/
+/.history

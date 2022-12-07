@@ -176,6 +176,7 @@ def link_predicate(args, idx2score, link_triple_list, valid=False, head=False):
             if (e1_in, r_in, e2_pred) in seen_data:
                 # print([e1_in, r_in, e2_pred], h)
                 # take the highest rank
+
                 rank = h
                 break
 

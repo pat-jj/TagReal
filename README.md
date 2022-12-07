@@ -1,12 +1,10 @@
-# TagReal (Currently using the README.md from PKGC)
-
-Source codes and datasets for ACL 2022 Findings paper [Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach](https://aclanthology.org/2022.findings-acl.282.pdf)
+# TagReal (to be updated)
 
 ## Requirements
 
-- python3 (tested on 3.6.9)
-- pytorch (tested on 1.10.0)
-- transformers (tested on 4.11.3)
+- python3 
+- pytorch 
+- transformers 
 
 ## Data Preparation
 
@@ -81,7 +79,5 @@ sh wiki27k.sh
 ```
 
 ## Cite
-
-If you use the code, please cite this paper:
 
 Xin Lv, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach. *Findings of the Association for Computational Linguistics: ACL 2022.*

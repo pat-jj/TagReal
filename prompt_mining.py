@@ -26,7 +26,7 @@ def get_wiki_corpus():
     return corpus_text
 
 
-def get_relation_set():
+def get_relation_set(list_=False):
     # The set of relation we're using
     valid_relation_set = set()
 
@@ -48,10 +48,35 @@ def get_relation_set():
         '/location/us_county/county_seat'
     ]
 
+    if list_:
+        return rel_list
+
     for i in range(len(rel_list)):
         valid_relation_set.add(rel_list[i])
 
     return valid_relation_set
+
+
+def get_abrv_relations():
+    abrv = {
+        '/people/person/nationality':'ppn',
+        '/location/location/contains':'llc',
+        '/people/person/place_lived':'ppp',
+        '/people/deceased_person/place_of_death':'pdp',
+        '/people/person/ethnicity':'ppe',
+        '/people/ethnicity/people':'pep',
+        '/business/person/company':'bpc',
+        '/people/person/religion':'ppr',
+        '/location/neighborhood/neighborhood_of':'lnn',
+        '/business/company/founders':'bcf',
+        '/people/person/children':'ppc',
+        '/location/administrative_division/country':'lac',
+        '/location/country/administrative_divisions':'lca',
+        '/business/company/place_founded':'bcp',
+        '/location/us_county/county_seat':'luc'
+    }
+
+    return abrv
 
 
 def get_triples_for_relation(relation,

@@ -1,0 +1,9 @@
+The nationality of [X] is [Y] . 0.12158055
+[X]'s nationality is [Y] .  0.17283396
+nationality of [X] - [Y] .  0.17035778
+[X] is from [Y] .   0.31687216
+[X] is from [Y] (country) . 0.33789972
+[X] born in [Y] .   0.35120992
+[X] was born in [Y] .   0.28863361
+[X] is a [Y] citizen .  0.10486313
+[X] ( [Y] ) 0.13198726

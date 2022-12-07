@@ -661,7 +661,7 @@ class PTuneForLAMA(torch.nn.Module):
             text = texts[i]
             contents = text.split('\t\t')
             e1, e2 = contents[1], contents[3]
-            sentence = ''.join(contents)
+            sentence = ' '.join(contents)
             input_texts.append(sentence)
             input_entities.append([e1, e2])
             input_entity_spans.append([(sentence.find(e1), sentence.find(e1) + len(e1)), (sentence.find(e2), sentence.find(e2) + len(e2))])

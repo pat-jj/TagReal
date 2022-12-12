@@ -1,6 +1,7 @@
 import os
 import sys
 from datetime import datetime 
+import random
 from copy import deepcopy
 from eval_utils import *
 import argparse
@@ -319,9 +320,11 @@ class BasicDataWiki:
         self.tokenizer = tokenizer
         self.init_templates()
         self.init_definition()
+        self.triple2text = None
+        self.query2text = None
 
     def init_definition(self):
-        if os.path.exists(os.path.join(self.dataset, 'triple2text.txt')) and self.args.add_definition:
+        if os.path.exists(os.path.join(self.dataset, 'triple2text.txt')):
             self.triple2text = {}
             lines = open(os.path.join(self.dataset, 'triple2text.txt'))
             for line in lines:
@@ -333,6 +336,18 @@ class BasicDataWiki:
             
         else:
             self.triple2text = None
+
+        if os.path.exists(os.path.join(self.dataset, 'query2text.txt')):
+            self.query2text = {}
+            lines = open(os.path.join(self.dataset, 'query2text.txt'))
+            for line in lines:
+                query, text = line.split('####SPLIT####')
+                h, r = query.split('||')
+                query_ = h +'\t' + r
+                self.query2text[query_] = text[:-1]
+            
+        else:
+            self.query2text = None
 
     def init_templates_others(self):
         with open(f'{self.dataset}/relation2template.json', 'r') as f:
@@ -369,21 +384,28 @@ class BasicDatasetWiki(Dataset):
         self.entity2label = basic_data.entity2label
         self.relation2idx = basic_data.relation2idx
         self.triple2text = basic_data.triple2text
+        self.query2text = basic_data.query2text
 
         self.triples = None
 
-    def convert_from_triple_to_sentence(self, triple):
+    def convert_from_triple_to_sentence(self, triple, isTrain=True):
         h, r, t = triple
         h_, t_ = self.entity2label[h], self.entity2label[t]
         triple_ = h_ +'\t' + r + '\t' + t_
+        query_ = h_ +'\t' + r
 
         this_template = self.relation2template[r].strip()
 
-        if self.triple2text is not None:
-            sentence = self.triple2text[triple_] if triple_ in self.triple2text.keys() else 'None'
+        # if training phase, convert triple to text, else, convert query to text
+        if isTrain:
+            if self.triple2text is not None:
+                sentence = self.triple2text[triple_] if triple_ in self.triple2text.keys() else ''
+                this_template = f'{sentence} [SEP] {this_template}'
+        else:
+            if self.query2text is not None:
+                sentence = random.choice(self.query2text[query_].split('[SEP]')) if query_ in self.query2text.keys() else ''
+                this_template = f'{sentence} [SEP] {this_template}'
 
-            #TODO
-            this_template = f'{sentence} [SEP] {this_template}'
 
         if self.entity2label is not None:
             h, t = self.entity2label[h], self.entity2label[t]
@@ -412,10 +434,11 @@ class BasicDatasetWiki(Dataset):
 
 
 class KEDatasetWiki(BasicDatasetWiki):
-    def __init__(self, pos_file, neg_file_random, basic_data, neg_file_kge=None, pos_K=1, neg_K=1, random_neg_ratio=1.0):
+    def __init__(self, pos_file, neg_file_random, basic_data, neg_file_kge=None, pos_K=1, neg_K=1, random_neg_ratio=1.0, isTrain=True):
         super().__init__(basic_data)
         self.pos_K = pos_K
         self.neg_K = neg_K
+        self.isTrain = isTrain
         self.random_neg_ratio = random_neg_ratio
         self.texts, self.rs, self.labels, self.triples = self.process_data(pos_file, neg_file_random, neg_file_kge)
 
@@ -435,20 +458,19 @@ class KEDatasetWiki(BasicDatasetWiki):
         for i in range(len(pos_lines)):
             pos_triple = pos_lines[i].strip().split('\t')
             for x in range(self.pos_K):
-                texts.append(self.convert_from_triple_to_sentence(pos_triple))
+                texts.append(self.convert_from_triple_to_sentence(pos_triple, self.isTrain))
                 labels.append(1)
                 rs.append(self.relation2idx[pos_triple[1]])
                 triples.append('\t'.join(pos_triple))
-            for x in range(rand_neg_k * i, rand_neg_k * (i + 1)):
-                
+            for x in range(rand_neg_k * i, rand_neg_k * (i + 1)): 
                 neg_triple = neg_rand_lines[x].strip().split('\t')
-                texts.append(self.convert_from_triple_to_sentence(neg_triple))
+                texts.append(self.convert_from_triple_to_sentence(neg_triple, self.isTrain))
                 labels.append(0)
                 rs.append(self.relation2idx[neg_triple[1]])
                 triples.append('\t'.join(neg_triple))
             for x in range(kge_neg_k * i, kge_neg_k * (i + 1)):
                 neg_triple = neg_kge_lines[x].strip().split('\t')
-                texts.append(self.convert_from_triple_to_sentence(neg_triple))
+                texts.append(self.convert_from_triple_to_sentence(neg_triple, self.isTrain))
                 labels.append(0)
                 rs.append(self.relation2idx[neg_triple[1]])
                 triples.append('\t'.join(neg_triple))
@@ -497,21 +519,24 @@ def get_dataloader(args, tokenizer):
         neg_file_kge=neg_file_kge,
         pos_K=args.pos_K,
         neg_K=args.neg_K,
-        random_neg_ratio=args.random_neg_ratio
+        random_neg_ratio=args.random_neg_ratio,
+        isTrain=True
     )
     print("Finished building train set")
 
     test_set = KEDatasetWiki(
         join(args.data_dir, 'test_pos.txt'), 
         join(args.data_dir, 'test_neg.txt'), 
-        basic_data
+        basic_data,
+        isTrain=False
     )
     print("Finished building test set")
 
     dev_set = KEDatasetWiki(
         join(args.data_dir, 'valid_pos.txt'), 
         join(args.data_dir, 'valid_neg.txt'), 
-        basic_data
+        basic_data,
+        isTrain=False
     )
     print("Finished building dev set")
 

@@ -4,6 +4,7 @@ import json
 from tqdm import tqdm
 import numpy as np
 from collections import defaultdict
+import os
 
 def construct_args():
 
@@ -62,7 +63,7 @@ def get_corpus(args):
 def get_rel_list(args):
     print("getting valid relation list ...")
     rel_list = None
-    if args.dataset == "UMLS-PubMed":
+    if args.dataset == "UMLS+PubMed":
         rel_list = [
             'gene_associated_with_disease',
             'disease_has_associated_gene',
@@ -96,6 +97,9 @@ def corpus2lower(tokenized_corpus_text, entity_set):
 
 
 def get_sub_corpus_text(args, tokenized_corpus_text, entity_set):
+    if os.path.exists(args.sub_corpus_text_dir):
+        return json.load(open(args.sub_corpus_text_dir))
+        
     print("creating sub_corpus for each entity")
     sub_corpus_text = defaultdict(list)
     for entity in tqdm(entity_set):

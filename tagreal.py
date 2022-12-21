@@ -12,7 +12,8 @@ from os.path import join, abspath, dirname
 from torch.nn.utils.rnn import pad_sequence
 from transformers import AutoTokenizer
 from transformers import LukeTokenizer
-from transformers import GPT2LMHeadModel, AutoTokenizer, AutoModelForMaskedLM, RobertaForSequenceClassification, BertForSequenceClassification, LukePreTrainedModel, LukeModel, LukeTokenizer
+from transformers import BertPreTrainedModel, AutoModel, PreTrainedModel
+from transformers import GPT2LMHeadModel, AutoTokenizer, AutoModelForMaskedLM, RobertaForSequenceClassification, BertForSequenceClassification, LukePreTrainedModel, LukeModel, LukeTokenizer, AutoModelForSequenceClassification
 from transformers.modeling_outputs import SequenceClassifierOutput
 from torch.utils.data import DataLoader
 import torch
@@ -25,7 +26,7 @@ from tqdm import tqdm
 SUPPORT_MODELS = ['bert-base-cased', 'bert-large-cased', 'bert-base-uncased', 'bert-large-uncased',
                   'gpt2', 'gpt2-medium', 'gpt2-large', 'gpt2-xl',
                   'roberta-base', 'roberta-large', 'luke', 'kepler',
-                  'megatron_11b']
+                  'megatron_11b', 'biobert', 'sapbert']
 
 # logger_set = setup_logger(name='set_logger', f_name='FB60K_NYT_set')
 
@@ -111,6 +112,11 @@ def create_model(args):
     elif args.model_name == 'luke':
         luke = LukeModel.from_pretrained("studio-ousia/luke-base")
         model = MODEL_CLASS(luke)
+    elif args.model_name == 'biobert':
+        model = MODEL_CLASS.from_pretrained("dmis-lab/biobert-base-cased-v1.2")
+    elif args.model_name == 'sapbert':
+        sapbert = AutoModel.from_pretrained("cambridgeltl/SapBERT-from-PubMedBERT-fulltext")
+        model = MODEL_CLASS(sapbert)
     else:
         model = MODEL_CLASS.from_pretrained(args.model_name)
     return model
@@ -125,10 +131,15 @@ def get_model_and_tokenizer_class(args):
         return RobertaForSequenceClassification, AutoTokenizer
     elif 'luke' in args.model_name:
         return LUKEForSequenceClassification, AutoTokenizer
-    elif 'bert' in args.model_name:
-        return BertForSequenceClassification, AutoTokenizer
+    # elif 'bert' in args.model_name:
+    #     return BertForSequenceClassification, AutoTokenizer
     elif 'megatron' in args.model_name:
         return None, AutoTokenizer
+    elif 'biobert' in args.model_name:
+        return AutoModelForSequenceClassification, AutoTokenizer
+    elif 'sapbert' in args.model_name:
+        return SapBertForSequenceClassfication, AutoTokenizer
+
     else:
         raise NotImplementedError("This model type ``{}'' is not implemented.".format(args.model_name))
 
@@ -198,8 +209,10 @@ class LUKEForSequenceClassification(LukePreTrainedModel):
                 if self.num_labels == 1:
                     self.config.problem_type = "regression"
                 elif self.num_labels > 1 and (labels.dtype == torch.long or labels.dtype == torch.int):
+                    # print("single_label_classification")
                     self.config.problem_type = "single_label_classification"
                 else:
+                    # print("multi_label_classification")
                     self.config.problem_type = "multi_label_classification"
 
             if self.config.problem_type == "regression":
@@ -226,6 +239,82 @@ class LUKEForSequenceClassification(LukePreTrainedModel):
         )
 
 
+class SapBertForSequenceClassfication(BertPreTrainedModel):
+    def __init__(self, sapbert):
+        super().__init__(sapbert.config)
+        self.num_labels = 2
+        self.config = sapbert.config
+
+        classifier_dropout = self.config.hidden_dropout_prob
+        self.dropout = nn.Dropout(classifier_dropout)
+        self.classifier = nn.Linear(self.config.hidden_size, 2)
+
+        self.init_weights()
+        self.sapbert = sapbert
+
+    def forward(
+        self,
+        inputs_embeds=None,
+        attention_mask=None,
+        labels=None,
+        return_dict=None,
+    ):
+        r"""
+        labels (:obj:`torch.LongTensor` of shape :obj:`(batch_size,)`, `optional`):
+            Labels for computing the sequence classification/regression loss. Indices should be in :obj:`[0, ...,
+            config.num_labels - 1]`. If :obj:`config.num_labels == 1` a regression loss is computed (Mean-Square loss),
+            If :obj:`config.num_labels > 1` a classification loss is computed (Cross-Entropy).
+        """
+        return_dict = return_dict if return_dict is not None else self.config.use_return_dict
+
+        outputs = self.sapbert(
+            inputs_embeds=inputs_embeds,
+            attention_mask=attention_mask,
+            # labels=labels
+        )
+
+        pooled_output = outputs[1]
+
+        pooled_output = self.dropout(pooled_output)
+        logits = self.classifier(pooled_output)
+
+        loss = None
+        if labels is not None:
+            if self.config.problem_type is None:
+                if self.num_labels == 1:
+                    self.config.problem_type = "regression"
+                elif self.num_labels > 1 and (labels.dtype == torch.long or labels.dtype == torch.int):
+                    # print("single_label_classification")
+                    self.config.problem_type = "single_label_classification"
+                else:
+                    # print("multi_label_classification")
+                    self.config.problem_type = "multi_label_classification"
+
+            if self.config.problem_type == "regression":
+                loss_fct = MSELoss()
+                if self.num_labels == 1:
+                    loss = loss_fct(logits.squeeze(), labels.squeeze())
+                else:
+                    loss = loss_fct(logits, labels)
+            elif self.config.problem_type == "single_label_classification":
+                loss_fct = CrossEntropyLoss()
+                loss = loss_fct(logits.view(-1, self.num_labels), labels.view(-1))
+            elif self.config.problem_type == "multi_label_classification":
+                loss_fct = BCEWithLogitsLoss()
+                loss = loss_fct(logits, labels)
+        if not return_dict:
+            output = (logits,) + outputs[2:]
+            return ((loss,) + output) if loss is not None else output
+
+        return SequenceClassifierOutput(
+            loss=loss,
+            logits=logits,
+            hidden_states=outputs.hidden_states,
+            attentions=outputs.attentions,
+        )
+    
+
+
 def get_embedding_layer(args, model):
     if 'roberta' in args.model_name:
         embeddings = model.roberta.get_input_embeddings()
@@ -233,10 +322,12 @@ def get_embedding_layer(args, model):
         embeddings = model.roberta.get_input_embeddings()
     elif 'luke' in args.model_name:
         embeddings = model.luke.get_input_embeddings()
-    elif 'bert' in args.model_name:
-        embeddings = model.bert.get_input_embeddings()
+    # elif 'bert' in args.model_name:
+    #     embeddings = model.bert.get_input_embeddings()
     elif 'gpt' in args.model_name:
         embeddings = model.base_model.get_input_embeddings()
+    elif 'sapbert' in args.model_name:
+        embeddings = model.sapbert.get_input_embeddings()
     elif 'megatron' in args.model_name:
         embeddings = model.decoder.embed_tokens
     else:
@@ -735,6 +826,10 @@ class Trainer(object):
             self.tokenizer = AutoTokenizer.from_pretrained('roberta-base')
         elif self.args.model_name == 'luke':
             self.tokenizer = LukeTokenizer.from_pretrained('studio-ousia/luke-base')
+        elif self.args.model_name == 'biobert':
+            self.tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.2")
+        elif self.args.model_name == "sapbert":
+            self.tokenizer = AutoTokenizer.from_pretrained("cambridgeltl/SapBERT-from-PubMedBERT-fulltext")
         else:
             self.tokenizer = AutoTokenizer.from_pretrained(self.args.model_name)
         os.makedirs(self.get_save_path(), exist_ok=True)

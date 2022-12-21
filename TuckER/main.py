@@ -14,7 +14,7 @@ class Experiment:
     def __init__(self, learning_rate=0.0005, ent_vec_dim=200, rel_vec_dim=200, 
                  num_iterations=500, batch_size=128, decay_rate=0., cuda=False, 
                  input_dropout=0.3, hidden_dropout1=0.4, hidden_dropout2=0.5,
-                 label_smoothing=0.1, model='tucker', dataset='infer'):
+                 label_smoothing=0.1, model='tucker', dataset='infer', filt=False):
         self.learning_rate = learning_rate
         self.ent_vec_dim = ent_vec_dim
         self.rel_vec_dim = rel_vec_dim
@@ -27,6 +27,7 @@ class Experiment:
         self.dataset = dataset
         self.kwargs = {"input_dropout": input_dropout, "hidden_dropout1": hidden_dropout1,
                        "hidden_dropout2": hidden_dropout2}
+        self.filt = filt
         
     def get_data_idxs(self, data):
         data_idxs = [(self.entity_idxs[data[i][0]], self.relation_idxs[data[i][1]], \
@@ -120,9 +121,14 @@ class Experiment:
             predictions = model.forward(e1_idx, r_idx)
 
             for j in range(data_batch.shape[0]):
-                filt = er_vocab[(data_batch[j][0], data_batch[j][1])]
+                # if self.filt:
+                    # filt = er_vocab[(data_batch[j][0], data_batch[j][1])]
+                    # target_value = predictions[j,e2_idx[j]].item()
+                    # predictions[j, filt] = 0.0
+                    # predictions[j, e2_idx[j]] = target_value
+
+                # else:
                 target_value = predictions[j,e2_idx[j]].item()
-                predictions[j, filt] = 0.0
                 predictions[j, e2_idx[j]] = target_value
 
             sort_values, sort_idxs = torch.sort(predictions, dim=1, descending=True)
@@ -139,15 +145,17 @@ class Experiment:
                 
                 rank = np.where(sort_idxs[j]==e2_idx[j].item())[0][0]
 
-                for h in range(10):
-                    e1_in = self.idxs_entity[e1_idx[j].item()]
-                    r_in = self.idxs_relation[r_idx[j].item()]
-                    e2_pred = self.idxs_entity[sort_idxs[j][h]]
-                    # print((e1_in, r_in, e2_pred))
-                    if (e1_in, r_in, e2_pred) in self.seen_data:
-                        # take the highest rank
-                        rank = h
-                        break
+                # if self.filt:
+
+                #     for h in range(10):
+                #         e1_in = self.idxs_entity[e1_idx[j].item()]
+                #         r_in = self.idxs_relation[r_idx[j].item()]
+                #         e2_pred = self.idxs_entity[sort_idxs[j][h]]
+                #         # print((e1_in, r_in, e2_pred))
+                #         if (e1_in, r_in, e2_pred) in self.seen_data:
+                #             # take the highest rank
+                #             rank = h
+                #             break
 
                 ranks.append(rank+1)
 
@@ -261,6 +269,7 @@ if __name__ == '__main__':
                     help="Amount of label smoothing.")
     parser.add_argument("--gpu", type=int, default=2, nargs="?",
                 help="Relation embedding dimensionality.") 
+    parser.add_argument("--filt", type=bool, default=False, help="Apply filter?")
 
     args = parser.parse_args()
     dataset = args.dataset
@@ -276,7 +285,7 @@ if __name__ == '__main__':
     experiment = Experiment(num_iterations=args.num_iterations, batch_size=args.batch_size, learning_rate=args.lr, 
                             decay_rate=args.dr, ent_vec_dim=args.edim, rel_vec_dim=args.rdim, cuda=args.cuda,
                             input_dropout=args.input_dropout, hidden_dropout1=args.hidden_dropout1, 
-                            hidden_dropout2=args.hidden_dropout2, label_smoothing=args.label_smoothing, model=args.model, dataset=dataset)
+                            hidden_dropout2=args.hidden_dropout2, label_smoothing=args.label_smoothing, model=args.model, dataset=dataset, filt=args.filt)
     experiment.train_and_eval()
                 
 

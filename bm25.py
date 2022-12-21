@@ -34,12 +34,12 @@ def get_entity_set(args, data_corpus):
     f_test = open(args.kg_test)
     f_valid = open(args.kg_valid)
     data_kg_raw = f_train.readlines() + f_test.readlines() + f_valid.readlines()
-    # dc = data_corpus
+    dc = data_corpus
 
-    # for item in tqdm(dc):
-    #     head, tail, relation = item['head']['id'], item['tail']['id'], item['relation']
-    #     entity_set.add(head)
-    #     entity_set.add(tail)
+    for item in tqdm(dc):
+        head, tail, relation = item['head']['id'], item['tail']['id'], item['relation']
+        entity_set.add(head)
+        entity_set.add(tail)
 
     for line in tqdm(data_kg_raw):
         items = line[:-1].split('\t')
@@ -84,34 +84,35 @@ def get_rel_list(args):
     return rel_list
 
 
-def corpus2lower(tokenized_corpus_text, entity_set):
-    print("transform corpus to lowercase ...")
-    for i in range(len(tokenized_corpus_text)):
-        tokens = tokenized_corpus_text[i]
-        for j in range(len(tokens)):
-            if tokens[j] in entity_set:
-                continue
-            else:
-                tokens[j] = tokens[j].lower()
+def corpus2lower(tokenized_corpus_text, entity_set):    
+    tokens = tokenized_corpus_text
+    for j in range(len(tokens)):
+        if tokens[j] in entity_set:
+            continue
+        else:
+            tokens[j] = tokens[j].lower()
     return tokenized_corpus_text
 
 
-def get_sub_corpus_text(args, tokenized_corpus_text, entity_set):
+def get_sub_corpus_text(args, data_corpus, entity_set):
     if os.path.exists(args.sub_corpus_text_dir):
+        print("found existing constructed support corpus, loading ...")
         return json.load(open(args.sub_corpus_text_dir))
-        
-    print("creating sub_corpus for each entity")
+    
     sub_corpus_text = defaultdict(list)
-    for entity in tqdm(entity_set):
-        for text in tokenized_corpus_text:
-            if entity in text:
-                sub_corpus_text[entity].append(text)
+
+    for item in tqdm(data_corpus):
+        if item['head']['id'] in entity_set and item['tail']['id'] in entity_set:
+            tokenized_text = item['sentence'].replace('###END###\n', '').split(" ")
+            tokenized_text = corpus2lower(tokenized_text, entity_set)
+            sub_corpus_text[item['head']['id']].append(tokenized_text)
+            sub_corpus_text[item['tail']['id']].append(tokenized_text)
+
     args.sub_corpus_text = sub_corpus_text
-    try:
-        out_file = open(args.sub_corpus_text_dir, "w")
-        json.dump(sub_corpus_text, out_file)
-    except:
-        return sub_corpus_text
+    
+    out_file = open(args.sub_corpus_text_dir, "w")
+    json.dump(sub_corpus_text, out_file)
+
     return sub_corpus_text
 
 
@@ -141,43 +142,48 @@ def triple2text(args):
     # BM25
     corpus_text = []
     print("loading corpus text ...")
-    print(f"corpus sentences before filtering: {len(data_corpus)}")
-    for item in tqdm(data_corpus):
-        if item['head']['id'] in entity_set and item['tail']['id'] in entity_set:
-            text = item['sentence'].replace('###END###\n', '')
-            corpus_text.append(text)
-    print(f"corpus sentences after filtering: {len(corpus_text)}")
-
-    tokenized_corpus_text = [doc.split(" ") for doc in corpus_text]
-    tokenized_corpus_text = corpus2lower(tokenized_corpus_text, entity_set)
-
-    sub_corpus_text = get_sub_corpus_text(args, tokenized_corpus_text, entity_set)
-
+    sub_corpus_text = defaultdict(list)
+    print("creating sub_corpus for each entity ...")
+    sub_corpus_text = get_sub_corpus_text(args, data_corpus, entity_set)
 
     f_train = open(args.kg_train)
     data_kg_train = f_train.readlines()
+    triple_text = {}
 
     print("BM25 searching ...")
     for line in tqdm(data_kg_train):
         items = line[:-1].split('\t')
         head, relation, tail = items[0], items[1], items[2]
         triple = head + '||' + relation + '||' + tail
-        sub_text = sub_corpus_text[head].extend(sub_corpus_text[tail])
+        if head not in sub_corpus_text.keys() and tail not in sub_corpus_text.keys():
+            continue
+        if head not in sub_corpus_text.keys():
+            # print(f"{head} not found in corpus")
+            sub_corpus_text[head] = []
+        if tail not in sub_corpus_text.keys():
+            # print(f"{tail} not found in corpus")
+            sub_corpus_text[tail] = []
+        sub_text = sub_corpus_text[head]
+        sub_text.extend(sub_corpus_text[tail])
+        # print(sub_text)
+        if len(sub_text) == 0:
+            continue
+
         bm25 = BM25Okapi(sub_text)
-        if triple not in triple_text.keys():
-            text = ''
-            relation = relation.replace('/', ' ').replace('_', ' ')
-            query = head + ' ' + relation + ' ' + tail
-            tokenized_query = query.split(' ') 
-            relevant_scores = bm25.get_scores(tokenized_query)
-            order = np.argsort(relevant_scores)[::-1]
-            for i in order:
-                text = sub_text[i]
-                if i > 0 and len(sub_text[i]) < 400:
-                    triple_text[triple] = text
-                    break
-                elif i == 0:
-                    break
+        
+        text = ''
+        relation = relation.replace('/', ' ').replace('_', ' ')
+        query = head + ' ' + relation + ' ' + tail
+        tokenized_query = query.split(' ') 
+        relevant_scores = bm25.get_scores(tokenized_query)
+        order = np.argsort(relevant_scores)[::-1]
+        for i in order:
+            text = sub_text[i]
+            if i > 0 and len(sub_text[i]) < 400:
+                triple_text[triple] = text
+                break
+            elif i == 0:
+                break
     
     out_str = ""
     for triple in triple_text.keys():
@@ -197,14 +203,9 @@ def query2text(args):
     # BM25
     corpus_text = []
     print("loading corpus text ...")
-    for item in tqdm(data_corpus):
-        if item['head']['id'] in entity_set and item['tail']['id'] in entity_set:
-            text = item['sentence'].replace('###END###\n', '')
-            corpus_text.append(text)
-
-    tokenized_corpus_text = [doc.split(" ") for doc in corpus_text]
-    tokenized_corpus_text = corpus2lower(tokenized_corpus_text, entity_set)
-    sub_corpus_text = get_sub_corpus_text(args, tokenized_corpus_text, entity_set) if args.sub_corpus_text == None else args.sub_corpus_text
+    sub_corpus_text = defaultdict(list)
+    print("creating sub_corpus for each entity ...")
+    sub_corpus_text = get_sub_corpus_text(args, data_corpus, entity_set)
 
     f_valid = open(args.kg_valid)
     f_test = open(args.kg_test)
@@ -214,7 +215,12 @@ def query2text(args):
         items = line[:-1].split('\t')
         head, relation, tail = items[0], items[1], items[2]
         query = head + '||' + relation
+        if head not in sub_corpus_text.keys():
+            # print(f"{head} not found in corpus")
+            continue
         sub_text = sub_corpus_text[head]
+        if len(sub_text) == 0:
+            continue
         bm25 = BM25Okapi(sub_text)
         text = ''
         relation = relation.replace('/', ' ').replace('_', ' ')

@@ -105,8 +105,10 @@ def get_sub_corpus_text(args, data_corpus, entity_set):
         if item['head']['id'] in entity_set and item['tail']['id'] in entity_set:
             tokenized_text = item['sentence'].replace('###END###\n', '').split(" ")
             tokenized_text = corpus2lower(tokenized_text, entity_set)
-            sub_corpus_text[item['head']['id']].append(tokenized_text)
-            sub_corpus_text[item['tail']['id']].append(tokenized_text)
+            if len(sub_corpus_text[item['head']['id']]) < 100000:
+                sub_corpus_text[item['head']['id']].append(tokenized_text)
+            if len(sub_corpus_text[item['tail']['id']]) < 100000:
+                sub_corpus_text[item['tail']['id']].append(tokenized_text)
 
     args.sub_corpus_text = sub_corpus_text
     

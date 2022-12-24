@@ -22,6 +22,7 @@ def construct_args():
     parser.add_argument("--sub_corpus_text", type=dict, default=None)
     parser.add_argument("--sub_corpus_text_dir", type=str, default='./dataset/UMLS+PubMed/sup_text.json')
     parser.add_argument("--dataset", type=str, default="UMLS+PubMed")
+    parser.add_argument("--entity2label", type=str, default="./data_utils/entity2label.txt")
 
     args = parser.parse_args()
 
@@ -105,9 +106,9 @@ def get_sub_corpus_text(args, data_corpus, entity_set):
         if item['head']['id'] in entity_set and item['tail']['id'] in entity_set:
             tokenized_text = item['sentence'].replace('###END###\n', '').split(" ")
             tokenized_text = corpus2lower(tokenized_text, entity_set)
-            if len(sub_corpus_text[item['head']['id']]) < 100000:
+            if len(sub_corpus_text[item['head']['id']]) < 500000:
                 sub_corpus_text[item['head']['id']].append(tokenized_text)
-            if len(sub_corpus_text[item['tail']['id']]) < 100000:
+            if len(sub_corpus_text[item['tail']['id']]) < 500000:
                 sub_corpus_text[item['tail']['id']].append(tokenized_text)
 
     args.sub_corpus_text = sub_corpus_text
@@ -117,16 +118,28 @@ def get_sub_corpus_text(args, data_corpus, entity_set):
 
     return sub_corpus_text
 
+def get_entity2label(args):
+    entity2label = {}
+    e2l = open(args.entity2label)
+    e2l = e2l.readlines()
+    for item in e2l:
+        if item != None:
+            entity, label = item.split('\t')
+            label = label[:-1]
+            entity2label[entity] = label
+    return entity2label
 
 def triple2text(args):
     print("retrieve text for triples (in training data) ...")
     data_corpus = get_corpus(args)
     rel_list = get_rel_list(args)
     entity_set = get_entity_set(args, data_corpus)
+    entity2label = get_entity2label(args)
     triple_text = {}
     
     # Add the exsiting mapping
-    for item in data_corpus:
+    print("load existing mapping ...")
+    for item in tqdm(data_corpus):
         try:
             if (item != None) and ('relation' in item.keys()) and (item['relation'] != None) and (item['relation'] in rel_list):
                 text = item['sentence'].replace('###END###\n', '')
@@ -140,6 +153,8 @@ def triple2text(args):
                         triple_text[triple] = text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
         except:
             continue
+
+    print(f"existing mapping: {len(triple_text)}")
     
     # BM25
     corpus_text = []
@@ -166,7 +181,6 @@ def triple2text(args):
             # print(f"{tail} not found in corpus")
             sub_corpus_text[tail] = []
         sub_text = sub_corpus_text[head]
-        sub_text.extend(sub_corpus_text[tail])
         # print(sub_text)
         if len(sub_text) == 0:
             continue
@@ -180,7 +194,13 @@ def triple2text(args):
         relevant_scores = bm25.get_scores(tokenized_query)
         order = np.argsort(relevant_scores)[::-1]
         for i in order:
-            text = sub_text[i]
+            text = ''
+            toks = sub_text[i]
+            for tok in toks:
+                if tok.startswith('C'):
+                    tok = entity2label[tok]
+                text += tok + ' '
+            text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
             if i > 0 and len(sub_text[i]) < 400:
                 triple_text[triple] = text
                 break
@@ -199,7 +219,8 @@ def triple2text(args):
 def query2text(args):
     print("retrieve text for queries (in validation/testing data) ...")
     data_corpus = get_corpus(args)
-    entity_set = get_entity_set(args) if args.entity_set == None else args.entity_set
+    entity_set = get_entity_set(args, data_corpus) if args.entity_set == None else args.entity_set
+    entity2label = get_entity2label(args)
     query_text = {}
 
     # BM25
@@ -226,12 +247,18 @@ def query2text(args):
         bm25 = BM25Okapi(sub_text)
         text = ''
         relation = relation.replace('/', ' ').replace('_', ' ')
-        query = head + ' ' + relation
-        tokenized_query = query.split(' ')
+        query_ = head + ' ' + relation
+        tokenized_query = query_.split(' ')
         relevant_scores = bm25.get_scores(tokenized_query)
         order = np.argsort(relevant_scores)[::-1]
         for i in order:
-            text = sub_text[i]
+            text = ''
+            toks = sub_text[i]
+            for tok in toks:
+                if tok.startswith('C'):
+                    tok = entity2label[tok]
+                text += tok + ' '
+            text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
             if i > 0 and len(sub_text[i]) < 400:
                 query_text[query] = text
                 break
@@ -251,7 +278,7 @@ def query2text(args):
 def main():
     args = construct_args()
     print("start support information retrieval in reliable sources ...")
-    triple2text(args=args)
+    # triple2text(args=args)
     query2text(args=args)
 
 

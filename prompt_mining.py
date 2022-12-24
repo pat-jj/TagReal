@@ -26,27 +26,46 @@ def get_wiki_corpus():
     return corpus_text
 
 
-def get_relation_set(list_=False):
+def get_pubmed_corpus():
+    with open("./Volumes/pubmed_corpus_text.txt") as f:
+        corpus_text = f.readlines()
+    
+    return corpus_text
+
+
+def get_relation_set(dataset, list_=False):
     # The set of relation we're using
     valid_relation_set = set()
-
-    rel_list = [
-        '/people/person/nationality',
-        '/location/location/contains',
-        '/people/person/place_lived',
-        '/people/deceased_person/place_of_death',
-        '/people/person/ethnicity',
-        '/people/ethnicity/people',
-        '/business/person/company',
-        '/people/person/religion',
-        '/location/neighborhood/neighborhood_of',
-        '/business/company/founders',
-        '/people/person/children',
-        '/location/administrative_division/country',
-        '/location/country/administrative_divisions',
-        '/business/company/place_founded',
-        '/location/us_county/county_seat'
-    ]
+    rel_list = []
+    if dataset == "FB60K-NYT10":
+        rel_list = [
+            '/people/person/nationality',
+            '/location/location/contains',
+            '/people/person/place_lived',
+            '/people/deceased_person/place_of_death',
+            '/people/person/ethnicity',
+            '/people/ethnicity/people',
+            '/business/person/company',
+            '/people/person/religion',
+            '/location/neighborhood/neighborhood_of',
+            '/business/company/founders',
+            '/people/person/children',
+            '/location/administrative_division/country',
+            '/location/country/administrative_divisions',
+            '/business/company/place_founded',
+            '/location/us_county/county_seat'
+        ]
+    if dataset == "UMLS-PubMed":
+        rel_list = [
+            'gene_associated_with_disease',
+            'disease_has_associated_gene',
+            'gene_mapped_to_disease',
+            'disease_mapped_to_gene',
+            'may_be_treated_by',
+            'may_treat',
+            'may_be_prevented_by',
+            'may_prevent',
+        ]
 
     if list_:
         return rel_list
@@ -79,10 +98,15 @@ def get_abrv_relations():
     return abrv
 
 
-def get_triples_for_relation(relation,
+def get_triples_for_relation(relation, dataset
+                            
                              # n=500
                              ):  # small: 80  big: 500
-    original_triples_path = "./prompt_mining/triples_nyt10.txt"
+    if dataset == "FB60K-NYT10":
+        original_triples_path = "./prompt_mining/triples_nyt10.txt"
+    elif dataset == "UMLS-PubMed":
+        original_triples_path = "./prompt_mining/triples_umls.txt"
+
 
     random_selected_triples = ""
     with open(original_triples_path) as f:
@@ -97,15 +121,18 @@ def get_triples_for_relation(relation,
 
     print(f'{count} triples for {relation}')
     relation_ = relation.replace('/', '_')
-    sp_path = "./prompt_mining/relation_triples/triples_nyt10" + relation_ + ".txt"
+    sp_path = f"./prompt_mining/relation_triples/{dataset}/triples_nyt10" + relation_ + ".txt"
     sp_file = open(sp_path, 'w', encoding='utf-8')
     print(random_selected_triples, file=sp_file)
 
     return random_selected_triples
 
 
-def get_entity_tokens():
-    triples_path = "./prompt_mining/triples_nyt10.txt"
+def get_entity_tokens(dataset):
+    if dataset == "FB60K-NYT10":
+        triples_path = "./prompt_mining/triples_nyt10.txt"
+    elif dataset == "UMLS-PubMed":
+        triples_path = "./prompt_mining/triples_umls.txt"
 
     with open(triples_path) as f:
         original_triples = f.readlines()[:-1]
@@ -125,11 +152,13 @@ def get_entity_tokens():
     return entity_tokens
 
 
-def mine_triple_text_from_corpus(triples, corpus, relation, n=2000, max_lines=100000, triples_path=None):
+def mine_triple_text_from_corpus(triples, corpus, relation, dataset, n=2000, max_lines=100000, triples_path=None):
     mined_text = ""
 
     with open(corpus) as f:
         corpus_lines = f.readlines()
+    
+    print(f"length of corpus: {len(corpus_lines)}")
 
     if triples_path is not None:
         with open(triples_path) as f:
@@ -140,7 +169,11 @@ def mine_triple_text_from_corpus(triples, corpus, relation, n=2000, max_lines=10
 
     lines = lines[:-1]
 
+    relation_ = relation.replace('/', '_')
+    st_path = f"./prompt_mining/mined_text_big/{dataset}/mined_text_" + relation_ + ".txt"
+    mined_text_file = open(st_path, 'w', encoding='utf-8')
     num_lines = 0
+    
     for line in lines:
         # control the maximum mined text size
         if num_lines >= max_lines:
@@ -148,17 +181,17 @@ def mine_triple_text_from_corpus(triples, corpus, relation, n=2000, max_lines=10
 
         cnt = 0
         triple = line.split('\t')
-        head, tail = triple[0].replace('_', ' '), triple[2].replace('_', ' ')
+        head, tail = triple[0].replace('_', ' ').strip(), triple[2].replace('_', ' ').strip()
         print('=======================')
         print(head, tail)
         print('=======================')
-        for corpus_sentence in corpus_lines:
+        for corpus_sentence in tqdm(corpus_lines):
             if (head in corpus_sentence) and (tail in corpus_sentence):
                 #         and (relation in corpus_sentence) \
-                mined_sentence = corpus_sentence.replace(head, '[X]').replace(tail, '[Y]')
+                mined_sentence = corpus_sentence.replace(head, '[X]').replace(tail, '[Y]') + '\n'
                 #             print(mined_sentence)
-
-                mined_text = mined_text + mined_sentence + '\n'
+                mined_text_file.write(mined_sentence)
+                mined_text += mined_sentence
                 cnt += 1
                 num_lines += 1
 
@@ -169,10 +202,10 @@ def mine_triple_text_from_corpus(triples, corpus, relation, n=2000, max_lines=10
 
         print(f'Currently mined {num_lines} sentences')
 
-    relation_ = relation.replace('/', '_')
-    st_path = "./prompt_mining/mined_text_big/mined_text" + relation_ + ".txt"
-    mined_text_file = open(st_path, 'w', encoding='utf-8')
-    print(mined_text, file=mined_text_file)
+    # relation_ = relation.replace('/', '_')
+    # st_path = f"./prompt_mining/mined_text_big/{dataset}/mined_text_" + relation_ + ".txt"
+    # mined_text_file = open(st_path, 'w', encoding='utf-8')
+    # print(mined_text, file=mined_text_file)
 
     return mined_text
 
@@ -281,50 +314,52 @@ def convert_type_to_x_y(relation, head, tail):
 
 def main():
     # corpus = "../../../data/pj20/corpus_text_low.txt"
-    relation_set = get_relation_set()
-    # for relation in [*relation_set]:
-    #     print('Begin Text Mining for Relation: ', relation)
-    #     triples = get_triples_for_relation(relation)
-    #     mine_triple_text_from_corpus(triples, corpus, relation)
+    dataset = "UMLS-PubMed"
+    corpus = "./Volumes/pubmed_corpus_text.txt"
+    relation_set = get_relation_set(dataset=dataset)
+    for relation in [*relation_set]:
+        print('Begin Text Mining for Relation: ', relation)
+        triples = get_triples_for_relation(relation, dataset)
+        mine_triple_text_from_corpus(triples, corpus, relation, dataset)
 
-    relation_entities = {
-        'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER', 'slash': 'business/company/founders'},
-        'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED', 'slash': 'business/company/place_founded'},
-        'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY', 'slash': 'business/person/company'},
-        'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY', 'slash': 'location/administrative_division/country'},
-        'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION', 'slash': 'location/country/administrative_divisions'},
-        'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB', 'slash': 'location/location/contains'},
-        'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR', 'slash': 'location/neighborhood/neighborhood_of'},
-        'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT', 'slash': 'location/us_county/county_seat'},
-        'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH', 'slash': 'people/deceased_person/place_of_death'},
-        'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE', 'slash': 'people/ethnicity/people'},
-        'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN', 'slash': 'people/person/children'},
-        'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY', 'slash': 'people/person/ethnicity'},
-        'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY', 'slash': 'people/person/nationality'},
-        'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED', 'slash': 'people/person/place_lived'},
-        'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION', 'slash': 'people/person/religion'},
-    }
+    # relation_entities = {
+    #     'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER', 'slash': 'business/company/founders'},
+    #     'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED', 'slash': 'business/company/place_founded'},
+    #     'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY', 'slash': 'business/person/company'},
+    #     'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY', 'slash': 'location/administrative_division/country'},
+    #     'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION', 'slash': 'location/country/administrative_divisions'},
+    #     'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB', 'slash': 'location/location/contains'},
+    #     'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR', 'slash': 'location/neighborhood/neighborhood_of'},
+    #     'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT', 'slash': 'location/us_county/county_seat'},
+    #     'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH', 'slash': 'people/deceased_person/place_of_death'},
+    #     'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE', 'slash': 'people/ethnicity/people'},
+    #     'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN', 'slash': 'people/person/children'},
+    #     'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY', 'slash': 'people/person/ethnicity'},
+    #     'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY', 'slash': 'people/person/nationality'},
+    #     'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED', 'slash': 'people/person/place_lived'},
+    #     'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION', 'slash': 'people/person/religion'},
+    # }
 
-    for relation in relation_entities.keys():
-        label_x_and_y_with_categories(
-            relation,
-            relation_entities[relation]['head'],
-            relation_entities[relation]['tail']
-        )
+    # for relation in relation_entities.keys():
+    #     label_x_and_y_with_categories(
+    #         relation,
+    #         relation_entities[relation]['head'],
+    #         relation_entities[relation]['tail']
+    #     )
 
-    entity_tokens = get_entity_tokens()
-    # print(entity_tokens)
-    for relation in relation_entities.keys():
-        filtered_patterns = filter_meta_pad_mined_results(
-            relation,
-            relation_entities[relation]['head'],
-            relation_entities[relation]['tail']
-        )
-        relation_slash = relation_entities[relation]['slash']
-        from_meta_pad_to_true_pie(relation, relation_slash, filtered_patterns, entity_tokens)
+    # entity_tokens = get_entity_tokens(dataset=dataset)
+    # # print(entity_tokens)
+    # for relation in relation_entities.keys():
+    #     filtered_patterns = filter_meta_pad_mined_results(
+    #         relation,
+    #         relation_entities[relation]['head'],
+    #         relation_entities[relation]['tail']
+    #     )
+    #     relation_slash = relation_entities[relation]['slash']
+    #     from_meta_pad_to_true_pie(relation, relation_slash, filtered_patterns, entity_tokens)
 
-    for relation in relation_entities.keys():
-        convert_type_to_x_y(relation, relation_entities[relation]['head'], relation_entities[relation]['tail'])
+    # for relation in relation_entities.keys():
+    #     convert_type_to_x_y(relation, relation_entities[relation]['head'], relation_entities[relation]['tail'])
 
 
 

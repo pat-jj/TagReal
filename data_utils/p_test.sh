@@ -1,6 +1,6 @@
 export CUDA_VISIBLE_DEVICES=1,2,3,4,5,6,7
 
-python3 -m torch.distributed.launch --nproc_per_node=7 tagreal.py \
+python3 -m torch.distributed.launch --nproc_per_node=7 tagreal_p_test.py \
 --model_name luke \
 --pseudo_token [PROMPT] \
 --template \(1,1,1,1,1,1\) \

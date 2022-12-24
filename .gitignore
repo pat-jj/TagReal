@@ -131,6 +131,8 @@ __pycache__
 /CPL_processed_data/test_pos2.npy
 /CPL_processed_data/test_mask.npy
 
+./prompt_mining/prompt_opti/log
+
 /analysis.ipynb
 /TuckER/data/
 /TuckER/output/

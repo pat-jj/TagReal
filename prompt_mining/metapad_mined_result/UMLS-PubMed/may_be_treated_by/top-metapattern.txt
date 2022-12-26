@@ -1,0 +1,281 @@
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	0.9707342725	$DISEASE were treated with $DRUG
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	0.9513248676	$DRUG in the treatment of $DISEASE
+-rrb- in the treatment of <DISEASE></DISEASE>	0.929803373	-rrb- in the treatment of $DISEASE
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	0.9060105421	$DRUG for the treatment of $DISEASE
+leukemia -lrb- <DISEASE></DISEASE> -rrb- ,	0.9058355395	leukemia -lrb- $DISEASE -rrb- ,
+treatment of <DISEASE></DISEASE> ,	0.8972317723	treatment of $DISEASE ,
+treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.8961159431	treatment of $DISEASE -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	0.8851030706	$DISEASE patients treated with $DRUG
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	0.8627635829	$DISEASE toxoid -lrb- $DRUG -rrb-
+patients with severe <DISEASE></DISEASE>	0.8511227108	patients with severe $DISEASE
+patients with chronic <DISEASE></DISEASE>	0.8500602108	patients with chronic $DISEASE
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	0.8431638376	$DRUG for postoperative $DISEASE relief
+cell lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.8297980694	cell lung cancer -lrb- $DISEASE -rrb-
+treatment of <DISEASE></DISEASE>	0.8288709241	treatment of $DISEASE
+chronic low back <DISEASE></DISEASE>	0.79818235	chronic low back $DISEASE
+acute myeloid <DISEASE></DISEASE> -lrb-	0.7884227739	acute myeloid $DISEASE -lrb-
+effective in the treatment of <DISEASE></DISEASE>	0.7802436837	effective in the treatment of $DISEASE
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	0.7767880612	$DRUG for the prevention of $DISEASE
+treatment of acute <DISEASE></DISEASE>	0.768768944	treatment of acute $DISEASE
+treatment of severe <DISEASE></DISEASE>	0.7662301401	treatment of severe $DISEASE
+patients with knee <DISEASE></DISEASE> -lrb-	0.7570539872	patients with knee $DISEASE -lrb-
+mh - <DISEASE></DISEASE> / * drug	0.7521664839	mh - $DISEASE / * drug
+lymphocytic leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.7472966133	lymphocytic leukemia -lrb- $DISEASE -rrb-
+treatment of chronic <DISEASE></DISEASE>	0.7448211511	treatment of chronic $DISEASE
+<DISEASE></DISEASE> -lrb- nhl -rrb-	0.7336415165	$DISEASE -lrb- nhl -rrb-
+treatment of primary <DISEASE></DISEASE>	0.7321608336	treatment of primary $DISEASE
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	0.7245235327	$DISEASE on injection of $DRUG
+management of postoperative <DISEASE></DISEASE>	0.7100106172	management of postoperative $DISEASE
+<DISEASE></DISEASE> necrosis factor alpha	0.7092950275	$DISEASE necrosis factor alpha
+children and adolescents with <DISEASE></DISEASE>	0.6984671351	children and adolescents with $DISEASE
+patients with primary <DISEASE></DISEASE>	0.6975911667	patients with primary $DISEASE
+heart failure -lrb- <DISEASE></DISEASE> -rrb-	0.6945125896	heart failure -lrb- $DISEASE -rrb-
+patients with stable <DISEASE></DISEASE>	0.6774409502	patients with stable $DISEASE
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	0.6764816345	$DISEASE toxoid -lrb- $DRUG
+patients with septic <DISEASE></DISEASE>	0.6755034502	patients with septic $DISEASE
+patients with knee <DISEASE></DISEASE>	0.6749669242	patients with knee $DISEASE
+<DISEASE></DISEASE> / * drug	0.6737031637	$DISEASE / * drug
+heterozygous familial <DISEASE></DISEASE>	0.670810444	heterozygous familial $DISEASE
+patients with moderate-to-severe <DISEASE></DISEASE>	0.6645454957	patients with moderate-to-severe $DISEASE
+carinii pneumonia -lrb- <DISEASE></DISEASE> -rrb-	0.6554000346	carinii pneumonia -lrb- $DISEASE -rrb-
+postoperative <DISEASE></DISEASE> and vomiting -lrb- ponv -rrb-	0.6476305529	postoperative $DISEASE and vomiting -lrb- ponv -rrb-
+patients with acute myeloid <DISEASE></DISEASE> -lrb- aml -rrb-	0.6458165294	patients with acute myeloid $DISEASE -lrb- aml -rrb-
+acute myelogenous <DISEASE></DISEASE> -lrb- aml -rrb-	0.6425643764	acute myelogenous $DISEASE -lrb- aml -rrb-
+acute lymphoblastic <DISEASE></DISEASE> -lrb- all -rrb-	0.6425643764	acute lymphoblastic $DISEASE -lrb- all -rrb-
+chronic lymphocytic leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.6422518764	chronic lymphocytic leukemia -lrb- $DISEASE -rrb-
+small cell lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.6415643764	small cell lung cancer -lrb- $DISEASE -rrb-
+acute myelogenous leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.6413143764	acute myelogenous leukemia -lrb- $DISEASE -rrb-
+non-small cell lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.6405643764	non-small cell lung cancer -lrb- $DISEASE -rrb-
+non-small-cell lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.6402518764	non-small-cell lung cancer -lrb- $DISEASE -rrb-
+idiopathic thrombocytopenic purpura -lrb- <DISEASE></DISEASE> -rrb-	0.639307432	idiopathic thrombocytopenic purpura -lrb- $DISEASE -rrb-
+prophylaxis of <DISEASE></DISEASE> carinii pneumonia	0.6314040383	prophylaxis of $DISEASE carinii pneumonia
+patients with mild to moderate essential <DISEASE></DISEASE>	0.6269471713	patients with mild to moderate essential $DISEASE
+treatment of <DISEASE></DISEASE> in patients	0.6268000094	treatment of $DISEASE in patients
+safety and efficacy of <DRUG></DRUG>	0.6231111428	safety and efficacy of $DRUG
+<DISEASE></DISEASE> or schizoaffective disorder	0.622813838	$DISEASE or schizoaffective disorder
+patients with mild to moderate <DISEASE></DISEASE>	0.6223268392	patients with mild to moderate $DISEASE
+congestive heart failure -lrb- <DISEASE></DISEASE> -rrb-	0.6218677748	congestive heart failure -lrb- $DISEASE -rrb-
+common variable <DISEASE></DISEASE> -lrb- cvid -rrb-	0.6209233303	common variable $DISEASE -lrb- cvid -rrb-
+attention-deficit hyperactivity disorder -lrb- <DISEASE></DISEASE> -rrb-	0.6209233303	attention-deficit hyperactivity disorder -lrb- $DISEASE -rrb-
+attention deficit hyperactivity disorder -lrb- <DISEASE></DISEASE> -rrb-	0.6209233303	attention deficit hyperactivity disorder -lrb- $DISEASE -rrb-
+efficacy and safety of <DRUG></DRUG> -lrb-	0.6154197239	efficacy and safety of $DRUG -lrb-
+<DISEASE></DISEASE> necrosis factor-alpha	0.6102601726	$DISEASE necrosis factor-alpha
+<DRUG></DRUG> -lrb- cbz -rrb-	0.608331578	$DRUG -lrb- cbz -rrb-
+<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.5863102568	$DRUG -lrb- $DRUG -rrb-
+patients with essential <DISEASE></DISEASE>	0.5823461035	patients with essential $DISEASE
+patients with stable <DISEASE></DISEASE> pectoris	0.5772194118	patients with stable $DISEASE pectoris
+<DRUG></DRUG> for the treatment	0.5755862528	$DRUG for the treatment
+acute lymphoblastic <DISEASE></DISEASE> -lrb-	0.5755568713	acute lymphoblastic $DISEASE -lrb-
+background : <DISEASE></DISEASE>	0.5648118119	background : $DISEASE
+efficacy and safety of <DRUG></DRUG>	0.5639696226	efficacy and safety of $DRUG
+efficacy and tolerability of <DRUG></DRUG>	0.5592565723	efficacy and tolerability of $DRUG
+<DRUG></DRUG> in the management	0.5577037567	$DRUG in the management
+proton pump inhibitor <DRUG></DRUG>	0.557380959	proton pump inhibitor $DRUG
+toxoid -lrb- <DRUG></DRUG> -rrb- ,	0.5421121348	toxoid -lrb- $DRUG -rrb- ,
+<DRUG></DRUG> -lrb- mg/day -rrb- ,	0.5353268457	$DRUG -lrb- mg/day -rrb- ,
+effective as <DRUG></DRUG>	0.5225950202	effective as $DRUG
+-lrb- <DRUG></DRUG> -rrb- sb	0.5102804171	-lrb- $DRUG -rrb- sb
+<DRUG></DRUG> monitoring -lrb- cgm -rrb-	0.501141201	$DRUG monitoring -lrb- cgm -rrb-
+<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb- ,	0.4971200948	$DRUG -lrb- $DRUG -rrb- ,
+myelogenous leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.4956445536	myelogenous leukemia -lrb- $DISEASE -rrb-
+-lrb- <DRUG></DRUG> -rrb-	0.4800020832	-lrb- $DRUG -rrb-
+efficacy of <DRUG></DRUG> in the treatment	0.4742571635	efficacy of $DRUG in the treatment
+intravenous -lrb- iv -rrb- <DRUG></DRUG>	0.4660063005	intravenous -lrb- iv -rrb- $DRUG
+role of <DRUG></DRUG>	0.4567272334	role of $DRUG
+<DRUG></DRUG> -lrb-	0.453295752	$DRUG -lrb-
+intravenous immunoglobulin -lrb- <DRUG></DRUG>	0.4416526021	intravenous immunoglobulin -lrb- $DRUG
+background : <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.4314676689	background : $DRUG -lrb- $DRUG -rrb-
+intravenous immunoglobulin -lrb- <DRUG></DRUG> -rrb-	0.3948464207	intravenous immunoglobulin -lrb- $DRUG -rrb-
+intrathecal <DRUG></DRUG> -lrb- itb -rrb-	0.3938464207	intrathecal $DRUG -lrb- itb -rrb-
+intravenous <DRUG></DRUG> -lrb- ivig -rrb-	0.3938464207	intravenous $DRUG -lrb- ivig -rrb-
+continuous <DRUG></DRUG> monitoring -lrb- cgm -rrb-	0.3909019763	continuous $DRUG monitoring -lrb- cgm -rrb-
+patients in the <DRUG></DRUG> group	0.3905461961	patients in the $DRUG group
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	0.3672040594	$DISEASE -lrb- $DISEASE -rrb- ,
+<DRUG></DRUG> -lrb- pza -rrb-	0.3479839952	$DRUG -lrb- pza -rrb-
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.3427923209	$DISEASE -lrb- $DISEASE -rrb-
+patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.3382930028	patients with $DISEASE -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> and vomiting -lrb-	0.3244403272	$DISEASE and vomiting -lrb-
+<DRUG></DRUG> -rrb- in patients	0.3177760323	$DRUG -rrb- in patients
+nausea and <DISEASE></DISEASE> -lrb-	0.3159028121	nausea and $DISEASE -lrb-
+patients with knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.3132896562	patients with knee $DISEASE -lrb- $DISEASE -rrb-
+knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.3117174585	knee $DISEASE -lrb- $DISEASE -rrb-
+patients with <DISEASE></DISEASE> ,	0.3080741215	patients with $DISEASE ,
+prophylaxis of <DISEASE></DISEASE> carinii	0.3024528121	prophylaxis of $DISEASE carinii
+patients treated with <DRUG></DRUG>	0.3002454576	patients treated with $DRUG
+recurrent venous <DISEASE></DISEASE>	0.286786939	recurrent venous $DISEASE
+acute myeloid <DISEASE></DISEASE>	0.2857505509	acute myeloid $DISEASE
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	0.2722571964	treatment of $DISEASE with $DRUG
+patients who received <DRUG></DRUG>	0.2720886935	patients who received $DRUG
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	0.2677727087	$DISEASE on $DRUG injection
+<DISEASE></DISEASE> in patients who	0.2668566402	$DISEASE in patients who
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	0.2662656079	$DRUG in patients with $DISEASE
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	0.2649149862	$DRUG for treatment of $DISEASE
+mh - <DISEASE></DISEASE>	0.2631653748	mh - $DISEASE
+<DISEASE></DISEASE> -lrb- aml -rrb-	0.2620477087	$DISEASE -lrb- aml -rrb-
+lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.2618516859	lung cancer -lrb- $DISEASE -rrb-
+venous <DISEASE></DISEASE> -lrb- vte -rrb-	0.2608516859	venous $DISEASE -lrb- vte -rrb-
+patients with <DISEASE></DISEASE> who	0.2601413444	patients with $DISEASE who
+prevention and treatment of <DISEASE></DISEASE>	0.2595253505	prevention and treatment of $DISEASE
+acute myelogenous <DISEASE></DISEASE> -lrb- aml	0.2579072415	acute myelogenous $DISEASE -lrb- aml
+patients with acute <DISEASE></DISEASE>	0.2560107024	patients with acute $DISEASE
+patients with multiple <DISEASE></DISEASE>	0.2515709664	patients with multiple $DISEASE
+-rrb- in patients with <DISEASE></DISEASE>	0.2511632186	-rrb- in patients with $DISEASE
+treatment of patients with <DISEASE></DISEASE>	0.2501632186	treatment of patients with $DISEASE
+patients with familial <DISEASE></DISEASE>	0.2487804902	patients with familial $DISEASE
+disorder -lrb- <DISEASE></DISEASE> -rrb- ,	0.2486056536	disorder -lrb- $DISEASE -rrb- ,
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	0.2478893242	$DRUG on postoperative $DISEASE
+<DISEASE></DISEASE> carinii pneumonia	0.2457035671	$DISEASE carinii pneumonia
+<DISEASE></DISEASE> is a common	0.245332156	$DISEASE is a common
+acute myeloid leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.2447035278	acute myeloid leukemia -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> -lrb- ponv -rrb-	0.2432056807	$DISEASE -lrb- ponv -rrb-
+cardiac <DISEASE></DISEASE> suppression trial	0.2401494248	cardiac $DISEASE suppression trial
+-lrb- <DISEASE></DISEASE> -rrb- ,	0.2396618193	-lrb- $DISEASE -rrb- ,
+<DISEASE></DISEASE> clinical trials group	0.2392654893	$DISEASE clinical trials group
+leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.2386838047	leukemia -lrb- $DISEASE -rrb-
+infection -lrb- <DISEASE></DISEASE> -rrb-	0.2386838047	infection -lrb- $DISEASE -rrb-
+treatment of secondary <DISEASE></DISEASE>	0.2386838047	treatment of secondary $DISEASE
+patients with major <DISEASE></DISEASE>	0.2377125565	patients with major $DISEASE
+patients with mild <DISEASE></DISEASE>	0.2377125565	patients with mild $DISEASE
+hyperactivity disorder -lrb- <DISEASE></DISEASE> -rrb-	0.2371126341	hyperactivity disorder -lrb- $DISEASE -rrb-
+secondary <DISEASE></DISEASE> -lrb- shpt -rrb-	0.2368001341	secondary $DISEASE -lrb- shpt -rrb-
+postoperative nausea and <DISEASE></DISEASE>	0.2360838047	postoperative nausea and $DISEASE
+multiple <DISEASE></DISEASE> -lrb- mm -rrb-	0.2358626341	multiple $DISEASE -lrb- mm -rrb-
+graft-versus-host disease -lrb- <DISEASE></DISEASE> -rrb-	0.2358626341	graft-versus-host disease -lrb- $DISEASE -rrb-
+patients with advanced <DISEASE></DISEASE>	0.2355194145	patients with advanced $DISEASE
+patients with secondary <DISEASE></DISEASE>	0.2355194145	patients with secondary $DISEASE
+patients with refractory <DISEASE></DISEASE>	0.2355194145	patients with refractory $DISEASE
+prevention of <DISEASE></DISEASE>	0.235475394	prevention of $DISEASE
+prevention of venous <DISEASE></DISEASE>	0.2350838047	prevention of venous $DISEASE
+patients with mild-to-moderate <DISEASE></DISEASE>	0.2349220803	patients with mild-to-moderate $DISEASE
+familial <DISEASE></DISEASE> -lrb- fh -rrb-	0.2348556897	familial $DISEASE -lrb- fh -rrb-
+non-hodgkin 's <DISEASE></DISEASE> -lrb- nhl	0.2348556897	non-hodgkin 's $DISEASE -lrb- nhl
+prophylaxis against <DISEASE></DISEASE> carinii pneumonia	0.2341681897	prophylaxis against $DISEASE carinii pneumonia
+patients with <DISEASE></DISEASE> pectoris	0.2336622717	patients with $DISEASE pectoris
+patients with gastroesophageal <DISEASE></DISEASE> disease	0.2336520153	patients with gastroesophageal $DISEASE disease
+<DISEASE></DISEASE> during pregnancy	0.2328451572	$DISEASE during pregnancy
+<DISEASE></DISEASE> or schizoaffective	0.2328451572	$DISEASE or schizoaffective
+management of <DISEASE></DISEASE>	0.232475394	management of $DISEASE
+disorder -lrb- <DISEASE></DISEASE> -rrb-	0.2319296764	disorder -lrb- $DISEASE -rrb-
+<DRUG></DRUG> in patients	0.2318339349	$DRUG in patients
+patients with <DISEASE></DISEASE> oesophagitis	0.2309747717	patients with $DISEASE oesophagitis
+<DISEASE></DISEASE> at rest	0.2307118239	$DISEASE at rest
+<DISEASE></DISEASE> necrosis factor	0.2306520153	$DISEASE necrosis factor
+<DISEASE></DISEASE> cell line	0.2306520153	$DISEASE cell line
+<DISEASE></DISEASE> after laparoscopic	0.2297145153	$DISEASE after laparoscopic
+<DISEASE></DISEASE> zoster virus	0.2279645153	$DISEASE zoster virus
+patients with <DISEASE></DISEASE> -lrb-	0.2265230489	patients with $DISEASE -lrb-
+obsessive-compulsive disorder -lrb- <DISEASE></DISEASE> -rrb-	0.2244160325	obsessive-compulsive disorder -lrb- $DISEASE -rrb-
+breakthrough cancer <DISEASE></DISEASE>	0.2224804317	breakthrough cancer $DISEASE
+erosive <DISEASE></DISEASE> esophagitis	0.2224804317	erosive $DISEASE esophagitis
+mantle cell <DISEASE></DISEASE>	0.2224804317	mantle cell $DISEASE
+attention-deficit/hyperactivity disorder -lrb- <DISEASE></DISEASE> -rrb-	0.2222160325	attention-deficit/hyperactivity disorder -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> -lrb- vte -rrb-	0.2206793695	$DISEASE -lrb- vte -rrb-
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	0.2183733677	$DRUG for $DISEASE relief
+venous <DISEASE></DISEASE> -lrb-	0.2178315435	venous $DISEASE -lrb-
+treatment for severe <DISEASE></DISEASE>	0.2164822529	treatment for severe $DISEASE
+-lrb- <DISEASE></DISEASE> -rrb- prophylaxis	0.2163661814	-lrb- $DISEASE -rrb- prophylaxis
+<DISEASE></DISEASE> toxoid -lrb-	0.2153148769	$DISEASE toxoid -lrb-
+treatment of neuropathic <DISEASE></DISEASE>	0.2146322529	treatment of neuropathic $DISEASE
+-lrb- <DISEASE></DISEASE> -rrb-	0.2139405306	-lrb- $DISEASE -rrb-
+treatment of <DISEASE></DISEASE> oesophagitis	0.2129655862	treatment of $DISEASE oesophagitis
+leukaemia -lrb- <DISEASE></DISEASE> -rrb-	0.2120322529	leukaemia -lrb- $DISEASE -rrb-
+thrombocytopenia -lrb- <DISEASE></DISEASE> -rrb-	0.2120322529	thrombocytopenia -lrb- $DISEASE -rrb-
+mild to moderate essential <DISEASE></DISEASE>	0.2116694561	mild to moderate essential $DISEASE
+carcinoma -lrb- <DISEASE></DISEASE> -rrb-	0.2100947529	carcinoma -lrb- $DISEASE -rrb-
+acute myeloid <DISEASE></DISEASE> -lrb- aml -rrb-	0.2078090653	acute myeloid $DISEASE -lrb- aml -rrb-
+gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	0.2033622132	gastroesophageal $DISEASE disease -lrb- $DISEASE -rrb-
+-rrb- and <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.2019079473	-rrb- and $DRUG -lrb- $DRUG -rrb-
+<DISEASE></DISEASE> objective	0.2011430059	$DISEASE objective
+acute lymphoblastic <DISEASE></DISEASE>	0.2004288798	acute lymphoblastic $DISEASE
+acute and chronic <DISEASE></DISEASE>	0.2000481512	acute and chronic $DISEASE
+patient with <DISEASE></DISEASE>	0.2000105112	patient with $DISEASE
+management of chronic <DISEASE></DISEASE>	0.1995814845	management of chronic $DISEASE
+gastro-oesophageal <DISEASE></DISEASE> disease	0.1994288798	gastro-oesophageal $DISEASE disease
+out-of-hospital cardiac <DISEASE></DISEASE>	0.1994288798	out-of-hospital cardiac $DISEASE
+human <DISEASE></DISEASE> virus	0.1994288798	human $DISEASE virus
+chronic idiopathic <DISEASE></DISEASE>	0.1994288798	chronic idiopathic $DISEASE
+stable <DISEASE></DISEASE> pectoris	0.1994288798	stable $DISEASE pectoris
+acute myelogenous <DISEASE></DISEASE>	0.1994288798	acute myelogenous $DISEASE
+propofol injection <DISEASE></DISEASE>	0.1994288798	propofol injection $DISEASE
+low back <DISEASE></DISEASE>	0.1994288798	low back $DISEASE
+treatment of mild-to-moderate <DISEASE></DISEASE>	0.1984481512	treatment of mild-to-moderate $DISEASE
+failure -lrb- <DISEASE></DISEASE> -rrb-	0.1980481512	failure -lrb- $DISEASE -rrb-
+non-hodgkin 's <DISEASE></DISEASE>	0.1974913798	non-hodgkin 's $DISEASE
+diabetes -lrb- <DISEASE></DISEASE> -rrb-	0.1970936058	diabetes -lrb- $DISEASE -rrb-
+pneumonia -lrb- <DISEASE></DISEASE> -rrb-	0.1970936058	pneumonia -lrb- $DISEASE -rrb-
+moderate to severe <DISEASE></DISEASE>	0.1964481512	moderate to severe $DISEASE
+significant reduction in <DISEASE></DISEASE>	0.1964481512	significant reduction in $DISEASE
+nausea and <DISEASE></DISEASE>	0.1962264203	nausea and $DISEASE
+<DISEASE></DISEASE> on injection	0.1935918695	$DISEASE on injection
+<DISEASE></DISEASE> during injection	0.1917418695	$DISEASE during injection
+adult patients with <DISEASE></DISEASE>	0.1906447782	adult patients with $DISEASE
+postoperative <DISEASE></DISEASE> relief	0.1903299917	postoperative $DISEASE relief
+postoperative <DISEASE></DISEASE> management	0.1903299917	postoperative $DISEASE management
+onset of <DISEASE></DISEASE>	0.1890398003	onset of $DISEASE
+severity of <DISEASE></DISEASE>	0.1873316834	severity of $DISEASE
+moderate essential <DISEASE></DISEASE>	0.1870447782	moderate essential $DISEASE
+patients with <DISEASE></DISEASE>	0.1859537583	patients with $DISEASE
+prevalence of <DISEASE></DISEASE>	0.1849898003	prevalence of $DISEASE
+chronic stable <DISEASE></DISEASE>	0.1848902327	chronic stable $DISEASE
+chronic plaque <DISEASE></DISEASE>	0.1848447782	chronic plaque $DISEASE
+common variable <DISEASE></DISEASE>	0.1848447782	common variable $DISEASE
+severe plaque <DISEASE></DISEASE>	0.1848447782	severe plaque $DISEASE
+essential <DISEASE></DISEASE> -lrb-	0.1840352549	essential $DISEASE -lrb-
+knee <DISEASE></DISEASE> -lrb-	0.1840352549	knee $DISEASE -lrb-
+<DISEASE></DISEASE> in patients	0.1643942584	$DISEASE in patients
+<DRUG></DRUG> group -lrb-	0.1613774272	$DRUG group -lrb-
+<DRUG></DRUG> in the treatment	0.1535693384	$DRUG in the treatment
+mild to moderate <DISEASE></DISEASE>	0.1533750123	mild to moderate $DISEASE
+<DISEASE></DISEASE> who	0.1502786469	$DISEASE who
+toxoid -lrb- <DRUG></DRUG> -rrb-	0.1489259122	toxoid -lrb- $DRUG -rrb-
+<DRUG></DRUG> -lrb- ara-c -rrb-	0.1472592455	$DRUG -lrb- ara-c -rrb-
+<DRUG></DRUG> for the prevention	0.1458604351	$DRUG for the prevention
+<DRUG></DRUG> mg/m -lrb- -rrb-	0.1453259122	$DRUG mg/m -lrb- -rrb-
+<DISEASE></DISEASE> -lrb- p <	0.1452163949	$DISEASE -lrb- p <
+<DISEASE></DISEASE> -lrb-	0.1394444881	$DISEASE -lrb-
+injection of liposomal <DRUG></DRUG>	0.1393259122	injection of liposomal $DRUG
+% <DRUG></DRUG> with epinephrine	0.1393259122	% $DRUG with epinephrine
+-lrb- <DRUG></DRUG> -rrb- rn	0.1364509122	-lrb- $DRUG -rrb- rn
+<DRUG></DRUG> -rrb- sb	0.1324509122	$DRUG -rrb- sb
+-rrb- rn - -lrb- <DRUG></DRUG> -rrb- rn	0.1314509122	-rrb- rn - -lrb- $DRUG -rrb- rn
+fludarabine , <DRUG></DRUG> ,	0.1270316472	fludarabine , $DRUG ,
+<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb- treatment	0.1262336329	$DRUG -lrb- $DRUG -rrb- treatment
+effects of <DRUG></DRUG> -lrb-	0.1097879013	effects of $DRUG -lrb-
+effect of <DRUG></DRUG> -lrb-	0.1097879013	effect of $DRUG -lrb-
+combination of <DRUG></DRUG>	0.1027962142	combination of $DRUG
+effect of <DRUG></DRUG>	0.1020058298	effect of $DRUG
+<DRUG></DRUG> in the prevention	0.1020058298	$DRUG in the prevention
+<DRUG></DRUG> -lrb- pht -rrb-	0.0998613863	$DRUG -lrb- pht -rrb-
+mitomycin c -lrb- <DRUG></DRUG> -rrb-	0.0988613863	mitomycin c -lrb- $DRUG -rrb-
+effects of <DRUG></DRUG>	0.092432918	effects of $DRUG
+combination with <DRUG></DRUG>	0.0919022759	combination with $DRUG
+efficacy of <DRUG></DRUG>	0.083070408	efficacy of $DRUG
+<DRUG></DRUG> : a new	0.081774966	$DRUG : a new
+lower in the <DRUG></DRUG> group	0.081774966	lower in the $DRUG group
+combination therapy with <DRUG></DRUG>	0.081774966	combination therapy with $DRUG
+background : <DRUG></DRUG> ,	0.0813194096	background : $DRUG ,
+versus <DRUG></DRUG> in the treatment	0.0813194096	versus $DRUG in the treatment
+<DRUG></DRUG> is one	0.0804622667	$DRUG is one
+<DRUG></DRUG> -lrb- ap -rrb-	0.079174966	$DRUG -lrb- ap -rrb-
+acid -lrb- <DRUG></DRUG> -rrb-	0.0784622667	acid -lrb- $DRUG -rrb-
+<DRUG></DRUG> -lrb- dex -rrb-	0.078174966	$DRUG -lrb- dex -rrb-
+continuous infusion of <DRUG></DRUG>	0.078174966	continuous infusion of $DRUG
+<DRUG></DRUG> is an effective	0.0763908644	$DRUG is an effective
+<DRUG></DRUG> is a safe	0.0757241977	$DRUG is a safe
+safety of <DRUG></DRUG>	0.0751500448	safety of $DRUG
+immunoglobulin -lrb- <DRUG></DRUG> -rrb-	0.0747908644	immunoglobulin -lrb- $DRUG -rrb-
+high doses of <DRUG></DRUG>	0.0747908644	high doses of $DRUG
+<DRUG></DRUG> -lrb- mph -rrb-	0.0747908644	$DRUG -lrb- mph -rrb-
+tolerability of <DRUG></DRUG>	0.0738957094	tolerability of $DRUG
+retinoic acid -lrb- <DRUG></DRUG> -rrb-	0.0737908644	retinoic acid -lrb- $DRUG -rrb-
+agents such as <DRUG></DRUG>	0.0737908644	agents such as $DRUG
+all-trans-retinoic acid -lrb- <DRUG></DRUG> -rrb-	0.0727908644	all-trans-retinoic acid -lrb- $DRUG -rrb-
+different doses of <DRUG></DRUG>	0.0706363189	different doses of $DRUG
+<DRUG></DRUG> -lrb- itb -rrb-	0.0706363189	$DRUG -lrb- itb -rrb-
+effective than <DRUG></DRUG>	0.0696223944	effective than $DRUG
+intravenous <DRUG></DRUG> -lrb- ivig	0.062901827	intravenous $DRUG -lrb- ivig
+background : <DRUG></DRUG>	0.0601145686	background : $DRUG
+introduction : <DRUG></DRUG>	0.0576976855	introduction : $DRUG
+conclusion : <DRUG></DRUG>	0.0576976855	conclusion : $DRUG
+objective : <DRUG></DRUG>	0.05654314	objective : $DRUG
+<DRUG></DRUG> -rrb-	0.0422700011	$DRUG -rrb-

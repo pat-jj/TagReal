@@ -1,0 +1,7 @@
+C	r_N_T	n_E_I	N	T	r_E_I	c_E_I	E	I	n_MP	MPN	cMPN	topMP	cTopMP
+$DISEASE	1	1	prevention	NULL	1	4541	[X]	NULL	4	prevention of $DISEASE	281	venous $DISEASE -lrb- vte -rrb-	402	prevention of $DISEASE	281	postoperative nausea and $DISEASE	230	postoperative $DISEASE and vomiting -lrb- ponv -rrb-	224	multidrug-resistant $DISEASE -lrb- mdr-tb	180
+$DISEASE	2	1	toxoid -lrb-	$DRUG	1	560	[X]	[Y]	68	$DISEASE toxoid -lrb- $DRUG -rrb-	350	$DISEASE toxoid -lrb- $DRUG -rrb-	350	$DRUG for the prevention of $DISEASE	142	$DISEASE toxoid -lrb- $DRUG -rrb- ,	68
+$DISEASE	3	1	-lrb-	$DISEASE	1	258	[X]	[X]	104	diagnosis of $DISEASE -lrb- $DISEASE -rrb-	154	diagnosis of $DISEASE -lrb- $DISEASE -rrb-	154	-lrb- mdr -rrb- $DISEASE -lrb- $DISEASE -rrb-	104
+$DRUG	1	1	-lrb-	$DRUG	1	204	[Y]	[Y]	204	resistance to $DRUG -lrb- $DRUG -rrb-	204	resistance to $DRUG -lrb- $DRUG -rrb-	204
+$DRUG	2	1	toxoid -lrb-	$DISEASE	1	560	[Y]	[X]	68	$DISEASE toxoid -lrb- $DRUG -rrb-	350	$DISEASE toxoid -lrb- $DRUG -rrb-	350	$DRUG for the prevention of $DISEASE	142	$DISEASE toxoid -lrb- $DRUG -rrb- ,	68
+$DRUG	3	1	-rrb-	NULL	1	3764	[Y]	NULL	30	varicella-zoster virus -lrb- $DRUG -rrb-	524	varicella-zoster virus -lrb- $DRUG -rrb-	524	$DISEASE toxoid -lrb- $DRUG -rrb-	350	calmette-guerin -lrb- $DRUG -rrb-	284	resistance to $DRUG -lrb- $DRUG -rrb-	204	m. bovis $DRUG	134

@@ -1,0 +1,32 @@
+<GENE></GENE> <DISEASE></DISEASE>	<GENE></GENE> dependent <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> <DISEASE></DISEASE>	<GENE></GENE> cardiac <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> <DISEASE></DISEASE>	-lrb- <GENE></GENE> -rrb- <DISEASE></DISEASE>	1.0	1.0
+-lrb- <GENE></GENE> -rrb- <DISEASE></DISEASE>	<GENE></GENE> dependent <DISEASE></DISEASE>	1.0	1.0
+-lrb- <GENE></GENE> -rrb- <DISEASE></DISEASE>	<GENE></GENE> <DISEASE></DISEASE>	1.0	1.0
+-lrb- <GENE></GENE> -rrb- <DISEASE></DISEASE>	<GENE></GENE> cardiac <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> dependent <DISEASE></DISEASE>	<GENE></GENE> cardiac <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> dependent <DISEASE></DISEASE>	<GENE></GENE> <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> dependent <DISEASE></DISEASE>	-lrb- <GENE></GENE> -rrb- <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> cardiac <DISEASE></DISEASE>	<GENE></GENE> dependent <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> cardiac <DISEASE></DISEASE>	<GENE></GENE> <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> cardiac <DISEASE></DISEASE>	-lrb- <GENE></GENE> -rrb- <DISEASE></DISEASE>	1.0	1.0
+<GENE></GENE> -rrb- ,	<GENE></GENE> -rrb-	-1	-1
+<GENE></GENE> -rrb-	<GENE></GENE> -rrb- ,	-1	-1
+patients with <DISEASE></DISEASE>	<DISEASE></DISEASE> patients	-1	-1
+patients with <DISEASE></DISEASE>	patients with type <DISEASE></DISEASE>	-1	-1
+<DISEASE></DISEASE> patients	patients with <DISEASE></DISEASE>	-1	-1
+<DISEASE></DISEASE> patients	patients with type <DISEASE></DISEASE>	-1	-1
+patients with type <DISEASE></DISEASE>	patients with <DISEASE></DISEASE>	-1	-1
+patients with type <DISEASE></DISEASE>	<DISEASE></DISEASE> patients	-1	-1
+mutations in <GENE></GENE>	<GENE></GENE> mutations	-1	-1
+mutations in <GENE></GENE>	mutations in the <GENE></GENE>	-1	-1
+<GENE></GENE> mutations	mutations in <GENE></GENE>	-1	-1
+<GENE></GENE> mutations	mutations in the <GENE></GENE>	-1	-1
+mutations in the <GENE></GENE>	mutations in <GENE></GENE>	-1	-1
+mutations in the <GENE></GENE>	<GENE></GENE> mutations	-1	-1
+-lrb- <GENE></GENE>	<GENE></GENE> -lrb-	-1	-1
+<GENE></GENE> -lrb-	-lrb- <GENE></GENE>	-1	-1
+<DISEASE></DISEASE> -rrb-	-rrb- <DISEASE></DISEASE>	-1	-1
+-rrb- <DISEASE></DISEASE>	<DISEASE></DISEASE> -rrb-	-1	-1
+-lrb- <DISEASE></DISEASE>	<DISEASE></DISEASE> -lrb-	-1	-1
+<DISEASE></DISEASE> -lrb-	-lrb- <DISEASE></DISEASE>	-1	-1

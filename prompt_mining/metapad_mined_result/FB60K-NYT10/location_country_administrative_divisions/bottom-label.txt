@@ -1,0 +1,6 @@
+baaaabh baaaaaf baaaaab	1
+baaaabh in baaaaab	1
+baaaaaf baaaaab	0
+baaaabh baaaaaf	0
+in baaaaab	0
+baaaabh in	0

@@ -1,0 +1,34 @@
+(ENTITY,NAME,VALUE)
+$DISEASE	1	dependent	$GENE
+	EV1	[ ' [ X ] ' ]	[ ' [ Y ] ' ]
+	MP1	$GENE $DISEASE
+	MP2	$GENE dependent $DISEASE mellitus
+	MP3	$GENE dependent $DISEASE
+	MP4	$GENE cardiac $DISEASE
+$GENE	1	dependent	$DISEASE
+	EV1	[ ' [ Y ] ' ]	[ ' [ X ] ' ]
+	MP1	$GENE $DISEASE
+	MP2	$GENE dependent $DISEASE mellitus
+	MP3	$GENE dependent $DISEASE
+	MP4	$GENE cardiac $DISEASE
+$GENE	2	-lrb-	$GENE
+	EV1	[ ' [ Y ] ' ]	[ ' [ Y ] ' ]
+	MP1	$GENE -lrb- $GENE -rrb-
+
+(ENTITY,NAME,NULL)
+$DISEASE	1	-lrb-	NULL
+	EV1	[ ' [ X ] ' ]	NULL
+	MP1	$DISEASE mellitus
+	MP2	$DISEASE -lrb-
+	MP3	-lrb- $DISEASE -rrb-
+	MP4	$DISEASE patients
+	MP5	acute myeloid leukemia -lrb- $DISEASE -rrb-
+$GENE	1	-rrb-	NULL
+	EV1	[ ' [ Y ] ' ]	NULL
+	MP1	$GENE -lrb- $GENE -rrb-
+	MP2	$GENE resistance
+	MP3	-lrb- $GENE -rrb-
+	MP4	$GENE gene
+	MP5	$GENE secretion
+
+(ENTITY,NULL,VALUE)

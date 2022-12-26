@@ -1,0 +1,97 @@
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	0.8922595636	$DRUG for the prevention of $DISEASE
+<DRUG></DRUG> in the prevention of postoperative	0.6830503544	$DRUG in the prevention of postoperative
+resistance to <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.6800162757	resistance to $DRUG -lrb- $DRUG -rrb-
+diagnosis of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.6399550245	diagnosis of $DISEASE -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> and vomiting in patients	0.6276952773	$DISEASE and vomiting in patients
+<DISEASE></DISEASE> in patients with atrial	0.6161219578	$DISEASE in patients with atrial
+prevention of nausea and <DISEASE></DISEASE>	0.6151219578	prevention of nausea and $DISEASE
+safety and efficacy of <DRUG></DRUG>	0.6151219578	safety and efficacy of $DRUG
+<DRUG></DRUG> -lrb- p = -rrb-	0.6134798525	$DRUG -lrb- p = -rrb-
+lower in the <DRUG></DRUG> group	0.6134798525	lower in the $DRUG group
+prevention of <DISEASE></DISEASE> and systemic	0.6134798525	prevention of $DISEASE and systemic
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb- ,	0.6055166406	$DISEASE toxoid -lrb- $DRUG -rrb- ,
+calmette-guerin -lrb- <DRUG></DRUG> -rrb- ,	0.5988723828	calmette-guerin -lrb- $DRUG -rrb- ,
+-lrb- mdr -rrb- <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.5988723828	-lrb- mdr -rrb- $DISEASE -lrb- $DISEASE -rrb-
+-lrb- <DRUG></DRUG> -rrb- sb	0.5962302776	-lrb- $DRUG -rrb- sb
+hsv-2 -rrb- , <DISEASE></DISEASE> zoster virus	0.5962302776	hsv-2 -rrb- , $DISEASE zoster virus
+isoniazid , <DRUG></DRUG> , ethambutol	0.5962302776	isoniazid , $DRUG , ethambutol
+significant reduction in <DISEASE></DISEASE>	0.5962302776	significant reduction in $DISEASE
+<DRUG></DRUG> -lrb- ap -rrb-	0.5962302776	$DRUG -lrb- ap -rrb-
+rn - -lrb- <DRUG></DRUG> -rrb- rn	0.5962302776	rn - -lrb- $DRUG -rrb- rn
+multidrug-resistant <DISEASE></DISEASE> -lrb- mdr-tb	0.5962302776	multidrug-resistant $DISEASE -lrb- mdr-tb
+patients who received <DRUG></DRUG>	0.5962302776	patients who received $DRUG
+-lsb- clinical evaluation of <DRUG></DRUG>	0.5962302776	-lsb- clinical evaluation of $DRUG
+disease -lrb- <DISEASE></DISEASE> -rrb- prophylaxis	0.5962302776	disease -lrb- $DISEASE -rrb- prophylaxis
+<DISEASE></DISEASE> and herpes zoster	0.5962302776	$DISEASE and herpes zoster
+venous <DISEASE></DISEASE> -lrb- vte -rrb-	0.5962302776	venous $DISEASE -lrb- vte -rrb-
+mycobacterium bovis <DRUG></DRUG>	0.5962302776	mycobacterium bovis $DRUG
+% <DRUG></DRUG> with epinephrine	0.5962302776	% $DRUG with epinephrine
+patients with stable <DISEASE></DISEASE> pectoris	0.5962302776	patients with stable $DISEASE pectoris
+m. bovis <DRUG></DRUG>	0.5962302776	m. bovis $DRUG
+varicella-zoster virus -lrb- <DRUG></DRUG> -rrb-	0.5962302776	varicella-zoster virus -lrb- $DRUG -rrb-
+isoniazid , <DRUG></DRUG> , pyrazinamide	0.5962302776	isoniazid , $DRUG , pyrazinamide
+postoperative <DISEASE></DISEASE> and vomiting -lrb- ponv -rrb-	0.5962302776	postoperative $DISEASE and vomiting -lrb- ponv -rrb-
+venous <DISEASE></DISEASE> -lrb- vte -rrb- after total	0.5962302776	venous $DISEASE -lrb- vte -rrb- after total
+bovis bacillus calmette-guerin -lrb- <DRUG></DRUG> -rrb-	0.5962302776	bovis bacillus calmette-guerin -lrb- $DRUG -rrb-
+low-molecular-weight <DRUG></DRUG> -lrb- lmwhs -rrb-	0.5962302776	low-molecular-weight $DRUG -lrb- lmwhs -rrb-
+latent <DISEASE></DISEASE> infection -lrb- ltbi -rrb-	0.5962302776	latent $DISEASE infection -lrb- ltbi -rrb-
+prophylaxis of <DISEASE></DISEASE> carinii	0.5962302776	prophylaxis of $DISEASE carinii
+<DRUG></DRUG> -lrb- p4 -rrb- ,	0.5962302776	$DRUG -lrb- p4 -rrb- ,
+<DISEASE></DISEASE> and m. bovis	0.5962302776	$DISEASE and m. bovis
+mycobacterium <DISEASE></DISEASE> complex -lrb-	0.5962302776	mycobacterium $DISEASE complex -lrb-
+calmette-guerin -lrb- <DRUG></DRUG> -rrb- vaccination	0.5962302776	calmette-guerin -lrb- $DRUG -rrb- vaccination
+mycobacterium <DISEASE></DISEASE> -lrb- mtb -rrb-	0.5962302776	mycobacterium $DISEASE -lrb- mtb -rrb-
+weeks ' <DISEASE></DISEASE>	0.5952302776	weeks ' $DISEASE
+simian <DISEASE></DISEASE> virus -lrb- svv -rrb-	0.5952302776	simian $DISEASE virus -lrb- svv -rrb-
+simian <DISEASE></DISEASE> virus	0.5932891011	simian $DISEASE virus
+regional <DISEASE></DISEASE> syndrome	0.5925618284	regional $DISEASE syndrome
+m. <DISEASE></DISEASE> h37rv	0.5925618284	m. $DISEASE h37rv
+plasmodium vivax <DISEASE></DISEASE>	0.5925618284	plasmodium vivax $DISEASE
+late <DISEASE></DISEASE> response	0.5925618284	late $DISEASE response
+<DRUG></DRUG> dipropionate -lrb- bdp	0.5925618284	$DRUG dipropionate -lrb- bdp
+prophylaxis against <DISEASE></DISEASE> carinii pneumonia	0.5925618284	prophylaxis against $DISEASE carinii pneumonia
+cardiac <DISEASE></DISEASE> suppression trial	0.5925618284	cardiac $DISEASE suppression trial
+herpes <DISEASE></DISEASE> ophthalmicus	0.5925618284	herpes $DISEASE ophthalmicus
+recurrent venous <DISEASE></DISEASE>	0.5925618284	recurrent venous $DISEASE
+prevention of <DISEASE></DISEASE> in patients	0.5921166422	prevention of $DISEASE in patients
+prevention of postoperative <DISEASE></DISEASE>	0.5506207537	prevention of postoperative $DISEASE
+resistance to <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb- ,	0.5458077932	resistance to $DRUG -lrb- $DRUG -rrb- ,
+efficacy and safety of <DRUG></DRUG>	0.543298328	efficacy and safety of $DRUG
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	0.5085808165	$DISEASE toxoid -lrb- $DRUG -rrb-
+<DISEASE></DISEASE> -lrb- vte -rrb-	0.5017319552	$DISEASE -lrb- vte -rrb-
+<DRUG></DRUG> -lrb- pza -rrb-	0.50008985	$DRUG -lrb- pza -rrb-
+<DRUG></DRUG> -lrb- p4 -rrb-	0.50008985	$DRUG -lrb- p4 -rrb-
+<DISEASE></DISEASE> -lrb- mdr-tb -rrb-	0.50008985	$DISEASE -lrb- mdr-tb -rrb-
+prevention of venous <DISEASE></DISEASE> -lrb- vte -rrb-	0.50008985	prevention of venous $DISEASE -lrb- vte -rrb-
+-lrb- + -rrb- - <DRUG></DRUG>	0.4991843357	-lrb- + -rrb- - $DRUG
+<DISEASE></DISEASE> prevention in af	0.4991843357	$DISEASE prevention in af
+postoperative nausea and <DISEASE></DISEASE>	0.4991843357	postoperative nausea and $DISEASE
+patients with stable <DISEASE></DISEASE>	0.4991843357	patients with stable $DISEASE
+prevention of venous <DISEASE></DISEASE>	0.4991843357	prevention of venous $DISEASE
+<DISEASE></DISEASE> prevention in atrial	0.4991843357	$DISEASE prevention in atrial
+mh - <DISEASE></DISEASE>	0.4984214008	mh - $DISEASE
+mh - <DRUG></DRUG>	0.4984214008	mh - $DRUG
+<DISEASE></DISEASE> -lrb- ponv -rrb-	0.4883409232	$DISEASE -lrb- ponv -rrb-
+latent <DISEASE></DISEASE> infection	0.4873409232	latent $DISEASE infection
+prevention of <DISEASE></DISEASE>	0.4778995469	prevention of $DISEASE
+<DRUG></DRUG> for the prevention	0.4778995469	$DRUG for the prevention
+multidrug-resistant <DISEASE></DISEASE> -lrb- mdr-tb -rrb-	0.471335507	multidrug-resistant $DISEASE -lrb- mdr-tb -rrb-
+postoperative nausea and <DISEASE></DISEASE> -lrb- ponv -rrb-	0.471335507	postoperative nausea and $DISEASE -lrb- ponv -rrb-
+rn - -lrb- <DRUG></DRUG> -rrb- rn - -lrb-	0.471335507	rn - -lrb- $DRUG -rrb- rn - -lrb-
+bacillus calmette-guerin -lrb- <DRUG></DRUG> -rrb- vaccine	0.471335507	bacillus calmette-guerin -lrb- $DRUG -rrb- vaccine
+nausea and <DISEASE></DISEASE> -lrb- ponv -rrb-	0.471335507	nausea and $DISEASE -lrb- ponv -rrb-
+prevention of postoperative nausea and <DISEASE></DISEASE> -lrb- ponv -rrb-	0.471335507	prevention of postoperative nausea and $DISEASE -lrb- ponv -rrb-
+<DISEASE></DISEASE> or systemic embolism	0.471335507	$DISEASE or systemic embolism
+graft-versus-host disease -lrb- <DISEASE></DISEASE> -rrb- prophylaxis	0.471335507	graft-versus-host disease -lrb- $DISEASE -rrb- prophylaxis
+low molecular weight <DRUG></DRUG>	0.4686082343	low molecular weight $DRUG
+complex regional <DISEASE></DISEASE> syndrome	0.4686082343	complex regional $DISEASE syndrome
+low back <DISEASE></DISEASE>	0.4686082343	low back $DISEASE
+<DISEASE></DISEASE> prevention in patients	0.4570752978	$DISEASE prevention in patients
+bovis bacille calmette-guerin -lrb- <DRUG></DRUG> -rrb-	0.3919479072	bovis bacille calmette-guerin -lrb- $DRUG -rrb-
+zoster virus -lrb- <DRUG></DRUG> -rrb- infections	0.3919479072	zoster virus -lrb- $DRUG -rrb- infections
+mh - <DISEASE></DISEASE> / * drug	0.3899479072	mh - $DISEASE / * drug
+calmette-guerin -lrb- <DRUG></DRUG> -rrb- vaccine	0.1812302776	calmette-guerin -lrb- $DRUG -rrb- vaccine
+nausea and <DISEASE></DISEASE> -lrb- cinv -rrb-	0.1812302776	nausea and $DISEASE -lrb- cinv -rrb-
+calmette guerin -lrb- <DRUG></DRUG> -rrb-	0.1802302776	calmette guerin -lrb- $DRUG -rrb-
+p. falciparum <DISEASE></DISEASE>	0.1785618284	p. falciparum $DISEASE
+calmette-guerin -lrb- <DRUG></DRUG> -rrb-	0.13108985	calmette-guerin -lrb- $DRUG -rrb-

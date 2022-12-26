@@ -1,0 +1,298 @@
+<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	-rrb- and <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	background : <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	1.0	1.0
+gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+-rrb- and <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+-rrb- and <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	background : <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+background : <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+background : <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	-rrb- and <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for <DISEASE></DISEASE> relief	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	1.0	1.0
+patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	1.0	1.0
+knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- ,	1.0	1.0
+treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DRUG></DRUG> in patients with <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DISEASE></DISEASE> were treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DISEASE></DISEASE> on injection of <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DRUG></DRUG> on postoperative <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DISEASE></DISEASE> on <DRUG></DRUG> injection	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DRUG></DRUG> for <DISEASE></DISEASE> relief	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	1.0	1.0
+<DRUG></DRUG> in the prevention	<DRUG></DRUG> for the prevention	-1	-1
+<DRUG></DRUG> for the prevention	<DRUG></DRUG> in the prevention	-1	-1
+effective than <DRUG></DRUG>	effective as <DRUG></DRUG>	-1	-1
+effective than <DRUG></DRUG>	<DRUG></DRUG> is an effective	-1	-1
+effective as <DRUG></DRUG>	effective than <DRUG></DRUG>	-1	-1
+effective as <DRUG></DRUG>	<DRUG></DRUG> is an effective	-1	-1
+<DRUG></DRUG> is an effective	effective than <DRUG></DRUG>	-1	-1
+<DRUG></DRUG> is an effective	effective as <DRUG></DRUG>	-1	-1
+treatment for severe <DISEASE></DISEASE>	treatment of severe <DISEASE></DISEASE>	-1	-1
+treatment of severe <DISEASE></DISEASE>	treatment for severe <DISEASE></DISEASE>	-1	-1
+toxoid -lrb- <DRUG></DRUG> -rrb-	toxoid -lrb- <DRUG></DRUG> -rrb- ,	-1	-1
+toxoid -lrb- <DRUG></DRUG> -rrb- ,	toxoid -lrb- <DRUG></DRUG> -rrb-	-1	-1
+treatment of <DISEASE></DISEASE> ,	treatment of <DISEASE></DISEASE>	-1	-1
+treatment of <DISEASE></DISEASE>	treatment of <DISEASE></DISEASE> ,	-1	-1
+combination with <DRUG></DRUG>	combination of <DRUG></DRUG>	-1	-1
+combination of <DRUG></DRUG>	combination with <DRUG></DRUG>	-1	-1
+disorder -lrb- <DISEASE></DISEASE> -rrb-	disorder -lrb- <DISEASE></DISEASE> -rrb- ,	-1	-1
+disorder -lrb- <DISEASE></DISEASE> -rrb- ,	disorder -lrb- <DISEASE></DISEASE> -rrb-	-1	-1
+<DISEASE></DISEASE> and vomiting -lrb-	<DISEASE></DISEASE> -lrb- p <	-1	-1
+<DISEASE></DISEASE> and vomiting -lrb-	<DISEASE></DISEASE> -lrb-	-1	-1
+<DISEASE></DISEASE> -lrb- p <	<DISEASE></DISEASE> and vomiting -lrb-	-1	-1
+<DISEASE></DISEASE> -lrb- p <	<DISEASE></DISEASE> -lrb-	-1	-1
+<DISEASE></DISEASE> -lrb-	<DISEASE></DISEASE> and vomiting -lrb-	-1	-1
+<DISEASE></DISEASE> -lrb-	<DISEASE></DISEASE> -lrb- p <	-1	-1
+background : <DRUG></DRUG> ,	background : <DRUG></DRUG>	-1	-1
+background : <DRUG></DRUG>	background : <DRUG></DRUG> ,	-1	-1
+patients with advanced <DISEASE></DISEASE>	patients with <DISEASE></DISEASE>	-1	-1
+patients with advanced <DISEASE></DISEASE>	<DISEASE></DISEASE> in patients	-1	-1
+patients with advanced <DISEASE></DISEASE>	patients with <DISEASE></DISEASE> ,	-1	-1
+patients with <DISEASE></DISEASE>	patients with advanced <DISEASE></DISEASE>	-1	-1
+patients with <DISEASE></DISEASE>	<DISEASE></DISEASE> in patients	-1	-1
+patients with <DISEASE></DISEASE>	patients with <DISEASE></DISEASE> ,	-1	-1
+<DISEASE></DISEASE> in patients	patients with advanced <DISEASE></DISEASE>	-1	-1
+<DISEASE></DISEASE> in patients	patients with <DISEASE></DISEASE>	-1	-1
+<DISEASE></DISEASE> in patients	patients with <DISEASE></DISEASE> ,	-1	-1
+patients with <DISEASE></DISEASE> ,	patients with advanced <DISEASE></DISEASE>	-1	-1
+patients with <DISEASE></DISEASE> ,	patients with <DISEASE></DISEASE>	-1	-1
+patients with <DISEASE></DISEASE> ,	<DISEASE></DISEASE> in patients	-1	-1
+<DISEASE></DISEASE> in patients who	patients with <DISEASE></DISEASE> who	-1	-1
+patients with <DISEASE></DISEASE> who	<DISEASE></DISEASE> in patients who	-1	-1
+<DRUG></DRUG> for the treatment	<DRUG></DRUG> in the treatment	-1	-1
+<DRUG></DRUG> in the treatment	<DRUG></DRUG> for the treatment	-1	-1
+prophylaxis against <DISEASE></DISEASE> carinii pneumonia	prophylaxis of <DISEASE></DISEASE> carinii pneumonia	-1	-1
+prophylaxis of <DISEASE></DISEASE> carinii pneumonia	prophylaxis against <DISEASE></DISEASE> carinii pneumonia	-1	-1
+-lrb- <DISEASE></DISEASE> -rrb- ,	-lrb- <DISEASE></DISEASE> -rrb-	-1	-1
+-lrb- <DISEASE></DISEASE> -rrb-	-lrb- <DISEASE></DISEASE> -rrb- ,	-1	-1
+<DRUG></DRUG> in patients	patients treated with <DRUG></DRUG>	-1	-1
+patients treated with <DRUG></DRUG>	<DRUG></DRUG> in patients	-1	-1
+leukemia -lrb- <DISEASE></DISEASE> -rrb- ,	leukemia -lrb- <DISEASE></DISEASE> -rrb-	-1	-1
+leukemia -lrb- <DISEASE></DISEASE> -rrb-	leukemia -lrb- <DISEASE></DISEASE> -rrb- ,	-1	-1
+<DISEASE></DISEASE> on injection	<DISEASE></DISEASE> during injection	-1	-1
+<DISEASE></DISEASE> during injection	<DISEASE></DISEASE> on injection	-1	-1

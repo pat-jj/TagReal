@@ -1,0 +1,7 @@
+baaaaaa baaaaab baaaaac baaaaad	1
+baaaaaa in baaaaac	1
+baaaaac baaaaaa	1
+baaaaaa baaaaab baaaaac	0
+baaaaaa in	0
+baaaaab baaaaac	0
+baaaaaa baaaaab	0

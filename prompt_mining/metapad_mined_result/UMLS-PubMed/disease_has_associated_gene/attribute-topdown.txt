@@ -1,0 +1,6 @@
+C	r_N_T	n_E_I	N	T	r_E_I	c_E_I	E	I	n_MP	MPN	cMPN	topMP	cTopMP
+$DISEASE	1	1	-rrb-	$GENE	1	594	[ ' [ Y ] ' ]	[ ' [ X ] ' ]	54	-lrb- $GENE -rrb- $DISEASE	70	$GENE $DISEASE	414	-lrb- $GENE -rrb- $DISEASE	70	$GENE dependent $DISEASE	56	$GENE cardiac $DISEASE	54
+$DISEASE	2	1	-lrb-	NULL	1	2850	[ ' [ Y ] ' ]	NULL	2	$DISEASE -lrb-	338	$DISEASE mellitus	524	$DISEASE -lrb-	338	$DISEASE -rrb-	219	$DISEASE patients	178	-lrb- $DISEASE	163
+$GENE	1	1	-rrb-	$DISEASE	1	594	[ ' [ X ] ' ]	[ ' [ Y ] ' ]	54	-lrb- $GENE -rrb- $DISEASE	70	$GENE $DISEASE	414	-lrb- $GENE -rrb- $DISEASE	70	$GENE dependent $DISEASE	56	$GENE cardiac $DISEASE	54
+$GENE	2	1	-rrb-	NULL	1	3895	[ ' [ X ] ' ]	NULL	2	$GENE -lrb- $GENE -rrb-	412	$GENE resistance	470	$GENE -lrb- $GENE -rrb-	412	$GENE gene	272	$GENE secretion	182	$GENE -lrb-	171
+$GENE	3	1	-lrb-	$GENE	1	824	[ ' [ X ] ' ]	[ ' [ X ] ' ]	824	$GENE -lrb- $GENE -rrb-	824	$GENE -lrb- $GENE -rrb-	824

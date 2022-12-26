@@ -1,0 +1,16 @@
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb- ,	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb- ,	1.0	1.0
+diagnosis of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	-lrb- mdr -rrb- <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb- ,	<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	1.0	1.0
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb- ,	<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	1.0	1.0
+-lrb- mdr -rrb- <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	diagnosis of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	1.0	1.0
+calmette-guerin -lrb- <DRUG></DRUG> -rrb-	calmette-guerin -lrb- <DRUG></DRUG> -rrb- ,	-1	-1
+calmette-guerin -lrb- <DRUG></DRUG> -rrb- ,	calmette-guerin -lrb- <DRUG></DRUG> -rrb-	-1	-1
+<DRUG></DRUG> -lrb- p = -rrb-	-lrb- + -rrb- - <DRUG></DRUG>	-1	-1
+-lrb- + -rrb- - <DRUG></DRUG>	<DRUG></DRUG> -lrb- p = -rrb-	-1	-1
+<DRUG></DRUG> -lrb- p4 -rrb- ,	<DRUG></DRUG> -lrb- p4 -rrb-	-1	-1
+<DRUG></DRUG> -lrb- p4 -rrb-	<DRUG></DRUG> -lrb- p4 -rrb- ,	-1	-1
+prevention of <DISEASE></DISEASE> in patients	<DISEASE></DISEASE> prevention in patients	-1	-1
+<DISEASE></DISEASE> prevention in patients	prevention of <DISEASE></DISEASE> in patients	-1	-1

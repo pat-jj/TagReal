@@ -939,11 +939,11 @@ class Trainer(object):
 
                 #                 print("\n begin back propagation for epoch", epoch_idx)
                 # modified
-                loss.backward()
+                # loss.backward()
 
                 #                 print("\n end back propagation for epoch", epoch_idx)
 
-                optimizer.step()
+                # optimizer.step()
 
                 loss = reduce_mean(loss, dist.get_world_size())
 

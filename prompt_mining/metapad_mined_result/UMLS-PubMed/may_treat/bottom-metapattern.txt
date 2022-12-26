@@ -1,0 +1,286 @@
+<DISEASE></DISEASE> were treated with <DRUG></DRUG>	0.951569997	$DISEASE were treated with $DRUG
+<DRUG></DRUG> for the prevention of <DISEASE></DISEASE>	0.9267944364	$DRUG for the prevention of $DISEASE
+-rrb- in the treatment of <DISEASE></DISEASE>	0.9132271311	-rrb- in the treatment of $DISEASE
+<DRUG></DRUG> for the treatment of <DISEASE></DISEASE>	0.9055549199	$DRUG for the treatment of $DISEASE
+efficacy and tolerability of <DRUG></DRUG>	0.8974939615	efficacy and tolerability of $DRUG
+<DRUG></DRUG> in the treatment of <DISEASE></DISEASE>	0.8920158445	$DRUG in the treatment of $DISEASE
+treatment of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.8525103318	treatment of $DISEASE -lrb- $DISEASE -rrb-
+lymphocytic leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.8479882149	lymphocytic leukemia -lrb- $DISEASE -rrb-
+<DRUG></DRUG> for postoperative <DISEASE></DISEASE> relief	0.8456278233	$DRUG for postoperative $DISEASE relief
+cell lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.8449515873	cell lung cancer -lrb- $DISEASE -rrb-
+patients with acute myeloid <DISEASE></DISEASE>	0.8405716586	patients with acute myeloid $DISEASE
+effective in the treatment of <DISEASE></DISEASE>	0.8107257088	effective in the treatment of $DISEASE
+efficacy and safety of <DRUG></DRUG>	0.797264471	efficacy and safety of $DRUG
+prevention and treatment of <DISEASE></DISEASE>	0.7971839399	prevention and treatment of $DISEASE
+diagnosis of <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.7912996386	diagnosis of $DISEASE -lrb- $DISEASE -rrb-
+chronic low back <DISEASE></DISEASE>	0.7912996386	chronic low back $DISEASE
+evaluate the efficacy of <DRUG></DRUG>	0.791217999	evaluate the efficacy of $DRUG
+background : <DRUG></DRUG>	0.7911603125	background : $DRUG
+resistance to <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.7903092043	resistance to $DRUG -lrb- $DRUG -rrb-
+-rrb- , <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb- ,	0.7715817031	-rrb- , $DRUG -lrb- $DRUG -rrb- ,
+efficacy of <DRUG></DRUG> in the treatment	0.7689633085	efficacy of $DRUG in the treatment
+acute and chronic <DISEASE></DISEASE>	0.7482871166	acute and chronic $DISEASE
+toxoid -lrb- <DRUG></DRUG> -rrb- ,	0.7406086512	toxoid -lrb- $DRUG -rrb- ,
+efficacy and safety of <DRUG></DRUG> -lrb-	0.7379125582	efficacy and safety of $DRUG -lrb-
+leukemia -lrb- <DISEASE></DISEASE> -rrb- ,	0.7376856027	leukemia -lrb- $DISEASE -rrb- ,
+-lrb- <DRUG></DRUG> -rrb- rn	0.7371408099	-lrb- $DRUG -rrb- rn
+patients with chronic <DISEASE></DISEASE>	0.7347741496	patients with chronic $DISEASE
+resistance to <DRUG></DRUG> -lrb-	0.7337741496	resistance to $DRUG -lrb-
+<DISEASE></DISEASE> on injection of <DRUG></DRUG>	0.7235166501	$DISEASE on injection of $DRUG
+mh - <DISEASE></DISEASE> / * drug	0.7234237817	mh - $DISEASE / * drug
+<DISEASE></DISEASE> necrosis factor alpha	0.7234237817	$DISEASE necrosis factor alpha
+acute exacerbation of <DISEASE></DISEASE>	0.7234237817	acute exacerbation of $DISEASE
+isoniazid , rifampicin , <DRUG></DRUG>	0.7212879477	isoniazid , rifampicin , $DRUG
+patients with mild to moderate essential <DISEASE></DISEASE>	0.7208560057	patients with mild to moderate essential $DISEASE
+intravenous -lrb- iv -rrb- <DRUG></DRUG>	0.7203867074	intravenous -lrb- iv -rrb- $DRUG
+<DISEASE></DISEASE> prevention in patients with atrial fibrillation	0.7203867074	$DISEASE prevention in patients with atrial fibrillation
+<DRUG></DRUG> monitoring -lrb- cgm -rrb-	0.7193490326	$DRUG monitoring -lrb- cgm -rrb-
+safety and efficacy of <DRUG></DRUG>	0.7089323828	safety and efficacy of $DRUG
+treatment of <DISEASE></DISEASE> ,	0.7089323828	treatment of $DISEASE ,
+<DISEASE></DISEASE> / * drug	0.6910233639	$DISEASE / * drug
+mild to moderate essential <DISEASE></DISEASE>	0.6905937988	mild to moderate essential $DISEASE
+<DISEASE></DISEASE> prevention in patients	0.6798753731	$DISEASE prevention in patients
+<DISEASE></DISEASE> patients treated with <DRUG></DRUG>	0.6779346171	$DISEASE patients treated with $DRUG
+prevention of <DISEASE></DISEASE> in patients	0.6764116671	prevention of $DISEASE in patients
+background : <DISEASE></DISEASE>	0.676200139	background : $DISEASE
+resistance to <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb- ,	0.6694226426	resistance to $DRUG -lrb- $DRUG -rrb- ,
+intrathecal <DRUG></DRUG> -lrb- itb -rrb-	0.6659147109	intrathecal $DRUG -lrb- itb -rrb-
+multidrug-resistant <DISEASE></DISEASE> -lrb- mdr-tb -rrb-	0.6659147109	multidrug-resistant $DISEASE -lrb- mdr-tb -rrb-
+non-small-cell lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.6659147109	non-small-cell lung cancer -lrb- $DISEASE -rrb-
+complex regional <DISEASE></DISEASE> syndrome	0.6659147109	complex regional $DISEASE syndrome
+glaucoma or ocular <DISEASE></DISEASE>	0.6659147109	glaucoma or ocular $DISEASE
+patients with stable <DISEASE></DISEASE> pectoris	0.6659147109	patients with stable $DISEASE pectoris
+non-small cell lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.6659147109	non-small cell lung cancer -lrb- $DISEASE -rrb-
+acute myelogenous <DISEASE></DISEASE> -lrb- aml -rrb-	0.6659147109	acute myelogenous $DISEASE -lrb- aml -rrb-
+low-molecular-weight <DRUG></DRUG> -lrb- lmwhs -rrb-	0.6659147109	low-molecular-weight $DRUG -lrb- lmwhs -rrb-
+small cell lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.6659147109	small cell lung cancer -lrb- $DISEASE -rrb-
+mycobacterium <DISEASE></DISEASE> -lrb- mtb -rrb-	0.665262537	mycobacterium $DISEASE -lrb- mtb -rrb-
+patients with acute myeloid <DISEASE></DISEASE> -lrb- aml -rrb-	0.6618965239	patients with acute myeloid $DISEASE -lrb- aml -rrb-
+continuous <DRUG></DRUG> monitoring -lrb- cgm -rrb-	0.6616186654	continuous $DRUG monitoring -lrb- cgm -rrb-
+common variable <DISEASE></DISEASE> -lrb- cvid -rrb-	0.6610879636	common variable $DISEASE -lrb- cvid -rrb-
+<DISEASE></DISEASE> necrosis factor-alpha	0.6600353321	$DISEASE necrosis factor-alpha
+gastroesophageal <DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	0.6592959948	gastroesophageal $DISEASE disease -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG> -rrb-	0.6568606864	$DISEASE toxoid -lrb- $DRUG -rrb-
+patients with mild to moderate <DISEASE></DISEASE>	0.6527301171	patients with mild to moderate $DISEASE
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.6409344355	$DISEASE -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> -lrb- mdr-tb -rrb-	0.6395044838	$DISEASE -lrb- mdr-tb -rrb-
+patients with stable <DISEASE></DISEASE>	0.636175142	patients with stable $DISEASE
+prevention of venous <DISEASE></DISEASE>	0.6361569029	prevention of venous $DISEASE
+patients with knee <DISEASE></DISEASE>	0.635175142	patients with knee $DISEASE
+treatment of acute <DISEASE></DISEASE>	0.6329688613	treatment of acute $DISEASE
+treatment of <DISEASE></DISEASE> in patients	0.628330217	treatment of $DISEASE in patients
+<DRUG></DRUG> in the management	0.628089074	$DRUG in the management
+mild to moderate <DISEASE></DISEASE>	0.6212623087	mild to moderate $DISEASE
+treatment of <DISEASE></DISEASE>	0.6187262921	treatment of $DISEASE
+<DRUG></DRUG> in the treatment	0.6173747883	$DRUG in the treatment
+patients with primary <DISEASE></DISEASE>	0.6147345209	patients with primary $DISEASE
+treatment of chronic <DISEASE></DISEASE>	0.6147214052	treatment of chronic $DISEASE
+patients with essential <DISEASE></DISEASE>	0.6137175322	patients with essential $DISEASE
+treatment of uncomplicated <DISEASE></DISEASE>	0.613351467	treatment of uncomplicated $DISEASE
+treatment of primary <DISEASE></DISEASE>	0.613351467	treatment of primary $DISEASE
+treatment of severe <DISEASE></DISEASE>	0.613351467	treatment of severe $DISEASE
+treatment of neuropathic <DISEASE></DISEASE>	0.613351467	treatment of neuropathic $DISEASE
+<DISEASE></DISEASE> prevention in af	0.612215633	$DISEASE prevention in af
+significant reduction in <DISEASE></DISEASE>	0.609948189	significant reduction in $DISEASE
+patients with knee <DISEASE></DISEASE> -lrb-	0.6065468897	patients with knee $DISEASE -lrb-
+background : <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.6033206556	background : $DRUG -lrb- $DRUG -rrb-
+<DRUG></DRUG> is one	0.60278772	$DRUG is one
+acute myeloid <DISEASE></DISEASE> -lrb-	0.6016669162	acute myeloid $DISEASE -lrb-
+<DISEASE></DISEASE> toxoid -lrb- <DRUG></DRUG>	0.6012366867	$DISEASE toxoid -lrb- $DRUG
+patients with <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.5972988267	patients with $DISEASE -lrb- $DISEASE -rrb-
+<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.59074861	$DRUG -lrb- $DRUG -rrb-
+<DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb- ,	0.58874861	$DRUG -lrb- $DRUG -rrb- ,
+prevention of venous <DISEASE></DISEASE> -lrb- vte -rrb-	0.5827630199	prevention of venous $DISEASE -lrb- vte -rrb-
+-lrb- + -rrb- - <DRUG></DRUG>	0.5792238674	-lrb- + -rrb- - $DRUG
+<DRUG></DRUG> -lrb- pza -rrb-	0.5775538899	$DRUG -lrb- pza -rrb-
+<DRUG></DRUG> for the prevention	0.5634614551	$DRUG for the prevention
+management of postoperative <DISEASE></DISEASE>	0.5515663991	management of postoperative $DISEASE
+role of <DRUG></DRUG>	0.4532516623	role of $DRUG
+treatment of <DISEASE></DISEASE> -lrb-	0.3604112508	treatment of $DISEASE -lrb-
+<DRUG></DRUG> for the treatment	0.308560245	$DRUG for the treatment
+prevention of <DISEASE></DISEASE>	0.308560245	prevention of $DISEASE
+patients in the <DRUG></DRUG> group	0.2541455789	patients in the $DRUG group
+prevention of <DISEASE></DISEASE> and systemic	0.2512841939	prevention of $DISEASE and systemic
+treatment of <DISEASE></DISEASE> with <DRUG></DRUG>	0.2512841939	treatment of $DISEASE with $DRUG
+<DRUG></DRUG> for treatment of <DISEASE></DISEASE>	0.2512841939	$DRUG for treatment of $DISEASE
+lower in the <DRUG></DRUG> group	0.2433890803	lower in the $DRUG group
+<DISEASE></DISEASE> is a common	0.2377994971	$DISEASE is a common
+<DRUG></DRUG> is a safe	0.2377994971	$DRUG is a safe
+<DRUG></DRUG> is an effective	0.2343704171	$DRUG is an effective
+-rrb- in the <DRUG></DRUG> group	0.2310221358	-rrb- in the $DRUG group
+-rrb- in patients with <DISEASE></DISEASE>	0.2213184892	-rrb- in patients with $DISEASE
+<DRUG></DRUG> in patients with <DISEASE></DISEASE>	0.2207851559	$DRUG in patients with $DISEASE
+juvenile idiopathic arthritis -lrb- <DISEASE></DISEASE> -rrb-	0.2066822547	juvenile idiopathic arthritis -lrb- $DISEASE -rrb-
+detection of mycobacterium <DISEASE></DISEASE>	0.2066822547	detection of mycobacterium $DISEASE
+familial <DISEASE></DISEASE> -lrb- fh -rrb-	0.2066822547	familial $DISEASE -lrb- fh -rrb-
+detection of <DRUG></DRUG> resistance	0.2066822547	detection of $DRUG resistance
+single dose of <DRUG></DRUG>	0.2066822547	single dose of $DRUG
+-lsb- effect of <DRUG></DRUG>	0.2066822547	-lsb- effect of $DRUG
+management of chronic <DISEASE></DISEASE>	0.2066822547	management of chronic $DISEASE
+<DRUG></DRUG> -rrb- rn	0.2066822547	$DRUG -rrb- rn
+rn - -lrb- <DRUG></DRUG> -rrb- rn	0.2066822547	rn - -lrb- $DRUG -rrb- rn
+multidrug-resistant <DISEASE></DISEASE> -lrb- mdr-tb	0.2066822547	multidrug-resistant $DISEASE -lrb- mdr-tb
+resistance of mycobacterium <DISEASE></DISEASE>	0.2066822547	resistance of mycobacterium $DISEASE
+m. <DISEASE></DISEASE> isolates	0.2066822547	m. $DISEASE isolates
+breakthrough cancer <DISEASE></DISEASE>	0.2066822547	breakthrough cancer $DISEASE
+refractory partial <DISEASE></DISEASE>	0.2066822547	refractory partial $DISEASE
+mycobacterium <DISEASE></DISEASE> complex	0.2066822547	mycobacterium $DISEASE complex
+continuous infusion of <DRUG></DRUG>	0.2066822547	continuous infusion of $DRUG
+injection of liposomal <DRUG></DRUG>	0.2066822547	injection of liposomal $DRUG
+plasma concentrations of <DRUG></DRUG>	0.2066822547	plasma concentrations of $DRUG
+latent <DISEASE></DISEASE> infection	0.2066822547	latent $DISEASE infection
+risk of ischemic <DISEASE></DISEASE>	0.2066822547	risk of ischemic $DISEASE
+risk of venous <DISEASE></DISEASE>	0.2066822547	risk of venous $DISEASE
+acute myelogenous <DISEASE></DISEASE> -lrb- aml	0.2066822547	acute myelogenous $DISEASE -lrb- aml
+propofol injection <DISEASE></DISEASE>	0.2066822547	propofol injection $DISEASE
+analgesic effect of <DRUG></DRUG>	0.2066822547	analgesic effect of $DRUG
+treatment of venous <DISEASE></DISEASE>	0.2066822547	treatment of venous $DISEASE
+<DISEASE></DISEASE> zoster virus	0.2066822547	$DISEASE zoster virus
+cardiac <DISEASE></DISEASE> suppression trial	0.2066822547	cardiac $DISEASE suppression trial
+treatment of secondary <DISEASE></DISEASE>	0.2066822547	treatment of secondary $DISEASE
+recurrent venous <DISEASE></DISEASE>	0.2066822547	recurrent venous $DISEASE
+graft-versus-host disease -lrb- <DISEASE></DISEASE> -rrb-	0.2050300807	graft-versus-host disease -lrb- $DISEASE -rrb-
+intravenous <DRUG></DRUG> -lrb- ivig -rrb-	0.2050300807	intravenous $DRUG -lrb- ivig -rrb-
+acute myeloid leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.2050300807	acute myeloid leukemia -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> or schizoaffective	0.204908139	$DISEASE or schizoaffective
+moderate essential <DISEASE></DISEASE>	0.204908139	moderate essential $DISEASE
+attention deficit hyperactivity disorder -lrb- <DISEASE></DISEASE> -rrb-	0.204908139	attention deficit hyperactivity disorder -lrb- $DISEASE -rrb-
+mycobacterium <DISEASE></DISEASE> h37rv	0.204908139	mycobacterium $DISEASE h37rv
+acute lymphoblastic <DISEASE></DISEASE> -lrb- all -rrb-	0.2043241984	acute lymphoblastic $DISEASE -lrb- all -rrb-
+acute myelogenous <DISEASE></DISEASE>	0.2037511517	acute myelogenous $DISEASE
+secondary <DISEASE></DISEASE> -lrb- shpt -rrb-	0.2037511517	secondary $DISEASE -lrb- shpt -rrb-
+stable <DISEASE></DISEASE> pectoris	0.2037511517	stable $DISEASE pectoris
+<DRUG></DRUG> -lrb- tpm -rrb-	0.2035464206	$DRUG -lrb- tpm -rrb-
+venous <DISEASE></DISEASE> -lrb- vte -rrb-	0.2035464206	venous $DISEASE -lrb- vte -rrb-
+multiple <DISEASE></DISEASE> -lrb- mm -rrb-	0.2035464206	multiple $DISEASE -lrb- mm -rrb-
+% <DRUG></DRUG> with epinephrine	0.2035464206	% $DRUG with epinephrine
+<DISEASE></DISEASE> necrosis factor	0.2033862092	$DISEASE necrosis factor
+invasive pulmonary <DISEASE></DISEASE>	0.2033862092	invasive pulmonary $DISEASE
+human <DISEASE></DISEASE> virus	0.2033862092	human $DISEASE virus
+acute lymphoblastic <DISEASE></DISEASE>	0.2033862092	acute lymphoblastic $DISEASE
+chronic idiopathic <DISEASE></DISEASE>	0.2033862092	chronic idiopathic $DISEASE
+adequate <DISEASE></DISEASE> relief	0.2033862092	adequate $DISEASE relief
+low back <DISEASE></DISEASE>	0.2033862092	low back $DISEASE
+knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.2030766186	knee $DISEASE -lrb- $DISEASE -rrb-
+-lrb- mdr -rrb- <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.2030766186	-lrb- mdr -rrb- $DISEASE -lrb- $DISEASE -rrb-
+chronic plaque <DISEASE></DISEASE>	0.2028555074	chronic plaque $DISEASE
+activity against mycobacterium <DISEASE></DISEASE>	0.2028028758	activity against mycobacterium $DISEASE
+gastroesophageal <DISEASE></DISEASE> disease	0.2028028758	gastroesophageal $DISEASE disease
+interaction between <DRUG></DRUG>	0.2028028758	interaction between $DRUG
+regional <DISEASE></DISEASE> syndrome	0.2028028758	regional $DISEASE syndrome
+plasma <DRUG></DRUG> concentrations	0.2028028758	plasma $DRUG concentrations
+common variable <DISEASE></DISEASE>	0.2028028758	common variable $DISEASE
+<DRUG></DRUG> -lrb- dex -rrb-	0.2026640677	$DRUG -lrb- dex -rrb-
+<DRUG></DRUG> -lrb- pht -rrb-	0.2026640677	$DRUG -lrb- pht -rrb-
+leukaemia -lrb- <DISEASE></DISEASE> -rrb-	0.2026640677	leukaemia -lrb- $DISEASE -rrb-
+patients who received <DRUG></DRUG>	0.2021640677	patients who received $DRUG
+<DRUG></DRUG> -lrb- rfp -rrb-	0.2021640677	$DRUG -lrb- rfp -rrb-
+patients with familial <DISEASE></DISEASE>	0.2013862899	patients with familial $DISEASE
+lung cancer -lrb- <DISEASE></DISEASE> -rrb-	0.2013862899	lung cancer -lrb- $DISEASE -rrb-
+resistance in mycobacterium <DISEASE></DISEASE>	0.2013862899	resistance in mycobacterium $DISEASE
+<DRUG></DRUG> -lrb- rmp -rrb-	0.2013862899	$DRUG -lrb- rmp -rrb-
+<DRUG></DRUG> mg/m -lrb- -rrb-	0.2013862899	$DRUG mg/m -lrb- -rrb-
+<DRUG></DRUG> -lrb- emb -rrb-	0.2013862899	$DRUG -lrb- emb -rrb-
+<DRUG></DRUG> -lrb- cq -rrb-	0.2013862899	$DRUG -lrb- cq -rrb-
+<DRUG></DRUG> -lrb- lmwh -rrb-	0.2013862899	$DRUG -lrb- lmwh -rrb-
+carcinoma -lrb- <DISEASE></DISEASE> -rrb-	0.2000635386	carcinoma -lrb- $DISEASE -rrb-
+patients with resistant <DISEASE></DISEASE>	0.1999731509	patients with resistant $DISEASE
+<DRUG></DRUG> -lrb- lmwhs -rrb-	0.1993680222	$DRUG -lrb- lmwhs -rrb-
+<DRUG></DRUG> -lrb- itb -rrb-	0.1993680222	$DRUG -lrb- itb -rrb-
+patients with septic <DISEASE></DISEASE>	0.1993244081	patients with septic $DISEASE
+isoniazid , <DRUG></DRUG> , ethambutol	0.1993244081	isoniazid , $DRUG , ethambutol
+<DRUG></DRUG> -lrb- ara-c -rrb-	0.1993244081	$DRUG -lrb- ara-c -rrb-
+<DISEASE></DISEASE> in patients with atrial fibrillation	0.1993244081	$DISEASE in patients with atrial fibrillation
+patients with type diabetes -lrb- <DISEASE></DISEASE> -rrb-	0.1993244081	patients with type diabetes -lrb- $DISEASE -rrb-
+isoniazid , <DRUG></DRUG> , pyrazinamide	0.1993244081	isoniazid , $DRUG , pyrazinamide
+-lrb- mdr -rrb- <DISEASE></DISEASE>	0.1993244081	-lrb- mdr -rrb- $DISEASE
+<DRUG></DRUG> -lrb- cbz -rrb-	0.1993244081	$DRUG -lrb- cbz -rrb-
+<DISEASE></DISEASE> on <DRUG></DRUG> injection	0.1992578598	$DISEASE on $DRUG injection
+isoniazid -lrb- inh -rrb- and <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.1990040137	isoniazid -lrb- inh -rrb- and $DRUG -lrb- $DRUG -rrb-
+patients with advanced <DISEASE></DISEASE>	0.1987871411	patients with advanced $DISEASE
+<DRUG></DRUG> -lrb- mg/day -rrb-	0.1987871411	$DRUG -lrb- mg/day -rrb-
+<DRUG></DRUG> -lrb- r -rrb-	0.1987871411	$DRUG -lrb- r -rrb-
+<DRUG></DRUG> -lrb- mg/kg -rrb-	0.1987871411	$DRUG -lrb- mg/kg -rrb-
+diabetes -lrb- <DISEASE></DISEASE> -rrb-	0.1987871411	diabetes -lrb- $DISEASE -rrb-
+patients with secondary <DISEASE></DISEASE>	0.1987871411	patients with secondary $DISEASE
+patients with multiple <DISEASE></DISEASE>	0.1987871411	patients with multiple $DISEASE
+patients with pulmonary <DISEASE></DISEASE>	0.1987871411	patients with pulmonary $DISEASE
+leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.1987871411	leukemia -lrb- $DISEASE -rrb-
+moderate to severe <DISEASE></DISEASE>	0.1987846889	moderate to severe $DISEASE
+<DISEASE></DISEASE> -lrb- mtb -rrb-	0.1987846889	$DISEASE -lrb- mtb -rrb-
+patients with moderate-to-severe <DISEASE></DISEASE>	0.1982846889	patients with moderate-to-severe $DISEASE
+adult patients with <DISEASE></DISEASE>	0.1979603938	adult patients with $DISEASE
+-lrb- iv -rrb- <DRUG></DRUG>	0.1979603938	-lrb- iv -rrb- $DRUG
+toxoid -lrb- <DRUG></DRUG> -rrb-	0.1977871411	toxoid -lrb- $DRUG -rrb-
+<DISEASE></DISEASE> -lrb- aml -rrb-	0.1977871411	$DISEASE -lrb- aml -rrb-
+patients with mild-to-moderate <DISEASE></DISEASE>	0.1975595427	patients with mild-to-moderate $DISEASE
+<DRUG></DRUG> -lrb- mph -rrb-	0.1975069111	$DRUG -lrb- mph -rrb-
+disorder -lrb- <DISEASE></DISEASE> -rrb- ,	0.1970278686	disorder -lrb- $DISEASE -rrb- ,
+effective in reducing <DISEASE></DISEASE>	0.1962367913	effective in reducing $DISEASE
+patients with severe <DISEASE></DISEASE>	0.1960729107	patients with severe $DISEASE
+patients with refractory <DISEASE></DISEASE>	0.1954910956	patients with refractory $DISEASE
+hormone -lrb- <DRUG></DRUG> -rrb-	0.1944910956	hormone -lrb- $DRUG -rrb-
+<DISEASE></DISEASE> disease -lrb- <DISEASE></DISEASE> -rrb-	0.1859798439	$DISEASE disease -lrb- $DISEASE -rrb-
+intravenous <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.1850732578	intravenous $DRUG -lrb- $DRUG -rrb-
+acute myeloid <DISEASE></DISEASE> -lrb- aml -rrb-	0.1803928915	acute myeloid $DISEASE -lrb- aml -rrb-
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- treatment	0.1803071112	$DISEASE -lrb- $DISEASE -rrb- treatment
+<DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb- patients	0.1803071112	$DISEASE -lrb- $DISEASE -rrb- patients
+-rrb- and <DRUG></DRUG> -lrb- <DRUG></DRUG> -rrb-	0.1797737779	-rrb- and $DRUG -lrb- $DRUG -rrb-
+-rrb- <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.1797737779	-rrb- $DISEASE -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> on injection	0.1746942832	$DISEASE on injection
+<DISEASE></DISEASE> during injection	0.1746942832	$DISEASE during injection
+tolerability of <DRUG></DRUG>	0.1746942832	tolerability of $DRUG
+<DRUG></DRUG> for <DISEASE></DISEASE> prevention	0.173912735	$DRUG for $DISEASE prevention
+-lrb- <DRUG></DRUG> -rrb-	0.1716402204	-lrb- $DRUG -rrb-
+-lrb- <DISEASE></DISEASE> -rrb-	0.1701316749	-lrb- $DISEASE -rrb-
+<DRUG></DRUG> is more effective	0.1624070569	$DRUG is more effective
+<DRUG></DRUG> -rrb-	0.161314391	$DRUG -rrb-
+background : <DRUG></DRUG> ,	0.1610687133	background : $DRUG ,
+mh - <DISEASE></DISEASE>	0.1602301625	mh - $DISEASE
+mh - <DRUG></DRUG>	0.1602301625	mh - $DRUG
+<DRUG></DRUG> -lrb-	0.1597990265	$DRUG -lrb-
+effects of <DRUG></DRUG> -lrb-	0.1588029744	effects of $DRUG -lrb-
+effect of <DRUG></DRUG> ,	0.1588029744	effect of $DRUG ,
+effect of <DRUG></DRUG> -lrb-	0.1588029744	effect of $DRUG -lrb-
+disorder -lrb- <DISEASE></DISEASE> -rrb-	0.1576016922	disorder -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> objective	0.1576016922	$DISEASE objective
+effect of <DRUG></DRUG>	0.1561517862	effect of $DRUG
+<DRUG></DRUG> in the prevention	0.1561517862	$DRUG in the prevention
+effects of <DRUG></DRUG>	0.1561517862	effects of $DRUG
+efficacy of <DRUG></DRUG>	0.1561517862	efficacy of $DRUG
+superior to <DRUG></DRUG>	0.1560378314	superior to $DRUG
+<DRUG></DRUG> objective	0.1555889801	$DRUG objective
+<DRUG></DRUG> group -lrb-	0.1550210324	$DRUG group -lrb-
+<DISEASE></DISEASE> prevention in atrial	0.1548443891	$DISEASE prevention in atrial
+<DISEASE></DISEASE> -lrb- vte -rrb-	0.1539554895	$DISEASE -lrb- vte -rrb-
+fludarabine , <DRUG></DRUG> ,	0.1532401984	fludarabine , $DRUG ,
+introduction : <DRUG></DRUG>	0.1520609519	introduction : $DRUG
+objective : <DRUG></DRUG>	0.1515261107	objective : $DRUG
+<DISEASE></DISEASE> treated with <DRUG></DRUG>	0.1482710386	$DISEASE treated with $DRUG
+patients with <DISEASE></DISEASE> ,	0.1475753864	patients with $DISEASE ,
+patients with <DISEASE></DISEASE> -lrb-	0.1475753864	patients with $DISEASE -lrb-
+isoniazid , <DRUG></DRUG> ,	0.1448260425	isoniazid , $DRUG ,
+choice for <DISEASE></DISEASE>	0.1429628101	choice for $DISEASE
+<DISEASE></DISEASE> or systemic	0.1429628101	$DISEASE or systemic
+<DISEASE></DISEASE> -lrb-	0.1413220535	$DISEASE -lrb-
+effective as <DRUG></DRUG>	0.1356915649	effective as $DRUG
+patients with knee <DISEASE></DISEASE> -lrb- <DISEASE></DISEASE> -rrb-	0.1356905737	patients with knee $DISEASE -lrb- $DISEASE -rrb-
+effective than <DRUG></DRUG>	0.135007516	effective than $DRUG
+acute myeloid <DISEASE></DISEASE>	0.1333073725	acute myeloid $DISEASE
+postoperative <DISEASE></DISEASE> management	0.1306715385	postoperative $DISEASE management
+management of <DISEASE></DISEASE>	0.1282975061	management of $DISEASE
+postoperative <DISEASE></DISEASE> relief	0.1281088263	postoperative $DISEASE relief
+multidrug-resistant <DISEASE></DISEASE> -lrb-	0.128000961	multidrug-resistant $DISEASE -lrb-
+<DISEASE></DISEASE> toxoid -lrb-	0.128000961	$DISEASE toxoid -lrb-
+<DRUG></DRUG> -lrb- p <	0.1272253555	$DRUG -lrb- p <
+knee <DISEASE></DISEASE> -lrb-	0.1264382489	knee $DISEASE -lrb-
+combination with <DRUG></DRUG>	0.1231340962	combination with $DRUG
+isoniazid , <DRUG></DRUG>	0.1218491597	isoniazid , $DRUG
+venous <DISEASE></DISEASE>	0.1111310947	venous $DISEASE
+<DISEASE></DISEASE> relief	0.1002126353	$DISEASE relief
+<DISEASE></DISEASE> who	0.0994923305	$DISEASE who
+safety of <DRUG></DRUG>	0.0970973696	safety of $DRUG
+combination of <DRUG></DRUG>	0.0970973696	combination of $DRUG
+<DRUG></DRUG> for treatment	0.0970973696	$DRUG for treatment
+patients with <DISEASE></DISEASE>	0.0839560343	patients with $DISEASE
+<DRUG></DRUG> in patients	0.0839560343	$DRUG in patients

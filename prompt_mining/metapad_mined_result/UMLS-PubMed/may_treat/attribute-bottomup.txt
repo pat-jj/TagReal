@@ -1,0 +1,7 @@
+C	r_N_T	n_E_I	N	T	r_E_I	c_E_I	E	I	n_MP	MPN	cMPN	topMP	cTopMP
+$DISEASE	1	1	toxoid -lrb-	$DRUG	1	1663	[X]	[Y]	12	$DISEASE toxoid -lrb- $DRUG -rrb-	418	$DISEASE toxoid -lrb- $DRUG -rrb-	418	$DRUG in the treatment of $DISEASE	252	$DISEASE treated with $DRUG	152	$DRUG for $DISEASE prevention	148	$DRUG in patients with $DISEASE	113
+$DISEASE	2	1	-lrb-	NULL	1	19286	[X]	NULL	2	-lrb- $DISEASE -rrb-	2234	-lrb- $DISEASE -rrb-	2234	$DISEASE -lrb-	2079	$DISEASE -lrb- $DISEASE -rrb-	1121	treatment of $DISEASE	1022	patients with $DISEASE	980
+$DISEASE	3	1	-lrb-	$DISEASE	1	2980	[X]	[X]	10	$DISEASE -lrb- $DISEASE -rrb-	2242	$DISEASE -lrb- $DISEASE -rrb-	2242	diagnosis of $DISEASE -lrb- $DISEASE -rrb-	146	patients with $DISEASE -lrb- $DISEASE -rrb-	128	gastroesophageal $DISEASE disease -lrb- $DISEASE -rrb-	112	-lrb- mdr -rrb- $DISEASE -lrb- $DISEASE -rrb-	104
+$DRUG	1	1	-lrb-	$DRUG	1	5230	[Y]	[Y]	74	$DRUG -lrb- $DRUG -rrb-	4384	$DRUG -lrb- $DRUG -rrb-	4384	-rrb- and $DRUG -lrb- $DRUG -rrb-	224	resistance to $DRUG -lrb- $DRUG -rrb-	204	intravenous $DRUG -lrb- $DRUG -rrb-	132	-rrb- , $DRUG -lrb- $DRUG -rrb- ,	124
+$DRUG	2	1	toxoid -lrb-	$DISEASE	1	1663	[Y]	[X]	12	$DISEASE toxoid -lrb- $DRUG -rrb-	418	$DISEASE toxoid -lrb- $DRUG -rrb-	418	$DRUG in the treatment of $DISEASE	252	$DISEASE treated with $DRUG	152	$DRUG for $DISEASE prevention	148	$DRUG in patients with $DISEASE	113
+$DRUG	3	1	-rrb-	NULL	1	17902	[Y]	NULL	2	$DRUG -lrb- $DRUG -rrb-	2192	$DRUG -lrb-	3509	$DRUG -lrb- $DRUG -rrb-	2192	-lrb- $DRUG -rrb-	1440	effects of $DRUG	765	effect of $DRUG	615

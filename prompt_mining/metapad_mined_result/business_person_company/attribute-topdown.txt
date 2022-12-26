@@ -1,5 +1,0 @@
-C	r_N_T	n_E_I	N	T	r_E_I	c_E_I	E	I	n_MP	MPN	cMPN	topMP	cTopMP
-$COMPANY	1	1	president	$PERSON	1	21214	[ ' [ Y ] ' ]	[ ' [ X ] ' ]	1	$COMPANY president $PERSON	420	$PERSON 's $COMPANY	908	$COMPANY 's $PERSON	700	$COMPANY , $PERSON	671	$COMPANY secretary-general $PERSON	612	$PERSON secretary-general $COMPANY	610
-$COMPANY	2	1		NULL	1	9373	[ ' [ Y ] ' ]	NULL	1	 $COMPANY	1404	 $COMPANY	1404	 $COMPANY ,	735	$COMPANY , who	410	ceo of $COMPANY	235	president of $COMPANY	228
-$PERSON	1	1	president	$COMPANY	1	21214	[ ' [ X ] ' ]	[ ' [ Y ] ' ]	1	$COMPANY president $PERSON	420	$PERSON 's $COMPANY	908	$COMPANY 's $PERSON	700	$COMPANY , $PERSON	671	$COMPANY secretary-general $PERSON	612	$PERSON secretary-general $COMPANY	610
-$PERSON	2	1		NULL	1	12398	[ ' [ X ] ' ]	NULL	1	 $PERSON	1709	 $PERSON	1709	 $PERSON ,	939	$PERSON , who	555	president $PERSON	531	bill & $PERSON foundation	418

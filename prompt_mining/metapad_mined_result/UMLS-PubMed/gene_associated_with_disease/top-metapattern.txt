@@ -1,0 +1,93 @@
+<GENE></GENE> <DISEASE></DISEASE>	0.9312212303	$GENE $DISEASE
+<GENE></GENE> -lrb- <GENE></GENE> -rrb-	0.6622212303	$GENE -lrb- $GENE -rrb-
+-lrb- <DISEASE></DISEASE> -rrb-	0.6622212303	-lrb- $DISEASE -rrb-
+-lrb- <GENE></GENE> -rrb-	0.6622212303	-lrb- $GENE -rrb-
+-lrb- <DISEASE></DISEASE> -rrb- ,	0.5019084841	-lrb- $DISEASE -rrb- ,
+-lrb- <GENE></GENE> -rrb- ,	0.5019084841	-lrb- $GENE -rrb- ,
+<DISEASE></DISEASE> -lrb-	0.4976650612	$DISEASE -lrb-
+-lrb- <GENE></GENE>	0.4460507242	-lrb- $GENE
+-lrb- <DISEASE></DISEASE>	0.4460507242	-lrb- $DISEASE
+<GENE></GENE> -rrb- ,	0.4460507242	$GENE -rrb- ,
+<GENE></GENE> -lrb-	0.4460507242	$GENE -lrb-
+<DISEASE></DISEASE> -rrb-	0.4460507242	$DISEASE -rrb-
+<DISEASE></DISEASE> -rrb- ,	0.4460507242	$DISEASE -rrb- ,
+-rrb- <DISEASE></DISEASE>	0.4460507242	-rrb- $DISEASE
+treatment of <DISEASE></DISEASE>	0.4191098699	treatment of $DISEASE
+<GENE></GENE> gene mutation	0.3906068934	$GENE gene mutation
+familial <GENE></GENE>	0.3137245031	familial $GENE
+myeloid leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.3137245031	myeloid leukemia -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> patients	0.3121098699	$DISEASE patients
+<GENE></GENE> resistance ,	0.3022212303	$GENE resistance ,
+<GENE></GENE> gene	0.2657242068	$GENE gene
+patients with <DISEASE></DISEASE>	0.2657242068	patients with $DISEASE
+patients with type <DISEASE></DISEASE>	0.2657242068	patients with type $DISEASE
+-lrb- <GENE></GENE> -rrb- gene	0.2506068934	-lrb- $GENE -rrb- gene
+<GENE></GENE> resistance	0.2311705061	$GENE resistance
+cardiac <DISEASE></DISEASE>	0.2302212303	cardiac $DISEASE
+<GENE></GENE> -rrb-	0.2290507242	$GENE -rrb-
+<GENE></GENE> mutations	0.2182212303	$GENE mutations
+mutations in the <GENE></GENE> gene	0.2141098699	mutations in the $GENE gene
+systemic <DISEASE></DISEASE>	0.1893634704	systemic $DISEASE
+transthyretin -lrb- <GENE></GENE> -rrb-	0.1856068934	transthyretin -lrb- $GENE -rrb-
+leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.1856068934	leukemia -lrb- $DISEASE -rrb-
+<GENE></GENE> cardiac <DISEASE></DISEASE>	0.1856068934	$GENE cardiac $DISEASE
+<DISEASE></DISEASE> -lrb- attr -rrb-	0.1856068934	$DISEASE -lrb- attr -rrb-
+<GENE></GENE> receptor	0.1753634704	$GENE receptor
+<DISEASE></DISEASE> mellitus	0.1620852395	$DISEASE mellitus
+mutations in the <GENE></GENE>	0.1620852395	mutations in the $GENE
+mutations in <GENE></GENE>	0.1571098699	mutations in $GENE
+familial <DISEASE></DISEASE>	0.1571098699	familial $DISEASE
+<DISEASE></DISEASE> mellitus -lrb-	0.154582263	$DISEASE mellitus -lrb-
+gene -lrb- <GENE></GENE>	0.154582263	gene -lrb- $GENE
+<GENE></GENE> dependent <DISEASE></DISEASE> mellitus	0.1462212303	$GENE dependent $DISEASE mellitus
+<GENE></GENE> -lrb- g93a -rrb-	0.1462212303	$GENE -lrb- g93a -rrb-
+dismutase -lrb- <GENE></GENE> -rrb-	0.1462212303	dismutase -lrb- $GENE -rrb-
+<GENE></GENE> secretion	0.1462212303	$GENE secretion
+<GENE></GENE> therapy	0.1462212303	$GENE therapy
+<GENE></GENE> sensitivity	0.1462212303	$GENE sensitivity
+<GENE></GENE> mutation	0.1452212303	$GENE mutation
+<DISEASE></DISEASE> -lrb- attr	0.1447491335	$DISEASE -lrb- attr
+<DISEASE></DISEASE> mellitus ,	0.1419084841	$DISEASE mellitus ,
+hereditary <DISEASE></DISEASE>	0.1327491335	hereditary $DISEASE
+intensive <GENE></GENE>	0.1327491335	intensive $GENE
+hereditary <GENE></GENE>	0.1327491335	hereditary $GENE
+non-insulin-dependent <DISEASE></DISEASE> mellitus -lrb- niddm -rrb-	0.1272212303	non-insulin-dependent $DISEASE mellitus -lrb- niddm -rrb-
+acute myeloid leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.1272212303	acute myeloid leukemia -lrb- $DISEASE -rrb-
+senile systemic <DISEASE></DISEASE>	0.1272212303	senile systemic $DISEASE
+superoxide dismutase -lrb- <GENE></GENE> -rrb-	0.1272212303	superoxide dismutase -lrb- $GENE -rrb-
+insulin-dependent <DISEASE></DISEASE> mellitus -lrb- iddm -rrb-	0.1272212303	insulin-dependent $DISEASE mellitus -lrb- iddm -rrb-
+amyotrophic lateral sclerosis -lrb- <DISEASE></DISEASE> -rrb-	0.1262212303	amyotrophic lateral sclerosis -lrb- $DISEASE -rrb-
+<DISEASE></DISEASE> mellitus -lrb- niddm -rrb-	0.1246068934	$DISEASE mellitus -lrb- niddm -rrb-
+<GENE></GENE> dependent <DISEASE></DISEASE>	0.1246068934	$GENE dependent $DISEASE
+patients with <GENE></GENE>	0.1220852395	patients with $GENE
+insulin-dependent <DISEASE></DISEASE> mellitus	0.1076068934	insulin-dependent $DISEASE mellitus
+non-insulin-dependent <DISEASE></DISEASE> mellitus	0.1076068934	non-insulin-dependent $DISEASE mellitus
+fms-like tyrosine kinase -lrb- <GENE></GENE> -rrb-	0.1066068934	fms-like tyrosine kinase -lrb- $GENE -rrb-
+sporadic <DISEASE></DISEASE>	0.1063634704	sporadic $DISEASE
+mutant <GENE></GENE>	0.1063634704	mutant $GENE
+<GENE></GENE> inhibitors	0.1063634704	$GENE inhibitors
+wild-type <GENE></GENE>	0.1063634704	wild-type $GENE
+<GENE></GENE> action	0.1063634704	$GENE action
+<DISEASE></DISEASE> mellitus -lrb- t2dm -rrb-	0.105582263	$DISEASE mellitus -lrb- t2dm -rrb-
+<GENE></GENE> levels	0.0987491335	$GENE levels
+<GENE></GENE> treatment	0.0987491335	$GENE treatment
+human <GENE></GENE>	0.0987491335	human $GENE
+<DISEASE></DISEASE> cells	0.0987491335	$DISEASE cells
+<GENE></GENE> expression	0.0987491335	$GENE expression
+subcutaneous <GENE></GENE>	0.0987245031	subcutaneous $GENE
+<DISEASE></DISEASE> who	0.0987245031	$DISEASE who
+amyotrophic lateral sclerosis -lrb- <DISEASE></DISEASE>	0.089582263	amyotrophic lateral sclerosis -lrb- $DISEASE
+tyrosine kinase -lrb- <GENE></GENE> -rrb-	0.089582263	tyrosine kinase -lrb- $GENE -rrb-
+basal <GENE></GENE>	0.0867491335	basal $GENE
+<GENE></GENE> deficiency	0.0867491335	$GENE deficiency
+non-insulin-dependent <DISEASE></DISEASE>	0.0867491335	non-insulin-dependent $DISEASE
+<GENE></GENE> infusion	0.0867491335	$GENE infusion
+gestational <DISEASE></DISEASE>	0.0867491335	gestational $DISEASE
+<GENE></GENE> dependent	0.0867491335	$GENE dependent
+<DISEASE></DISEASE> cases	0.0867491335	$DISEASE cases
+dependent <DISEASE></DISEASE> mellitus	0.0867491335	dependent $DISEASE mellitus
+insulin-dependent <DISEASE></DISEASE>	0.0867491335	insulin-dependent $DISEASE
+<GENE></GENE> protein	0.0797245031	$GENE protein
+kinase -lrb- <GENE></GENE> -rrb-	0.0797245031	kinase -lrb- $GENE -rrb-
+dependent <DISEASE></DISEASE>	0.0697245031	dependent $DISEASE
+model of <DISEASE></DISEASE>	0.0582274796	model of $DISEASE

@@ -1,0 +1,33 @@
+(ENTITY,NAME,VALUE)
+$COMPANY	1	mission	$FOUNDER
+	EV1	[X]	[Y]
+	MP1	$COMPANY mission in $FOUNDER
+	MP2	$FOUNDER , founder of $COMPANY ,
+	MP3	$FOUNDER , founder of the $COMPANY
+	MP4	$FOUNDER , co-founder of $COMPANY ,
+	MP5	$FOUNDER , the founder of $COMPANY ,
+$FOUNDER	1	mission	$COMPANY
+	EV1	[Y]	[X]
+	MP1	$COMPANY mission in $FOUNDER
+	MP2	$FOUNDER , founder of $COMPANY ,
+	MP3	$FOUNDER , founder of the $COMPANY
+	MP4	$FOUNDER , co-founder of $COMPANY ,
+	MP5	$FOUNDER , the founder of $COMPANY ,
+
+(ENTITY,NAME,NULL)
+$COMPANY	1	hubert	NULL
+	EV1	[X]	NULL
+	MP1	hubert de $COMPANY
+	MP2	$COMPANY stabilization mission
+	MP3	assassination of gianni $COMPANY
+	MP4	permanent representative to the $COMPANY
+	MP5	mandate of the $COMPANY mission
+$FOUNDER	1	permanent representative	NULL
+	EV1	[Y]	NULL
+	MP1	permanent representatives of $FOUNDER
+	MP2	permanent representative of $FOUNDER
+	MP3	mission in $FOUNDER and eritrea
+	MP4	permanent representative of $FOUNDER to the $COMPANY
+	MP5	 $FOUNDER , founder of $COMPANY
+
+(ENTITY,NULL,VALUE)

@@ -1,0 +1,36 @@
+(ENTITY,NAME,VALUE)
+$DISEASE	1	toxoid -lrb-	$DRUG
+	EV1	[X]	[Y]
+	MP1	$DISEASE toxoid -lrb- $DRUG -rrb-
+	MP2	$DRUG for the prevention of $DISEASE
+	MP3	$DISEASE toxoid -lrb- $DRUG -rrb- ,
+$DISEASE	2	-lrb-	$DISEASE
+	EV1	[X]	[X]
+	MP1	diagnosis of $DISEASE -lrb- $DISEASE -rrb-
+	MP2	-lrb- mdr -rrb- $DISEASE -lrb- $DISEASE -rrb-
+$DRUG	1	-lrb-	$DRUG
+	EV1	[Y]	[Y]
+	MP1	resistance to $DRUG -lrb- $DRUG -rrb-
+$DRUG	2	toxoid -lrb-	$DISEASE
+	EV1	[Y]	[X]
+	MP1	$DISEASE toxoid -lrb- $DRUG -rrb-
+	MP2	$DRUG for the prevention of $DISEASE
+	MP3	$DISEASE toxoid -lrb- $DRUG -rrb- ,
+
+(ENTITY,NAME,NULL)
+$DISEASE	1	prevention	NULL
+	EV1	[X]	NULL
+	MP1	venous $DISEASE -lrb- vte -rrb-
+	MP2	prevention of $DISEASE
+	MP3	postoperative nausea and $DISEASE
+	MP4	postoperative $DISEASE and vomiting -lrb- ponv -rrb-
+	MP5	multidrug-resistant $DISEASE -lrb- mdr-tb
+$DRUG	1	-rrb-	NULL
+	EV1	[Y]	NULL
+	MP1	varicella-zoster virus -lrb- $DRUG -rrb-
+	MP2	$DISEASE toxoid -lrb- $DRUG -rrb-
+	MP3	calmette-guerin -lrb- $DRUG -rrb-
+	MP4	resistance to $DRUG -lrb- $DRUG -rrb-
+	MP5	m. bovis $DRUG
+
+(ENTITY,NULL,VALUE)

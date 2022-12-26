@@ -1,0 +1,6 @@
+C	r_N_T	n_E_I	N	T	r_E_I	c_E_I	E	I	n_MP	MPN	cMPN	topMP	cTopMP
+$DISEASE	1	1	-lrb-	NULL	1	2867	[ ' [ X ] ' ]	NULL	2	$DISEASE -lrb-	339	$DISEASE mellitus	378	$DISEASE -lrb-	339	-lrb- $DISEASE -rrb-	334	$DISEASE patients	178	acute myeloid leukemia -lrb- $DISEASE -rrb-	152
+$DISEASE	2	1	dependent	$GENE	1	592	[ ' [ X ] ' ]	[ ' [ Y ] ' ]	54	$GENE dependent $DISEASE mellitus	68	$GENE $DISEASE	414	$GENE dependent $DISEASE mellitus	68	$GENE dependent $DISEASE	56	$GENE cardiac $DISEASE	54
+$GENE	1	1	dependent	$DISEASE	1	592	[ ' [ Y ] ' ]	[ ' [ X ] ' ]	54	$GENE dependent $DISEASE mellitus	68	$GENE $DISEASE	414	$GENE dependent $DISEASE mellitus	68	$GENE dependent $DISEASE	56	$GENE cardiac $DISEASE	54
+$GENE	2	1	-rrb-	NULL	1	3760	[ ' [ Y ] ' ]	NULL	4	$GENE -lrb- $GENE -rrb-	412	$GENE -lrb- $GENE -rrb-	412	$GENE resistance	378	-lrb- $GENE -rrb-	334	$GENE gene	218	$GENE secretion	182
+$GENE	3	1	-lrb-	$GENE	1	824	[ ' [ Y ] ' ]	[ ' [ Y ] ' ]	824	$GENE -lrb- $GENE -rrb-	824	$GENE -lrb- $GENE -rrb-	824

@@ -1,0 +1,94 @@
+<GENE></GENE> <DISEASE></DISEASE>	0.9763506321	$GENE $DISEASE
+<GENE></GENE> -lrb- <GENE></GENE> -rrb-	0.6476549799	$GENE -lrb- $GENE -rrb-
+<DISEASE></DISEASE> patients	0.6003506321	$DISEASE patients
+-lrb- <DISEASE></DISEASE> -rrb- ,	0.5863506321	-lrb- $DISEASE -rrb- ,
+-lrb- <GENE></GENE> -rrb- ,	0.5863506321	-lrb- $GENE -rrb- ,
+-lrb- <GENE></GENE> -rrb- <DISEASE></DISEASE>	0.5863506321	-lrb- $GENE -rrb- $DISEASE
+-lrb- <GENE></GENE>	0.5698614546	-lrb- $GENE
+-lrb- <DISEASE></DISEASE>	0.5698614546	-lrb- $DISEASE
+<GENE></GENE> -rrb- ,	0.5698614546	$GENE -rrb- ,
+<GENE></GENE> -lrb-	0.5698614546	$GENE -lrb-
+<DISEASE></DISEASE> -rrb-	0.5698614546	$DISEASE -rrb-
+<DISEASE></DISEASE> -rrb- ,	0.5698614546	$DISEASE -rrb- ,
+<DISEASE></DISEASE> -lrb-	0.5698614546	$DISEASE -lrb-
+-rrb- <DISEASE></DISEASE>	0.5698614546	-rrb- $DISEASE
+<DISEASE></DISEASE> mellitus	0.5641200901	$DISEASE mellitus
+patients with <DISEASE></DISEASE>	0.5504244379	patients with $DISEASE
+patients with type <DISEASE></DISEASE>	0.5504244379	patients with type $DISEASE
+<GENE></GENE> resistance	0.5418380388	$GENE resistance
+-lrb- <GENE></GENE> -rrb-	0.5418380388	-lrb- $GENE -rrb-
+cardiac <DISEASE></DISEASE>	0.5413506321	cardiac $DISEASE
+-lrb- <DISEASE></DISEASE> -rrb-	0.5376549799	-lrb- $DISEASE -rrb-
+<GENE></GENE> mutations	0.4693506321	$GENE mutations
+<GENE></GENE> mutation	0.4633506321	$GENE mutation
+familial <GENE></GENE>	0.4368614546	familial $GENE
+treatment of <DISEASE></DISEASE>	0.4284244379	treatment of $DISEASE
+<DISEASE></DISEASE> mellitus ,	0.4163506321	$DISEASE mellitus ,
+<DISEASE></DISEASE> mellitus -lrb-	0.4123506321	$DISEASE mellitus -lrb-
+-lrb- <GENE></GENE> -rrb- gene	0.4123506321	-lrb- $GENE -rrb- gene
+<GENE></GENE> -rrb-	0.3998614546	$GENE -rrb-
+<GENE></GENE> gene	0.3931200901	$GENE gene
+mutations in <GENE></GENE>	0.3931200901	mutations in $GENE
+mutations in the <GENE></GENE>	0.3931200901	mutations in the $GENE
+patients with <GENE></GENE>	0.3931200901	patients with $GENE
+<GENE></GENE> resistance ,	0.3886549799	$GENE resistance ,
+<GENE></GENE> therapy	0.3758380388	$GENE therapy
+myeloid leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.3373506321	myeloid leukemia -lrb- $DISEASE -rrb-
+<GENE></GENE> cardiac <DISEASE></DISEASE>	0.2853506321	$GENE cardiac $DISEASE
+acute myeloid leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.2773506321	acute myeloid leukemia -lrb- $DISEASE -rrb-
+gene -lrb- <GENE></GENE>	0.2726549799	gene -lrb- $GENE
+kinase -lrb- <GENE></GENE> -rrb-	0.2708614546	kinase -lrb- $GENE -rrb-
+<GENE></GENE> receptor	0.2708614546	$GENE receptor
+<GENE></GENE> treatment	0.2708614546	$GENE treatment
+intensive <GENE></GENE>	0.2680995498	intensive $GENE
+familial <DISEASE></DISEASE>	0.2678614546	familial $DISEASE
+systemic <DISEASE></DISEASE>	0.2668614546	systemic $DISEASE
+sporadic <DISEASE></DISEASE>	0.2668614546	sporadic $DISEASE
+hereditary <DISEASE></DISEASE>	0.2668614546	hereditary $DISEASE
+<GENE></GENE> protein	0.2668614546	$GENE protein
+non-insulin-dependent <DISEASE></DISEASE>	0.2668614546	non-insulin-dependent $DISEASE
+<GENE></GENE> deficiency	0.2668614546	$GENE deficiency
+mutant <GENE></GENE>	0.2668614546	mutant $GENE
+<GENE></GENE> levels	0.2668614546	$GENE levels
+<DISEASE></DISEASE> who	0.2668614546	$DISEASE who
+<GENE></GENE> dependent	0.2668614546	$GENE dependent
+<GENE></GENE> inhibitors	0.2668614546	$GENE inhibitors
+human <GENE></GENE>	0.2668614546	human $GENE
+<DISEASE></DISEASE> cells	0.2668614546	$DISEASE cells
+<DISEASE></DISEASE> cases	0.2668614546	$DISEASE cases
+dependent <DISEASE></DISEASE>	0.2668614546	dependent $DISEASE
+hereditary <GENE></GENE>	0.2668614546	hereditary $GENE
+<GENE></GENE> expression	0.2668614546	$GENE expression
+<GENE></GENE> infusion	0.2640995498	$GENE infusion
+amyotrophic lateral sclerosis -lrb- <DISEASE></DISEASE>	0.2640995498	amyotrophic lateral sclerosis -lrb- $DISEASE
+model of <DISEASE></DISEASE>	0.2631200901	model of $DISEASE
+<GENE></GENE> secretion	0.2533506321	$GENE secretion
+<GENE></GENE> sensitivity	0.2533506321	$GENE sensitivity
+<DISEASE></DISEASE> -lrb- attr -rrb-	0.2526549799	$DISEASE -lrb- attr -rrb-
+tyrosine kinase -lrb- <GENE></GENE> -rrb-	0.2496549799	tyrosine kinase -lrb- $GENE -rrb-
+<DISEASE></DISEASE> mellitus -lrb- t2dm -rrb-	0.2496549799	$DISEASE mellitus -lrb- t2dm -rrb-
+dismutase -lrb- <GENE></GENE> -rrb-	0.2309593277	dismutase -lrb- $GENE -rrb-
+<GENE></GENE> -lrb- g93a -rrb-	0.2296549799	$GENE -lrb- g93a -rrb-
+<GENE></GENE> gene mutation	0.2196549799	$GENE gene mutation
+senile systemic <DISEASE></DISEASE>	0.2156549799	senile systemic $DISEASE
+non-insulin-dependent <DISEASE></DISEASE> mellitus -lrb- niddm -rrb-	0.2072636755	non-insulin-dependent $DISEASE mellitus -lrb- niddm -rrb-
+superoxide dismutase -lrb- <GENE></GENE> -rrb-	0.2072636755	superoxide dismutase -lrb- $GENE -rrb-
+amyotrophic lateral sclerosis -lrb- <DISEASE></DISEASE> -rrb-	0.2072636755	amyotrophic lateral sclerosis -lrb- $DISEASE -rrb-
+wild-type <GENE></GENE>	0.1718614546	wild-type $GENE
+mutations in the <GENE></GENE> gene	0.1684244379	mutations in the $GENE gene
+<DISEASE></DISEASE> -lrb- attr	0.1633506321	$DISEASE -lrb- attr
+transthyretin -lrb- <GENE></GENE> -rrb-	0.1543729286	transthyretin -lrb- $GENE -rrb-
+insulin-dependent <DISEASE></DISEASE>	0.1528614546	insulin-dependent $DISEASE
+leukemia -lrb- <DISEASE></DISEASE> -rrb-	0.0713506321	leukemia -lrb- $DISEASE -rrb-
+insulin-dependent <DISEASE></DISEASE> mellitus	0.0673506321	insulin-dependent $DISEASE mellitus
+non-insulin-dependent <DISEASE></DISEASE> mellitus	0.0673506321	non-insulin-dependent $DISEASE mellitus
+dependent <DISEASE></DISEASE> mellitus	0.0673506321	dependent $DISEASE mellitus
+basal <GENE></GENE>	0.0568614546	basal $GENE
+gestational <DISEASE></DISEASE>	0.0568614546	gestational $DISEASE
+<GENE></GENE> action	0.0568614546	$GENE action
+subcutaneous <GENE></GENE>	0.0540995498	subcutaneous $GENE
+<GENE></GENE> dependent <DISEASE></DISEASE>	0.0486549799	$GENE dependent $DISEASE
+<GENE></GENE> dependent <DISEASE></DISEASE> mellitus	0.0466549799	$GENE dependent $DISEASE mellitus
+<DISEASE></DISEASE> mellitus -lrb- niddm -rrb-	0.0466549799	$DISEASE mellitus -lrb- niddm -rrb-
+fms-like tyrosine kinase -lrb- <GENE></GENE> -rrb-	0.0386549799	fms-like tyrosine kinase -lrb- $GENE -rrb-
+insulin-dependent <DISEASE></DISEASE> mellitus -lrb- iddm -rrb-	0.0272636755	insulin-dependent $DISEASE mellitus -lrb- iddm -rrb-

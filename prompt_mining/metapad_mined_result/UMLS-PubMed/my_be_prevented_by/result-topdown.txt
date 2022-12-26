@@ -1,0 +1,40 @@
+(ENTITY,NAME,VALUE)
+$DISEASE	1	-lrb-	$DISEASE
+	EV1	[ ' [ Y ] ' ]	[ ' [ Y ] ' ]
+	MP1	diagnosis of $DISEASE -lrb- $DISEASE -rrb-
+	MP2	-lrb- mdr -rrb- $DISEASE -lrb- $DISEASE -rrb-
+$DISEASE	2	zoster virus -lrb-	$DRUG
+	EV1	[ ' [ Y ] ' ]	[ ' [ X ] ' ]
+	MP1	$DISEASE zoster virus -lrb- $DRUG -rrb-
+	MP2	$DISEASE toxoid -lrb- $DRUG -rrb-
+	MP3	$DISEASE zoster virus -lrb- $DRUG -rrb- infection
+	MP4	-rrb- , $DISEASE zoster virus -lrb- $DRUG -rrb-
+	MP5	$DRUG for the prevention of $DISEASE
+$DRUG	1	-lrb-	$DRUG
+	EV1	[ ' [ X ] ' ]	[ ' [ X ] ' ]
+	MP1	resistance to $DRUG -lrb- $DRUG -rrb-
+$DRUG	2	zoster virus -lrb-	$DISEASE
+	EV1	[ ' [ X ] ' ]	[ ' [ Y ] ' ]
+	MP1	$DISEASE zoster virus -lrb- $DRUG -rrb-
+	MP2	$DISEASE toxoid -lrb- $DRUG -rrb-
+	MP3	$DISEASE zoster virus -lrb- $DRUG -rrb- infection
+	MP4	-rrb- , $DISEASE zoster virus -lrb- $DRUG -rrb-
+	MP5	$DRUG for the prevention of $DISEASE
+
+(ENTITY,NAME,NULL)
+$DISEASE	1	-rrb-	NULL
+	EV1	[ ' [ Y ] ' ]	NULL
+	MP1	venous $DISEASE -lrb- vte -rrb-
+	MP2	prevention of $DISEASE
+	MP3	postoperative $DISEASE and vomiting -lrb- ponv -rrb-
+	MP4	multidrug-resistant $DISEASE -lrb- mdr-tb
+	MP5	postoperative nausea and $DISEASE
+$DRUG	1	-rrb-	NULL
+	EV1	[ ' [ X ] ' ]	NULL
+	MP1	$DISEASE zoster virus -lrb- $DRUG -rrb-
+	MP2	varicella-zoster virus -lrb- $DRUG -rrb-
+	MP3	$DISEASE toxoid -lrb- $DRUG -rrb-
+	MP4	calmette-guerin -lrb- $DRUG -rrb-
+	MP5	$DISEASE zoster virus -lrb- $DRUG -rrb- infection
+
+(ENTITY,NULL,VALUE)

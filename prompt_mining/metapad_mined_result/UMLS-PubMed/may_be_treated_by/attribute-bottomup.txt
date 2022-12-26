@@ -1,0 +1,7 @@
+C	r_N_T	n_E_I	N	T	r_E_I	c_E_I	E	I	n_MP	MPN	cMPN	topMP	cTopMP
+$DISEASE	1	1	-lrb-	NULL	1	20691	[Y]	NULL	2	$DISEASE -lrb-	2090	$DISEASE -lrb-	2090	-lrb- $DISEASE -rrb-	2078	treatment of $DISEASE	1110	postoperative $DISEASE	1086	patients with $DISEASE	999
+$DISEASE	2	1	-lrb-	$DISEASE	1	1960	[Y]	[Y]	64	$DISEASE -lrb- $DISEASE -rrb-	1458	$DISEASE -lrb- $DISEASE -rrb-	1458	gastroesophageal $DISEASE disease -lrb- $DISEASE -rrb-	216	patients with $DISEASE -lrb- $DISEASE -rrb-	120	knee $DISEASE -lrb- $DISEASE -rrb-	102	treatment of $DISEASE -lrb- $DISEASE -rrb-	64
+$DISEASE	3	1	treatment	$DRUG	1	1605	[Y]	[X]	12	$DRUG in the treatment of $DISEASE	299	$DISEASE toxoid -lrb- $DRUG -rrb-	418	$DRUG in the treatment of $DISEASE	299	$DRUG in patients with $DISEASE	132	$DRUG on postoperative $DISEASE	114	$DRUG for the treatment of $DISEASE	92
+$DRUG	1	1	treatment	$DISEASE	1	1605	[X]	[Y]	12	$DRUG in the treatment of $DISEASE	299	$DISEASE toxoid -lrb- $DRUG -rrb-	418	$DRUG in the treatment of $DISEASE	299	$DRUG in patients with $DISEASE	132	$DRUG on postoperative $DISEASE	114	$DRUG for the treatment of $DISEASE	92
+$DRUG	2	1	-lrb-	$DRUG	1	4352	[X]	[X]	184	$DRUG -lrb- $DRUG -rrb-	3980	$DRUG -lrb- $DRUG -rrb-	3980	-rrb- and $DRUG -lrb- $DRUG -rrb-	188	background : $DRUG -lrb- $DRUG -rrb-	184
+$DRUG	3	1	-lrb-	NULL	1	17056	[X]	NULL	2	$DRUG -lrb-	4153	$DRUG -lrb-	4153	$DRUG -lrb- $DRUG -rrb-	1990	-lrb- $DRUG -rrb-	1608	effect of $DRUG	784	effects of $DRUG	776

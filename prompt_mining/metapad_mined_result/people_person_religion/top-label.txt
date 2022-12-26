@@ -1,7 +1,0 @@
-baaaaaa baaaaad	1
-baaaaaa baaaaah baaaaad	1
-baaaaaa in baaaaad	1
-in baaaaad	0
-baaaaaa baaaaah	0
-baaaaah baaaaad	0
-baaaaaa in	0

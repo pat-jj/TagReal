@@ -121,7 +121,7 @@ def get_triples_for_relation(relation, dataset
 
     print(f'{count} triples for {relation}')
     relation_ = relation.replace('/', '_')
-    sp_path = f"./prompt_mining/relation_triples/{dataset}/triples_nyt10" + relation_ + ".txt"
+    sp_path = f"./prompt_mining/relation_triples/{dataset}/" + relation_ + ".txt"
     sp_file = open(sp_path, 'w', encoding='utf-8')
     print(random_selected_triples, file=sp_file)
 
@@ -152,7 +152,7 @@ def get_entity_tokens(dataset):
     return entity_tokens
 
 
-def mine_triple_text_from_corpus(triples, corpus, relation, dataset, n=2000, max_lines=100000, triples_path=None):
+def mine_triple_text_from_corpus(triples, corpus, relation, dataset, n=2000, max_lines=50000, triples_path=None):
     mined_text = ""
 
     with open(corpus) as f:
@@ -210,8 +210,8 @@ def mine_triple_text_from_corpus(triples, corpus, relation, dataset, n=2000, max
     return mined_text
 
 
-def label_x_and_y_with_categories(relation, head_name, tail_name, limit=False, max_length=40000):
-    text_before = './prompt_mining/mined_text_big/mined_text_' + relation + ".txt"
+def label_x_and_y_with_categories(dataset, relation, head_name, tail_name, limit=False, max_length=40000):
+    text_before = f'./prompt_mining/mined_text_big/{dataset}/mined_text_' + relation + ".txt"
     text_after = ""
     with open(text_before) as f:
         lines = f.readlines()
@@ -220,18 +220,19 @@ def label_x_and_y_with_categories(relation, head_name, tail_name, limit=False, m
     # random.shuffle(lines)
     for line in lines:
         if line != '\n':
-            line = " ".join(w for w in nltk.wordpunct_tokenize(line) if w.lower() in words or not w.isalpha())
+            # line = " ".join(w for w in nltk.wordpunct_tokenize(line) if w.lower() in words or not w.isalpha())
+            line = line.lower()
 
             line = \
-                line.replace('[ X ]', f'<{head_name}>[X]</{head_name}>') \
-                    .replace('[ Y ]', f'<{tail_name}>[Y]</{tail_name}>')
+                line.replace('[x]', f'<{head_name}>[X]</{head_name}>') \
+                    .replace('[y]', f'<{tail_name}>[Y]</{tail_name}>')
 
             text_after += line + '\n'
             cnt += 1
         if limit and cnt > max_length:
             break
 
-    out_path = './prompt_mining/mined_text_big/grained/' + "grained_" + relation + '.txt'
+    out_path = f'./prompt_mining/mined_text_big/grained/{dataset}/' + "grained_" + relation + '.txt'
     out_file = open(out_path, 'w', encoding='utf-8')
     print(text_after, file=out_file)
 
@@ -315,37 +316,53 @@ def convert_type_to_x_y(relation, head, tail):
 def main():
     # corpus = "../../../data/pj20/corpus_text_low.txt"
     dataset = "UMLS-PubMed"
-    corpus = "./Volumes/pubmed_corpus_text.txt"
-    relation_set = get_relation_set(dataset=dataset)
-    for relation in [*relation_set]:
-        print('Begin Text Mining for Relation: ', relation)
-        triples = get_triples_for_relation(relation, dataset)
-        mine_triple_text_from_corpus(triples, corpus, relation, dataset)
+    # corpus = "./Volumes/pubmed_corpus_text.txt"
+    # relation_set = get_relation_set(dataset=dataset)
+    # for relation in [*relation_set]:
+    #     print('Begin Text Mining for Relation: ', relation)
+    #     triples = get_triples_for_relation(relation, dataset)
+    #     mine_triple_text_from_corpus(triples, corpus, relation, dataset)
 
-    # relation_entities = {
-    #     'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER', 'slash': 'business/company/founders'},
-    #     'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED', 'slash': 'business/company/place_founded'},
-    #     'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY', 'slash': 'business/person/company'},
-    #     'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY', 'slash': 'location/administrative_division/country'},
-    #     'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION', 'slash': 'location/country/administrative_divisions'},
-    #     'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB', 'slash': 'location/location/contains'},
-    #     'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR', 'slash': 'location/neighborhood/neighborhood_of'},
-    #     'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT', 'slash': 'location/us_county/county_seat'},
-    #     'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH', 'slash': 'people/deceased_person/place_of_death'},
-    #     'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE', 'slash': 'people/ethnicity/people'},
-    #     'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN', 'slash': 'people/person/children'},
-    #     'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY', 'slash': 'people/person/ethnicity'},
-    #     'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY', 'slash': 'people/person/nationality'},
-    #     'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED', 'slash': 'people/person/place_lived'},
-    #     'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION', 'slash': 'people/person/religion'},
-    # }
+    if dataset == "FB60K-NYT10":
 
-    # for relation in relation_entities.keys():
-    #     label_x_and_y_with_categories(
-    #         relation,
-    #         relation_entities[relation]['head'],
-    #         relation_entities[relation]['tail']
-    #     )
+        relation_entities = {
+            'business_company_founders': {'head': 'COMPANY', 'tail': 'FOUNDER', 'slash': 'business/company/founders'},
+            'business_company_place_founded': {'head': 'COMPANY', 'tail': 'PLACE_FOUNDED', 'slash': 'business/company/place_founded'},
+            'business_person_company': {'head': 'PERSON', 'tail': 'COMPANY', 'slash': 'business/person/company'},
+            'location_administrative_division_country': {'head': 'ADMINISTRATIVE_DIVISION', 'tail': 'COUNTRY', 'slash': 'location/administrative_division/country'},
+            'location_country_administrative_divisions': {'head': 'COUNTRY', 'tail': 'ADMINISTRATIVE_DIVISION', 'slash': 'location/country/administrative_divisions'},
+            'location_location_contains': {'head': 'LOCATION', 'tail': 'LOCATION_SUB', 'slash': 'location/location/contains'},
+            'location_neighborhood_neighborhood_of': {'head': 'LOCATION', 'tail': 'NEIGHBOR', 'slash': 'location/neighborhood/neighborhood_of'},
+            'location_us_county_county_seat': {'head': 'US_COUNTY', 'tail': 'COUNTY_SEAT', 'slash': 'location/us_county/county_seat'},
+            'people_deceased_person_place_of_death': {'head': 'DECEASED_PERSON', 'tail': 'PLACE_OF_DEATH', 'slash': 'people/deceased_person/place_of_death'},
+            'people_ethnicity_people': {'head': 'ETHNICITY', 'tail': 'PEOPLE', 'slash': 'people/ethnicity/people'},
+            'people_person_children': {'head': 'PERSON', 'tail': 'CHILDREN', 'slash': 'people/person/children'},
+            'people_person_ethnicity': {'head': 'PERSON', 'tail': 'ETHNICITY', 'slash': 'people/person/ethnicity'},
+            'people_person_nationality': {'head': 'PERSON', 'tail': 'NATIONALITY', 'slash': 'people/person/nationality'},
+            'people_person_place_lived': {'head': 'PERSON', 'tail': 'PLACE_LIVED', 'slash': 'people/person/place_lived'},
+            'people_person_religion': {'head': 'PERSON', 'tail': 'RELIGION', 'slash': 'people/person/religion'},
+        }
+    
+    elif dataset == "UMLS-PubMed":
+
+        relation_entities = {
+            'gene_associated_with_disease': {'head': 'DISEASE', 'tail': 'GENE'},
+            'disease_has_associated_gene': {'head': 'GENE', 'tail': 'DISEASE'},
+            'gene_mapped_to_disease': {'head': 'DISEASE', 'tail': 'GENE'},
+            'disease_mapped_to_gene': {'head': 'GENE', 'tail': 'DISEASE'},
+            'may_be_treated_by': {'head': 'DRUG', 'tail': 'DISEASE'},
+            'may_treat': {'head': 'DISEASE', 'tail': 'DRUG'},
+            'may_be_prevented_by': {'head': 'DRUG', 'tail': 'DISEASE'},
+            'may_prevent': {'head': 'DISEASE', 'tail': 'DRUG'},
+        }
+
+    for relation in relation_entities.keys():
+        label_x_and_y_with_categories(
+            dataset,
+            relation,
+            relation_entities[relation]['head'],
+            relation_entities[relation]['tail']
+        )
 
     # entity_tokens = get_entity_tokens(dataset=dataset)
     # # print(entity_tokens)

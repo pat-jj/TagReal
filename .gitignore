@@ -134,6 +134,7 @@ __pycache__
 ./prompt_mining/prompt_opti/log
 
 /analysis.ipynb
-/TuckER/data/
-/TuckER/output/
+/analysis_.ipynb
+/kge_models/data/
+/kge_models/output/
 /.history

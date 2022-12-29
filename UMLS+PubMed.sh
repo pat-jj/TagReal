@@ -13,8 +13,8 @@ python3 -m torch.distributed.launch --nproc_per_node=7 tagreal.py \
 --decay_rate 0.99 \
 --weight_decay 0.0005 \
 --lstm_dropout 0.0 \
---data_dir ./dataset/UMLS+PubMed \
---out_dir ./checkpoint/UMLS+PubMed \
+--data_dir ./dataset/UMLS+PubMed-20 \
+--out_dir ./checkpoint/UMLS+PubMed-20 \
 --valid_step 5000 \
 --use_lm_finetune \
 --recall_k 30 \

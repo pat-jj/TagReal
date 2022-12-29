@@ -24,7 +24,7 @@ def setup_logger(name, f_name, level=logging.INFO):
 
     return logger
 
-logger = setup_logger("train_logger", "UMLS-PubMed-train")
+logger = setup_logger("train_logger", "FB60K-NYT10-train")
 
 
 def load_data(data_dir, data_type="train", reverse=False):
@@ -169,16 +169,16 @@ def link_predicate(args, idx2score, link_triple_list, valid=False, head=False):
     for j in tqdm(range(final_score.shape[0])):
         rank = np.where(sort_idxs[j]==e2_idx[j].item())[0][0]
 
-        for h in range(10):
-            e1_in, r_in = index2hr[j][0][0], index2hr[j][0][1]
-            e2_pred = id2entity[sort_idxs[j][h]]
-            # print([e1_in, r_in, e2_pred])
-            if (e1_in, r_in, e2_pred) in seen_data:
-                # print([e1_in, r_in, e2_pred], h)
-                # take the highest rank
+        # for h in range(10):
+        #     e1_in, r_in = index2hr[j][0][0], index2hr[j][0][1]
+        #     e2_pred = id2entity[sort_idxs[j][h]]
+        #     # print([e1_in, r_in, e2_pred])
+        #     if (e1_in, r_in, e2_pred) in seen_data:
+        #         # print([e1_in, r_in, e2_pred], h)
+        #         # take the highest rank
 
-                rank = h
-                break
+        #         rank = h
+        #         break
 
         ranks.append(rank+1)
 
@@ -203,21 +203,21 @@ def evaluate_link_prediction_using_classification(self, epoch_idx, index, output
     self.model.eval()
     with torch.no_grad():
         # head
-        # scores = []
-        # preds = []
-        # for index, batch in enumerate(tqdm(self.link_loader_head)):
-        #     loss, _, (labels_, preds_, logits_) = self.model.forward_classification(batch[0], batch[1], batch[2])
-        #     logits_ = torch.nn.functional.softmax(logits_, dim=-1)
-        #     scores = scores + logits_[:, 1].tolist()
-        #     # print(scores)
-        #     # print(len(scores))
-        #     preds = preds + preds_
-        # res_head = link_predicate(self.args, scores, self.link_dataset_head.triple_list, valid=False, head=True)
-        # if output_scores:
-        #     model_name = 'ours'
-        #     f = open(f'./log/link_prediction_head_scores.txt', 'w')
-        #     for i in range(len(scores)):
-        #         f.write(f'{self.link_dataset_head.triple_list[i]}\t{scores[i]}\t{preds[i]}\n')
+        scores = []
+        preds = []
+        for index, batch in enumerate(tqdm(self.link_loader_head)):
+            loss, _, (labels_, preds_, logits_) = self.model.forward_classification(batch[0], batch[1], batch[2])
+            logits_ = torch.nn.functional.softmax(logits_, dim=-1)
+            scores = scores + logits_[:, 1].tolist()
+            # print(scores)
+            # print(len(scores))
+            preds = preds + preds_
+        res_head = link_predicate(self.args, scores, self.link_dataset_head.triple_list, valid=False, head=True)
+        if output_scores:
+            model_name = 'ours'
+            f = open(f'./log/link_prediction_head_scores.txt', 'w')
+            for i in range(len(scores)):
+                f.write(f'{self.link_dataset_head.triple_list[i]}\t{scores[i]}\t{preds[i]}\n')
             # f.close()
         # tail
         scores = []
@@ -235,10 +235,10 @@ def evaluate_link_prediction_using_classification(self, epoch_idx, index, output
                 f.write(f'{self.link_dataset_tail.triple_list[i]}\t{scores[i]}\t{preds[i]}\n')
             f.close()
         # avg
-        # res_avg = [(res_head[i] + res_tail[i]) / 2.0 for i in range(len(res_head))]
-        # logger.info('Avg:')
-        # logger.info('Hits @10: {0}'.format(res_avg[0]))
-        # logger.info('Hits @5: {0}'.format(res_avg[1]))
-        # logger.info('Hits @1: {0}'.format(res_avg[2]))
-        # logger.info('Mean rank: {0}'.format(res_avg[3]))
-        # logger.info('Mean reciprocal rank: {0}'.format(res_avg[4]))
+        res_avg = [(res_head[i] + res_tail[i]) / 2.0 for i in range(len(res_head))]
+        logger.info('Avg:')
+        logger.info('Hits @10: {0}'.format(res_avg[0]))
+        logger.info('Hits @5: {0}'.format(res_avg[1]))
+        logger.info('Hits @1: {0}'.format(res_avg[2]))
+        logger.info('Mean rank: {0}'.format(res_avg[3]))
+        logger.info('Mean reciprocal rank: {0}'.format(res_avg[4]))

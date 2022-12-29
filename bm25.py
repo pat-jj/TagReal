@@ -13,7 +13,7 @@ def construct_args():
     # pre-parsing args
     parser.add_argument("--corpus_train", type=str, default='./Volumes/Aux/Downloaded/Data-Upload/UMLS+PubMed/text/train.json')
     parser.add_argument("--corpus_test", type=str, default='./Volumes/Aux/Downloaded/Data-Upload/UMLS+PubMed/text/test_5sent.json')
-    parser.add_argument("--kg_train", type=str, default='./TuckER/data/UMLS-PubMed/train.txt')
+    parser.add_argument("--kg_train", type=str, default='./kge_models/data/UMLS-PubMed/train.txt')
     parser.add_argument("--kg_valid", type=str, default='./Volumes/Aux/Downloaded/Data-Upload/UMLS+PubMed/kg/dev.txt')
     parser.add_argument("--kg_test", type=str, default='./Volumes/Aux/Downloaded/Data-Upload/UMLS+PubMed/kg/test.txt')
     parser.add_argument("--t2t_out_dir", type=str, default='./dataset/UMLS+PubMed/triple2text.txt')
@@ -77,12 +77,27 @@ def get_rel_list(args):
         ]
     elif args.dataset == "FB60K+NYT10":
         rel_list = ['/people/person/nationality', '/location/location/contains', '/people/person/place_lived', 
-            '/people/deceased_person/place_of_death', '/people/person/ethnicity', '/people/ethnicity/people',
-            '/business/person/company', '/people/person/religion', '/location/neighborhood/neighborhood_of',
-            '/business/company/founders', '/people/person/children', '/location/administrative_division/country',
-            '/location/country/administrative_divisions', '/business/company/place_founded', '/location/us_county/county_seat']
+                    '/people/deceased_person/place_of_death', '/people/person/ethnicity', '/people/ethnicity/people',
+                    '/business/person/company', '/people/person/religion', '/location/neighborhood/neighborhood_of',
+                    '/business/company/founders', '/people/person/children', '/location/administrative_division/country',
+                    '/location/country/administrative_divisions', '/business/company/place_founded', '/location/us_county/county_seat',
+                    '/people/person/place_of_birth']
     
     return rel_list
+
+
+def get_keywords(args):
+    if args.dataset == "FB60K+NYT10":
+        keywords = {
+            '/people/person/nationality': 'nationality', '/location/location/contains': 'in', '/people/person/place_lived': 'lived', 
+            '/people/deceased_person/place_of_death': 'death', '/people/person/ethnicity': 'ethnicity', '/people/ethnicity/people': 'ethnicity',
+            '/business/person/company': 'works', '/people/person/religion': 'religion', '/location/neighborhood/neighborhood_of': 'neighborhood',
+            '/business/company/founders': 'founder', '/people/person/children': 'children', '/location/administrative_division/country': 'administrative_division',
+            '/location/country/administrative_divisions': 'administrative_division', '/business/company/place_founded': 'founded', '/location/us_county/county_seat': 'county_seat',
+            '/people/person/place_of_birth': 'born'
+        }
+
+    return keywords
 
 
 def corpus2lower(tokenized_corpus_text, entity_set):    
@@ -135,24 +150,25 @@ def triple2text(args):
     rel_list = get_rel_list(args)
     entity_set = get_entity_set(args, data_corpus)
     entity2label = get_entity2label(args)
+    keywords = get_keywords(args)
     triple_text = {}
     
     # Add the exsiting mapping
     print("load existing mapping ...")
     for item in tqdm(data_corpus):
-        try:
-            if (item != None) and ('relation' in item.keys()) and (item['relation'] != None) and (item['relation'] in rel_list):
-                text = item['sentence'].replace('###END###\n', '')
-                head, relation, tail = item['head']['id'], item['relation'], item['tail']['id']
-                triple = head + '||' + relation + '||' + tail
-                if triple in triple_text.keys():
-                    if len(triple_text[triple]) <= 200:
-                        triple_text[triple] = triple_text[triple] + text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
-                else:
-                    if len(text) <= 200:
-                        triple_text[triple] = text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
-        except:
-            continue
+        # try:
+        if (item != None) and ('relation' in item.keys()) and (item['relation'] != None) and (item['relation'] in rel_list):
+            text = item['sentence'].replace('###END###\n', '')
+            head, relation, tail = item['head']['id'], item['relation'], item['tail']['id']
+            triple = head + '||' + relation + '||' + tail
+            if triple in triple_text.keys():
+                if len(triple_text[triple]) <= 400:
+                    triple_text[triple] = triple_text[triple] + text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
+            else:
+                if len(text) <= 400:
+                    triple_text[triple] = text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
+        # except:
+        #     continue
 
     print(f"existing mapping: {len(triple_text)}")
     
@@ -165,7 +181,6 @@ def triple2text(args):
 
     f_train = open(args.kg_train)
     data_kg_train = f_train.readlines()
-    triple_text = {}
 
     print("BM25 searching ...")
     for line in tqdm(data_kg_train):
@@ -188,8 +203,13 @@ def triple2text(args):
         bm25 = BM25Okapi(sub_text)
         
         text = ''
-        relation = relation.replace('/', ' ').replace('_', ' ')
-        query = head + ' ' + relation + ' ' + tail
+        if args.dataset == "FB60K+NYT10":
+            relation = keywords[relation]
+            relation = relation.replace('/', ' ').replace('_', ' ')
+            query = entity2label[head] + ' ' + relation + ' ' + entity2label[tail]
+        else:
+            relation = relation.replace('/', ' ').replace('_', ' ')
+            query = head + ' ' + relation + ' ' + tail
         tokenized_query = query.split(' ') 
         relevant_scores = bm25.get_scores(tokenized_query)
         order = np.argsort(relevant_scores)[::-1]
@@ -201,7 +221,7 @@ def triple2text(args):
                     tok = entity2label[tok]
                 text += tok + ' '
             text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
-            if i > 0 and len(sub_text[i]) < 400:
+            if i > 0 and len(sub_text[i]) < 400 and (triple not in triple_text.keys()):
                 triple_text[triple] = text
                 break
             elif i == 0:
@@ -221,6 +241,7 @@ def query2text(args):
     data_corpus = get_corpus(args)
     entity_set = get_entity_set(args, data_corpus) if args.entity_set == None else args.entity_set
     entity2label = get_entity2label(args)
+    keywords = get_keywords(args)
     query_text = {}
 
     # BM25
@@ -246,8 +267,15 @@ def query2text(args):
             continue
         bm25 = BM25Okapi(sub_text)
         text = ''
-        relation = relation.replace('/', ' ').replace('_', ' ')
-        query_ = head + ' ' + relation
+        
+        if args.dataset == "FB60K+NYT10":
+            relation = keywords[relation]
+            relation = relation.replace('/', ' ').replace('_', ' ')
+            query_ = entity2label[head] + ' ' + relation + ' ' + entity2label[tail]
+        else:
+            relation = relation.replace('/', ' ').replace('_', ' ')
+            query_ = head + ' ' + relation + ' ' + tail
+
         tokenized_query = query_.split(' ')
         relevant_scores = bm25.get_scores(tokenized_query)
         order = np.argsort(relevant_scores)[::-1]
@@ -278,7 +306,7 @@ def query2text(args):
 def main():
     args = construct_args()
     print("start support information retrieval in reliable sources ...")
-    # triple2text(args=args)
+    triple2text(args=args)
     query2text(args=args)
 
 

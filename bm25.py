@@ -237,6 +237,15 @@ def triple2text(args):
 
 
 def query2text(args):
+    triple_text = {}
+    if os.path.exists(args.t2t_out_dir):
+        with open(args.t2t_out_dir) as f:
+            lines = f.readlines()
+        for line in lines:
+            line = line[:-1]
+            triple, text = line.split('####SPLIT####')
+            triple_text[triple] = text
+
     print("retrieve text for queries (in validation/testing data) ...")
     data_corpus = get_corpus(args)
     entity_set = get_entity_set(args, data_corpus) if args.entity_set == None else args.entity_set
@@ -255,10 +264,18 @@ def query2text(args):
     f_test = open(args.kg_test)
     data_kg_valid_test = f_valid.readlines() + f_test.readlines()
 
+    cnt_from_triple2text = 0
     for line in tqdm(data_kg_valid_test):
         items = line[:-1].split('\t')
         head, relation, tail = items[0], items[1], items[2]
-        query = head + '||' + relation
+        triple = head + '||' +relation + '||' + tail
+        query_tail = head + '||' + relation
+        query_head = tail + '||' + relation
+        if triple in triple_text.keys():
+            query_text[query_tail] = triple_text[triple]
+            query_text[query_head] = triple_text[triple]
+            cnt_from_triple2text += 1
+            continue
         if head not in sub_corpus_text.keys():
             # print(f"{head} not found in corpus")
             continue
@@ -271,14 +288,19 @@ def query2text(args):
         if args.dataset == "FB60K+NYT10":
             relation = keywords[relation]
             relation = relation.replace('/', ' ').replace('_', ' ')
-            query_ = entity2label[head] + ' ' + relation + ' ' + entity2label[tail]
+            query_tail_ = entity2label[head] + ' ' + relation
+            query_head_ = entity2label[tail] + ' ' + relation
         else:
             relation = relation.replace('/', ' ').replace('_', ' ')
-            query_ = head + ' ' + relation + ' ' + tail
+            query_tail_ = head + ' ' + relation
+            query_head_ = tail + ' ' + relation
 
-        tokenized_query = query_.split(' ')
-        relevant_scores = bm25.get_scores(tokenized_query)
-        order = np.argsort(relevant_scores)[::-1]
+        tokenized_query_tail = query_tail_.split(' ')
+        tokenized_query_head = query_head_.split(' ')
+        relevant_scores_tail = bm25.get_scores(tokenized_query_tail)
+        relevant_scores_head = bm25.get_scores(tokenized_query_head)
+
+        order = np.argsort(relevant_scores_tail)[::-1]
         for i in order:
             text = ''
             toks = sub_text[i]
@@ -288,11 +310,26 @@ def query2text(args):
                 text += tok + ' '
             text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
             if i > 0 and len(sub_text[i]) < 400:
-                query_text[query] = text
+                query_text[query_tail] = text
                 break
             elif i == 0:
                 break
-    
+        
+        order = np.argsort(relevant_scores_head)[::-1]
+        for i in order:
+            text = ''
+            toks = sub_text[i]
+            for tok in toks:
+                if tok.startswith('C'):
+                    tok = entity2label[tok]
+                text += tok + ' '
+            text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
+            if i > 0 and len(sub_text[i]) < 400:
+                query_text[query_head] = text
+                break
+            elif i == 0:
+                break
+    print(f'size of query2text from triple2text: {cnt_from_triple2text}')
     out_str = ""
     for query in query_text.keys():
         line = query + '####SPLIT####' + query_text[query] + '\n'
@@ -306,7 +343,7 @@ def query2text(args):
 def main():
     args = construct_args()
     print("start support information retrieval in reliable sources ...")
-    triple2text(args=args)
+    # triple2text(args=args)
     query2text(args=args)
 
 

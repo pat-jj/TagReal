@@ -21,6 +21,6 @@ python3 -m torch.distributed.launch --nproc_per_node=7 tagreal.py \
 --pos_K 30 \
 --neg_K 30 \
 --random_neg_ratio 0.5 \
---keg_neg all \
+--kge_neg all \
 --link_prediction \
 --add_definition \

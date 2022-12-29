@@ -64,7 +64,7 @@ def construct_generation_args():
     parser.add_argument("--pos_K", type=int, default=1)
     parser.add_argument("--neg_K", type=int, default=1)
     parser.add_argument("--random_neg_ratio", type=float, default=1.0)
-    parser.add_argument("--keg_neg", type=str, default='all', choices=['all', 'tail'])
+    parser.add_argument("--kge_neg", type=str, default='all', choices=['all', 'tail'])
 
     parser.add_argument("--lr", type=float, default=1e-5)
     parser.add_argument("--lm_lr", type=float, default=1e-5)
@@ -418,7 +418,8 @@ class BasicDataWiki:
         if os.path.exists(os.path.join(self.dataset, 'triple2text.txt')):
             self.triple2text = {}
             lines = open(os.path.join(self.dataset, 'triple2text.txt'))
-            for line in lines:
+            print('loading bm25 triple2text ...')
+            for line in tqdm(lines):
                 triple, text = line.split('####SPLIT####')
                 h, r, t = triple.split('||')
                 triple_ = h +'\t' + r + '\t' + t
@@ -426,18 +427,21 @@ class BasicDataWiki:
             # logger_set.info(f'triple2text{self.triple2text}')
             
         else:
+            print('no bm25 triple2text found .')
             self.triple2text = None
 
         if os.path.exists(os.path.join(self.dataset, 'query2text.txt')):
             self.query2text = {}
             lines = open(os.path.join(self.dataset, 'query2text.txt'))
-            for line in lines:
+            print('loading bm25 query2text ...')
+            for line in tqdm(lines):
                 query, text = line.split('####SPLIT####')
-                h, r = query.split('||')
-                query_ = h +'\t' + r
+                e1, r = query.split('||')
+                query_ = e1 +'\t' + r
                 self.query2text[query_] = text[:-1]
             
         else:
+            print('no bm25 query2text found')
             self.query2text = None
 
     def init_templates_others(self):
@@ -479,8 +483,10 @@ class BasicDatasetWiki(Dataset):
 
         self.triples = None
 
-    def convert_from_triple_to_sentence(self, triple, isTrain=True):
+    def convert_from_triple_to_sentence(self, triple, isTrain=True, reverse=False):
         h, r, t = triple
+        if reverse:
+            t, r, h = triple
         h_, t_ = self.entity2label[h], self.entity2label[t]
         triple_ = h_ +'\t' + r + '\t' + t_
         query_ = h_ +'\t' + r
@@ -569,10 +575,10 @@ class KEDatasetWiki(BasicDatasetWiki):
 
 
 class KEDatasetWikiInfer(BasicDatasetWiki):
-    def __init__(self, filename, basic_data, recall_k):
+    def __init__(self, filename, basic_data, recall_k, head=False):
         super().__init__(basic_data)
         self.get_lines(filename, recall_k)
-        self.texts, self.rs, self.labels = self.process_data(filename)
+        self.texts, self.rs, self.labels = self.process_data(filename, head)
 
     def get_lines(self, filename, recall_k):
         lines = open(filename).read()
@@ -586,11 +592,14 @@ class KEDatasetWikiInfer(BasicDatasetWiki):
                 triple_set.add(lines[i].strip())
         self.triple_list = list(triple_set)
 
-    def process_data(self, filename):
+    def process_data(self, filename, head=False):
         texts, rs, labels = [], [], []
         for i in range(len(self.triple_list)):
             pos_triple = self.triple_list[i].strip().split('\t')
-            texts.append(self.convert_from_triple_to_sentence(pos_triple))
+            if head == False:
+                texts.append(self.convert_from_triple_to_sentence(pos_triple))
+            else:
+                texts.append(self.convert_from_triple_to_sentence(pos_triple, reverse=True))
             labels.append(1)
             rs.append(self.relation2idx[pos_triple[1]])
         return texts, rs, labels
@@ -599,7 +608,7 @@ class KEDatasetWikiInfer(BasicDatasetWiki):
 def get_dataloader(args, tokenizer):
     basic_data = BasicDataWiki(args, tokenizer)
 
-    neg_file_kge = join(args.data_dir, f'train_neg_kge_{args.keg_neg}.txt')
+    neg_file_kge = join(args.data_dir, f'train_neg_kge_{args.kge_neg}.txt')
     if args.random_neg_ratio == 1.0:
         neg_file_kge = None
 
@@ -646,7 +655,8 @@ def get_dataloader(args, tokenizer):
         link_dataset_head = KEDatasetWikiInfer(
             join(args.data_dir, 'link_prediction_head.txt'), 
             basic_data, 
-            args.recall_k
+            args.recall_k,
+            head=True
         )
 
     # train_loader = DataLoader(train_set, batch_size=args.batch_size, shuffle=True)

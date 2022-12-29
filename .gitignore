@@ -132,6 +132,7 @@ __pycache__
 /CPL_processed_data/test_mask.npy
 
 ./prompt_mining/prompt_opti/log
+./support_info_retrieval/text_for_triples.ipynb
 
 /analysis.ipynb
 /analysis_.ipynb

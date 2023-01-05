@@ -122,14 +122,14 @@ class Experiment:
 
             for j in range(data_batch.shape[0]):
                 # if self.filt:
-                filt = er_vocab[(data_batch[j][0], data_batch[j][1])]
-                target_value = predictions[j,e2_idx[j]].item()
-                predictions[j, filt] = 0.0
-                predictions[j, e2_idx[j]] = target_value
+                # filt = er_vocab[(data_batch[j][0], data_batch[j][1])]
+                # target_value = predictions[j,e2_idx[j]].item()
+                # predictions[j, filt] = 0.0
+                # predictions[j, e2_idx[j]] = target_value
 
                 # else:
-                # target_value = predictions[j,e2_idx[j]].item()
-                # predictions[j, e2_idx[j]] = target_value
+                target_value = predictions[j,e2_idx[j]].item()
+                predictions[j, e2_idx[j]] = target_value
 
             sort_values, sort_idxs = torch.sort(predictions, dim=1, descending=True)
 
@@ -232,12 +232,12 @@ class Experiment:
             print('Epoch: {}, Time: {}s, Loss: {}'.format(it, time.time()-start_train, np.mean(losses)))
             model.eval()
             with torch.no_grad():
-                if it % 10 == 0 and it != 0:
+                if it % 50 == 0 and it != 0:
                     print("Test:")
                     self.evaluate(model, d.test_data, out_lp_constraints=False)
                 if it == self.num_iterations - 1:
-                    self.evaluate(model, d.test_data, out_lp_constraints=True)
-                    self.get_train_kge_neg(model, d.train_data)
+                    self.evaluate(model, d.test_data, out_lp_constraints=False)
+                    # self.get_train_kge_neg(model, d.train_data)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -275,7 +275,11 @@ if __name__ == '__main__':
     dataset = args.dataset
     data_dir = "data/%s/" % dataset
     torch.backends.cudnn.deterministic = True 
-
+    seed = 5583
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    if torch.cuda.is_available:
+        torch.cuda.manual_seed_all(seed) 
     d = Data(data_dir=data_dir, reverse=True)
     # os.environ['CUDA_VISIBLE_DEVICES'] = str(args.gpu)
     experiment = Experiment(num_iterations=args.num_iterations, batch_size=args.batch_size, learning_rate=args.lr, 

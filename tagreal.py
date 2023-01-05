@@ -82,6 +82,9 @@ def construct_generation_args():
     parser.add_argument("--add_definition", action='store_true')
     parser.add_argument("--test_open", action='store_true')
 
+    # support info
+    parser.add_argument("--supp_info", type=str, default="False")
+
     # directories
     parser.add_argument("--data_dir", type=str, default='./dataset')
     parser.add_argument("--out_dir", type=str, default='./dataset')
@@ -123,21 +126,21 @@ def create_model(args):
 
 
 def get_model_and_tokenizer_class(args):
-    if 'gpt' in args.model_name:
+    if 'gpt' == args.model_name:
         return GPT2LMHeadModel, AutoTokenizer
-    elif 'roberta' in args.model_name:
+    elif 'roberta' == args.model_name:
         return RobertaForSequenceClassification, AutoTokenizer
-    elif 'kepler' in args.model_name:
+    elif 'kepler' == args.model_name:
         return RobertaForSequenceClassification, AutoTokenizer
-    elif 'luke' in args.model_name:
+    elif 'luke' == args.model_name:
         return LUKEForSequenceClassification, AutoTokenizer
-    # elif 'bert' in args.model_name:
-    #     return BertForSequenceClassification, AutoTokenizer
-    elif 'megatron' in args.model_name:
+    elif 'bert' == args.model_name[:4]:
+        return BertForSequenceClassification, AutoTokenizer
+    elif 'megatron' == args.model_name:
         return None, AutoTokenizer
-    elif 'biobert' in args.model_name:
+    elif 'biobert' == args.model_name:
         return AutoModelForSequenceClassification, AutoTokenizer
-    elif 'sapbert' in args.model_name:
+    elif 'sapbert' == args.model_name:
         return SapBertForSequenceClassfication, AutoTokenizer
 
     else:
@@ -322,8 +325,8 @@ def get_embedding_layer(args, model):
         embeddings = model.roberta.get_input_embeddings()
     elif 'luke' in args.model_name:
         embeddings = model.luke.get_input_embeddings()
-    # elif 'bert' in args.model_name:
-    #     embeddings = model.bert.get_input_embeddings()
+    elif 'bert' == args.model_name[:4]:
+        embeddings = model.bert.get_input_embeddings()
     elif 'gpt' in args.model_name:
         embeddings = model.base_model.get_input_embeddings()
     elif 'sapbert' in args.model_name:
@@ -409,10 +412,11 @@ class BasicDataWiki:
         self.args = args
         self.dataset = args.data_dir
         self.tokenizer = tokenizer
+        self.triple2text = None
+        self.query2text_tail = None
+        self.query2text_head = None
         self.init_templates()
         self.init_definition()
-        self.triple2text = None
-        self.query2text = None
 
     def init_definition(self):
         if os.path.exists(os.path.join(self.dataset, 'triple2text.txt')):
@@ -430,19 +434,33 @@ class BasicDataWiki:
             print('no bm25 triple2text found .')
             self.triple2text = None
 
-        if os.path.exists(os.path.join(self.dataset, 'query2text.txt')):
-            self.query2text = {}
-            lines = open(os.path.join(self.dataset, 'query2text.txt'))
-            print('loading bm25 query2text ...')
+        if os.path.exists(os.path.join(self.dataset, 'query2text_tail.txt')):
+            self.query2text_tail = {}
+            lines = open(os.path.join(self.dataset, 'query2text_tail.txt'))
+            print('loading bm25 query2text_tail ...')
             for line in tqdm(lines):
                 query, text = line.split('####SPLIT####')
-                e1, r = query.split('||')
-                query_ = e1 +'\t' + r
-                self.query2text[query_] = text[:-1]
+                h, r = query.split('||')
+                query_ = h +'||' + r
+                self.query2text_tail[query_] = text[:-1]
             
         else:
-            print('no bm25 query2text found')
-            self.query2text = None
+            print('no bm25 query2text_tail found')
+            self.query2text_tail = None
+
+        if os.path.exists(os.path.join(self.dataset, 'query2text_head.txt')):
+            self.query2text_head = {}
+            lines = open(os.path.join(self.dataset, 'query2text_head.txt'))
+            print('loading bm25 query2text_head ...')
+            for line in tqdm(lines):
+                query, text = line.split('####SPLIT####')
+                t, r = query.split('||')
+                query_ = t +'||' + r
+                self.query2text_head[query_] = text[:-1]
+            
+        else:
+            print('no bm25 query2text_head found')
+            self.query2text_head = None
 
     def init_templates_others(self):
         with open(f'{self.dataset}/relation2template.json', 'r') as f:
@@ -479,17 +497,16 @@ class BasicDatasetWiki(Dataset):
         self.entity2label = basic_data.entity2label
         self.relation2idx = basic_data.relation2idx
         self.triple2text = basic_data.triple2text
-        self.query2text = basic_data.query2text
-
+        self.query2text_tail = basic_data.query2text_tail
+        self.query2text_head = basic_data.query2text_head
         self.triples = None
 
-    def convert_from_triple_to_sentence(self, triple, isTrain=True, reverse=False):
+    def convert_from_triple_to_sentence(self, triple, isTrain=False, reverse=False, cnt=[]):
         h, r, t = triple
-        if reverse:
-            t, r, h = triple
+        triple_ = h + '\t' + r + '\t' + t
+        query_ = h + '||' + r
+
         h_, t_ = self.entity2label[h], self.entity2label[t]
-        triple_ = h_ +'\t' + r + '\t' + t_
-        query_ = h_ +'\t' + r
 
         this_template = self.relation2template[r].strip()
 
@@ -497,10 +514,26 @@ class BasicDatasetWiki(Dataset):
         if isTrain:
             if self.triple2text is not None:
                 sentence = self.triple2text[triple_] if triple_ in self.triple2text.keys() else ''
+                sentence = sentence if len(sentence) <= 100 else ''
+                if sentence != '':
+                    cnt.append(1)
+                sentence = ''
                 this_template = f'{sentence} [SEP] {this_template}'
+            else:
+                this_template = f'[SEP] {this_template}'
         else:
-            if self.query2text is not None:
-                sentence = random.choice(self.query2text[query_].split('[SEP]')) if query_ in self.query2text.keys() else ''
+            if reverse == False and self.query2text_tail is not None:
+                sentence = self.query2text_tail[query_] if query_ in self.query2text_tail.keys() else ''
+                # sentence = sentence if len(sentence) <= 100 else ''
+                if sentence != '':
+                    cnt.append(1)
+                this_template = f'{sentence} [SEP] {this_template}'
+
+            if reverse == True and self.query2text_head is not None:
+                sentence = self.query2text_head[query_] if query_ in self.query2text_head.keys() else ''
+                # sentence = sentence if len(sentence) <= 100 else ''
+                if sentence != '':
+                    cnt.append(1)
                 this_template = f'{sentence} [SEP] {this_template}'
 
 
@@ -515,9 +548,9 @@ class BasicDatasetWiki(Dataset):
         idx_x = self.relation2template[r].find('[X]')
         idx_y = self.relation2template[r].find('[Y]')
         if idx_x < idx_y:
-            final_list = [prompts[0], h.strip(), prompts[1], t.strip(), prompts[2]]
+            final_list = [prompts[0], h.strip().replace('_', ' '), prompts[1], t.strip().replace('_', ' '), prompts[2]]
         else:
-            final_list = [prompts[0], t.strip(), prompts[1], h.strip(), prompts[2]]
+            final_list = [prompts[0], t.strip().replace('_', ' '), prompts[1], h.strip().replace('_', ' '), prompts[2]]
         return '\t\t'.join(final_list)
 
     def __getitem__(self, i):
@@ -549,28 +582,30 @@ class KEDatasetWiki(BasicDatasetWiki):
             # random.shuffle(neg_kge_lines)
         # WARNING: data must be shuffled
 
-        # random.shuffle(neg_rand_lines)
+        random.shuffle(neg_rand_lines)
         rand_neg_k = int(self.neg_K * self.random_neg_ratio)
         kge_neg_k = self.neg_K - rand_neg_k
+        count = []
         for i in range(len(pos_lines)):
             pos_triple = pos_lines[i].strip().split('\t')
             for x in range(self.pos_K):
-                texts.append(self.convert_from_triple_to_sentence(pos_triple, self.isTrain))
+                texts.append(self.convert_from_triple_to_sentence(pos_triple, self.isTrain, cnt=count))
                 labels.append(1)
                 rs.append(self.relation2idx[pos_triple[1]])
                 triples.append('\t'.join(pos_triple))
             for x in range(rand_neg_k * i, rand_neg_k * (i + 1)): 
                 neg_triple = neg_rand_lines[x].strip().split('\t')
-                texts.append(self.convert_from_triple_to_sentence(neg_triple, self.isTrain))
+                texts.append(self.convert_from_triple_to_sentence(neg_triple, self.isTrain, cnt=count))
                 labels.append(0)
                 rs.append(self.relation2idx[neg_triple[1]])
                 triples.append('\t'.join(neg_triple))
             for x in range(kge_neg_k * i, kge_neg_k * (i + 1)):
                 neg_triple = neg_kge_lines[x].strip().split('\t')
-                texts.append(self.convert_from_triple_to_sentence(neg_triple, self.isTrain))
+                texts.append(self.convert_from_triple_to_sentence(neg_triple, self.isTrain, cnt=count))
                 labels.append(0)
                 rs.append(self.relation2idx[neg_triple[1]])
                 triples.append('\t'.join(neg_triple))
+        print(f'classification support info count: {len(count)}')
         return texts, rs, labels, triples
 
 
@@ -593,15 +628,17 @@ class KEDatasetWikiInfer(BasicDatasetWiki):
         self.triple_list = list(triple_set)
 
     def process_data(self, filename, head=False):
+        count = []
         texts, rs, labels = [], [], []
-        for i in range(len(self.triple_list)):
+        for i in tqdm(range(len(self.triple_list))):
             pos_triple = self.triple_list[i].strip().split('\t')
             if head == False:
-                texts.append(self.convert_from_triple_to_sentence(pos_triple))
+                texts.append(self.convert_from_triple_to_sentence(pos_triple, cnt=count))
             else:
-                texts.append(self.convert_from_triple_to_sentence(pos_triple, reverse=True))
+                texts.append(self.convert_from_triple_to_sentence(pos_triple, reverse=True, cnt=count))
             labels.append(1)
             rs.append(self.relation2idx[pos_triple[1]])
+        print(f'link support info count: {len(count)}')
         return texts, rs, labels
 
 
@@ -628,7 +665,7 @@ def get_dataloader(args, tokenizer):
         join(args.data_dir, 'test_pos.txt'), 
         join(args.data_dir, 'test_neg.txt'), 
         basic_data,
-        isTrain=False
+        isTrain=True
     )
     print("Finished building test set")
 
@@ -636,16 +673,16 @@ def get_dataloader(args, tokenizer):
         join(args.data_dir, 'valid_pos.txt'), 
         join(args.data_dir, 'valid_neg.txt'), 
         basic_data,
-        isTrain=False
+        isTrain=True
     )
-    print("Finished building dev set")
+    print("Finished building valid set")
 
-    if args.test_open:
-        o_test_set = KEDatasetWiki(
-            join(args.data_dir, 'o_test_pos.txt'), 
-            join(args.data_dir, 'o_test_neg.txt'), 
-            basic_data
-        )
+    # if args.test_open:
+    #     o_test_set = KEDatasetWiki(
+    #         join(args.data_dir, 'o_test_pos.txt'), 
+    #         join(args.data_dir, 'o_test_neg.txt'), 
+    #         basic_data
+    #     )
     if args.link_prediction:
         link_dataset_tail = KEDatasetWikiInfer(
             join(args.data_dir, 'link_prediction_tail.txt'), 
@@ -658,6 +695,18 @@ def get_dataloader(args, tokenizer):
             args.recall_k,
             head=True
         )
+    
+    # tail_set_text = link_dataset_tail.texts
+    # out_file = open('./tttt.txt', 'w', encoding='utf-8')
+    # for text in tqdm(tail_set_text):
+    #     out_file.write(text + '\n')
+    # out_file.close()
+
+    # head_set_text = link_dataset_head.texts
+    # out_file = open('./hhhh.txt', 'w', encoding='utf-8')
+    # for text in tqdm(head_set_text):
+    #     out_file.write(text + '\n')
+    # out_file.close()
 
     # train_loader = DataLoader(train_set, batch_size=args.batch_size, shuffle=True)
     # dev_loader = DataLoader(dev_set, batch_size=args.batch_size)
@@ -665,10 +714,10 @@ def get_dataloader(args, tokenizer):
     
     ch_test_loader, oh_test_loader = None, None
 
-    if args.test_open:
-        o_test_loader = DataLoader(o_test_set, batch_size=args.batch_size)
-    else:
-        o_test_loader = None
+    # if args.test_open:
+    #     o_test_loader = DataLoader(o_test_set, batch_size=args.batch_size)
+    # else:
+    o_test_loader = None
 
     # if args.link_prediction:
     #     # link_loader_tail = DataLoader(link_dataset_tail, batch_size=args.batch_size)
@@ -916,17 +965,15 @@ class Trainer(object):
         self.dev_loader = torch.utils.data.DataLoader(self.dev_set, batch_size=self.args.batch_size, sampler=self.dev_sampler, drop_last=True)
         self.link_loader_tail = torch.utils.data.DataLoader(
             self.link_dataset_tail, 
-            batch_size=self.args.batch_size, 
+            batch_size=int(self.args.batch_size / 2), 
             # sampler=self.link_tail_sampler, 
             )
         self.link_loader_head = torch.utils.data.DataLoader(
             self.link_dataset_head,
-             batch_size=self.args.batch_size,
+             batch_size=int(self.args.batch_size / 2),
             #   sampler=self.link_head_sampler,
             )
 
-
-        
 
         for epoch_idx in range(self.args.max_epoch):
             # run training
@@ -964,6 +1011,7 @@ class Trainer(object):
 
                     # Link Prediction
                     if self.args.link_prediction and not (batch_idx == 0 and epoch_idx == 0):
+                    # if self.args.link_prediction:
                         evaluate_link_prediction_using_classification(self, epoch_idx, batch_idx, output_scores=True)
 
                     # Early stop and save

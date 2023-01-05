@@ -29,24 +29,36 @@ class Experiment:
                        "hidden_dropout2": hidden_dropout2}
         self.filt = filt
         
-    def get_data_idxs(self, data):
+    def get_data_idxs(self, data, test=False):
         data_idxs = [(self.entity_idxs[data[i][0]], self.relation_idxs[data[i][1]], \
-                      self.entity_idxs[data[i][2]]) for i in range(len(data))]
+                      self.entity_idxs[data[i][2]], i) for i in range(len(data))]
+        if test:
+            data_idxs = [(self.entity_idxs[data[i][0]], self.relation_idxs[data[i][1]], \
+                self.entity_idxs[data[i][2]]) for i in range(len(data))]
         return data_idxs
     
-    def get_er_vocab(self, data):
+    def get_er_vocab(self, data, test=False):
         er_vocab = defaultdict(list)
-        for triple in data:
-            er_vocab[(triple[0], triple[1])].append(triple[2])
+        if not test:
+            for triple in data:
+                er_vocab[(triple[0], triple[1], triple[3])].append(triple[2])
+        else:
+            for triple in data:
+                er_vocab[(triple[0], triple[1])].append(triple[2]) 
+            
         return er_vocab
 
-    def get_batch(self, er_vocab, er_vocab_pairs, idx):
+    def get_batch_train(self, er_vocab, er_vocab_pairs, idx):
         batch = er_vocab_pairs[idx:idx+self.batch_size]
         targets = torch.zeros(len(batch), len(d.entities), device='cuda')
         for idx, pair in enumerate(batch):
             targets[idx, er_vocab[pair]] = 1.
         return np.array(batch), targets
 
+    def get_batch_eval(self, er_vocab, er_vocab_pairs, idx):
+        batch = er_vocab_pairs[idx:idx+self.batch_size]
+
+        return np.array(batch)
     
     def get_train_kge_neg(self, model, data):
         ft = open('output/{}.{}.{}.kge_neg.txt'.format(self.dataset, self.model, self.ent_vec_dim), 'w')
@@ -61,7 +73,7 @@ class Experiment:
         print("Number of data points: %d" % len(test_data_idxs))
         
         for i in range(0, len(test_data_idxs), self.batch_size):
-            data_batch, _ = self.get_batch(er_vocab, test_data_idxs, i)
+            data_batch = self.get_batch_eval(er_vocab, test_data_idxs, i)
             e1_idx = torch.tensor(data_batch[:,0])
             r_idx = torch.tensor(data_batch[:,1])
             e2_idx = torch.tensor(data_batch[:,2])
@@ -99,15 +111,15 @@ class Experiment:
         for i in range(10):
             hits.append([])
 
-        test_data_idxs = self.get_data_idxs(data)
-        er_vocab = self.get_er_vocab(self.get_data_idxs(d.data))
+        test_data_idxs = self.get_data_idxs(data, test=True)
+        er_vocab = self.get_er_vocab(self.get_data_idxs(d.data), test=True)
         self.seen_data = d.train_data + d.valid_data +d.test_data
         self.seen_data = set(map(tuple, self.seen_data))
 
         print("Number of data points: %d" % len(test_data_idxs))
         
         for i in tqdm(range(0, len(test_data_idxs), self.batch_size)):
-            data_batch, _ = self.get_batch(er_vocab, test_data_idxs, i)
+            data_batch = self.get_batch_eval(er_vocab, test_data_idxs, i)
             e1_idx = torch.tensor(data_batch[:,0])
             r_idx = torch.tensor(data_batch[:,1])
             e2_idx = torch.tensor(data_batch[:,2])
@@ -120,16 +132,16 @@ class Experiment:
                 e2_idx = e2_idx.cuda()
             predictions = model.forward(e1_idx, r_idx)
 
-            for j in range(data_batch.shape[0]):
-                # if self.filt:
-                filt = er_vocab[(data_batch[j][0], data_batch[j][1])]
-                target_value = predictions[j,e2_idx[j]].item()
-                predictions[j, filt] = 0.0
-                predictions[j, e2_idx[j]] = target_value
+            # for j in range(data_batch.shape[0]):
+            #     # if self.filt:
+            #         # filt = er_vocab[(data_batch[j][0], data_batch[j][1])]
+            #         # target_value = predictions[j,e2_idx[j]].item()
+            #         # predictions[j, filt] = 0.0
+            #         # predictions[j, e2_idx[j]] = target_value
 
-                # else:
-                # target_value = predictions[j,e2_idx[j]].item()
-                # predictions[j, e2_idx[j]] = target_value
+            #     # else:
+            #     target_value = predictions[j,e2_idx[j]].item()
+            #     predictions[j, e2_idx[j]] = target_value
 
             sort_values, sort_idxs = torch.sort(predictions, dim=1, descending=True)
 
@@ -213,7 +225,7 @@ class Experiment:
             losses = []
             np.random.shuffle(er_vocab_pairs)
             for j in tqdm(range(0, len(er_vocab_pairs), self.batch_size)):
-                data_batch, targets = self.get_batch(er_vocab, er_vocab_pairs, j)
+                data_batch, targets = self.get_batch_train(er_vocab, er_vocab_pairs, j)
                 opt.zero_grad()
                 e1_idx = torch.tensor(data_batch[:,0])
                 r_idx = torch.tensor(data_batch[:,1])  
@@ -232,12 +244,12 @@ class Experiment:
             print('Epoch: {}, Time: {}s, Loss: {}'.format(it, time.time()-start_train, np.mean(losses)))
             model.eval()
             with torch.no_grad():
-                if it % 10 == 0 and it != 0:
+                if it % 50 == 0 and it != 0:
                     print("Test:")
                     self.evaluate(model, d.test_data, out_lp_constraints=False)
-                if it == self.num_iterations - 1:
-                    self.evaluate(model, d.test_data, out_lp_constraints=True)
-                    self.get_train_kge_neg(model, d.train_data)
+                # if it == self.num_iterations - 1:
+                #     self.evaluate(model, d.test_data, out_lp_constraints=True)
+                    # self.get_train_kge_neg(model, d.train_data)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -275,7 +287,11 @@ if __name__ == '__main__':
     dataset = args.dataset
     data_dir = "data/%s/" % dataset
     torch.backends.cudnn.deterministic = True 
-
+    seed = 5583
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    if torch.cuda.is_available:
+        torch.cuda.manual_seed_all(seed) 
     d = Data(data_dir=data_dir, reverse=True)
     # os.environ['CUDA_VISIBLE_DEVICES'] = str(args.gpu)
     experiment = Experiment(num_iterations=args.num_iterations, batch_size=args.batch_size, learning_rate=args.lr, 

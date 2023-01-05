@@ -7,7 +7,10 @@ python3 bm25.py \
 --kg_valid './dataset/FB60K-NYT10-100/valid.txt' \
 --kg_test './dataset/FB60K-NYT10-100/test.txt' \
 --t2t_out_dir './dataset/FB60K-NYT10-100/triple2text.txt' \
---q2t_out_dir './dataset/FB60K-NYT10-100/query2text.txt' \
+--q2t_out_dir_tail './dataset/FB60K-NYT10-100/query2text_tail.txt' \
+--q2t_out_dir_head './dataset/FB60K-NYT10-100/query2text_head.txt' \
 --sub_corpus_text_dir './dataset/FB60K-NYT10-100/sup_text.json' \
 --dataset 'FB60K+NYT10' \
---entity2label './dataset/FB60K-NYT10-100/entity2label.txt'
+--entity2label './dataset/FB60K-NYT10-100/entity2label.txt' \
+--tail_prediction "False" \
+--head_prediction "False"

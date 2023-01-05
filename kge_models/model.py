@@ -63,6 +63,7 @@ class ConvE(torch.nn.Module):
         self.bn1 = torch.nn.BatchNorm2d(32)
         self.bn2 = torch.nn.BatchNorm1d(d1)
         self.register_parameter('b', Parameter(torch.zeros(len(d.entities))))
+        # self.fc = torch.nn.Linear(5760, int(d1))
         if int(d1) == 128:
             self.fc = torch.nn.Linear(5760, d1)
         elif int(d1) == 256:
@@ -80,6 +81,9 @@ class ConvE(torch.nn.Module):
 
         e1_embedded= e1_embedded.view(-1, 1, self.emb_dim1, self.emb_dim2)
         rel_embedded = self.emb_rel(r_idx).view(-1, 1, self.emb_dim1, self.emb_dim2)
+
+        # e1_embedded= e1_embedded.view(-1, 1, 10, 20)
+        # rel_embedded = self.emb_rel(r_idx).view(-1, 1, 10, 20)
 
         stacked_inputs = torch.cat([e1_embedded, rel_embedded], 2)
 

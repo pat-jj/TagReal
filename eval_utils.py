@@ -113,7 +113,7 @@ def evaluate_classification_using_classification(self, epoch_idx):
     return dev_f1, test_f1
 
 def link_predicate(args, idx2score, link_triple_list, valid=False, head=False):
-    lines = open(f'{args.data_dir}/entity2label.txt').readlines()
+    lines = open(f'{args.data_dir}/entity2label_kg.txt').readlines()
     entity2id = {lines[i].strip().split('\t')[0]:i for i in range(len(lines))}
     id2entity = {i:lines[i].strip().split('\t')[0] for i in range(len(lines))}
 
@@ -152,9 +152,13 @@ def link_predicate(args, idx2score, link_triple_list, valid=False, head=False):
         if (h, r, t) in triple_set:
             continue
         if head:
+            if (h not in entity2id.keys()):
+                continue
             for idx in hr2index[(t, r)]:
                 final_score[idx][entity2id[h]] = idx2score[i]
         else:
+            if (t not in entity2id.keys()):
+                continue
             for idx in hr2index[(h, r)]:
                 final_score[idx][entity2id[t]] = idx2score[i]
         
@@ -215,10 +219,10 @@ def evaluate_link_prediction_using_classification(self, epoch_idx, index, output
         res_head = link_predicate(self.args, scores, self.link_dataset_head.triple_list, valid=False, head=True)
         if output_scores:
             model_name = 'ours'
-            f = open(f'./log/link_prediction_head_scores.txt', 'w')
+            f = open(f'{self.args.data_dir}/{model_name}.link_prediction_head_scores.txt', 'w')
             for i in range(len(scores)):
                 f.write(f'{self.link_dataset_head.triple_list[i]}\t{scores[i]}\t{preds[i]}\n')
-            # f.close()
+            f.close()
         # tail
         scores = []
         preds = []

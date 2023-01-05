@@ -17,12 +17,16 @@ def construct_args():
     parser.add_argument("--kg_valid", type=str, default='./Volumes/Aux/Downloaded/Data-Upload/UMLS+PubMed/kg/dev.txt')
     parser.add_argument("--kg_test", type=str, default='./Volumes/Aux/Downloaded/Data-Upload/UMLS+PubMed/kg/test.txt')
     parser.add_argument("--t2t_out_dir", type=str, default='./dataset/UMLS+PubMed/triple2text.txt')
-    parser.add_argument("--q2t_out_dir", type=str, default='./dataset/UMLS+PubMed/query2text.txt')
+    parser.add_argument("--q2t_out_dir_tail", type=str, default='./dataset/UMLS+PubMed/query2text_tail.txt')
+    parser.add_argument("--q2t_out_dir_head", type=str, default='./dataset/UMLS+PubMed/query2text_head.txt')
     parser.add_argument("--entity_set", type=set, default=None)
     parser.add_argument("--sub_corpus_text", type=dict, default=None)
     parser.add_argument("--sub_corpus_text_dir", type=str, default='./dataset/UMLS+PubMed/sup_text.json')
     parser.add_argument("--dataset", type=str, default="UMLS+PubMed")
     parser.add_argument("--entity2label", type=str, default="./data_utils/entity2label.txt")
+    parser.add_argument("--tail_prediction", type=str, default="False")
+    parser.add_argument("--head_prediction", type=str, default="False")
+    parser.add_argument("--train_sup", type=str, default="True")
 
     args = parser.parse_args()
 
@@ -96,6 +100,17 @@ def get_keywords(args):
             '/location/country/administrative_divisions': 'administrative_division', '/business/company/place_founded': 'founded', '/location/us_county/county_seat': 'county_seat',
             '/people/person/place_of_birth': 'born'
         }
+    elif args.dataset == "UMLS+PubMed":
+        keywords = {
+            'gene_associated_with_disease': 'associated_with',
+            'disease_has_associated_gene': 'has_associated',
+            'gene_mapped_to_disease': 'mapped_to',
+            'disease_mapped_to_gene': 'mapped_to',
+            'may_be_treated_by': 'treat',
+            'may_treat': 'treat',
+            'may_be_prevented_by': 'prevent',
+            'may_prevent': 'prevent',
+        }
 
     return keywords
 
@@ -145,7 +160,7 @@ def get_entity2label(args):
     return entity2label
 
 def triple2text(args):
-    print("retrieve text for triples (in training data) ...")
+    print("retrieve text for triples ...")
     data_corpus = get_corpus(args)
     rel_list = get_rel_list(args)
     entity_set = get_entity_set(args, data_corpus)
@@ -162,10 +177,12 @@ def triple2text(args):
             head, relation, tail = item['head']['id'], item['relation'], item['tail']['id']
             triple = head + '||' + relation + '||' + tail
             if triple in triple_text.keys():
-                if len(triple_text[triple]) <= 400:
-                    triple_text[triple] = triple_text[triple] + text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
+                if len(triple_text[triple]) <= 100:
+                    combo = triple_text[triple] + text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
+                    if len(combo) <= 100:
+                        triple_text[triple] = combo
             else:
-                if len(text) <= 400:
+                if len(text) <= 100:
                     triple_text[triple] = text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
         # except:
         #     continue
@@ -184,6 +201,7 @@ def triple2text(args):
 
     print("BM25 searching ...")
     for line in tqdm(data_kg_train):
+        # break
         items = line[:-1].split('\t')
         head, relation, tail = items[0], items[1], items[2]
         triple = head + '||' + relation + '||' + tail
@@ -221,7 +239,7 @@ def triple2text(args):
                     tok = entity2label[tok]
                 text += tok + ' '
             text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
-            if i > 0 and len(sub_text[i]) < 400 and (triple not in triple_text.keys()):
+            if i > 0 and len(sub_text[i]) < 100 and (triple not in triple_text.keys()):
                 triple_text[triple] = text
                 break
             elif i == 0:
@@ -251,7 +269,8 @@ def query2text(args):
     entity_set = get_entity_set(args, data_corpus) if args.entity_set == None else args.entity_set
     entity2label = get_entity2label(args)
     keywords = get_keywords(args)
-    query_text = {}
+    query_text_tail = {}
+    query_text_head = {}
 
     # BM25
     corpus_text = []
@@ -272,8 +291,8 @@ def query2text(args):
         query_tail = head + '||' + relation
         query_head = tail + '||' + relation
         if triple in triple_text.keys():
-            query_text[query_tail] = triple_text[triple]
-            query_text[query_head] = triple_text[triple]
+            query_text_tail[query_tail] = triple_text[triple]
+            query_text_head[query_head] = triple_text[triple]
             cnt_from_triple2text += 1
             continue
         if head not in sub_corpus_text.keys():
@@ -297,53 +316,67 @@ def query2text(args):
 
         tokenized_query_tail = query_tail_.split(' ')
         tokenized_query_head = query_head_.split(' ')
-        relevant_scores_tail = bm25.get_scores(tokenized_query_tail)
-        relevant_scores_head = bm25.get_scores(tokenized_query_head)
+        if args.tail_prediction == "True":
+            relevant_scores_tail = bm25.get_scores(tokenized_query_tail)
+        if args.head_prediction == "True":
+            relevant_scores_head = bm25.get_scores(tokenized_query_head)
 
-        order = np.argsort(relevant_scores_tail)[::-1]
-        for i in order:
-            text = ''
-            toks = sub_text[i]
-            for tok in toks:
-                if tok.startswith('C'):
-                    tok = entity2label[tok]
-                text += tok + ' '
-            text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
-            if i > 0 and len(sub_text[i]) < 400:
-                query_text[query_tail] = text
-                break
-            elif i == 0:
-                break
-        
-        order = np.argsort(relevant_scores_head)[::-1]
-        for i in order:
-            text = ''
-            toks = sub_text[i]
-            for tok in toks:
-                if tok.startswith('C'):
-                    tok = entity2label[tok]
-                text += tok + ' '
-            text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
-            if i > 0 and len(sub_text[i]) < 400:
-                query_text[query_head] = text
-                break
-            elif i == 0:
-                break
+        if args.tail_prediction == "True":
+            order = np.argsort(relevant_scores_tail)[::-1]
+            for i in order:
+                text = ''
+                toks = sub_text[i]
+                for tok in toks:
+                    if tok.startswith('C'):
+                        tok = entity2label[tok]
+                    text += tok + ' '
+                text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
+                if i > 0 and len(sub_text[i]) < 400 and query_tail not in query_text_tail.keys():
+                    query_text_tail[query_tail] = text
+                    break
+                elif i == 0:
+                    break
+        if args.head_prediction == "True":
+            order = np.argsort(relevant_scores_head)[::-1]
+            for i in order:
+                text = ''
+                toks = sub_text[i]
+                for tok in toks:
+                    if tok.startswith('C'):
+                        tok = entity2label[tok]
+                    text += tok + ' '
+                text = text.replace(head, entity2label[head]).replace(tail, entity2label[tail])
+                if i > 0 and len(sub_text[i]) < 400 and query_head not in query_text_head.keys():
+                    query_text_head[query_head] = text
+                    break
+                elif i == 0:
+                    break
     print(f'size of query2text from triple2text: {cnt_from_triple2text}')
     out_str = ""
-    for query in query_text.keys():
-        line = query + '####SPLIT####' + query_text[query] + '\n'
+    for query in query_text_tail.keys():
+        line = query + '####SPLIT####' + query_text_tail[query] + '\n'
         out_str += line
 
-    out_file = open(args.q2t_out_dir, 'w', encoding='utf-8')
+    out_file = open(args.q2t_out_dir_tail, 'w', encoding='utf-8')
     print(out_str, file=out_file)
+    out_file.close()
+
+    out_str = ""
+    for query in query_text_head.keys():
+        line = query + '####SPLIT####' + query_text_head[query] + '\n'
+        out_str += line
+
+    out_file = open(args.q2t_out_dir_head, 'w', encoding='utf-8')
+    print(out_str, file=out_file)
+    out_file.close()
     return 
 
 
 def main():
     args = construct_args()
     print("start support information retrieval in reliable sources ...")
-    # triple2text(args=args)
+    if args.train_sup == "True":
+        triple2text(args=args)
     query2text(args=args)
 
 

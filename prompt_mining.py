@@ -81,8 +81,8 @@ def get_abrv_relations():
     abrv = {
         '/people/person/nationality':'ppn',
         '/location/location/contains':'llc',
-        '/people/person/place_lived':'ppp',
-        '/people/deceased_person/place_of_death':'pdp',
+        '/people/person/place_lived':'ppl',
+        '/people/deceased_person/place_of_death':'pdd',
         '/people/person/ethnicity':'ppe',
         '/people/ethnicity/people':'pep',
         '/business/person/company':'bpc',
@@ -93,7 +93,8 @@ def get_abrv_relations():
         '/location/administrative_division/country':'lac',
         '/location/country/administrative_divisions':'lca',
         '/business/company/place_founded':'bcp',
-        '/location/us_county/county_seat':'luc'
+        '/location/us_county/county_seat':'luc',
+        '/people/person/place_of_birth': 'ppb'
     }
 
     return abrv

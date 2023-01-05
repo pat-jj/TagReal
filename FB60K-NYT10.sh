@@ -5,7 +5,7 @@ python3 -m torch.distributed.launch --nproc_per_node=7 tagreal.py \
 --pseudo_token [PROMPT] \
 --template \(1,1,1,1,1,1\) \
 --max_epoch 10 \
---batch_size 16 \
+--batch_size 64 \
 --early_stop 10 \
 --lr 5e-5 \
 --lm_lr 1e-6 \
@@ -13,11 +13,11 @@ python3 -m torch.distributed.launch --nproc_per_node=7 tagreal.py \
 --decay_rate 0.99 \
 --weight_decay 0.0005 \
 --lstm_dropout 0.0 \
---data_dir ./dataset/FB60K-NYT10-100 \
---out_dir ./checkpoint/FB60K-NYT10-100 \
+--data_dir ./dataset/FB60K-NYT10-20 \
+--out_dir ./checkpoint/FB60K-NYT10-20 \
 --valid_step 5000 \
 --use_lm_finetune \
---recall_k 30 \
+--recall_k 20 \
 --pos_K 30 \
 --neg_K 30 \
 --random_neg_ratio 0.5 \

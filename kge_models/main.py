@@ -122,14 +122,14 @@ class Experiment:
 
             for j in range(data_batch.shape[0]):
                 # if self.filt:
-                filt = er_vocab[(data_batch[j][0], data_batch[j][1])]
-                target_value = predictions[j,e2_idx[j]].item()
-                predictions[j, filt] = 0.0
-                predictions[j, e2_idx[j]] = target_value
+                # filt = er_vocab[(data_batch[j][0], data_batch[j][1])]
+                # target_value = predictions[j,e2_idx[j]].item()
+                # predictions[j, filt] = 0.0
+                # predictions[j, e2_idx[j]] = target_value
 
                 # else:
-                # target_value = predictions[j,e2_idx[j]].item()
-                # predictions[j, e2_idx[j]] = target_value
+                target_value = predictions[j,e2_idx[j]].item()
+                predictions[j, e2_idx[j]] = target_value
 
             sort_values, sort_idxs = torch.sort(predictions, dim=1, descending=True)
 

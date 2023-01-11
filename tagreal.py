@@ -579,9 +579,8 @@ class KEDatasetWiki(BasicDatasetWiki):
         neg_rand_lines = open(neg_file_random).readlines()[:-1]
         if neg_file_kge is not None:
             neg_kge_lines = open(neg_file_kge).readlines()[:-1]
-            # random.shuffle(neg_kge_lines)
+            
         # WARNING: data must be shuffled
-
         random.shuffle(neg_rand_lines)
         rand_neg_k = int(self.neg_K * self.random_neg_ratio)
         kge_neg_k = self.neg_K - rand_neg_k
@@ -965,12 +964,12 @@ class Trainer(object):
         self.dev_loader = torch.utils.data.DataLoader(self.dev_set, batch_size=self.args.batch_size, sampler=self.dev_sampler, drop_last=True)
         self.link_loader_tail = torch.utils.data.DataLoader(
             self.link_dataset_tail, 
-            batch_size=int(self.args.batch_size / 2), 
+            batch_size=int(self.args.batch_size), 
             # sampler=self.link_tail_sampler, 
             )
         self.link_loader_head = torch.utils.data.DataLoader(
             self.link_dataset_head,
-             batch_size=int(self.args.batch_size / 2),
+             batch_size=int(self.args.batch_size),
             #   sampler=self.link_head_sampler,
             )
 

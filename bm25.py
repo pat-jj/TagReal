@@ -24,9 +24,9 @@ def construct_args():
     parser.add_argument("--sub_corpus_text_dir", type=str, default='./dataset/UMLS+PubMed/sup_text.json')
     parser.add_argument("--dataset", type=str, default="UMLS+PubMed")
     parser.add_argument("--entity2label", type=str, default="./data_utils/entity2label.txt")
-    parser.add_argument("--tail_prediction", type=str, default="False")
-    parser.add_argument("--head_prediction", type=str, default="False")
-    parser.add_argument("--train_sup", type=str, default="True")
+    parser.add_argument("--tail_prediction", type=str, default="True")
+    parser.add_argument("--head_prediction", type=str, default="True")
+    parser.add_argument("--train_sup", type=str, default="False")
 
     args = parser.parse_args()
 

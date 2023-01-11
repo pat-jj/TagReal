@@ -1,0 +1,3266 @@
+{
+      "('m.03rk0', '/location/location/contains')": {
+            "head_relation": [
+                  "india",
+                  "/location/location/contains"
+            ],
+            "head": "india",
+            "relation": "/location/location/contains",
+            "ground_truth": "udaipur",
+            "support_info": "so we started in bombay , which is called the gateway to india , and then we moved to udaipur and then on to delhi . '' for example , at the lake palace hotel in udaipur , india , in 1964 , american scientists with connections to the defense department suggested banning antimissile missiles . porte -- renee schlissel , died in her new and beloved home , udaipur , india , at 77 years , remembered in theater and folk art communities , mourned by relatives steve , ariel , trina , norma , katy , lauren , and others ; she will be missed . ",
+            "ranking": [
+                  8,
+                  3,
+                  1
+            ],
+            "rank_p": [
+                  "narendra_nagar",
+                  "mera",
+                  "madhya_pradesh",
+                  "dhoom",
+                  "gurgaon",
+                  "bharatiya_janata_party",
+                  "weir",
+                  "biocon",
+                  "udaipur",
+                  "una"
+            ],
+            "rank_s": [
+                  "season",
+                  "p._v._narasimha_rao",
+                  "gulmarg",
+                  "udaipur",
+                  "reliance_industries",
+                  "narendra_nagar",
+                  "essar",
+                  "bharatiya_janata_party",
+                  "wipro_technologies",
+                  "dhoom"
+            ],
+            "rank_o": [
+                  "p._v._narasimha_rao",
+                  "udaipur",
+                  "season",
+                  "new_delhi",
+                  "narendra_nagar",
+                  "churachandpur",
+                  "madhya_pradesh",
+                  "gurgaon",
+                  "una",
+                  "yash_raj_films"
+            ]
+      },
+      "('m.01n7q', '/location/location/contains')": {
+            "head_relation": [
+                  "california",
+                  "/location/location/contains"
+            ],
+            "head": "california",
+            "relation": "/location/location/contains",
+            "ground_truth": "la_jolla",
+            "support_info": "died peacefully at the age of 82 , in la_jolla , california , on march 26 , 2006 . born in la_jolla , california in 1952 , doctor brody grew up in new jersey and attended fordham preparatory school in bronx , new york . a loving husband and father , and a passionate piano pedagogue and musician , passed away on december 7 , 2005 , in la_jolla , california . one stem cell scientist who moved to california , dr. evan snyder of the burnham institute in la_jolla , said state support moves institutions before the institutions draw people . ",
+            "ranking": [
+                  8,
+                  4,
+                  0
+            ],
+            "rank_p": [
+                  "california_state_university",
+                  "metropolitan_water_district_of_southern_california",
+                  "federal_reserve_bank_of_san_francisco",
+                  "claremont_mckenna_college",
+                  "university_of_san_francisco",
+                  "san_francisco_state_university",
+                  "berkeley",
+                  "mill_valley",
+                  "la_jolla",
+                  "staples_center"
+            ],
+            "rank_s": [
+                  "dick_ackerman",
+                  "rescue",
+                  "california_state_university",
+                  "century_city",
+                  "la_jolla",
+                  "metropolitan_water_district_of_southern_california",
+                  "claremont_mckenna_college",
+                  "san_anselmo",
+                  "fresno",
+                  "university_of_san_francisco"
+            ],
+            "rank_o": [
+                  "la_jolla",
+                  "california_state_university",
+                  "los_angeles_county",
+                  "metropolitan_water_district_of_southern_california",
+                  "walt_disney_concert_hall",
+                  "claremont_mckenna_college",
+                  "san_francisco_state_university",
+                  "university_of_san_francisco",
+                  "whittier_law_school",
+                  "joshua_tree_national_park"
+            ]
+      },
+      "('m.01cx_', '/location/location/contains')": {
+            "head_relation": [
+                  "boston",
+                  "/location/location/contains"
+            ],
+            "head": "boston",
+            "relation": "/location/location/contains",
+            "ground_truth": "beacon_hill",
+            "support_info": "the august philip also mandated the 100-volume reading list celebrating the glory of boston 's beacon_hill and personally wrote the club 's very restrictive by-laws . they have adjacent desks on a top floor of their beacon_hill townhouse in boston , where ms. welch 's four children , all under 18 , live , and seem hard pressed to meet the many demands on their time . the 1.6-mile black heritage trail in the beacon_hill neighborhood commemorates boston 's contribution to african-american history . ",
+            "ranking": [
+                  8,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "boston_beer_company",
+                  "bankboston",
+                  "boston",
+                  "boston_harbor",
+                  "fogg_art_museum",
+                  "dorchester",
+                  "st._james_episcopal_church",
+                  "lesley_university",
+                  "beacon_hill",
+                  "riverdeep"
+            ],
+            "rank_s": [
+                  "boston",
+                  "beacon_hill",
+                  "boston_beer_company",
+                  "fogg_art_museum",
+                  "boston_harbor",
+                  "dorchester",
+                  "bankboston",
+                  "gillette_stadium",
+                  "st._james_episcopal_church",
+                  "eaton_vance"
+            ],
+            "rank_o": [
+                  "beacon_hill",
+                  "boston",
+                  "fogg_art_museum",
+                  "boston_beer_company",
+                  "boston_harbor",
+                  "gillette_stadium",
+                  "bankboston",
+                  "beechwood",
+                  "st._james_episcopal_church",
+                  "barnstable"
+            ]
+      },
+      "('m.06pw6', '/location/location/contains')": {
+            "head_relation": [
+                  "silicon_valley",
+                  "/location/location/contains"
+            ],
+            "head": "silicon_valley",
+            "relation": "/location/location/contains",
+            "ground_truth": "fremont",
+            "support_info": "but mr. jobs 's decision to go after the operators of the small internet fan sites is not surprising to many silicon_valley veterans , apple enthusiasts and former executives of the quirky computer-maker , which is based in cupertino , calif. . metrofi already offers citywide wireless access in several midsize silicon_valley cities including cupertino , sunnyvale and santa clara . ",
+            "ranking": [
+                  5,
+                  4,
+                  2
+            ],
+            "rank_p": [
+                  "silicon_valley",
+                  "portola_valley",
+                  "nob_hill",
+                  "south_san_francisco",
+                  "loyola",
+                  "fremont",
+                  "morgan_hill",
+                  "san_francisco",
+                  "atherton",
+                  "montara"
+            ],
+            "rank_s": [
+                  "silicon_valley",
+                  "portola_valley",
+                  "montara",
+                  "loyola",
+                  "fremont",
+                  "atherton",
+                  "san_francisco",
+                  "south_san_francisco",
+                  "millbrae",
+                  "gilroy"
+            ],
+            "rank_o": [
+                  "silicon_valley",
+                  "portola_valley",
+                  "fremont",
+                  "south_san_francisco",
+                  "montara",
+                  "morgan_hill",
+                  "loyola",
+                  "san_francisco",
+                  "san_martin",
+                  "millbrae"
+            ]
+      },
+      "('m.077qn', '/location/location/contains')": {
+            "head_relation": [
+                  "serbia",
+                  "/location/location/contains"
+            ],
+            "head": "serbia",
+            "relation": "/location/location/contains",
+            "ground_truth": "podujevo",
+            "support_info": "they made arrangements to link up with cultural spaces in the various cities : the skuc gallery in ljubljana , slovenia ; galerija nova in zagreb , croatia ; the rex cultural center in belgrade , serbia ; the press to exit project space in skopje , macedonia ; and kuda.org , a group that is converting a handball court in novi_sad , serbia , into a new-media center . marlene calista cooper , a daughter of calista dennis cooper of alexandria , va. , and the late john lewis cooper jr. , is to be married today to aleksandar vasilic , a son of marija vasilic and tode vasilic of novi_sad , serbia . ",
+            "ranking": [
+                  7,
+                  5,
+                  1
+            ],
+            "rank_p": [
+                  "rab",
+                  "rijeka",
+                  "perast",
+                  "podgorica",
+                  "amara",
+                  "berane",
+                  "bran",
+                  "podujevo",
+                  "bohemia",
+                  "petnjica"
+            ],
+            "rank_s": [
+                  "rab",
+                  "danube",
+                  "berane",
+                  "sakar",
+                  "bran",
+                  "podujevo",
+                  "motovun",
+                  "perast",
+                  "amara",
+                  "rijeka"
+            ],
+            "rank_o": [
+                  "rab",
+                  "podujevo",
+                  "petnjica",
+                  "skalica",
+                  "rijeka",
+                  "motovun",
+                  "podgorica",
+                  "danube",
+                  "berane",
+                  "katla"
+            ]
+      },
+      "('m.01914', '/location/location/contains')": {
+            "head_relation": [
+                  "beijing",
+                  "/location/location/contains"
+            ],
+            "head": "beijing",
+            "relation": "/location/location/contains",
+            "ground_truth": "diaoyutai_state_guesthouse",
+            "support_info": "the combination of incentives and demands was the focal point of three-way meetings on nov. 28 and 29 involving assistant secretary of state christopher r. hill ; north korea 's vice foreign minister , kim kye-gwan ; and chinese officials at the diaoyutai_state_guesthouse in beijing . the combination of incentives and demands was the focal point of three-way meetings on nov. 28 and 29 involving assistant secretary of state christopher r. hill ; north korea 's vice foreign minister , kim kye-gwan ; and chinese officials at the diaoyutai_state_guesthouse in beijing . ",
+            "ranking": [
+                  9,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "china_central_television",
+                  "hezhou",
+                  "baidu",
+                  "suzhou",
+                  "industrial_and_commercial_bank_of_china",
+                  "dalian",
+                  "china_national_petroleum_corporation",
+                  "sohu",
+                  "xuzhou",
+                  "diaoyutai_state_guesthouse"
+            ],
+            "rank_s": [
+                  "industrial_and_commercial_bank_of_china",
+                  "diaoyutai_state_guesthouse",
+                  "china_national_petroleum_corporation",
+                  "hezhou",
+                  "suzhou",
+                  "jingdezhen",
+                  "china_central_television",
+                  "baidu",
+                  "xuzhou",
+                  "cnooc"
+            ],
+            "rank_o": [
+                  "diaoyutai_state_guesthouse",
+                  "industrial_and_commercial_bank_of_china",
+                  "china_central_television",
+                  "hezhou",
+                  "shangri-la_county",
+                  "china_national_petroleum_corporation",
+                  "suzhou",
+                  "dandong",
+                  "jingdezhen",
+                  "dalian"
+            ]
+      },
+      "('m.067g6g', '/people/person/place_lived')": {
+            "head_relation": [
+                  "brad_rutter",
+                  "/people/person/place_lived"
+            ],
+            "head": "brad_rutter",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "lancaster",
+            "support_info": "but in the culmination of a three-round battle of former champions , he finished second on wednesday night to brad_rutter , a former record store clerk from lancaster , pa. . but in the culmination of a three-round battle of former champions , he finished second on wednesday night to brad_rutter , a former record store clerk from lancaster , pa. . ",
+            "ranking": [
+                  6,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "pennsylvania",
+                  "united_states_of_america",
+                  "philadelphia",
+                  "rochester",
+                  "harrisburg",
+                  "hampton",
+                  "lancaster",
+                  "paterson",
+                  "nanticoke",
+                  "leiden"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "lancaster",
+                  "pennsylvania",
+                  "hampton",
+                  "philadelphia",
+                  "harrisburg",
+                  "rochester",
+                  "paterson",
+                  "nanticoke",
+                  "leiden"
+            ],
+            "rank_o": [
+                  "lancaster",
+                  "united_states_of_america",
+                  "pennsylvania",
+                  "harrisburg",
+                  "philadelphia",
+                  "hampton",
+                  "phoenix",
+                  "nanticoke",
+                  "paterson",
+                  "fort_lauderdale"
+            ]
+      },
+      "('m.0l2v0', '/location/location/contains')": {
+            "head_relation": [
+                  "san_luis_obispo_county",
+                  "/location/location/contains"
+            ],
+            "head": "san_luis_obispo_county",
+            "relation": "/location/location/contains",
+            "ground_truth": "morro_bay",
+            "support_info": "on the other hand , the central coast -- especially santa barbara , monterey and , increasingly , paso_robles and edna valley in san_luis_obispo_county -- are proving to be prime sources for rhone-style wines . on the other hand , the central coast -- especially santa barbara , monterey and , increasingly , paso_robles and edna valley in san_luis_obispo_county -- are proving to be prime sources for rhone-style wines . ",
+            "ranking": [
+                  8,
+                  4,
+                  2
+            ],
+            "rank_p": [
+                  "rio_dell",
+                  "lompoc",
+                  "guadalupe",
+                  "punta",
+                  "indio",
+                  "garberville",
+                  "paso_robles",
+                  "arcata",
+                  "morro_bay",
+                  "ojala"
+            ],
+            "rank_s": [
+                  "pebble_beach",
+                  "rio_dell",
+                  "guadalupe",
+                  "garey",
+                  "morro_bay",
+                  "garberville",
+                  "paso_robles",
+                  "jamesburg",
+                  "lompoc",
+                  "ojala"
+            ],
+            "rank_o": [
+                  "pebble_beach",
+                  "guadalupe",
+                  "morro_bay",
+                  "lompoc",
+                  "garberville",
+                  "ojala",
+                  "rio_dell",
+                  "westlake",
+                  "paso_robles",
+                  "soledad"
+            ]
+      },
+      "('m.0fn08', '/location/administrative_division/country')": {
+            "head_relation": [
+                  "astana",
+                  "/location/administrative_division/country"
+            ],
+            "head": "astana",
+            "relation": "/location/administrative_division/country",
+            "ground_truth": "kazakhstan",
+            "support_info": "in kazakhstan , it was 2 percent in the cities of astana and almaty and 31 percent in rural areas . '' the new capital , astana , appeared to be the likely beneficiary of kazakhstan 's potentially huge oil and gas revenues as the energy fields in the caspian sea developed . kempinski also plans to open a combined residential all-suites hotel property in kazakhstan 's capital , astana , in 2008 . in astana , the capital of kazakhstan , mikhail dorofeyev , head of the media department of kazmunaigaz , the state oil company and industry regulator , said in a telephone interview that the company would have no comment on the announcement . ",
+            "ranking": [
+                  8,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "iraq",
+                  "brazil",
+                  "uzbekistan",
+                  "afghanistan",
+                  "venezuela",
+                  "asia",
+                  "russia",
+                  "turkmenistan",
+                  "kazakhstan",
+                  "belarus"
+            ],
+            "rank_s": [
+                  "afghanistan",
+                  "central_asia",
+                  "kazakhstan",
+                  "turkmenistan",
+                  "tajikistan",
+                  "uzbekistan",
+                  "south_korea",
+                  "lebanon",
+                  "asia",
+                  "belarus"
+            ],
+            "rank_o": [
+                  "kazakhstan",
+                  "turkmenistan",
+                  "uzbekistan",
+                  "tajikistan",
+                  "afghanistan",
+                  "central_asia",
+                  "lebanon",
+                  "asia",
+                  "belarus",
+                  "russia"
+            ]
+      },
+      "('m.0gcgd', '/people/deceased_person/place_of_death')": {
+            "head_relation": [
+                  "roy_lichtenstein",
+                  "/people/deceased_person/place_of_death"
+            ],
+            "head": "roy_lichtenstein",
+            "relation": "/people/deceased_person/place_of_death",
+            "ground_truth": "manhattan",
+            "support_info": "last night 's sale featured '' sinking sun , '' a 1964 sunset scene by roy_lichtenstein being sold by joseph helman , the manhattan dealer . mitchell innes & nash 534 west 26th street , chelsea , and 1018 madison avenue , near 78th street , manhattan through nov. 12 gagosian gallery 555 west 24th street , chelsea through tomorrow the greatness of roy_lichtenstein 's pop art , with its irresistibly suave mixture of high and low images , techniques and styles , is confirmed but not substantially revised by these three displays . ",
+            "ranking": [
+                  2,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "new_york",
+                  "manhattan",
+                  "hollywood",
+                  "orange",
+                  "albuquerque",
+                  "hartford",
+                  "darien",
+                  "cleveland",
+                  "cleveland_heights"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "manhattan",
+                  "new_york",
+                  "hartford",
+                  "greenwich_village",
+                  "columbus",
+                  "cleveland",
+                  "hollywood",
+                  "darien",
+                  "pacific_palisades"
+            ],
+            "rank_o": [
+                  "manhattan",
+                  "new_york_city",
+                  "new_york",
+                  "hollywood",
+                  "pacific_palisades",
+                  "greenwich_village",
+                  "cleveland",
+                  "newark",
+                  "cleveland_heights",
+                  "hartford"
+            ]
+      },
+      "('m.03rk3y', '/location/neighborhood/neighborhood_of')": {
+            "head_relation": [
+                  "miracle_mile",
+                  "/location/neighborhood/neighborhood_of"
+            ],
+            "head": "miracle_mile",
+            "relation": "/location/neighborhood/neighborhood_of",
+            "ground_truth": "los_angeles",
+            "support_info": "the residents of this border neighborhood between miracle_mile and old-money hancock park -lrb- or , in los_angeles real-estate speak , '' hancock park adjacent '' -rrb- are largely jewish , and have regarded the spectacle with a mixture of confusion , delight and occasional derision . '' the residents of this border neighborhood between miracle_mile and old-money hancock park -lrb- or , in los_angeles real-estate speak , '' hancock park adjacent '' -rrb- are largely jewish , and have regarded the spectacle with a mixture of confusion , delight and occasional derision . '' ",
+            "ranking": [
+                  4,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "mumbai",
+                  "vancouver",
+                  "los_angeles",
+                  "london",
+                  "atlanta",
+                  "brooklyn",
+                  "hollywood",
+                  "california"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "los_angeles",
+                  "atlanta",
+                  "mumbai",
+                  "california",
+                  "hollywood",
+                  "london",
+                  "vancouver",
+                  "brooklyn"
+            ],
+            "rank_o": [
+                  "new_york_city",
+                  "los_angeles",
+                  "california",
+                  "united_states_of_america",
+                  "atlanta",
+                  "hollywood",
+                  "miami",
+                  "vancouver",
+                  "brooklyn",
+                  "london"
+            ]
+      },
+      "('m.040s74', '/people/person/place_of_birth')": {
+            "head_relation": [
+                  "noah_baumbach",
+                  "/people/person/place_of_birth"
+            ],
+            "head": "noah_baumbach",
+            "relation": "/people/person/place_of_birth",
+            "ground_truth": "brooklyn",
+            "support_info": "` the squid and the whale ' divorce , brooklyn style in the mid-1980 's , is the subject of noah_baumbach 's acutely observed , semi-autobiographical exploration of the exploding marriage between an egotistical writer and teacher -lrb- jeff daniels -rrb- and his wife -lrb- laura linney -rrb- , an aspiring writer whose career is blossoming . -lrb- and if they lived in brooklyn , they could be the dysfunctional parents in '' the squid and the whale , '' noah_baumbach 's contribution to the festival , which opened in theaters last week . -rrb- ",
+            "ranking": [
+                  5,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "midtown_manhattan",
+                  "manhattan",
+                  "united_states_of_america",
+                  "chicago",
+                  "pittsburgh",
+                  "brooklyn",
+                  "holly_hill",
+                  "rosebank",
+                  "cars",
+                  "lindenhurst"
+            ],
+            "rank_s": [
+                  "midtown_manhattan",
+                  "united_states_of_america",
+                  "brooklyn",
+                  "chicago",
+                  "manhattan",
+                  "lindenhurst",
+                  "pittsburgh",
+                  "saugerties",
+                  "acapulco",
+                  "bushwick"
+            ],
+            "rank_o": [
+                  "brooklyn",
+                  "midtown_manhattan",
+                  "chicago",
+                  "rosebank",
+                  "united_states_of_america",
+                  "manhattan",
+                  "saugerties",
+                  "pittsburgh",
+                  "holly_hill",
+                  "flatbush"
+            ]
+      },
+      "('m.021vm9', '/people/person/place_of_birth')": {
+            "head_relation": [
+                  "frank_hague",
+                  "/people/person/place_of_birth"
+            ],
+            "head": "frank_hague",
+            "relation": "/people/person/place_of_birth",
+            "ground_truth": "jersey_city",
+            "support_info": "the man who did most of the telling in jersey_city was a tall , lean irish-american named frank_hague . jackie robinson signed with the brooklyn dodgers ' organization on oct. 28 , 1945 , spent spring training in daytona beach , fla. , with the montreal royals of the international league and on april 18 , 1946 , he was the royals ' second baseman in jersey_city where mayor frank_hague 's political clout had created an opening-day sellout crowd of 25,000 in roosevelt stadium . ",
+            "ranking": [
+                  9,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "manhattan",
+                  "united_states_of_america",
+                  "houston",
+                  "philadelphia",
+                  "wichita",
+                  "richmond",
+                  "wilmington",
+                  "staten_island",
+                  "jersey_city"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "jersey_city",
+                  "union_city",
+                  "new_york_city",
+                  "philadelphia",
+                  "houston",
+                  "manhattan",
+                  "schenectady",
+                  "wichita",
+                  "staten_island"
+            ],
+            "rank_o": [
+                  "jersey_city",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "union_city",
+                  "houston",
+                  "philadelphia",
+                  "manhattan",
+                  "schenectady",
+                  "newark",
+                  "washington_heights"
+            ]
+      },
+      "('m.059ts', '/location/administrative_division/country')": {
+            "head_relation": [
+                  "northwest_territories",
+                  "/location/administrative_division/country"
+            ],
+            "head": "northwest_territories",
+            "relation": "/location/administrative_division/country",
+            "ground_truth": "canada",
+            "support_info": "vanderhaeghe 's gritty , expansive novel is set in the late-19th-century wilds of northern montana and canada 's northwest_territories , and follows a ragged , ill-tempered crew across the canadian border . the whole world is going too fast , '' an inuit hunter from banks island in the northwest_territories in canada told the journalist elizabeth kolbert at a bar during a global-warming symposium . ",
+            "ranking": [
+                  5,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "northwest_territories",
+                  "saskatchewan",
+                  "russia",
+                  "ontario",
+                  "canada",
+                  "brazil",
+                  "united_kingdom",
+                  "venezuela",
+                  "yukon"
+            ],
+            "rank_s": [
+                  "northwest_territories",
+                  "canada",
+                  "united_states_of_america",
+                  "russia",
+                  "saskatchewan",
+                  "alberta",
+                  "ontario",
+                  "british_columbia",
+                  "yukon",
+                  "venezuela"
+            ],
+            "rank_o": [
+                  "canada",
+                  "northwest_territories",
+                  "saskatchewan",
+                  "ontario",
+                  "united_states_of_america",
+                  "new_zealand",
+                  "british_columbia",
+                  "manitoba",
+                  "alberta",
+                  "yukon"
+            ]
+      },
+      "('m.01l5tqr', '/people/person/place_of_birth')": {
+            "head_relation": [
+                  "pat_martino",
+                  "/people/person/place_of_birth"
+            ],
+            "head": "pat_martino",
+            "relation": "/people/person/place_of_birth",
+            "ground_truth": "philadelphia",
+            "support_info": "pat_martino , who came out of philadelphia in the 1960 's , is one of jazz 's finest guitarists , with a limpid sound and fast fingers ; you 'll see guitar students hanging on his every note . pat_martino , who came out of philadelphia in the 1960 's , is one of jazz 's finest guitarists , with a limpid sound and fast fingers ; you 'll see guitar students hanging on his every note . ",
+            "ranking": [
+                  5,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "barcelona",
+                  "mumbai",
+                  "rome",
+                  "philadelphia",
+                  "chicago",
+                  "detroit",
+                  "pennsylvania",
+                  "los_angeles"
+            ],
+            "rank_s": [
+                  "pennsylvania",
+                  "philadelphia",
+                  "united_states_of_america",
+                  "new_york_city",
+                  "chicago",
+                  "columbus",
+                  "hamlet",
+                  "rome",
+                  "germantown",
+                  "pittsburgh"
+            ],
+            "rank_o": [
+                  "philadelphia",
+                  "united_states_of_america",
+                  "pennsylvania",
+                  "chicago",
+                  "new_york_city",
+                  "columbus",
+                  "pittsburgh",
+                  "hamlet",
+                  "germantown",
+                  "rome"
+            ]
+      },
+      "('m.01t6b4', '/people/person/place_lived')": {
+            "head_relation": [
+                  "jerry_bruckheimer",
+                  "/people/person/place_lived"
+            ],
+            "head": "jerry_bruckheimer",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "los_angeles",
+            "support_info": "9 p.m. -lrb- fox -rrb- justice -- jerry_bruckheimer , the executive producer of cbs 's '' c.s.i. '' and '' without a trace , '' tries out his midas touch on this new legal drama about a los_angeles dream team with an aptitude for forensics . ",
+            "ranking": [
+                  7,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "michigan",
+                  "alaska",
+                  "las_vegas",
+                  "utah",
+                  "massachusetts",
+                  "los_angeles",
+                  "burbank",
+                  "sonora"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "michigan",
+                  "los_angeles",
+                  "united_states_of_america",
+                  "alaska",
+                  "las_vegas",
+                  "california",
+                  "massachusetts",
+                  "tucson",
+                  "utah"
+            ],
+            "rank_o": [
+                  "los_angeles",
+                  "new_york_city",
+                  "california",
+                  "united_states_of_america",
+                  "las_vegas",
+                  "michigan",
+                  "nevada",
+                  "louisiana",
+                  "tucson",
+                  "sedona"
+            ]
+      },
+      "('m.04fhd3', '/people/person/place_of_birth')": {
+            "head_relation": [
+                  "david_mccullough",
+                  "/people/person/place_of_birth"
+            ],
+            "head": "david_mccullough",
+            "relation": "/people/person/place_of_birth",
+            "ground_truth": "pittsburgh",
+            "support_info": "then , as david_mccullough notes in '' the johnstown flood , '' public fury turned on the pittsburgh millionaires whose club 's fishing pond had emptied on the town . then , as david_mccullough notes in '' the johnstown flood , '' public fury turned on the pittsburgh millionaires whose club 's fishing pond had emptied on the town . ",
+            "ranking": [
+                  4,
+                  3,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "chicago",
+                  "philadelphia",
+                  "pittsburgh",
+                  "miami",
+                  "brooklyn",
+                  "detroit",
+                  "baltimore",
+                  "binghamton"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "chicago",
+                  "pittsburgh",
+                  "philadelphia",
+                  "brooklyn",
+                  "binghamton",
+                  "schenectady",
+                  "highland_park",
+                  "baltimore"
+            ],
+            "rank_o": [
+                  "new_york_city",
+                  "pittsburgh",
+                  "chicago",
+                  "detroit",
+                  "brooklyn",
+                  "philadelphia",
+                  "united_states_of_america",
+                  "baltimore",
+                  "schenectady",
+                  "la_jolla"
+            ]
+      },
+      "('m.02307h', '/people/person/nationality')": {
+            "head_relation": [
+                  "omar_al-bashir",
+                  "/people/person/nationality"
+            ],
+            "head": "omar_al-bashir",
+            "relation": "/people/person/nationality",
+            "ground_truth": "sudan",
+            "support_info": "under the agreement , john garang , leader of the principal rebel group , the sudan people 's liberation army , has become the first vice president of sudan in a government of national unity under president omar_al-bashir , and the south has been promised a referendum on independence in six years . bill richardson , the governor of new mexico , secured his release on friday on what he called '' humanitarian grounds '' after flying to khartoum to meet with sudan 's president , omar_al-bashir . ",
+            "ranking": [
+                  9,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "yemen",
+                  "nigeria",
+                  "algeria",
+                  "egypt",
+                  "niger",
+                  "somalia",
+                  "uganda",
+                  "zimbabwe",
+                  "sudan"
+            ],
+            "rank_s": [
+                  "algeria",
+                  "sudan",
+                  "yemen",
+                  "uganda",
+                  "bangladesh",
+                  "mozambique",
+                  "united_states_of_america",
+                  "zimbabwe",
+                  "nigeria",
+                  "saudi_arabia"
+            ],
+            "rank_o": [
+                  "sudan",
+                  "saudi_arabia",
+                  "algeria",
+                  "mozambique",
+                  "bangladesh",
+                  "uganda",
+                  "kenya",
+                  "djibouti",
+                  "nigeria",
+                  "burkina_faso"
+            ]
+      },
+      "('m.03m64x', '/location/administrative_division/country')": {
+            "head_relation": [
+                  "kalmykia",
+                  "/location/administrative_division/country"
+            ],
+            "head": "kalmykia",
+            "relation": "/location/administrative_division/country",
+            "ground_truth": "russia",
+            "support_info": "mr. kramnik , of russia , now leads the best-of-12 match , being held in elista , the capital of the russian republic of kalmykia , by a score of 3-1 . at the start of the match , which is being played in elista , the capital of kalmykia , a remote russian republic , mr. kramnik , of russia , jumped out to a 2-0 lead . but it was only the beginning at the event in elista , russia , in the republic of kalmykia . ",
+            "ranking": [
+                  5,
+                  4,
+                  1
+            ],
+            "rank_p": [
+                  "kalmykia",
+                  "united_states_of_america",
+                  "australia",
+                  "kazakhstan",
+                  "russian_empire",
+                  "russia",
+                  "germany",
+                  "ukraine",
+                  "belgium",
+                  "soviet_union"
+            ],
+            "rank_s": [
+                  "kalmykia",
+                  "united_states_of_america",
+                  "russian_empire",
+                  "australia",
+                  "russia",
+                  "kazakhstan",
+                  "belgium",
+                  "germany",
+                  "france",
+                  "ukraine"
+            ],
+            "rank_o": [
+                  "kalmykia",
+                  "russia",
+                  "russian_empire",
+                  "soviet_union",
+                  "united_states_of_america",
+                  "netherlands",
+                  "ukraine",
+                  "norway",
+                  "kazakhstan",
+                  "belgium"
+            ]
+      },
+      "('m.01snm', '/location/location/contains')": {
+            "head_relation": [
+                  "cincinnati",
+                  "/location/location/contains"
+            ],
+            "head": "cincinnati",
+            "relation": "/location/location/contains",
+            "ground_truth": "paul_brown_stadium",
+            "support_info": "cincinnati quarterback carson palmer stood behind a lectern at paul_brown_stadium and described this season 's bengals as a mature and single-minded unit that has learned to channel its energy and hold its concentration . in cincinnati , officials raised concerns that if county money was used to pay for pat-downs performed by a private security company at the publicly owned paul_brown_stadium , it could constitute illegal search and seizure . ",
+            "ranking": [
+                  7,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "cincinnati",
+                  "oberlin_conservatory_of_music",
+                  "penn_station",
+                  "cleveland_institute_of_music",
+                  "central_high_school",
+                  "xavier_university",
+                  "federated_department_stores",
+                  "paul_brown_stadium",
+                  "north_college_hill",
+                  "e._w._scripps_company"
+            ],
+            "rank_s": [
+                  "cincinnati",
+                  "terry_j._lundgren",
+                  "paul_brown_stadium",
+                  "david_dillon",
+                  "e._w._scripps_company",
+                  "evendale",
+                  "st._bernard",
+                  "oberlin_conservatory_of_music",
+                  "penn_station",
+                  "cleveland_institute_of_music"
+            ],
+            "rank_o": [
+                  "paul_brown_stadium",
+                  "cincinnati",
+                  "central_high_school",
+                  "e._w._scripps_company",
+                  "hamilton_county",
+                  "oberlin_conservatory_of_music",
+                  "cleveland_institute_of_music",
+                  "federated_department_stores",
+                  "penn_station",
+                  "west_columbus"
+            ]
+      },
+      "('m.034qpf', '/people/person/place_lived')": {
+            "head_relation": [
+                  "william_b._saxbe",
+                  "/people/person/place_lived"
+            ],
+            "head": "william_b._saxbe",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "ohio",
+            "support_info": "the bride 's grandfather william_b._saxbe was a senator from ohio from 1969 to 1974 , and the attorney general of the united states from 1974 to 1975 . the bride 's grandfather william_b._saxbe was a senator from ohio from 1969 to 1974 , and the attorney general of the united states from 1974 to 1975 . ",
+            "ranking": [
+                  8,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "cleveland",
+                  "chicago",
+                  "cedarville",
+                  "cincinnati",
+                  "mansfield",
+                  "orrville",
+                  "yazoo_city",
+                  "ohio",
+                  "mechanicsburg"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "chicago",
+                  "ohio",
+                  "cedarville",
+                  "cleveland",
+                  "orrville",
+                  "columbus",
+                  "yazoo_city",
+                  "cincinnati",
+                  "euclid"
+            ],
+            "rank_o": [
+                  "ohio",
+                  "united_states_of_america",
+                  "chicago",
+                  "cincinnati",
+                  "columbus",
+                  "cleveland",
+                  "yazoo_city",
+                  "cedarville",
+                  "orrville",
+                  "toledo"
+            ]
+      },
+      "('m.017fy2', '/location/administrative_division/country')": {
+            "head_relation": [
+                  "jilin",
+                  "/location/administrative_division/country"
+            ],
+            "head": "jilin",
+            "relation": "/location/administrative_division/country",
+            "ground_truth": "china",
+            "support_info": "in september , toyota surprised the world 's automobile makers by announcing that it would join with china 's government-owned first auto works corporation to start building its prius hybrid cars in jilin , a northeast chinese province . ma jilin , the general manager of the zibo shuangfeng ceramics company in shandong province in northeastern china , said that a 10 percent rise in the value of the yuan -- larger than most economists expect -- would cause many restaurants and other customers to stop buying brightly colored ceramic plates and mugs from his factory and take their business to malaysia or south korea . ",
+            "ranking": [
+                  9,
+                  3,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "germany",
+                  "republic_of_ireland",
+                  "india",
+                  "brazil",
+                  "afghanistan",
+                  "northern_ireland",
+                  "jiangxi",
+                  "republic_of_china",
+                  "china"
+            ],
+            "rank_s": [
+                  "south_korea",
+                  "republic_of_china",
+                  "asia",
+                  "china",
+                  "jiangxi",
+                  "beijing",
+                  "japan",
+                  "north_vietnam",
+                  "northern_ireland",
+                  "india"
+            ],
+            "rank_o": [
+                  "china",
+                  "republic_of_china",
+                  "south_korea",
+                  "hong_kong",
+                  "beijing",
+                  "asia",
+                  "north_vietnam",
+                  "tibet_autonomous_region",
+                  "united_states_of_america",
+                  "india"
+            ]
+      },
+      "('m.0h7jks', '/people/person/nationality')": {
+            "head_relation": [
+                  "shawn_slovo",
+                  "/people/person/nationality"
+            ],
+            "head": "shawn_slovo",
+            "relation": "/people/person/nationality",
+            "ground_truth": "south_africa",
+            "support_info": "written by shawn_slovo and produced by her sister , robyn , the screenplay was the result of a story that their father , the anti-apartheid activist joe slovo , told his son in 1992 when the regime gave way to nelson mandela 's new south_africa . '' ",
+            "ranking": [
+                  9,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "united_kingdom",
+                  "republic_of_ireland",
+                  "sweden",
+                  "canada",
+                  "england",
+                  "uganda",
+                  "zimbabwe",
+                  "france",
+                  "south_africa"
+            ],
+            "rank_s": [
+                  "australia",
+                  "south_africa",
+                  "uganda",
+                  "canada",
+                  "sweden",
+                  "zimbabwe",
+                  "united_states_of_america",
+                  "england",
+                  "belgium",
+                  "france"
+            ],
+            "rank_o": [
+                  "south_africa",
+                  "zimbabwe",
+                  "uganda",
+                  "australia",
+                  "england",
+                  "belgium",
+                  "sweden",
+                  "united_kingdom",
+                  "france",
+                  "spain"
+            ]
+      },
+      "('m.062vdw', '/people/person/place_lived')": {
+            "head_relation": [
+                  "lofa_tatupu",
+                  "/people/person/place_lived"
+            ],
+            "head": "lofa_tatupu",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "massachusetts",
+            "support_info": "as a child , lofa_tatupu played pop warner football in massachusetts against nathaniel hasselbeck , one of matt 's brothers . as a child , lofa_tatupu played pop warner football in massachusetts against nathaniel hasselbeck , one of matt 's brothers . ",
+            "ranking": [
+                  6,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "utah",
+                  "boston",
+                  "indianapolis",
+                  "los_angeles_county",
+                  "massachusetts",
+                  "south_carolina",
+                  "baltimore",
+                  "california"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "massachusetts",
+                  "florida",
+                  "california",
+                  "west_virginia",
+                  "indianapolis",
+                  "south_carolina",
+                  "boston",
+                  "utah"
+            ],
+            "rank_o": [
+                  "massachusetts",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "florida",
+                  "west_virginia",
+                  "kentucky",
+                  "california",
+                  "baltimore",
+                  "south_carolina",
+                  "boston"
+            ]
+      },
+      "('m.01g562', '/people/person/nationality')": {
+            "head_relation": [
+                  "thierry_henry",
+                  "/people/person/nationality"
+            ],
+            "head": "thierry_henry",
+            "relation": "/people/person/nationality",
+            "ground_truth": "france",
+            "support_info": "and raymond domenech of france has played the only hand he had -- frayed aces like zin\u00e9dine zidane , thierry_henry and patrick vieira -- without showing nerves . italy 's defense was just too good , and thierry_henry of france seemed to be in a fog for most of the game after an inadvertent collision in the first minute . brazil could not tie the score in a frenetic finish after thierry_henry of france volleyed in a free kick from zidane in the 57th minute . ",
+            "ranking": [
+                  9,
+                  3,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "united_kingdom",
+                  "dominican_republic",
+                  "canada",
+                  "switzerland",
+                  "germany",
+                  "turkey",
+                  "portugal",
+                  "brazil",
+                  "france"
+            ],
+            "rank_s": [
+                  "brazil",
+                  "germany",
+                  "venezuela",
+                  "france",
+                  "united_states_of_america",
+                  "switzerland",
+                  "dominican_republic",
+                  "belgium",
+                  "italy",
+                  "mexico"
+            ],
+            "rank_o": [
+                  "france",
+                  "brazil",
+                  "italy",
+                  "germany",
+                  "switzerland",
+                  "dominican_republic",
+                  "venezuela",
+                  "belgium",
+                  "united_states_of_america",
+                  "netherlands"
+            ]
+      },
+      "('m.0272sx', '/people/person/nationality')": {
+            "head_relation": [
+                  "kiyoshi_kurosawa",
+                  "/people/person/nationality"
+            ],
+            "head": "kiyoshi_kurosawa",
+            "relation": "/people/person/nationality",
+            "ground_truth": "japan",
+            "support_info": "this theme has been prevalent in recent movies from east asia , and the museum will present some of the best from taiwan -lrb- edward yang 's '' yi yi '' -rrb- , china -lrb- jia zhangke 's '' unknown pleasures '' -rrb- , japan -lrb- kiyoshi_kurosawa 's '' bright future '' -rrb- and thailand -lrb- penek ratanaruang 's '' last life in the universe '' -rrb- . the most horrifying thing in kiyoshi_kurosawa 's fiercely original , thrillingly creepy '' pulse '' -lrb- released as '' kairo , '' or '' circuit , '' in japan -rrb- is the way the ghosts move . ",
+            "ranking": [
+                  7,
+                  5,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "india",
+                  "united_kingdom",
+                  "republic_of_china",
+                  "russia",
+                  "china",
+                  "canada",
+                  "japan",
+                  "italy",
+                  "republic_of_ireland"
+            ],
+            "rank_s": [
+                  "india",
+                  "republic_of_china",
+                  "united_states_of_america",
+                  "germany",
+                  "switzerland",
+                  "japan",
+                  "republic_of_ireland",
+                  "australia",
+                  "south_korea",
+                  "russia"
+            ],
+            "rank_o": [
+                  "japan",
+                  "china",
+                  "india",
+                  "republic_of_china",
+                  "australia",
+                  "south_korea",
+                  "germany",
+                  "russia",
+                  "canada",
+                  "switzerland"
+            ]
+      },
+      "('m.0163ff', '/location/neighborhood/neighborhood_of')": {
+            "head_relation": [
+                  "rockefeller_center",
+                  "/location/neighborhood/neighborhood_of"
+            ],
+            "head": "rockefeller_center",
+            "relation": "/location/neighborhood/neighborhood_of",
+            "ground_truth": "new_york_city",
+            "support_info": "events new_york_city 25th new york international orchid show , rockefeller_center , 49th and 50th streets , fifth avenue and avenue of the americas . according to several bidders , the list of buyers who have signed up includes the most active developer in new_york_city , the related companies ; one of the largest landlords , glenwood management ; tishman speyer , which controls rockefeller_center ; two publicly traded real estate companies , archstone and vornado ; the international bank ubs ; and the blackstone investment firm , as well as the rudin , durst and lefrak real estate families . ",
+            "ranking": [
+                  2,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "purchase",
+                  "united_states_of_america",
+                  "new_york_city",
+                  "queens",
+                  "new_york",
+                  "lower_manhattan",
+                  "midtown_manhattan",
+                  "great_neck",
+                  "upper_east_side",
+                  "east_river"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "brooklyn",
+                  "midtown_manhattan",
+                  "lower_manhattan",
+                  "boston",
+                  "upper_east_side",
+                  "lower_east_side",
+                  "east_river"
+            ],
+            "rank_o": [
+                  "new_york_city",
+                  "new_york",
+                  "united_states_of_america",
+                  "brooklyn",
+                  "midtown_manhattan",
+                  "long_island_city",
+                  "boston",
+                  "lower_manhattan",
+                  "los_angeles",
+                  "upper_east_side"
+            ]
+      },
+      "('m.08vb_5', '/people/person/place_of_birth')": {
+            "head_relation": [
+                  "bill_ritter",
+                  "/people/person/place_of_birth"
+            ],
+            "head": "bill_ritter",
+            "relation": "/people/person/place_of_birth",
+            "ground_truth": "denver",
+            "support_info": "in colorado , for example , bill_ritter , a democrat and the former district attorney in denver , has been consistently ahead of his republican opponent , representative bob beauprez , in voter surveys , showing strength even in areas of the state that do not traditionally support democrats . democrat michael beebe republican asa hutchinson recent poll michael beebe : 56 asa hutchinson : 38 -lrb- opinion research associates , oct. 26 -rrb- colorado democrats hope to pick up this open seat , with bill_ritter , a former denver district attorney , holding a strong lead in the polls over representative bob beauprez , a republican from suburban denver . ",
+            "ranking": [
+                  9,
+                  3,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "minneapolis",
+                  "united_states_of_america",
+                  "edmonton",
+                  "st._louis",
+                  "colorado",
+                  "miami",
+                  "detroit",
+                  "phoenix",
+                  "denver"
+            ],
+            "rank_s": [
+                  "quebec_city",
+                  "colorado",
+                  "united_states_of_america",
+                  "denver",
+                  "salt_lake_city",
+                  "minneapolis",
+                  "new_york_city",
+                  "detroit",
+                  "phoenix",
+                  "edmonton"
+            ],
+            "rank_o": [
+                  "united_states_of_america",
+                  "denver",
+                  "colorado",
+                  "quebec_city",
+                  "minneapolis",
+                  "new_york_city",
+                  "new_orleans",
+                  "salt_lake_city",
+                  "phoenix",
+                  "detroit"
+            ]
+      },
+      "('m.02wfqq', '/location/neighborhood/neighborhood_of')": {
+            "head_relation": [
+                  "west_hills",
+                  "/location/neighborhood/neighborhood_of"
+            ],
+            "head": "west_hills",
+            "relation": "/location/neighborhood/neighborhood_of",
+            "ground_truth": "los_angeles",
+            "support_info": "roy m. brewer , an ardent anti-communist who headed the hollywood branch of the movie industry 's leading union of stagehands during the blacklist era , died last saturday in west_hills , calif. , a los_angeles suburb . roy m. brewer , an ardent anti-communist who headed the hollywood branch of the movie industry 's leading union of stagehands during the blacklist era , died last saturday in west_hills , calif. , a los_angeles suburb . ",
+            "ranking": [
+                  6,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "mumbai",
+                  "chicago",
+                  "beverly_hills",
+                  "london",
+                  "los_angeles",
+                  "hollywood",
+                  "california",
+                  "atlanta"
+            ],
+            "rank_s": [
+                  "hollywood",
+                  "los_angeles",
+                  "california",
+                  "beverly_hills",
+                  "new_york_city",
+                  "atlanta",
+                  "united_states_of_america",
+                  "mumbai",
+                  "london",
+                  "sherman_oaks"
+            ],
+            "rank_o": [
+                  "los_angeles",
+                  "california",
+                  "hollywood",
+                  "beverly_hills",
+                  "chicago",
+                  "atlanta",
+                  "new_york_city",
+                  "hawaii",
+                  "london",
+                  "mumbai"
+            ]
+      },
+      "('m.01v5h', '/people/deceased_person/place_of_death')": {
+            "head_relation": [
+                  "cecil_b._demille",
+                  "/people/deceased_person/place_of_death"
+            ],
+            "head": "cecil_b._demille",
+            "relation": "/people/deceased_person/place_of_death",
+            "ground_truth": "hollywood",
+            "support_info": "ever since the 1910 's , when filmmakers like cecil_b._demille first set up shop in hollywood , mapmakers , the lewises and clarks of the city 's social terrain , began compiling that only-in-los angeles fixture , maps to the fabulous homes of the stars . most appear too young to remember hollywood 's glory days personally , and as the theater empties out after some three hours with no discernible audience reaction , we wonder how this epic is being categorized : is it to them what the cecil_b._demille biblical blockbusters were to us in the 1950 's -- shock and awe , the word in cinemascope ? ",
+            "ranking": [
+                  6,
+                  3,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "manhattan",
+                  "cleveland",
+                  "bel-air",
+                  "montclair",
+                  "hollywood",
+                  "orange",
+                  "las_vegas",
+                  "los_angeles"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "los_angeles",
+                  "united_states_of_america",
+                  "hollywood",
+                  "manhattan",
+                  "glendale",
+                  "las_vegas",
+                  "montclair",
+                  "cleveland",
+                  "west_hollywood"
+            ],
+            "rank_o": [
+                  "new_york_city",
+                  "hollywood",
+                  "los_angeles",
+                  "united_states_of_america",
+                  "las_vegas",
+                  "manhattan",
+                  "west_hollywood",
+                  "pacific_palisades",
+                  "glendale",
+                  "cleveland"
+            ]
+      },
+      "('m.028dh2', '/people/person/place_lived')": {
+            "head_relation": [
+                  "tommy_hilfiger",
+                  "/people/person/place_lived"
+            ],
+            "head": "tommy_hilfiger",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "elmira",
+            "support_info": "with all due respect to tommy_hilfiger , the clothing designer who grew up here , and mark twain , who wrote his best-known works at his sister-in-law 's farm overlooking the valley , these days it is ms. collins who is making elmira swell with pride . ",
+            "ranking": [
+                  4,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york",
+                  "manhattan",
+                  "united_states_of_america",
+                  "minneapolis",
+                  "elmira",
+                  "mount_vernon",
+                  "greenwich",
+                  "connecticut",
+                  "berkeley",
+                  "st._louis"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "elmira",
+                  "united_states_of_america",
+                  "albany",
+                  "manhattan",
+                  "mount_vernon",
+                  "minneapolis",
+                  "tucson",
+                  "greenwich",
+                  "santa_monica"
+            ],
+            "rank_o": [
+                  "elmira",
+                  "new_york",
+                  "united_states_of_america",
+                  "albany",
+                  "mount_vernon",
+                  "minneapolis",
+                  "manhattan",
+                  "santa_monica",
+                  "greenwich",
+                  "tucson"
+            ]
+      },
+      "('m.01vw20h', '/people/person/place_lived')": {
+            "head_relation": [
+                  "jay-z",
+                  "/people/person/place_lived"
+            ],
+            "head": "jay-z",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "brooklyn",
+            "support_info": "his predecessor , the notorious b.i.g. -lrb- who was killed in 1997 -rrb- , loved to stretch out words to emphasize meter ; jay-z did a little of that on sunday , when he rapped both his and b.i.g. 's verses from their duet , '' brooklyn 's finest . '' his predecessor , the notorious b.i.g. -lrb- who was killed in 1997 -rrb- , loved to stretch out words to emphasize meter ; jay-z did a little of that on sunday , when he rapped both his and b.i.g. 's verses from their duet , '' brooklyn 's finest . '' ",
+            "ranking": [
+                  7,
+                  4,
+                  0
+            ],
+            "rank_p": [
+                  "new_york",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "manhattan",
+                  "chicago",
+                  "manchester",
+                  "philadelphia",
+                  "brooklyn",
+                  "boston",
+                  "johannesburg"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "new_york_city",
+                  "johannesburg",
+                  "united_states_of_america",
+                  "brooklyn",
+                  "chicago",
+                  "philadelphia",
+                  "east_hampton",
+                  "manchester",
+                  "atlanta"
+            ],
+            "rank_o": [
+                  "brooklyn",
+                  "new_york_city",
+                  "new_york",
+                  "johannesburg",
+                  "east_hampton",
+                  "united_states_of_america",
+                  "chicago",
+                  "atlanta",
+                  "rocawear",
+                  "manchester"
+            ]
+      },
+      "('m.02x2yfn', '/people/person/nationality')": {
+            "head_relation": [
+                  "gennaro_esposito",
+                  "/people/person/nationality"
+            ],
+            "head": "gennaro_esposito",
+            "relation": "/people/person/nationality",
+            "ground_truth": "italy",
+            "support_info": "from naples to 43rd street special menus prepared by gennaro_esposito , the michelin one-star chef at la torre del saracino near naples , italy , will be served on friday at esca , 402 west 43rd street , at 8 and 10 p.m. , $ 85 a person , plus $ 40 for wine : (212) 564-7272 . ",
+            "ranking": [
+                  4,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "canada",
+                  "england",
+                  "russia",
+                  "italy",
+                  "republic_of_ireland",
+                  "germany",
+                  "brazil",
+                  "greece",
+                  "france"
+            ],
+            "rank_s": [
+                  "naples",
+                  "italy",
+                  "united_states_of_america",
+                  "germany",
+                  "england",
+                  "australia",
+                  "canada",
+                  "brazil",
+                  "sweden",
+                  "greece"
+            ],
+            "rank_o": [
+                  "italy",
+                  "naples",
+                  "united_states_of_america",
+                  "brazil",
+                  "peru",
+                  "germany",
+                  "south_korea",
+                  "england",
+                  "australia",
+                  "greece"
+            ]
+      },
+      "('m.02_21s', '/people/person/place_lived')": {
+            "head_relation": [
+                  "sam_johnson",
+                  "/people/person/place_lived"
+            ],
+            "head": "sam_johnson",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "plano",
+            "support_info": "yesterday , the two representatives , sam_johnson of plano , tex. , and jeb hensarling of dallas , both republicans , introduced the right to fly act , which would immediately repeal the wright amendment . yesterday , the two representatives , sam_johnson of plano , tex. , and jeb hensarling of dallas , both republicans , introduced the right to fly act , which would immediately repeal the wright amendment . ",
+            "ranking": [
+                  6,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "austin",
+                  "texas",
+                  "akron",
+                  "richardson",
+                  "wichita",
+                  "plano",
+                  "laredo",
+                  "san_antonio",
+                  "phoenix"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "plano",
+                  "dallas",
+                  "texas",
+                  "beaumont",
+                  "laredo",
+                  "richardson",
+                  "wichita",
+                  "austin",
+                  "phoenix"
+            ],
+            "rank_o": [
+                  "plano",
+                  "dallas",
+                  "united_states_of_america",
+                  "texas",
+                  "laredo",
+                  "wichita",
+                  "san_antonio",
+                  "phoenix",
+                  "waco",
+                  "frisco"
+            ]
+      },
+      "('m.08mxj7', '/people/person/nationality')": {
+            "head_relation": [
+                  "fukushiro_nukaga",
+                  "/people/person/nationality"
+            ],
+            "head": "fukushiro_nukaga",
+            "relation": "/people/person/nationality",
+            "ground_truth": "japan",
+            "support_info": "mr. abe 's comments came a day after the head of the defense agency , fukushiro_nukaga , said japan should consider pre-emptive strikes '' if an enemy country definitely has a way of attacking japan and has its finger on the trigger . '' mr. abe 's comments came a day after the head of the defense agency , fukushiro_nukaga , said japan should consider pre-emptive strikes '' if an enemy country definitely has a way of attacking japan and has its finger on the trigger . '' ",
+            "ranking": [
+                  9,
+                  3,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "republic_of_ireland",
+                  "united_kingdom",
+                  "israel",
+                  "india",
+                  "italy",
+                  "russia",
+                  "england",
+                  "canada",
+                  "japan"
+            ],
+            "rank_s": [
+                  "india",
+                  "germany",
+                  "republic_of_ireland",
+                  "japan",
+                  "south_africa",
+                  "united_states_of_america",
+                  "australia",
+                  "china",
+                  "switzerland",
+                  "england"
+            ],
+            "rank_o": [
+                  "japan",
+                  "india",
+                  "south_korea",
+                  "south_africa",
+                  "germany",
+                  "china",
+                  "australia",
+                  "russia",
+                  "england",
+                  "switzerland"
+            ]
+      },
+      "('m.04z24x', '/location/neighborhood/neighborhood_of')": {
+            "head_relation": [
+                  "bedford-stuyvesant",
+                  "/location/neighborhood/neighborhood_of"
+            ],
+            "head": "bedford-stuyvesant",
+            "relation": "/location/neighborhood/neighborhood_of",
+            "ground_truth": "new_york_city",
+            "support_info": "cityparks concerts -- free concert series in parks throughout new_york_city , beginning thursday with kurtis blow in von king park , marcy and tompkins avenues , bedford-stuyvesant , brooklyn . ",
+            "ranking": [
+                  3,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "bedford-stuyvesant",
+                  "united_states_of_america",
+                  "midtown_manhattan",
+                  "new_york_city",
+                  "new_york",
+                  "manhattan",
+                  "queens",
+                  "staten_island",
+                  "chicago",
+                  "upper_east_side"
+            ],
+            "rank_s": [
+                  "bedford-stuyvesant",
+                  "new_york",
+                  "new_york_city",
+                  "atlanta",
+                  "upper_east_side",
+                  "midtown_manhattan",
+                  "chicago",
+                  "boston",
+                  "manhattan",
+                  "united_states_of_america"
+            ],
+            "rank_o": [
+                  "new_york",
+                  "new_york_city",
+                  "bedford-stuyvesant",
+                  "upper_east_side",
+                  "midtown_manhattan",
+                  "manhattan",
+                  "chicago",
+                  "atlanta",
+                  "boston",
+                  "providence"
+            ]
+      },
+      "('m.0766qs', '/people/person/place_lived')": {
+            "head_relation": [
+                  "kyle_davies",
+                  "/people/person/place_lived"
+            ],
+            "head": "kyle_davies",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "atlanta",
+            "support_info": "the mets , who have recently been thwarted by kyle_davies of atlanta and matt cain of san francisco , squandered their best opportunity , in the fourth . last tuesday , the right-hander kyle_davies of atlanta recorded a complete-game victory against them . randolph , who used the same batting order that did not score a run against atlanta pitcher tim hudson on tuesday night , witnessed the same results wednesday against kyle_davies , who was making his second major league start . ",
+            "ranking": [
+                  3,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "minnesota",
+                  "minneapolis",
+                  "atlanta",
+                  "cleveland",
+                  "evansville",
+                  "brooklyn",
+                  "boston",
+                  "dayton",
+                  "ponce"
+            ],
+            "rank_s": [
+                  "minnesota",
+                  "atlanta",
+                  "cleveland",
+                  "united_states_of_america",
+                  "atlanta_braves",
+                  "boston",
+                  "minneapolis",
+                  "evansville",
+                  "brooklyn",
+                  "dayton"
+            ],
+            "rank_o": [
+                  "atlanta",
+                  "atlanta_braves",
+                  "minnesota",
+                  "united_states_of_america",
+                  "cleveland",
+                  "minneapolis",
+                  "boston",
+                  "brooklyn",
+                  "statesboro",
+                  "garland"
+            ]
+      },
+      "('m.02cft', '/location/location/contains')": {
+            "head_relation": [
+                  "dublin",
+                  "/location/location/contains"
+            ],
+            "head": "dublin",
+            "relation": "/location/location/contains",
+            "ground_truth": "raheny",
+            "support_info": "david healy grew up with two sisters in raheny , a suburb of dublin , where his father worked as a civil servant in the health department and his mother ran the household . it was the 1950 's , and raheny was then a solidly middle-class community north of dublin , on the working man 's side of the tracks . david healy grew up with two sisters in raheny , a suburb of dublin , where his father worked as a civil servant in the health department and his mother ran the household . ",
+            "ranking": [
+                  6,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "dublin",
+                  "irish_museum_of_modern_art",
+                  "university_of_limerick",
+                  "north_wales",
+                  "bank_of_ireland",
+                  "county_monaghan",
+                  "raheny",
+                  "ulster",
+                  "croom",
+                  "galway"
+            ],
+            "rank_s": [
+                  "dublin",
+                  "donegal",
+                  "raheny",
+                  "irish_museum_of_modern_art",
+                  "university_of_limerick",
+                  "bank_of_ireland",
+                  "straffan",
+                  "north_wales",
+                  "croom",
+                  "river_liffey"
+            ],
+            "rank_o": [
+                  "dublin",
+                  "raheny",
+                  "irish_museum_of_modern_art",
+                  "north_wales",
+                  "county_monaghan",
+                  "university_of_limerick",
+                  "straffan",
+                  "croom",
+                  "galway",
+                  "river_liffey"
+            ]
+      },
+      "('m.0krypw', '/people/person/nationality')": {
+            "head_relation": [
+                  "bernd_franke",
+                  "/people/person/nationality"
+            ],
+            "head": "bernd_franke",
+            "relation": "/people/person/nationality",
+            "ground_truth": "germany",
+            "support_info": "the program , like many of mr. sachs 's adventures , is international and far-flung , with works by andrew ford , from australia ; ryan francis , from the united states ; bernd_franke , from germany ; jose maceda , from the philippines ; and milica paranosic , from the former yugoslavia . ",
+            "ranking": [
+                  8,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "sweden",
+                  "england",
+                  "united_kingdom",
+                  "republic_of_ireland",
+                  "south_africa",
+                  "canada",
+                  "france",
+                  "germany",
+                  "austria"
+            ],
+            "rank_s": [
+                  "australia",
+                  "germany",
+                  "austria",
+                  "england",
+                  "sweden",
+                  "belgium",
+                  "brazil",
+                  "south_africa",
+                  "france",
+                  "japan"
+            ],
+            "rank_o": [
+                  "germany",
+                  "australia",
+                  "austria",
+                  "brazil",
+                  "netherlands",
+                  "belgium",
+                  "south_africa",
+                  "england",
+                  "sweden",
+                  "united_states_of_america"
+            ]
+      },
+      "('m.04vmp', '/location/location/contains')": {
+            "head_relation": [
+                  "mumbai",
+                  "/location/location/contains"
+            ],
+            "head": "mumbai",
+            "relation": "/location/location/contains",
+            "ground_truth": "chhatrapati_shivaji_terminus",
+            "support_info": "chhatrapati_shivaji_terminus , perhaps the most impressive of all of mumbai 's landmarks , may sound like just a train station , but is a sight to behold up close . chhatrapati_shivaji_terminus , perhaps the most impressive of all of mumbai 's landmarks , may sound like just a train station , but is a sight to behold up close . ",
+            "ranking": [
+                  6,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "mumbai",
+                  "state_bank_of_india",
+                  "jet_airways",
+                  "reliance_industries",
+                  "icici_bank",
+                  "aurangabad",
+                  "chhatrapati_shivaji_terminus",
+                  "chamba",
+                  "air_deccan",
+                  "wockhardt"
+            ],
+            "rank_s": [
+                  "mumbai",
+                  "chhatrapati_shivaji_terminus",
+                  "state_bank_of_india",
+                  "air_deccan",
+                  "air_sahara",
+                  "hindustan_lever_limited",
+                  "mangan",
+                  "yash_raj_films",
+                  "jet_airways",
+                  "chamba"
+            ],
+            "rank_o": [
+                  "chhatrapati_shivaji_terminus",
+                  "mumbai",
+                  "state_bank_of_india",
+                  "jet_airways",
+                  "aurangabad",
+                  "air_sahara",
+                  "chamba",
+                  "benaulim",
+                  "air_deccan",
+                  "icici_bank"
+            ]
+      },
+      "('m.03k2yl', '/people/person/place_of_birth')": {
+            "head_relation": [
+                  "matthew_barney",
+                  "/people/person/place_of_birth"
+            ],
+            "head": "matthew_barney",
+            "relation": "/people/person/place_of_birth",
+            "ground_truth": "san_francisco",
+            "support_info": "in 1992 , for example , ms. westreich recommended a sculpture by the artist robert gober to norman and norah stone , a psychologist and former corporate lawyer in san_francisco who own works by jeff koons , richard prince and matthew_barney , as well as by younger artists like keith tyson , simon starling and cheyney thompson . ",
+            "ranking": [
+                  7,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "bradford",
+                  "chicago",
+                  "cincinnati",
+                  "boston",
+                  "seattle",
+                  "san_francisco",
+                  "palo_alto",
+                  "portland"
+            ],
+            "rank_s": [
+                  "san_francisco_bay_area",
+                  "united_states_of_america",
+                  "san_francisco",
+                  "new_york_city",
+                  "san_francisco_bay",
+                  "bradford",
+                  "chicago",
+                  "columbus",
+                  "boston",
+                  "marin_county"
+            ],
+            "rank_o": [
+                  "san_francisco",
+                  "san_francisco_bay_area",
+                  "san_francisco_bay",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "chicago",
+                  "sausalito",
+                  "cincinnati",
+                  "bradford",
+                  "palo_alto"
+            ]
+      },
+      "('m.03cbv5s', '/people/person/place_lived')": {
+            "head_relation": [
+                  "barbara_d._underwood",
+                  "/people/person/place_lived"
+            ],
+            "head": "barbara_d._underwood",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "brooklyn",
+            "support_info": "the prosecutors , eric o. corngold , the chief assistant united states attorney in brooklyn , and barbara_d._underwood , counsel to the united states attorney , said in the court papers that mr. schwarz 's consent to the sentence should be set aside as involuntary because it was based on the misapprehension . the prosecutors , eric o. corngold , the chief assistant united states attorney in brooklyn , and barbara_d._underwood , counsel to the united states attorney , said in the court papers that mr. schwarz 's consent to the sentence should be set aside as involuntary because it was based on the misapprehension . ",
+            "ranking": [
+                  4,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "new_york",
+                  "indiana",
+                  "burlington",
+                  "brooklyn",
+                  "atlanta",
+                  "ponce",
+                  "des_moines",
+                  "milledgeville",
+                  "kiev"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "new_york",
+                  "brooklyn",
+                  "indiana",
+                  "grand_rapids",
+                  "burlington",
+                  "milledgeville",
+                  "atlanta",
+                  "new_hyde_park",
+                  "savannah"
+            ],
+            "rank_o": [
+                  "new_york_city",
+                  "brooklyn",
+                  "new_york",
+                  "grand_rapids",
+                  "indiana",
+                  "new_hyde_park",
+                  "atlanta",
+                  "milledgeville",
+                  "savannah",
+                  "burlington"
+            ]
+      },
+      "('m.04gfwg', '/people/person/place_of_birth')": {
+            "head_relation": [
+                  "dan_rooney",
+                  "/people/person/place_of_birth"
+            ],
+            "head": "dan_rooney",
+            "relation": "/people/person/place_of_birth",
+            "ground_truth": "pittsburgh",
+            "support_info": "at the end , cowher , a pittsburgh native who has coached the steelers for 14 seasons , handed the lombardi trophy to dan_rooney , the 73-year-old chairman of the team . we 're pleased to be able to present five good candidates to the owners , '' said the pittsburgh owner dan_rooney , the co-chairman of the search committee . '' the committee will be headed by dan_rooney of pittsburgh and jerry richardson of carolina , two of the owners tagliabue has come to trust the most . ",
+            "ranking": [
+                  5,
+                  3,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "chicago",
+                  "sydney",
+                  "iraq",
+                  "pittsburgh",
+                  "seattle",
+                  "wellington",
+                  "coraopolis",
+                  "detroit"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "chicago",
+                  "new_york_city",
+                  "pittsburgh",
+                  "sydney",
+                  "allegheny_county",
+                  "wellington",
+                  "carnegie",
+                  "iraq",
+                  "tasmania"
+            ],
+            "rank_o": [
+                  "new_york_city",
+                  "pittsburgh",
+                  "carnegie",
+                  "united_states_of_america",
+                  "chicago",
+                  "detroit",
+                  "wellington",
+                  "sydney",
+                  "allegheny_county",
+                  "seattle"
+            ]
+      },
+      "('m.08lrwn', '/people/person/place_lived')": {
+            "head_relation": [
+                  "eric_montross",
+                  "/people/person/place_lived"
+            ],
+            "head": "eric_montross",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "indianapolis",
+            "support_info": "oden and conley played at lawrence north high school of indianapolis for jack keefer , a savvy veteran who coached center eric_montross , who won a national championship at north carolina in 1993 and played in the n.b.a. from 1994-2002 . oden and conley played at lawrence north high school of indianapolis for jack keefer , a savvy veteran who coached center eric_montross , who won a national championship at north carolina in 1993 and played in the n.b.a. from 1994-2002 . ",
+            "ranking": [
+                  3,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "chattanooga",
+                  "indianapolis",
+                  "st._louis",
+                  "tennessee",
+                  "hartford",
+                  "indiana",
+                  "alexandria",
+                  "oakland"
+            ],
+            "rank_s": [
+                  "indiana",
+                  "new_york_city",
+                  "indianapolis",
+                  "oakland",
+                  "lawrence",
+                  "united_states_of_america",
+                  "queensland",
+                  "hartford",
+                  "chattanooga",
+                  "alexandria"
+            ],
+            "rank_o": [
+                  "lawrence",
+                  "indianapolis",
+                  "new_york_city",
+                  "indiana",
+                  "united_states_of_america",
+                  "alexandria",
+                  "chattanooga",
+                  "st._louis",
+                  "hartford",
+                  "louisiana"
+            ]
+      },
+      "('m.01l_9d', '/location/administrative_division/country')": {
+            "head_relation": [
+                  "rio_grande_do_sul",
+                  "/location/administrative_division/country"
+            ],
+            "head": "rio_grande_do_sul",
+            "relation": "/location/administrative_division/country",
+            "ground_truth": "brazil",
+            "support_info": "quite quickly , i learned that all the missions -- except the last to be built , in santo angelo in what is now rio_grande_do_sul , brazil 's southernmost state -- were laid out in identical fashion . quite quickly , i learned that all the missions -- except the last to be built , in santo angelo in what is now rio_grande_do_sul , brazil 's southernmost state -- were laid out in identical fashion . ",
+            "ranking": [
+                  5,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "sweden",
+                  "germany",
+                  "belgium",
+                  "australia",
+                  "brazil",
+                  "mexico",
+                  "china",
+                  "colombia",
+                  "norway"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "australia",
+                  "brazil",
+                  "belgium",
+                  "republic_of_china",
+                  "colombia",
+                  "germany",
+                  "sweden",
+                  "cambodia",
+                  "mexico"
+            ],
+            "rank_o": [
+                  "brazil",
+                  "united_states_of_america",
+                  "s\u00e3o_paulo",
+                  "cambodia",
+                  "colombia",
+                  "minas_gerais",
+                  "guyana",
+                  "australia",
+                  "philippines",
+                  "mexico"
+            ]
+      },
+      "('m.045rw0', '/people/person/place_lived')": {
+            "head_relation": [
+                  "kal_mann",
+                  "/people/person/place_lived"
+            ],
+            "head": "kal_mann",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "philadelphia",
+            "support_info": "dave appell , who with kal_mann , wrote or produced a number of hits for mr. checker , dee dee sharp , the dovells and other philadelphia groups , wrote a song for one of their favorites , bobby rydell ; '' wildwood days '' -lrb- '' every day 's a holiday and every night is saturday night '' -rrb- made it as high as no. 17 on the billboard national charts in the summer of 1963 . '' dave appell , who with kal_mann , wrote or produced a number of hits for mr. checker , dee dee sharp , the dovells and other philadelphia groups , wrote a song for one of their favorites , bobby rydell ; '' wildwood days '' -lrb- '' every day 's a holiday and every night is saturday night '' -rrb- made it as high as no. 17 on the billboard national charts in the summer of 1963 . '' ",
+            "ranking": [
+                  4,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "pennsylvania",
+                  "united_states_of_america",
+                  "cleveland",
+                  "philadelphia",
+                  "atlanta",
+                  "boston",
+                  "brooklyn",
+                  "london",
+                  "ashland"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "cleveland",
+                  "philadelphia",
+                  "louisville",
+                  "pennsylvania",
+                  "lancaster",
+                  "united_states_of_america",
+                  "brooklyn",
+                  "london",
+                  "columbus"
+            ],
+            "rank_o": [
+                  "new_york_city",
+                  "philadelphia",
+                  "lancaster",
+                  "cleveland",
+                  "pennsylvania",
+                  "south_philadelphia",
+                  "louisville",
+                  "columbus",
+                  "united_states_of_america",
+                  "brooklyn"
+            ]
+      },
+      "('m.02s5x0', '/people/person/nationality')": {
+            "head_relation": [
+                  "james_murray",
+                  "/people/person/nationality"
+            ],
+            "head": "james_murray",
+            "relation": "/people/person/nationality",
+            "ground_truth": "scotland",
+            "support_info": "survived by brother james_murray and his wife jenny of sidney , australia , fourteen nieces and nephews and thirteen great nieces and nephews in usa , scotland , england and australia . survived by brother james_murray and his wife jenny of sidney , australia , fourteen nieces and nephews and thirteen great nieces and nephews in usa , scotland , england and australia . ",
+            "ranking": [
+                  7,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "united_kingdom",
+                  "republic_of_ireland",
+                  "england",
+                  "south_africa",
+                  "sweden",
+                  "wales",
+                  "scotland",
+                  "pakistan",
+                  "canada"
+            ],
+            "rank_s": [
+                  "australia",
+                  "england",
+                  "scotland",
+                  "germany",
+                  "united_states_of_america",
+                  "south_africa",
+                  "canada",
+                  "sweden",
+                  "wales",
+                  "belgium"
+            ],
+            "rank_o": [
+                  "scotland",
+                  "australia",
+                  "england",
+                  "south_africa",
+                  "great_britain",
+                  "wales",
+                  "germany",
+                  "belgium",
+                  "republic_of_ireland",
+                  "united_states_of_america"
+            ]
+      },
+      "('m.01dxx3', '/people/person/nationality')": {
+            "head_relation": [
+                  "takashi_miike",
+                  "/people/person/nationality"
+            ],
+            "head": "takashi_miike",
+            "relation": "/people/person/nationality",
+            "ground_truth": "japan",
+            "support_info": "box , '' from japan 's takashi_miike , is a dreamlike study of a woman who relives the death of her twin sister as a child ; '' dumplings , '' directed by fruit chan of hong kong , is a cautionary tale about a wealthy woman who believes she has found the secret of eternal youth in the special dumplings prepared by a tenement witch . -lrb- it is mr. park 's contribution to '' three extremes , '' an omnibus film with episodes by fruit chan of hong kong and takashi_miike of japan -rrb- . ",
+            "ranking": [
+                  6,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "republic_of_china",
+                  "russia",
+                  "united_kingdom",
+                  "china",
+                  "canada",
+                  "japan",
+                  "australia",
+                  "south_africa",
+                  "brazil"
+            ],
+            "rank_s": [
+                  "south_africa",
+                  "russia",
+                  "japan",
+                  "united_states_of_america",
+                  "germany",
+                  "south_korea",
+                  "hong_kong",
+                  "australia",
+                  "brazil",
+                  "republic_of_china"
+            ],
+            "rank_o": [
+                  "japan",
+                  "republic_of_china",
+                  "china",
+                  "south_africa",
+                  "united_kingdom",
+                  "south_korea",
+                  "australia",
+                  "hong_kong",
+                  "philippines",
+                  "united_states_of_america"
+            ]
+      },
+      "('m.0hzlz', '/location/country/administrative_divisions')": {
+            "head_relation": [
+                  "south_africa",
+                  "/location/country/administrative_divisions"
+            ],
+            "head": "south_africa",
+            "relation": "/location/country/administrative_divisions",
+            "ground_truth": "eastern_cape",
+            "support_info": "mr. bailey sees much better prospects along the breathtaking coastline of south_africa 's eastern_cape . in this earnest historical novel , chase-riboud humanizes the indignities endured by sarah baartman , a young woman from south_africa 's eastern_cape , who was lured to europe in 1810 and displayed as a scientific oddity and sideshow curiosity -- even after her death in 1816 . ",
+            "ranking": [
+                  8,
+                  4,
+                  1
+            ],
+            "rank_p": [
+                  "south_africa",
+                  "south_african_airways",
+                  "university_of_natal",
+                  "george",
+                  "springs",
+                  "midlands",
+                  "southern_district",
+                  "sandton",
+                  "eastern_cape",
+                  "madeira"
+            ],
+            "rank_s": [
+                  "south_africa",
+                  "south_african_airways",
+                  "southern_district",
+                  "east_london",
+                  "eastern_cape",
+                  "mozambique",
+                  "midlands",
+                  "louis_trichardt",
+                  "thabo_mbeki",
+                  "george"
+            ],
+            "rank_o": [
+                  "south_africa",
+                  "eastern_cape",
+                  "south_african_airways",
+                  "springs",
+                  "madeira",
+                  "sandton",
+                  "southern_district",
+                  "east_london",
+                  "mozambique",
+                  "harare"
+            ]
+      },
+      "('m.01fwt6', '/people/person/nationality')": {
+            "head_relation": [
+                  "edith_evans",
+                  "/people/person/nationality"
+            ],
+            "head": "edith_evans",
+            "relation": "/people/person/nationality",
+            "ground_truth": "england",
+            "support_info": "christopher fry , the british playwright who created memorable parts for john gielgud , laurence olivier and edith_evans , gave richard burton his first role on broadway , and was primarily responsible for the script of '' ben-hur , '' among other films , died on thursday in chichester , england . christopher fry , the british playwright who created memorable parts for john gielgud , laurence olivier and edith_evans , gave richard burton his first role on broadway , and was primarily responsible for the script of '' ben-hur , '' among other films , died on thursday in chichester , england . ",
+            "ranking": [
+                  3,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "united_kingdom",
+                  "republic_of_ireland",
+                  "england",
+                  "south_africa",
+                  "italy",
+                  "canada",
+                  "austria",
+                  "australia",
+                  "germany"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "england",
+                  "south_africa",
+                  "germany",
+                  "brazil",
+                  "australia",
+                  "republic_of_ireland",
+                  "great_britain",
+                  "belgium",
+                  "canada"
+            ],
+            "rank_o": [
+                  "england",
+                  "great_britain",
+                  "united_states_of_america",
+                  "south_africa",
+                  "germany",
+                  "netherlands",
+                  "australia",
+                  "belgium",
+                  "new_zealand",
+                  "united_kingdom"
+            ]
+      },
+      "('m.046vz9', '/people/person/place_of_birth')": {
+            "head_relation": [
+                  "tony_la_russa",
+                  "/people/person/place_of_birth"
+            ],
+            "head": "tony_la_russa",
+            "relation": "/people/person/place_of_birth",
+            "ground_truth": "tampa",
+            "support_info": "and he has known tony_la_russa , the manager of the cardinals , since la russa was a teenaged star in tampa . one such player was a shortstop phenom from tampa , fla. , named tony_la_russa , who spent all of 1963 with the kansas city athletics as a jumpy 18-year-old , getting just 44 at-bats and 11 hits . '' ",
+            "ranking": [
+                  6,
+                  3,
+                  1
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "university_of_south_florida",
+                  "florida",
+                  "ruskin",
+                  "miami",
+                  "atlanta",
+                  "tampa",
+                  "houston",
+                  "st._petersburg",
+                  "sanford"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "university_of_south_florida",
+                  "florida",
+                  "tampa",
+                  "atlanta",
+                  "houston",
+                  "st._petersburg",
+                  "ruskin",
+                  "sanford",
+                  "tallahassee"
+            ],
+            "rank_o": [
+                  "united_states_of_america",
+                  "tampa",
+                  "florida",
+                  "university_of_south_florida",
+                  "atlanta",
+                  "ruskin",
+                  "takoma_park",
+                  "houston",
+                  "baton_rouge",
+                  "sanford"
+            ]
+      },
+      "('m.0h5qxv', '/location/administrative_division/country')": {
+            "head_relation": [
+                  "nunavut",
+                  "/location/administrative_division/country"
+            ],
+            "head": "nunavut",
+            "relation": "/location/administrative_division/country",
+            "ground_truth": "canada",
+            "support_info": "when christianity came , all the spirits that we believed in became evil , '' mr. kunuk explained in a telephone interview from his home in igloolik , a community in nunavut , the huge inuit region created out of canada 's northwest territories seven years ago . a less wild future one day last summer , the 1,200 residents of pangnirtung , a windswept outpost on a fjord in nunavut , canada 's inuit-administered arctic territory , were startled to see a 400-foot european cruise ship drop anchor unannounced and send several hundred tourists ashore in small boats . ",
+            "ranking": [
+                  8,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "nunavut",
+                  "united_states_of_america",
+                  "sweden",
+                  "saskatchewan",
+                  "russia",
+                  "france",
+                  "south_africa",
+                  "nigeria",
+                  "canada",
+                  "british_columbia"
+            ],
+            "rank_s": [
+                  "nunavut",
+                  "united_states_of_america",
+                  "canada",
+                  "saskatchewan",
+                  "south_africa",
+                  "british_columbia",
+                  "sweden",
+                  "russia",
+                  "alberta",
+                  "manitoba"
+            ],
+            "rank_o": [
+                  "nunavut",
+                  "canada",
+                  "northwest_territories",
+                  "saskatchewan",
+                  "united_states_of_america",
+                  "british_columbia",
+                  "ontario",
+                  "south_africa",
+                  "alberta",
+                  "manitoba"
+            ]
+      },
+      "('m.01q415', '/people/person/place_lived')": {
+            "head_relation": [
+                  "larry_mcmurtry",
+                  "/people/person/place_lived"
+            ],
+            "head": "larry_mcmurtry",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "wichita_falls",
+            "support_info": "but the ghostly downtown , sapped by malls and complete with a movie palace advertising its availability for rent , can stand in for the desolate town mythologized in '' the last picture show '' -- actually set in archer city , down the road -- the literary creation of wichita_falls 's leading man of letters , larry_mcmurtry . ",
+            "ranking": [
+                  4,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "oklahoma",
+                  "new_mexico",
+                  "wichita_falls",
+                  "houston",
+                  "humble",
+                  "south_carolina",
+                  "arizona",
+                  "fort_worth"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "wichita_falls",
+                  "united_states_of_america",
+                  "new_mexico",
+                  "california",
+                  "arizona",
+                  "oklahoma",
+                  "south_carolina",
+                  "houston",
+                  "austin"
+            ],
+            "rank_o": [
+                  "wichita_falls",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "california",
+                  "arizona",
+                  "oklahoma",
+                  "dallas_county",
+                  "dallas",
+                  "south_carolina",
+                  "houston"
+            ]
+      },
+      "('m.03_f0', '/people/deceased_person/place_of_death')": {
+            "head_relation": [
+                  "johann_sebastian_bach",
+                  "/people/deceased_person/place_of_death"
+            ],
+            "head": "johann_sebastian_bach",
+            "relation": "/people/deceased_person/place_of_death",
+            "ground_truth": "leipzig",
+            "support_info": "the going to column on jan. 8 about leipzig , germany , misstated the relationship between johann_sebastian_bach and the st. thomas church , or thomaskirche . going to correction : february 5 , 2006 , sunday the going to column on jan. 8 about leipzig , germany , misstated the relationship between johann_sebastian_bach and the st. thomas church , or thomaskirche . the going to column on jan. 8 about leipzig , germany , misstated the relationship between johann_sebastian_bach and the st. thomas church , or thomaskirche . ",
+            "ranking": [
+                  5,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "z\u00fcrich",
+                  "d\u00fcsseldorf",
+                  "antwerp",
+                  "germany",
+                  "leipzig",
+                  "baden-baden",
+                  "munich",
+                  "weimar",
+                  "bayreuth"
+            ],
+            "rank_s": [
+                  "germany",
+                  "leipzig",
+                  "z\u00fcrich",
+                  "united_states_of_america",
+                  "antwerp",
+                  "d\u00fcsseldorf",
+                  "baden-baden",
+                  "weimar",
+                  "l\u00fcbeck",
+                  "dresden"
+            ],
+            "rank_o": [
+                  "leipzig",
+                  "germany",
+                  "z\u00fcrich",
+                  "d\u00fcsseldorf",
+                  "baden-baden",
+                  "weimar",
+                  "antwerp",
+                  "frankfurt",
+                  "l\u00fcbeck",
+                  "munich"
+            ]
+      },
+      "('m.0347c_', '/people/person/place_lived')": {
+            "head_relation": [
+                  "lisa_rinna",
+                  "/people/person/place_lived"
+            ],
+            "head": "lisa_rinna",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "los_angeles",
+            "support_info": "i visited two other shops in los_angeles that day and spotted celebrities at both : lisa_rinna at her store , belle gray ; a guy i did n't recognize who said he had been in '' charlie 's angels : full throttle '' at the vintage store decadestwo . i visited two other shops in los_angeles that day and spotted celebrities at both : lisa_rinna at her store , belle gray ; a guy i did n't recognize who said he had been in '' charlie 's angels : full throttle '' at the vintage store decadestwo . ",
+            "ranking": [
+                  7,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "rio_grande_do_sul",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "manhattan",
+                  "pennsylvania",
+                  "vancouver",
+                  "texas",
+                  "los_angeles",
+                  "london",
+                  "connecticut"
+            ],
+            "rank_s": [
+                  "new_york_city",
+                  "texas",
+                  "los_angeles",
+                  "united_states_of_america",
+                  "australia",
+                  "london",
+                  "california",
+                  "manhattan",
+                  "vancouver",
+                  "pennsylvania"
+            ],
+            "rank_o": [
+                  "los_angeles",
+                  "united_states_of_america",
+                  "new_york_city",
+                  "california",
+                  "texas",
+                  "san_francisco_bay_area",
+                  "manhattan",
+                  "pennsylvania",
+                  "vancouver",
+                  "missouri"
+            ]
+      },
+      "('m.02t3dc', '/location/neighborhood/neighborhood_of')": {
+            "head_relation": [
+                  "forest_hills",
+                  "/location/neighborhood/neighborhood_of"
+            ],
+            "head": "forest_hills",
+            "relation": "/location/neighborhood/neighborhood_of",
+            "ground_truth": "queens",
+            "support_info": "for nearly 90 years , little has changed inside eddie 's sweet shop on metropolitan avenue in forest_hills , queens . he is a son of joan solomon weiss and justice allan weiss of forest_hills , queens . while jetblue -- which is based in forest_hills , queens -- has become the largest carrier at j.f.k. after a modest start servicing overlooked routes to buffalo and rochester , it is not expected to mirror that success at newark . '' ",
+            "ranking": [
+                  8,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "forest_hills",
+                  "new_york",
+                  "manhattan",
+                  "beverly_hills",
+                  "rome",
+                  "los_angeles",
+                  "connecticut",
+                  "queens",
+                  "st._louis"
+            ],
+            "rank_s": [
+                  "forest_hills",
+                  "queens",
+                  "new_york",
+                  "beverly_hills",
+                  "ozone_park",
+                  "united_states_of_america",
+                  "flushing",
+                  "rome",
+                  "manhattan",
+                  "bayside"
+            ],
+            "rank_o": [
+                  "queens",
+                  "forest_hills",
+                  "new_york",
+                  "beverly_hills",
+                  "united_states_of_america",
+                  "flushing",
+                  "st._louis",
+                  "brooklyn",
+                  "south_jamaica",
+                  "manhattan"
+            ]
+      },
+      "('m.0n5fz', '/location/location/contains')": {
+            "head_relation": [
+                  "hudson_county",
+                  "/location/location/contains"
+            ],
+            "head": "hudson_county",
+            "relation": "/location/location/contains",
+            "ground_truth": "union_city",
+            "support_info": "similarly , the creators of the movie about mr. menendez , the powerful hudson_county democrat , hope it will cast doubt on the version of events in which the senator got his start as a reformist whistleblower in the administration of william musto , a former mayor of union_city who was convicted of racketeering . investigators with the united states immigration and customs enforcement office in newark arrested two brothers and detained more than 60 others on monday morning after raiding 15 sites , including places in west new york , union_city and elsewhere in hudson_county . ",
+            "ranking": [
+                  5,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "hudson_county",
+                  "moorestown",
+                  "marlton",
+                  "summit",
+                  "mountainside",
+                  "union_city",
+                  "fort_lee",
+                  "willingboro",
+                  "medford_lakes",
+                  "katy"
+            ],
+            "rank_s": [
+                  "hudson_county",
+                  "mountainside",
+                  "union_city",
+                  "moorestown",
+                  "new_jersey_city_university",
+                  "medford_lakes",
+                  "katy",
+                  "marlton",
+                  "englewood_cliffs",
+                  "port_libert\u00e9"
+            ],
+            "rank_o": [
+                  "union_city",
+                  "hudson_county",
+                  "mount_holly",
+                  "new_jersey_city_university",
+                  "port_libert\u00e9",
+                  "medford_lakes",
+                  "moorestown",
+                  "fort_lee",
+                  "mount_laurel",
+                  "browns_mills"
+            ]
+      },
+      "('m.027yphx', '/location/neighborhood/neighborhood_of')": {
+            "head_relation": [
+                  "waterside_plaza",
+                  "/location/neighborhood/neighborhood_of"
+            ],
+            "head": "waterside_plaza",
+            "relation": "/location/neighborhood/neighborhood_of",
+            "ground_truth": "manhattan",
+            "support_info": "... marye elmlinger , waterside_plaza , manhattan . ... marye elmlinger , waterside_plaza , manhattan . ",
+            "ranking": [
+                  4,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city_department_of_health_and_mental_hygiene",
+                  "midtown_manhattan",
+                  "united_states_of_america",
+                  "new_york",
+                  "manhattan",
+                  "los_angeles",
+                  "hartford",
+                  "greenwich_village",
+                  "london",
+                  "montreal"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "manhattan",
+                  "midtown_manhattan",
+                  "united_states_of_america",
+                  "montreal",
+                  "new_york_city_department_of_health_and_mental_hygiene",
+                  "hartford",
+                  "london",
+                  "brooklyn",
+                  "flushing"
+            ],
+            "rank_o": [
+                  "manhattan",
+                  "new_york",
+                  "midtown_manhattan",
+                  "new_york_city_department_of_health_and_mental_hygiene",
+                  "united_states_of_america",
+                  "montreal",
+                  "flushing",
+                  "los_angeles",
+                  "brooklyn",
+                  "queens"
+            ]
+      },
+      "('m.0644dpl', '/people/person/nationality')": {
+            "head_relation": [
+                  "lucia_recchia",
+                  "/people/person/nationality"
+            ],
+            "head": "lucia_recchia",
+            "relation": "/people/person/nationality",
+            "ground_truth": "italy",
+            "support_info": "second and third places went to lucia_recchia of italy (1:18.09) and julia mancuso of the united states (1:18.40) . ",
+            "ranking": [
+                  2,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "republic_of_ireland",
+                  "italy",
+                  "england",
+                  "russia",
+                  "canada",
+                  "france",
+                  "nigeria",
+                  "india",
+                  "sweden"
+            ],
+            "rank_s": [
+                  "india",
+                  "italy",
+                  "russia",
+                  "germany",
+                  "australia",
+                  "united_states_of_america",
+                  "sweden",
+                  "canada",
+                  "nigeria",
+                  "brazil"
+            ],
+            "rank_o": [
+                  "italy",
+                  "india",
+                  "nigeria",
+                  "argentina",
+                  "spain",
+                  "russia",
+                  "jamaica",
+                  "germany",
+                  "brazil",
+                  "france"
+            ]
+      },
+      "('m.01xqzz', '/people/person/nationality')": {
+            "head_relation": [
+                  "shirin_ebadi",
+                  "/people/person/nationality"
+            ],
+            "head": "shirin_ebadi",
+            "relation": "/people/person/nationality",
+            "ground_truth": "iran",
+            "support_info": "iran 's judiciary retreated on tuesday from its threat to arrest shirin_ebadi , the human rights lawyer and nobel peace prize winner , for defying a summons to appear before a security court and said the summons was an error , a rare acknowledgment . first chapters : excerpts from '' the most famous man in america , '' by debby applegate ; '' iran awakening , '' by shirin_ebadi ; and other books . ",
+            "ranking": [
+                  8,
+                  3,
+                  0
+            ],
+            "rank_p": [
+                  "israel",
+                  "united_states_of_america",
+                  "republic_of_ireland",
+                  "united_kingdom",
+                  "russia",
+                  "india",
+                  "canada",
+                  "italy",
+                  "iran",
+                  "china"
+            ],
+            "rank_s": [
+                  "india",
+                  "germany",
+                  "switzerland",
+                  "iran",
+                  "pakistan",
+                  "china",
+                  "russia",
+                  "canada",
+                  "israel",
+                  "austria"
+            ],
+            "rank_o": [
+                  "iran",
+                  "india",
+                  "pakistan",
+                  "israel",
+                  "germany",
+                  "china",
+                  "russia",
+                  "republic_of_ireland",
+                  "united_kingdom",
+                  "united_states_of_america"
+            ]
+      },
+      "('m.07cbs', '/people/person/place_lived')": {
+            "head_relation": [
+                  "thomas_jefferson",
+                  "/people/person/place_lived"
+            ],
+            "head": "thomas_jefferson",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "virginia",
+            "support_info": "john leland , an 18th-century baptist evangelist who worked with thomas_jefferson and james madison to secure religious freedom in virginia , wrote : '' let every man speak freely without fear , maintain the principles that he believes , worship according to his own faith , either one god , three gods , no god , or twenty gods ; and let government protect him in doing so . '' thomas_jefferson 's '' notes on the state of virginia '' -- a collection of local observations and global musings issued quietly in paris in 1785 , when jefferson was serving as a diplomat -- had been reprinted in new york three years earlier . ",
+            "ranking": [
+                  8,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "thomas_jefferson",
+                  "jeffersonville",
+                  "jefferson_county",
+                  "united_states_of_america",
+                  "alabama",
+                  "tennessee",
+                  "oakville",
+                  "palatka",
+                  "virginia",
+                  "florida"
+            ],
+            "rank_s": [
+                  "thomas_jefferson",
+                  "virginia",
+                  "united_states_of_america",
+                  "new_hampshire",
+                  "jeffersonville",
+                  "florida",
+                  "oakville",
+                  "tennessee",
+                  "west_virginia",
+                  "greenville"
+            ],
+            "rank_o": [
+                  "virginia",
+                  "thomas_jefferson",
+                  "jeffersonville",
+                  "united_states_of_america",
+                  "florida",
+                  "west_virginia",
+                  "jefferson_county",
+                  "tennessee",
+                  "new_hampshire",
+                  "massachusetts"
+            ]
+      },
+      "('m.027qxz5', '/people/person/place_lived')": {
+            "head_relation": [
+                  "markel_hutchins",
+                  "/people/person/place_lived"
+            ],
+            "head": "markel_hutchins",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "atlanta",
+            "support_info": "the rev. markel_hutchins , a 28-year-old minister in atlanta , said : '' the paradigm in america has shifted from black and white to the haves and have-nots . '' one of those the union has enlisted is the rev. markel_hutchins , associate pastor at philadelphia baptist church in atlanta . '' ",
+            "ranking": [
+                  7,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "minnesota",
+                  "united_states_of_america",
+                  "minneapolis",
+                  "chicago",
+                  "los_angeles",
+                  "cleveland",
+                  "atlanta",
+                  "brooklyn",
+                  "fairfield"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "atlanta",
+                  "new_york_city",
+                  "minnesota",
+                  "chicago",
+                  "marietta",
+                  "minneapolis",
+                  "cleveland",
+                  "brooklyn",
+                  "boston"
+            ],
+            "rank_o": [
+                  "atlanta",
+                  "united_states_of_america",
+                  "new_york_city",
+                  "minnesota",
+                  "chicago",
+                  "marietta",
+                  "minneapolis",
+                  "cleveland",
+                  "statesboro",
+                  "brooklyn"
+            ]
+      },
+      "('m.02_bf7', '/people/person/place_lived')": {
+            "head_relation": [
+                  "thomas_ad\u00e8s",
+                  "/people/person/place_lived"
+            ],
+            "head": "thomas_ad\u00e8s",
+            "relation": "/people/person/place_lived",
+            "ground_truth": "london",
+            "support_info": "look at the royal opera in london , which commissioned the most brilliantly talented british composer of the new generation , thomas_ad\u00e8s , and encouraged him to think big . look at the royal opera in london , which commissioned the most brilliantly talented british composer of the new generation , thomas_ad\u00e8s , and encouraged him to think big . ",
+            "ranking": [
+                  9,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "new_york",
+                  "oxford",
+                  "los_angeles",
+                  "england",
+                  "edinburgh",
+                  "united_states_of_america",
+                  "ohio",
+                  "surrey",
+                  "london"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "new_york_city",
+                  "london",
+                  "england",
+                  "wiltshire",
+                  "oxford",
+                  "middlesex",
+                  "united_states_of_america",
+                  "california",
+                  "paris"
+            ],
+            "rank_o": [
+                  "london",
+                  "new_york_city",
+                  "new_york",
+                  "wiltshire",
+                  "oxford",
+                  "england",
+                  "middlesex",
+                  "grosvenor_square",
+                  "edinburgh",
+                  "paris"
+            ]
+      },
+      "('m.04sv36', '/people/person/nationality')": {
+            "head_relation": [
+                  "kari_lehtonen",
+                  "/people/person/nationality"
+            ],
+            "head": "kari_lehtonen",
+            "relation": "/people/person/nationality",
+            "ground_truth": "finland",
+            "support_info": "thomas discovered he could indeed compete with the best in the n.h.l. , joining calgary 's miikka kiprusoff , atlanta 's kari_lehtonen , san jose 's vesa toskala and his teammate toivonen among top-flight n.h.l. goalies who have come out of finland . ",
+            "ranking": [
+                  8,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "sweden",
+                  "russia",
+                  "canada",
+                  "republic_of_ireland",
+                  "united_kingdom",
+                  "scotland",
+                  "france",
+                  "finland",
+                  "romania"
+            ],
+            "rank_s": [
+                  "czechoslovakia",
+                  "finland",
+                  "sweden",
+                  "venezuela",
+                  "canada",
+                  "belgium",
+                  "scotland",
+                  "united_states_of_america",
+                  "russia",
+                  "romania"
+            ],
+            "rank_o": [
+                  "finland",
+                  "sweden",
+                  "scotland",
+                  "netherlands",
+                  "czechoslovakia",
+                  "belgium",
+                  "czech_republic",
+                  "romania",
+                  "norway",
+                  "russia"
+            ]
+      }
+}

@@ -117,8 +117,8 @@ def link_predicate(args, idx2score, link_triple_list, valid=False, head=False):
     entity2id = {lines[i].strip().split('\t')[0]:i for i in range(len(lines))}
     id2entity = {i:lines[i].strip().split('\t')[0] for i in range(len(lines))}
 
-    seen_data = load_data(args.data_dir, "/train") + load_data(args.data_dir, "/valid") + load_data(args.data_dir, "/test")
-    seen_data = set(map(tuple, seen_data))
+    # seen_data = load_data(args.data_dir, "/train") + load_data(args.data_dir, "/valid") + load_data(args.data_dir, "/test")
+    # seen_data = set(map(tuple, seen_data))
 
     lines = open(f'{args.data_dir}/train.txt').readlines()
     triple_set = set()

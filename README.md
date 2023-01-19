@@ -19,8 +19,7 @@ Therefore, the first step of TagReal is to run KGE models and get the recalls an
 
 ### Dataset Downloading
 
-We use the datasets FB60K-NYT10 and UMLS-PubMed provided by CPL (Cong Fu, Tong Chen, Meng Qu, Woojeong Jin, and Xiang Ren. 2019. Collaborative policy learning for open knowledge graph reasoning.
-The datasets can be downloaded from their GitHub repo: https://github.com/INK-USC/CPL#datasets).
+We use the datasets FB60K-NYT10 and UMLS-PubMed provided by CPL (GitHub: https://github.com/INK-USC/CPL#datasets).
 
 
 **Dataset generation process**:

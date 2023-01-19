@@ -316,14 +316,15 @@ def convert_type_to_x_y(relation, head, tail):
     
 
 def main():
-    # corpus = "../../../data/pj20/corpus_text_low.txt"
-    dataset = "UMLS-PubMed"
-    # corpus = "./Volumes/pubmed_corpus_text.txt"
-    # relation_set = get_relation_set(dataset=dataset)
-    # for relation in [*relation_set]:
-    #     print('Begin Text Mining for Relation: ', relation)
-    #     triples = get_triples_for_relation(relation, dataset)
-    #     mine_triple_text_from_corpus(triples, corpus, relation, dataset)
+    corpus = "../../../data/pj20/corpus_text_low.txt"
+    # dataset = "UMLS-PubMed"
+    dataset = "FB60K-NYT10"
+    corpus = "./Volumes/pubmed_corpus_text.txt"
+    relation_set = get_relation_set(dataset=dataset)
+    for relation in [*relation_set]:
+        print('Begin Text Mining for Relation: ', relation)
+        triples = get_triples_for_relation(relation, dataset)
+        mine_triple_text_from_corpus(triples, corpus, relation, dataset)
 
     if dataset == "FB60K-NYT10":
 
@@ -367,19 +368,19 @@ def main():
             relation_entities[relation]['tail']
         )
 
-    # entity_tokens = get_entity_tokens(dataset=dataset)
-    # # print(entity_tokens)
-    # for relation in relation_entities.keys():
-    #     filtered_patterns = filter_meta_pad_mined_results(
-    #         relation,
-    #         relation_entities[relation]['head'],
-    #         relation_entities[relation]['tail']
-    #     )
-    #     relation_slash = relation_entities[relation]['slash']
-    #     from_meta_pad_to_true_pie(relation, relation_slash, filtered_patterns, entity_tokens)
+    entity_tokens = get_entity_tokens(dataset=dataset)
+    # print(entity_tokens)
+    for relation in relation_entities.keys():
+        filtered_patterns = filter_meta_pad_mined_results(
+            relation,
+            relation_entities[relation]['head'],
+            relation_entities[relation]['tail']
+        )
+        relation_slash = relation_entities[relation]['slash']
+        from_meta_pad_to_true_pie(relation, relation_slash, filtered_patterns, entity_tokens)
 
-    # for relation in relation_entities.keys():
-    #     convert_type_to_x_y(relation, relation_entities[relation]['head'], relation_entities[relation]['tail'])
+    for relation in relation_entities.keys():
+        convert_type_to_x_y(relation, relation_entities[relation]['head'], relation_entities[relation]['tail'])
 
 
 

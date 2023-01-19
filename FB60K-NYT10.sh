@@ -13,8 +13,8 @@ python3 -m torch.distributed.launch --nproc_per_node=7 tagreal.py \
 --decay_rate 0.99 \
 --weight_decay 0.0005 \
 --lstm_dropout 0.0 \
---data_dir ./dataset/FB60K-NYT10-20 \
---out_dir ./checkpoint/FB60K-NYT10-20 \
+--data_dir ./dataset/FB60K-NYT10-100 \
+--out_dir ./checkpoint/FB60K-NYT10-100 \
 --valid_step 5000 \
 --use_lm_finetune \
 --recall_k 20 \

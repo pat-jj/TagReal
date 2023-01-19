@@ -1,0 +1,2093 @@
+{
+      "('m.05fhy', '/people/person/place_lived')": {
+            "head_relation": [
+                  "nebraska",
+                  "/people/person/place_lived"
+            ],
+            "head": "nebraska",
+            "relation": "/people/person/place_lived_inv",
+            "ground_truth": "kyle_larson",
+            "support_info": "john mccain , son of a naval officer , was born in the panama canal zone ; the state 's other senator , jon_kyl , a republican , in nebraska ; janet napolitano , in new york city , then raised in albuquerque . -rrb- ",
+            "ranking": [
+                  9,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "york_college",
+                  "chris_ware",
+                  "montgomery_clift",
+                  "howard_hanson",
+                  "raymond_carver",
+                  "leland_hayward",
+                  "karl_rove",
+                  "ebbert",
+                  "john_evans",
+                  "kyle_larson"
+            ],
+            "rank_s": [
+                  "chris_ware",
+                  "howard_hanson",
+                  "kyle_larson",
+                  "lawrence_welk",
+                  "karl_rove",
+                  "john_evans",
+                  "karen_hess",
+                  "leland_hayward",
+                  "mike_johanns",
+                  "montgomery_clift"
+            ],
+            "rank_o": [
+                  "kyle_larson",
+                  "karen_hess",
+                  "bob_gibson",
+                  "mike_johanns",
+                  "bob_barker",
+                  "lawrence_welk",
+                  "leland_hayward",
+                  "chris_ware",
+                  "montgomery_clift",
+                  "karl_rove"
+            ]
+      },
+      "('m.0y2qz', '/location/location/contains')": {
+            "head_relation": [
+                  "lynbrook",
+                  "/location/location/contains"
+            ],
+            "head": "lynbrook",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "nassau_county",
+            "support_info": "the man , nelson zuniga , 21 , was convicted of second-degree murder and robbery for the killing of anthony battaglia , 37 , of lynbrook , said denis dillon , the nassau_county district attorney . the last time nassau_county was hit by a tornado was in 1998 , when one passed through lynbrook , said greg caronia , the county 's director of emergency preparedness . ",
+            "ranking": [
+                  8,
+                  4,
+                  3
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york_city",
+                  "new_south_wales",
+                  "pennsylvania",
+                  "westchester_county",
+                  "switzerland",
+                  "queens",
+                  "illinois",
+                  "nassau_county",
+                  "turkey"
+            ],
+            "rank_s": [
+                  "illinois",
+                  "queens",
+                  "glen_cove",
+                  "united_states_of_america",
+                  "nassau_county",
+                  "missouri",
+                  "zimbabwe",
+                  "westchester_county",
+                  "long_island",
+                  "pennsylvania"
+            ],
+            "rank_o": [
+                  "new_south_wales",
+                  "westchester_county",
+                  "illinois",
+                  "nassau_county",
+                  "missouri",
+                  "united_states_of_america",
+                  "pennsylvania",
+                  "queens",
+                  "montgomery_county",
+                  "zimbabwe"
+            ]
+      },
+      "('m.013d7t', '/people/person/place_lived')": {
+            "head_relation": [
+                  "shreveport",
+                  "/people/person/place_lived"
+            ],
+            "head": "shreveport",
+            "relation": "/people/person/place_lived_inv",
+            "ground_truth": "joe_dumars",
+            "support_info": "on friday , mr. bush will go to shreveport , la. , for an appearance with representative jim_mccrery , a republican who expressed doubts about mr. bush 's approach last month but changed his mind after a visit from white house officials . ",
+            "ranking": [
+                  8,
+                  3,
+                  2
+            ],
+            "rank_p": [
+                  "raymond_w._baker",
+                  "bill_russell",
+                  "bill_madlock",
+                  "chris_henry",
+                  "reggie_smith",
+                  "anthony_thomas",
+                  "kordell_stewart",
+                  "brock_berlin",
+                  "joe_dumars",
+                  "john_godina"
+            ],
+            "rank_s": [
+                  "chris_henry",
+                  "bill_russell",
+                  "mike_howell",
+                  "joe_dumars",
+                  "jeremy_shockey",
+                  "bill_madlock",
+                  "jake_delhomme",
+                  "brock_berlin",
+                  "anthony_thomas",
+                  "john_godina"
+            ],
+            "rank_o": [
+                  "reggie_smith",
+                  "jake_delhomme",
+                  "joe_dumars",
+                  "mike_howell",
+                  "chris_henry",
+                  "joel_hefley",
+                  "toby_keith",
+                  "kordell_stewart",
+                  "jeremy_shockey",
+                  "bill_russell"
+            ]
+      },
+      "('m.0xmlp', '/people/person/place_lived')": {
+            "head_relation": [
+                  "east_orange",
+                  "/people/person/place_lived"
+            ],
+            "head": "east_orange",
+            "relation": "/people/person/place_lived_inv",
+            "ground_truth": "william_j._fallon",
+            "support_info": "bette davis , dionne_warwick , cicely tyson , whitney houston , john amos and queen latifah -lrb- then dana owens -rrb- spent some or all of their childhood in east_orange . ",
+            "ranking": [
+                  6,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "jozy_altidore",
+                  "samuel_alito",
+                  "john_f._mckeon",
+                  "claudio_reyna",
+                  "bob_corker",
+                  "ben_curtis",
+                  "william_j._fallon",
+                  "robert_l._johnson",
+                  "daunte_culpepper",
+                  "richard_codey"
+            ],
+            "rank_s": [
+                  "roberto_hern\u00e1ndez",
+                  "samuel_alito",
+                  "william_j._fallon",
+                  "robert_l._johnson",
+                  "claudio_reyna",
+                  "john_f._mckeon",
+                  "bob_corker",
+                  "jozy_altidore",
+                  "whitney_houston",
+                  "don_schollander"
+            ],
+            "rank_o": [
+                  "william_j._fallon",
+                  "don_schollander",
+                  "bettye_lavette",
+                  "john_f._mckeon",
+                  "bob_corker",
+                  "lori_petty",
+                  "ben_curtis",
+                  "robert_l._johnson",
+                  "daunte_culpepper",
+                  "paul_rudnick"
+            ]
+      },
+      "('m.0cr3d', '/location/neighborhood/neighborhood_of')": {
+            "head_relation": [
+                  "brooklyn",
+                  "/location/neighborhood/neighborhood_of"
+            ],
+            "head": "brooklyn",
+            "relation": "/location/neighborhood/neighborhood_of_inv",
+            "ground_truth": "sunset_park",
+            "support_info": "in the sunset_park neighborhood of brooklyn , which is home to large numbers of hispanics and asians , about 3,000 people , mostly hispanic , turned out for a midday rally , although asian-owned businesses largely remained open . in the sunset_park neighborhood of brooklyn , which is home to large numbers of hispanics and asians , about 3,000 people , mostly hispanic , turned out for a midday rally , although asian-owned businesses largely remained open . ",
+            "ranking": [
+                  9,
+                  6,
+                  5
+            ],
+            "rank_p": [
+                  "brooklyn_academy_of_music",
+                  "brooklyn_bridge",
+                  "brooklyn_borough_hall",
+                  "brooklyn_historical_society",
+                  "brooklyn_botanic_garden",
+                  "manhattan_bridge",
+                  "plymouth_church_of_the_pilgrims",
+                  "new_york_aquarium",
+                  "red_hook_houses",
+                  "sunset_park"
+            ],
+            "rank_s": [
+                  "brooklyn_bridge",
+                  "brooklyn_borough_hall",
+                  "brooklyn_historical_society",
+                  "brooklyn_academy_of_music",
+                  "stuyvesant_town",
+                  "brooklyn_botanic_garden",
+                  "sunset_park",
+                  "mill_basin",
+                  "manhattan_bridge",
+                  "red_hook_houses"
+            ],
+            "rank_o": [
+                  "brooklyn_borough_hall",
+                  "turtle_bay",
+                  "stuyvesant_town",
+                  "brooklyn_historical_society",
+                  "red_hook_houses",
+                  "sunset_park",
+                  "brooklyn_botanic_garden",
+                  "coney_island",
+                  "parachute_jump",
+                  "mill_basin"
+            ]
+      },
+      "('m.0gp6r5', '/location/location/contains')": {
+            "head_relation": [
+                  "tokushima",
+                  "/location/location/contains"
+            ],
+            "head": "tokushima",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "shikoku",
+            "support_info": "it is an hour 's drive from the nearest airport in tokushima , on shikoku , the smallest of japan 's four main islands . it is an hour 's drive from the nearest airport in tokushima , on shikoku , the smallest of japan 's four main islands . ",
+            "ranking": [
+                  7,
+                  6,
+                  3
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "hokkaido",
+                  "tokyo",
+                  "maharashtra",
+                  "indiana",
+                  "russia",
+                  "chiba",
+                  "shikoku",
+                  "brooklyn",
+                  "oregon"
+            ],
+            "rank_s": [
+                  "united_kingdom",
+                  "hokkaido",
+                  "illinois",
+                  "maharashtra",
+                  "japan",
+                  "russia",
+                  "shikoku",
+                  "germany",
+                  "oregon",
+                  "indiana"
+            ],
+            "rank_o": [
+                  "niigata_prefecture",
+                  "tokyo",
+                  "japan",
+                  "shikoku",
+                  "hokkaido",
+                  "germany",
+                  "indiana",
+                  "maharashtra",
+                  "oregon",
+                  "greece"
+            ]
+      },
+      "('m.027l4q', '/location/location/contains')": {
+            "head_relation": [
+                  "pacific_palisades",
+                  "/location/location/contains"
+            ],
+            "head": "pacific_palisades",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "los_angeles",
+            "support_info": "karen warner , a marketing consultant from pacific_palisades , calif. , now pays luggage forward about $ 150 to ship her carry-on bag ahead on her frequent flights from los_angeles to boston . karen warner , a marketing consultant from pacific_palisades , calif. , now pays luggage forward about $ 150 to ship her carry-on bag ahead on her frequent flights from los_angeles to boston . that same morning , in the upscale los_angeles neighborhood pacific_palisades , more than a dozen members of the drug enforcement administration were giving the comedian tommy chong -lrb- n\u00e9 thomas b. kin chong -rrb- and his wife , shelby , a very rude awakening . ",
+            "ranking": [
+                  9,
+                  3,
+                  1
+            ],
+            "rank_p": [
+                  "pacific_palisades",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "alameda_county",
+                  "hacienda_heights",
+                  "el_segundo",
+                  "ventura_county",
+                  "london",
+                  "orange_county",
+                  "los_angeles"
+            ],
+            "rank_s": [
+                  "pacific_palisades",
+                  "new_jersey",
+                  "stanislaus_county",
+                  "los_angeles",
+                  "united_states_of_america",
+                  "san_francisco_bay_area",
+                  "orange_county",
+                  "london",
+                  "sherman_oaks",
+                  "new_york_city"
+            ],
+            "rank_o": [
+                  "stanislaus_county",
+                  "los_angeles",
+                  "pacific_palisades",
+                  "united_states_of_america",
+                  "san_bernardino_county",
+                  "san_francisco_bay_area",
+                  "new_jersey",
+                  "sherman_oaks",
+                  "ventura_county",
+                  "orange_county"
+            ]
+      },
+      "('m.0106f8', '/location/location/contains')": {
+            "head_relation": [
+                  "west",
+                  "/location/location/contains"
+            ],
+            "head": "west",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "texas",
+            "support_info": "group members believe that texas 's referendum in 1845 in favor of joining the united states was illegal , as were the settlements of land claims that texas then had against neighboring mexican and american territories in the west . in the united states , mr. legorreta 's brilliant colors and strong volumes have won him numerous commissions in the west and the southwest , including pershing square in los angeles , the san antonio central library in texas and the visual arts center at the college of santa fe in new mexico . ",
+            "ranking": [
+                  7,
+                  3,
+                  2
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "gray_county",
+                  "iowa",
+                  "california",
+                  "new_south_wales",
+                  "fort_bend_county",
+                  "florida",
+                  "texas",
+                  "presidio_county",
+                  "austin"
+            ],
+            "rank_s": [
+                  "ohio",
+                  "austin",
+                  "starr_county",
+                  "texas",
+                  "united_states_of_america",
+                  "saxony",
+                  "florida",
+                  "california",
+                  "new_south_wales",
+                  "fort_bend_county"
+            ],
+            "rank_o": [
+                  "austin",
+                  "new_south_wales",
+                  "texas",
+                  "starr_county",
+                  "united_states_of_america",
+                  "iowa",
+                  "california",
+                  "saxony",
+                  "florida",
+                  "ohio"
+            ]
+      },
+      "('m.0qr4n', '/location/location/contains')": {
+            "head_relation": [
+                  "prescott",
+                  "/location/location/contains"
+            ],
+            "head": "prescott",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "arizona",
+            "support_info": "the property is 45 minutes northwest of prescott , which is near the center of arizona and is 100 miles north of phoenix . ",
+            "ranking": [
+                  9,
+                  5,
+                  3
+            ],
+            "rank_p": [
+                  "prescott",
+                  "grand_teton_national_park",
+                  "alabama",
+                  "kansas",
+                  "wyoming",
+                  "mobile_county",
+                  "rocky_mountains",
+                  "golden",
+                  "california",
+                  "arizona"
+            ],
+            "rank_s": [
+                  "alabama",
+                  "prescott",
+                  "wyoming",
+                  "grand_teton_national_park",
+                  "new_jersey",
+                  "arizona",
+                  "california",
+                  "okaloosa_county",
+                  "coconino_county",
+                  "louisiana"
+            ],
+            "rank_o": [
+                  "prescott",
+                  "grand_teton_national_park",
+                  "alabama",
+                  "arizona",
+                  "louisiana",
+                  "new_jersey",
+                  "poultney",
+                  "california",
+                  "coconino_county",
+                  "okaloosa_county"
+            ]
+      },
+      "('m.02bt1g', '/location/location/contains')": {
+            "head_relation": [
+                  "kapisa_province",
+                  "/location/location/contains"
+            ],
+            "head": "kapisa_province",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "afghanistan",
+            "support_info": "two of those disqualified with particularly notorious reputations are commander didaar , from kabul , who is loyal to abdul rasul sayyaf qalamuddin , a militant party leader from sar-e-pul in northern afghanistan , and one of the taliban commanders , al-haaj habib-u-rahman afghan , from kapisa_province . two of those disqualified with particularly notorious reputations are commander didaar , from kabul , who is loyal to abdul rasul sayyaf qalamuddin , a militant party leader from sar-e-pul in northern afghanistan , and one of the taliban commanders , al-haaj habib-u-rahman afghan , from kapisa_province . ",
+            "ranking": [
+                  7,
+                  4,
+                  2
+            ],
+            "rank_p": [
+                  "kandahar_province",
+                  "uzbekistan",
+                  "saskatchewan",
+                  "helmand_province",
+                  "balkh_province",
+                  "kunduz_province",
+                  "canada",
+                  "afghanistan",
+                  "pakistan",
+                  "montana"
+            ],
+            "rank_s": [
+                  "asia",
+                  "pakistan",
+                  "myanmar",
+                  "nepal",
+                  "afghanistan",
+                  "helmand_province",
+                  "wisconsin",
+                  "canada",
+                  "south_carolina",
+                  "kandahar_province"
+            ],
+            "rank_o": [
+                  "uzbekistan",
+                  "pakistan",
+                  "afghanistan",
+                  "helmand_province",
+                  "myanmar",
+                  "asia",
+                  "canada",
+                  "nepal",
+                  "wisconsin",
+                  "south_carolina"
+            ]
+      },
+      "('m.03gxm', '/business/company/founders')": {
+            "head_relation": [
+                  "henry_ford",
+                  "/business/company/founders"
+            ],
+            "head": "henry_ford",
+            "relation": "/business/company/founders_inv",
+            "ground_truth": "ford_motor_company",
+            "support_info": "eight years ago tomorrow , william clay ford jr. , wearing a navy blue double-breasted suit , a blue dress shirt and an excited smile , stood in front of a portrait of his great-grandfather , henry_ford , and celebrated his ascension to the chairman 's job at the ford_motor_company . nevertheless , the ford_motor_company , an organization with a rich heritage extending back to the days of henry_ford , has fallen on hard times , having lost $ 1.6 billion domestically in the last year alone -- in short losing money by the truckload . ",
+            "ranking": [
+                  2,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "ford_motor_credit_company",
+                  "ford_motor_company",
+                  "general_motors",
+                  "brookings_institution",
+                  "ibm",
+                  "u.s._steel",
+                  "bethlehem_steel",
+                  "mazda",
+                  "general_motors_acceptance_corporation"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "ford_motor_company",
+                  "ford_motor_credit_company",
+                  "general_motors",
+                  "ibm",
+                  "bethlehem_steel",
+                  "brookings_institution",
+                  "king_&_spalding",
+                  "general_motors_acceptance_corporation",
+                  "boeing"
+            ],
+            "rank_o": [
+                  "ford_motor_company",
+                  "united_states_of_america",
+                  "ford_motor_credit_company",
+                  "general_motors",
+                  "toyota_motor_corporation",
+                  "u.s._steel",
+                  "general_motors_acceptance_corporation",
+                  "bethlehem_steel",
+                  "brookings_institution",
+                  "king_&_spalding"
+            ]
+      },
+      "('m.09b9m', '/location/location/contains')": {
+            "head_relation": [
+                  "dresden",
+                  "/location/location/contains"
+            ],
+            "head": "dresden",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "germany",
+            "support_info": "on sunday he opens the moritzburg festival , which he helped found in 1993 in a baroque castle near dresden , germany . labor problems in dresden , germany , seem to happen at the top of the pay scale , not among the rank and file . the city of dresden , germany , will celebrate its 800th anniversary on friday with the return of its glamorous semper opera ball after an absence of 67 years . it may have been conceived with an eye to germany , where mr. vogler is better known and where he will perform with the philharmonic in a celebration of the reconsecration of the frauenkirche in dresden earlier this month . ",
+            "ranking": [
+                  7,
+                  3,
+                  2
+            ],
+            "rank_p": [
+                  "new_south_wales",
+                  "united_kingdom",
+                  "central_europe",
+                  "czech_republic",
+                  "norway",
+                  "brandenburg",
+                  "poland",
+                  "germany",
+                  "slovakia",
+                  "dortmund"
+            ],
+            "rank_s": [
+                  "united_kingdom",
+                  "norway",
+                  "czech_republic",
+                  "germany",
+                  "dortmund",
+                  "slovakia",
+                  "greece",
+                  "texas",
+                  "bavaria",
+                  "poland"
+            ],
+            "rank_o": [
+                  "norway",
+                  "new_south_wales",
+                  "germany",
+                  "slovakia",
+                  "greece",
+                  "texas",
+                  "czech_republic",
+                  "dortmund",
+                  "poland",
+                  "bavaria"
+            ]
+      },
+      "('m.04bzcgn', '/location/location/contains')": {
+            "head_relation": [
+                  "type",
+                  "/location/location/contains"
+            ],
+            "head": "type",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "texas",
+            "support_info": "some people who have a problem with hypoglycemia should not be doing public safety-type jobs , '' said john w. griffin jr. , a lawyer from texas with type 2 diabetes who handles discrimination cases . '' some people who have a problem with hypoglycemia should not be doing public safety-type jobs , '' said john w. griffin jr. , a lawyer from texas with type 2 diabetes who handles discrimination cases . '' ",
+            "ranking": [
+                  5,
+                  4,
+                  2
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "canada",
+                  "new_york_city",
+                  "pennsylvania",
+                  "new_york",
+                  "texas",
+                  "california",
+                  "african_american",
+                  "ohio",
+                  "harvard_university"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "united_kingdom",
+                  "new_jersey",
+                  "united_states_of_america",
+                  "texas",
+                  "ohio",
+                  "pennsylvania",
+                  "california",
+                  "canada",
+                  "new_york_city"
+            ],
+            "rank_o": [
+                  "new_york",
+                  "new_jersey",
+                  "texas",
+                  "united_states_of_america",
+                  "california",
+                  "united_kingdom",
+                  "pennsylvania",
+                  "new_york_city",
+                  "canada",
+                  "ohio"
+            ]
+      },
+      "('m.0bxhx', '/business/company/founders')": {
+            "head_relation": [
+                  "ross_perot",
+                  "/business/company/founders"
+            ],
+            "head": "ross_perot",
+            "relation": "/business/company/founders_inv",
+            "ground_truth": "electronic_data_systems",
+            "support_info": "in the 1980 's , electronic_data_systems , the computer software company founded by ross_perot , had a policy barring facial hair , and fired an employee who said that he wore a beard for religious reasons . in the 1980 's , electronic_data_systems , the computer software company founded by ross_perot , had a policy barring facial hair , and fired an employee who said that he wore a beard for religious reasons . ",
+            "ranking": [
+                  3,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "academy_of_motion_picture_arts_and_sciences",
+                  "united_states_naval_academy",
+                  "electronic_data_systems",
+                  "rca",
+                  "united_nations",
+                  "ibm",
+                  "aol",
+                  "nasa",
+                  "netscape"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "electronic_data_systems",
+                  "hewlett-packard",
+                  "united_nations",
+                  "rca",
+                  "academy_of_motion_picture_arts_and_sciences",
+                  "ibm",
+                  "aol",
+                  "nasa",
+                  "mckinsey_&_company"
+            ],
+            "rank_o": [
+                  "electronic_data_systems",
+                  "united_states_of_america",
+                  "hewlett-packard",
+                  "funimation_entertainment",
+                  "medtronic",
+                  "united_parcel_service",
+                  "netscape",
+                  "gannett_company",
+                  "united_nations",
+                  "3m"
+            ]
+      },
+      "('m.07dfk', '/location/neighborhood/neighborhood_of')": {
+            "head_relation": [
+                  "tokyo",
+                  "/location/neighborhood/neighborhood_of"
+            ],
+            "head": "tokyo",
+            "relation": "/location/neighborhood/neighborhood_of_inv",
+            "ground_truth": "shiodome",
+            "support_info": "the location -- just south of downtown tokyo and the ginza district , shiodome is a futuristic-seeming area of skyscrapers and elevated pedestrian walkways that connect buildings and elevated train stations . the location -- just south of downtown tokyo and the ginza district , shiodome is a futuristic-seeming area of skyscrapers and elevated pedestrian walkways that connect buildings and elevated train stations . ",
+            "ranking": [
+                  7,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "meiji_gakuin_university",
+                  "soka_university",
+                  "mori",
+                  "yuka_sato",
+                  "hino",
+                  "ginza",
+                  "csk",
+                  "shiodome",
+                  "larry_poons",
+                  "shintaro_ishihara"
+            ],
+            "rank_s": [
+                  "harajuku",
+                  "shiodome",
+                  "ginza",
+                  "akihabara",
+                  "tatsuya_nakadai",
+                  "shintaro_ishihara",
+                  "meiji_gakuin_university",
+                  "yuka_sato",
+                  "mamoru_oshii",
+                  "seiji_mizushima"
+            ],
+            "rank_o": [
+                  "shiodome",
+                  "ginza",
+                  "harajuku",
+                  "akihabara",
+                  "mitaka",
+                  "shintaro_ishihara",
+                  "mori",
+                  "yuka_sato",
+                  "hino",
+                  "otemachi"
+            ]
+      },
+      "('m.0489zc9', '/location/location/contains')": {
+            "head_relation": [
+                  "stevens",
+                  "/location/location/contains"
+            ],
+            "head": "stevens",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "california",
+            "support_info": "justice stevens said he also regretted having to rule in favor of the federal government 's ability to enforce its narcotics laws and thus trump california 's medical marijuana initiative . '' justice stevens said that states remained free to place restrictions on their own use of eminent domain power through their own constitutions and laws , as many have ; california , for example , has a law restricting to blighted areas the use of eminent domain for economic development . ",
+            "ranking": [
+                  9,
+                  7,
+                  6
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york_city",
+                  "african_american",
+                  "new_york",
+                  "united_kingdom",
+                  "canada",
+                  "pennsylvania",
+                  "harvard_university",
+                  "starfleet_academy",
+                  "california"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "united_kingdom",
+                  "new_jersey",
+                  "african_american",
+                  "united_states_of_america",
+                  "texas",
+                  "ohio",
+                  "california",
+                  "canada",
+                  "pennsylvania"
+            ],
+            "rank_o": [
+                  "new_york",
+                  "new_jersey",
+                  "texas",
+                  "united_states_of_america",
+                  "united_kingdom",
+                  "pennsylvania",
+                  "california",
+                  "canada",
+                  "ohio",
+                  "new_york_city"
+            ]
+      },
+      "('m.038h98', '/location/location/contains')": {
+            "head_relation": [
+                  "beale_street",
+                  "/location/location/contains"
+            ],
+            "head": "beale_street",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "memphis",
+            "support_info": "soon , memphis began the urban-renewed version of beale_street -- its answer to bourbon street , sans the nudie shows -- which over the years has become more like frat row . then the father took the son out that night on beale_street , one of the hubs for social activity in memphis . '' ",
+            "ranking": [
+                  8,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "beale_street",
+                  "new_york_city",
+                  "united_states_of_america",
+                  "england",
+                  "massachusetts",
+                  "pennsylvania",
+                  "puerto_rico",
+                  "tennessee",
+                  "memphis",
+                  "qu\u00e9bec"
+            ],
+            "rank_s": [
+                  "united_kingdom",
+                  "memphis",
+                  "ohio",
+                  "qu\u00e9bec",
+                  "massachusetts",
+                  "beale_street",
+                  "united_states_of_america",
+                  "texas",
+                  "tennessee",
+                  "washington"
+            ],
+            "rank_o": [
+                  "memphis",
+                  "texas",
+                  "massachusetts",
+                  "beale_street",
+                  "virginia",
+                  "united_states_of_america",
+                  "england",
+                  "tennessee",
+                  "puerto_rico",
+                  "pennsylvania"
+            ]
+      },
+      "('m.01_f90', '/location/location/contains')": {
+            "head_relation": [
+                  "john_f._kennedy_school_of_government",
+                  "/location/location/contains"
+            ],
+            "head": "john_f._kennedy_school_of_government",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "cambridge",
+            "support_info": "richard rosecrance kenneth waltz cambridge , mass. , april 19 , 2006 the writers are , respectively , a senior fellow at the john_f._kennedy_school_of_government at harvard and an adjunct professor of political science at columbia university . ",
+            "ranking": [
+                  5,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "united_states_of_america",
+                  "massachusetts",
+                  "london",
+                  "boston",
+                  "cambridge",
+                  "charleston",
+                  "middlesex_county",
+                  "stockbridge",
+                  "los_angeles"
+            ],
+            "rank_s": [
+                  "massachusetts",
+                  "united_states_of_america",
+                  "cambridge",
+                  "arizona",
+                  "los_angeles",
+                  "boston",
+                  "london",
+                  "arabian_peninsula",
+                  "new_york_city",
+                  "essex_county"
+            ],
+            "rank_o": [
+                  "cambridge",
+                  "massachusetts",
+                  "arizona",
+                  "los_angeles",
+                  "hadley",
+                  "boston",
+                  "lexington",
+                  "london",
+                  "united_states_of_america",
+                  "stockbridge"
+            ]
+      },
+      "('m.028_pg', '/location/location/contains')": {
+            "head_relation": [
+                  "benjamin_franklin_bridge",
+                  "/location/location/contains"
+            ],
+            "head": "benjamin_franklin_bridge",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "philadelphia",
+            "support_info": "the challenge is to make them fit in , he said , as he did in camden , where the two towers in front of campbell 's field look like the abutments of the adjacent benjamin_franklin_bridge , which links camden and downtown philadelphia . admiral wilson boulevard , the main road to the benjamin_franklin_bridge into downtown philadelphia from new jersey , was flooded yesterday morning as well . the challenge is to make them fit in , he said , as he did in camden , where the two towers in front of campbell 's field look like the abutments of the adjacent benjamin_franklin_bridge , which links camden and downtown philadelphia . ",
+            "ranking": [
+                  7,
+                  4,
+                  1
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "pennsylvania",
+                  "columbia",
+                  "north_carolina",
+                  "dominican_republic",
+                  "south_carolina",
+                  "oregon",
+                  "philadelphia",
+                  "portland",
+                  "ukraine"
+            ],
+            "rank_s": [
+                  "columbus",
+                  "ohio",
+                  "new_jersey",
+                  "ukraine",
+                  "philadelphia",
+                  "dominican_republic",
+                  "queens",
+                  "north_carolina",
+                  "cincinnati",
+                  "oregon"
+            ],
+            "rank_o": [
+                  "columbus",
+                  "philadelphia",
+                  "new_haven",
+                  "new_jersey",
+                  "north_carolina",
+                  "oregon",
+                  "pennsylvania",
+                  "portland",
+                  "newark",
+                  "cincinnati"
+            ]
+      },
+      "('m.03cwg6', '/location/country/administrative_divisions')": {
+            "head_relation": [
+                  "ingushetia",
+                  "/location/country/administrative_divisions"
+            ],
+            "head": "ingushetia",
+            "relation": "/location/country/administrative_divisions_inv",
+            "ground_truth": "russia",
+            "support_info": "ingushetia 's president said that there were no ingush criminal groups active in russia . two pro-kremlin officials were assassinated minutes apart on friday in ingushetia , a republic bordering chechnya in russia 's volatile north caucasus . as the film journeys from a boys ' military school on an island outside st. petersburg , russia , to grozny , the ruined capital city of chechnya , to an orphanage just over the chechen border in the republic of ingushetia , a sullen mist hangs over everything . ",
+            "ranking": [
+                  4,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "australia",
+                  "germany",
+                  "russian_empire",
+                  "russia",
+                  "belgium",
+                  "china",
+                  "france",
+                  "italy",
+                  "kazakhstan"
+            ],
+            "rank_s": [
+                  "united_states_of_america",
+                  "france",
+                  "russia",
+                  "australia",
+                  "new_zealand",
+                  "dagestan",
+                  "china",
+                  "kazakhstan",
+                  "russian_empire",
+                  "germany"
+            ],
+            "rank_o": [
+                  "italy",
+                  "russia",
+                  "australia",
+                  "france",
+                  "kazakhstan",
+                  "russian_empire",
+                  "china",
+                  "new_zealand",
+                  "united_states_of_america",
+                  "dagestan"
+            ]
+      },
+      "('m.02lkf_', '/location/location/contains')": {
+            "head_relation": [
+                  "akasaka",
+                  "/location/location/contains"
+            ],
+            "head": "akasaka",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "japan",
+            "support_info": "a longtime new yorker , avid yankees fan and owner of akasaka restaurant , ichiro is survived by his children , michael , sumiko , emiko and their mother , frances , and by his mother , brother and sister in japan . ",
+            "ranking": [
+                  7,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york",
+                  "india",
+                  "hokkaido",
+                  "china",
+                  "south_korea",
+                  "russia",
+                  "japan",
+                  "france",
+                  "switzerland"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "united_kingdom",
+                  "japan",
+                  "germany",
+                  "hokkaido",
+                  "russia",
+                  "shikoku",
+                  "netherlands",
+                  "tokyo",
+                  "united_states_of_america"
+            ],
+            "rank_o": [
+                  "niigata_prefecture",
+                  "japan",
+                  "germany",
+                  "tokyo",
+                  "hokkaido",
+                  "france",
+                  "china",
+                  "russia",
+                  "united_states_of_america",
+                  "shikoku"
+            ]
+      },
+      "('m.013h9', '/location/location/contains')": {
+            "head_relation": [
+                  "alexandria",
+                  "/location/location/contains"
+            ],
+            "head": "alexandria",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "virginia",
+            "support_info": "zabriskie -- philip tyler , b. march 6 , 1928 in alexandria , virginia , d. december 25 in his new york home . the owner of a vast plantation , gunston hall , along the potomac river near alexandria , va. , mason drafted the virginia constitution and the virginia declaration of rights in the spring of 1776 . this case , '' judge jere m. h. willis jr. wrote for the court of appeals of virginia , in alexandria , '' does not place before us the question whether virginia recognizes the civil union entered into by the parties in vermont . '' ",
+            "ranking": [
+                  3,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "alexandria",
+                  "pennsylvania",
+                  "united_states_senate",
+                  "virginia",
+                  "charlottesville",
+                  "fort_bend_county",
+                  "tennessee",
+                  "orange_county",
+                  "british_columbia",
+                  "connecticut"
+            ],
+            "rank_s": [
+                  "alexandria",
+                  "new_jersey",
+                  "virginia",
+                  "tennessee",
+                  "orange_county",
+                  "connecticut",
+                  "idaho",
+                  "pennsylvania",
+                  "washington",
+                  "british_columbia"
+            ],
+            "rank_o": [
+                  "alexandria",
+                  "virginia",
+                  "pennsylvania",
+                  "new_jersey",
+                  "tennessee",
+                  "idaho",
+                  "connecticut",
+                  "orange_county",
+                  "british_columbia",
+                  "washington"
+            ]
+      },
+      "('m.03tmg9', '/location/location/contains')": {
+            "head_relation": [
+                  "alba",
+                  "/location/location/contains"
+            ],
+            "head": "alba",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "piedmont",
+            "support_info": "in alba , italy 's truffle capital , in the northwestern province of piedmont , demand for the fungi has spawned a cottage industry of package tours , food festivals and a strip mall of truffle-themed shops . while dolcetto is produced all over the langhe region , in the south of piedmont , its twin centers are the towns of alba and dogliani . in fact it could , and it does , if you head west and a bit north and delve into piedmont , where there 's a humble burg called barolo and another named alba , which is as chummy with the white truffle as parma is with ham . ",
+            "ranking": [
+                  6,
+                  4,
+                  1
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "pennsylvania",
+                  "france",
+                  "lombardy",
+                  "abruzzo",
+                  "jamaica",
+                  "piedmont",
+                  "ivrea",
+                  "massachusetts",
+                  "iraq"
+            ],
+            "rank_s": [
+                  "sicily",
+                  "massachusetts",
+                  "germany",
+                  "lazio",
+                  "piedmont",
+                  "united_states_of_america",
+                  "abruzzo",
+                  "tuscany",
+                  "iraq",
+                  "milan"
+            ],
+            "rank_o": [
+                  "sicily",
+                  "piedmont",
+                  "germany",
+                  "france",
+                  "lazio",
+                  "tuscany",
+                  "campania",
+                  "united_states_of_america",
+                  "massachusetts",
+                  "calabria"
+            ]
+      },
+      "('m.0fs44', '/location/location/contains')": {
+            "head_relation": [
+                  "rabat",
+                  "/location/location/contains"
+            ],
+            "head": "rabat",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "morocco",
+            "support_info": "a draft of the final declaration was prepared more than a month ago , at a meeting in rabat , morocco . in addition to her husband , ms. stein is survived by four sons , lincoln , of glen cove , n.y. ; rafael , of ramsey , n.j. ; joshua , of acton , mass. ; and aram , of richmond , calif. ; two sisters , suzanne caffuzzi , of manhattan , and diantha guessous , of rabat , morocco ; and six grandchildren . ",
+            "ranking": [
+                  5,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york",
+                  "brazil",
+                  "algeria",
+                  "lehigh_county",
+                  "morocco",
+                  "mexico",
+                  "libya",
+                  "mexico_city",
+                  "niger"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "morocco",
+                  "mexico",
+                  "spain",
+                  "united_states_of_america",
+                  "brazil",
+                  "lehigh_county",
+                  "libya",
+                  "tunisia",
+                  "chad"
+            ],
+            "rank_o": [
+                  "morocco",
+                  "mexico",
+                  "algeria",
+                  "spain",
+                  "new_york",
+                  "lehigh_county",
+                  "western_sahara",
+                  "niger",
+                  "united_states_of_america",
+                  "chad"
+            ]
+      },
+      "('m.0n3v6', '/location/location/contains')": {
+            "head_relation": [
+                  "pitt_county",
+                  "/location/location/contains"
+            ],
+            "head": "pitt_county",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "north_carolina",
+            "support_info": "in an experiment by economists at the university of chicago , the university of maryland , the university of nevada at reno and east carolina university , residents of pitt_county , n. c. , were asked to contribute to a center to study natural-hazard mitigation , as a response to the devastation caused by hurricanes dennis and floyd in eastern north_carolina . in an experiment by economists at the university of chicago , the university of maryland , the university of nevada at reno and east carolina university , residents of pitt_county , n. c. , were asked to contribute to a center to study natural-hazard mitigation , as a response to the devastation caused by hurricanes dennis and floyd in eastern north_carolina . ",
+            "ranking": [
+                  6,
+                  3,
+                  1
+            ],
+            "rank_p": [
+                  "pitt_county",
+                  "united_states_of_america",
+                  "new_york",
+                  "wake_county",
+                  "pennsylvania",
+                  "minnesota",
+                  "north_carolina",
+                  "south_carolina",
+                  "utah",
+                  "mexico"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "pitt_county",
+                  "mexico",
+                  "north_carolina",
+                  "new_jersey",
+                  "arizona",
+                  "minnesota",
+                  "united_states_of_america",
+                  "pennsylvania",
+                  "utah"
+            ],
+            "rank_o": [
+                  "pitt_county",
+                  "north_carolina",
+                  "mexico",
+                  "arizona",
+                  "pennsylvania",
+                  "florida",
+                  "new_york",
+                  "utah",
+                  "south_carolina",
+                  "new_jersey"
+            ]
+      },
+      "('m.044q_q', '/location/location/contains')": {
+            "head_relation": [
+                  "beacon_hill",
+                  "/location/location/contains"
+            ],
+            "head": "beacon_hill",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "boston",
+            "support_info": "the august philip also mandated the 100-volume reading list celebrating the glory of boston 's beacon_hill and personally wrote the club 's very restrictive by-laws . they have adjacent desks on a top floor of their beacon_hill townhouse in boston , where ms. welch 's four children , all under 18 , live , and seem hard pressed to meet the many demands on their time . the 1.6-mile black heritage trail in the beacon_hill neighborhood commemorates boston 's contribution to african-american history . ",
+            "ranking": [
+                  6,
+                  3,
+                  2
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york_city",
+                  "new_york",
+                  "minnesota",
+                  "amherst",
+                  "south_carolina",
+                  "boston",
+                  "berkeley",
+                  "new_hampshire",
+                  "waltham"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "minnesota",
+                  "united_states_of_america",
+                  "boston",
+                  "new_hampshire",
+                  "berkeley",
+                  "cambridge",
+                  "berkshire_county",
+                  "new_york_city",
+                  "south_carolina"
+            ],
+            "rank_o": [
+                  "new_york",
+                  "minnesota",
+                  "boston",
+                  "new_hampshire",
+                  "berkshire_county",
+                  "middlesex_county",
+                  "cambridge",
+                  "united_states_of_america",
+                  "south_carolina",
+                  "berkeley"
+            ]
+      },
+      "('m.04bsp3k', '/location/location/contains')": {
+            "head_relation": [
+                  "jones",
+                  "/location/location/contains"
+            ],
+            "head": "jones",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "tennessee",
+            "support_info": "at least six teams -- pittsburgh , philadelphia , san diego , chicago , houston and tennessee -- have worked out jones within the past month . jones , 24 , a second-year player from tennessee who can also play defensive back , was a punt returner last season . jones , 24 , a second-year player from tennessee who can also play defensive back , was a punt returner last season . at least six teams -- pittsburgh , philadelphia , san diego , chicago , houston and tennessee -- have worked out jones within the past month . ",
+            "ranking": [
+                  7,
+                  5,
+                  1
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york_city",
+                  "new_york",
+                  "canada",
+                  "african_american",
+                  "pennsylvania",
+                  "california",
+                  "tennessee",
+                  "harvard_university",
+                  "texas"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "united_kingdom",
+                  "new_jersey",
+                  "ohio",
+                  "united_states_of_america",
+                  "tennessee",
+                  "african_american",
+                  "texas",
+                  "california",
+                  "canada"
+            ],
+            "rank_o": [
+                  "new_york",
+                  "tennessee",
+                  "texas",
+                  "new_jersey",
+                  "california",
+                  "united_states_of_america",
+                  "united_kingdom",
+                  "pennsylvania",
+                  "ohio",
+                  "canada"
+            ]
+      },
+      "('m.0k6v8', '/location/location/contains')": {
+            "head_relation": [
+                  "nankana_sahib",
+                  "/location/location/contains"
+            ],
+            "head": "nankana_sahib",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "pakistan",
+            "support_info": "he spoke at the unveiling of the latest bus link between the countries , this one cutting across divided punjab from the indian city of amritsar to the sikh pilgrimage site of nankana_sahib in pakistan , the birthplace of the sikh religion 's founder . he spoke at the unveiling of the latest bus link between the countries , this one cutting across divided punjab from the indian city of amritsar to the sikh pilgrimage site of nankana_sahib in pakistan , the birthplace of the sikh religion 's founder . ",
+            "ranking": [
+                  3,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "india",
+                  "east_jerusalem",
+                  "andhra_pradesh",
+                  "pakistan",
+                  "islamabad",
+                  "east_africa",
+                  "wales",
+                  "pike_county",
+                  "green_mountains",
+                  "vermont"
+            ],
+            "rank_s": [
+                  "wales",
+                  "new_jersey",
+                  "pakistan",
+                  "vermont",
+                  "india",
+                  "andhra_pradesh",
+                  "camden_county",
+                  "washington",
+                  "salt_lake_county",
+                  "kentucky"
+            ],
+            "rank_o": [
+                  "islamabad",
+                  "pakistan",
+                  "camden_county",
+                  "vermont",
+                  "andhra_pradesh",
+                  "new_jersey",
+                  "wales",
+                  "salt_lake_county",
+                  "kentucky",
+                  "india"
+            ]
+      },
+      "('m.02pkshv', '/location/location/contains')": {
+            "head_relation": [
+                  "friesach",
+                  "/location/location/contains"
+            ],
+            "head": "friesach",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "austria",
+            "support_info": "heinrich harrer , a swashbuckling explorer who told of his magical life of conquering the world 's highest peaks and tutoring the young dalai lama when tibet seemed as exotic as mars , only to have news of his nazi past mar his final years , died jan. 7 in friesach , austria . heinrich harrer , a swashbuckling explorer who told of his magical life of conquering the world 's highest peaks and tutoring the young dalai lama when tibet seemed as exotic as mars , only to have news of his nazi past mar his final years , died jan. 7 in friesach , austria . ",
+            "ranking": [
+                  7,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york_city",
+                  "new_york",
+                  "england",
+                  "switzerland",
+                  "france",
+                  "california",
+                  "austria",
+                  "czech_republic",
+                  "belgium"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "united_states_of_america",
+                  "austria",
+                  "australia",
+                  "bulgaria",
+                  "czech_republic",
+                  "united_kingdom",
+                  "california",
+                  "germany",
+                  "greece"
+            ],
+            "rank_o": [
+                  "new_york",
+                  "austria",
+                  "switzerland",
+                  "bulgaria",
+                  "france",
+                  "greece",
+                  "germany",
+                  "california",
+                  "czech_republic",
+                  "united_states_of_america"
+            ]
+      },
+      "('m.036k9p', '/location/location/contains')": {
+            "head_relation": [
+                  "verdun",
+                  "/location/location/contains"
+            ],
+            "head": "verdun",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "montreal",
+            "support_info": "walter maynard ferguson was born on may 4 , 1928 , in verdun , canada , now part of the city of montreal . ",
+            "ranking": [
+                  9,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "south_africa",
+                  "lorraine",
+                  "china",
+                  "vancouver",
+                  "united_kingdom",
+                  "cape_town",
+                  "connecticut",
+                  "ottawa",
+                  "montreal"
+            ],
+            "rank_s": [
+                  "vancouver",
+                  "united_kingdom",
+                  "montreal",
+                  "ontario",
+                  "nova_scotia",
+                  "lorraine",
+                  "alberta",
+                  "south_asia",
+                  "british_columbia",
+                  "connecticut"
+            ],
+            "rank_o": [
+                  "montreal",
+                  "vancouver",
+                  "alberta",
+                  "nova_scotia",
+                  "china",
+                  "lorraine",
+                  "ontario",
+                  "connecticut",
+                  "united_kingdom",
+                  "south_asia"
+            ]
+      },
+      "('m.0fnyc', '/location/location/contains')": {
+            "head_relation": [
+                  "accra",
+                  "/location/location/contains"
+            ],
+            "head": "accra",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "africa",
+            "support_info": "they crossed five international boundaries , passing through chad , nigeria , benin , and togo to reach the outskirts of accra , a journey through some of the roughest patches in africa . they crossed five international boundaries , passing through chad , nigeria , benin , and togo to reach the outskirts of accra , a journey through some of the roughest patches in africa . ",
+            "ranking": [
+                  3,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "accra",
+                  "central_african_republic",
+                  "southern_africa",
+                  "africa",
+                  "west_africa",
+                  "europe",
+                  "nigeria",
+                  "botswana",
+                  "palm_beach_county",
+                  "senegal"
+            ],
+            "rank_s": [
+                  "accra",
+                  "europe",
+                  "africa",
+                  "botswana",
+                  "new_zealand",
+                  "middle_east",
+                  "palm_beach_county",
+                  "zimbabwe",
+                  "nigeria",
+                  "southern_africa"
+            ],
+            "rank_o": [
+                  "africa",
+                  "accra",
+                  "europe",
+                  "new_zealand",
+                  "botswana",
+                  "middle_east",
+                  "zimbabwe",
+                  "palm_beach_county",
+                  "central_african_republic",
+                  "nigeria"
+            ]
+      },
+      "('m.02nb6f', '/location/location/contains')": {
+            "head_relation": [
+                  "south_kensington",
+                  "/location/location/contains"
+            ],
+            "head": "south_kensington",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "london",
+            "support_info": "in london , the british museum and south_kensington , later called the victoria & albert , were founded to encapsulate world culture and elevate the populace . suzy taylor , 29 , of london 's south_kensington neighborhood , said the treatment was worth the price because it made her hair '' glossy , '' and the effect lasted through a couple of shampoos . the concept was to create a 21st-century manor house and throw in a little blakes hotel of london , '' mr. zeff said , referring to a boutique hotel in south_kensington with elegant interiors by anouska hempel . '' ",
+            "ranking": [
+                  4,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "republic_of_ireland",
+                  "west_yorkshire",
+                  "scotland",
+                  "wales",
+                  "london",
+                  "ireland",
+                  "manchester",
+                  "egypt",
+                  "west_midlands",
+                  "kent"
+            ],
+            "rank_s": [
+                  "wales",
+                  "egypt",
+                  "london",
+                  "ireland",
+                  "west_yorkshire",
+                  "scotland",
+                  "warwickshire",
+                  "west_midlands",
+                  "manchester",
+                  "northamptonshire"
+            ],
+            "rank_o": [
+                  "wales",
+                  "london",
+                  "ireland",
+                  "egypt",
+                  "manchester",
+                  "republic_of_ireland",
+                  "west_yorkshire",
+                  "warwickshire",
+                  "sussex",
+                  "buckinghamshire"
+            ]
+      },
+      "('m.02bbmp', '/location/location/contains')": {
+            "head_relation": [
+                  "cedars-sinai_medical_center",
+                  "/location/location/contains"
+            ],
+            "head": "cedars-sinai_medical_center",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "los_angeles",
+            "support_info": "he added that his company will '' probably give about $ 12 per candle , '' and that the first beneficiary will be the women 's cancer research institute at cedars-sinai_medical_center in los_angeles . about one in 60 american women will develop ovarian cancer , '' said dr. andrew j. li , the senior author of the study , a faculty physician at the cedars-sinai_medical_center and an assistant professor of obstetrics and gynecology at the university of california , los_angeles . ",
+            "ranking": [
+                  9,
+                  5,
+                  3
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "london",
+                  "silicon_valley",
+                  "inland_empire",
+                  "arizona",
+                  "los_angeles_county",
+                  "united_kingdom",
+                  "orange_county",
+                  "san_francisco_bay_area",
+                  "los_angeles"
+            ],
+            "rank_s": [
+                  "san_francisco",
+                  "united_kingdom",
+                  "georgia",
+                  "new_jersey",
+                  "san_luis_obispo_county",
+                  "los_angeles",
+                  "inland_empire",
+                  "arizona",
+                  "san_francisco_bay_area",
+                  "orange_county"
+            ],
+            "rank_o": [
+                  "arizona",
+                  "san_francisco",
+                  "san_luis_obispo_county",
+                  "los_angeles",
+                  "inland_empire",
+                  "san_francisco_bay_area",
+                  "louisiana",
+                  "orange_county",
+                  "georgia",
+                  "silicon_valley"
+            ]
+      },
+      "('m.0g3bc', '/location/location/contains')": {
+            "head_relation": [
+                  "kobe",
+                  "/location/location/contains"
+            ],
+            "head": "kobe",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "japan",
+            "support_info": "kobe club -- jeffrey chodorow , and his partner , charlie walk , have redone the ill-fated mix in new york with japanese swords hanging from the ceiling , and have hired josh dechellis to cook kobe beef from japan and other meats and seafoods . mr. galati 's selection of stories from mr. murakami 's collection of tales elliptically referencing the 1995 earthquake in kobe , japan , is adventurous . ",
+            "ranking": [
+                  7,
+                  4,
+                  1
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "india",
+                  "china",
+                  "maharashtra",
+                  "hokkaido",
+                  "switzerland",
+                  "russia",
+                  "japan",
+                  "california",
+                  "united_kingdom"
+            ],
+            "rank_s": [
+                  "united_kingdom",
+                  "hokkaido",
+                  "illinois",
+                  "russia",
+                  "japan",
+                  "maharashtra",
+                  "germany",
+                  "united_states_of_america",
+                  "shikoku",
+                  "tokyo"
+            ],
+            "rank_o": [
+                  "germany",
+                  "japan",
+                  "maharashtra",
+                  "hokkaido",
+                  "tokyo",
+                  "illinois",
+                  "china",
+                  "russia",
+                  "united_states_of_america",
+                  "iran"
+            ]
+      },
+      "('m.0r7fy', '/location/location/contains')": {
+            "head_relation": [
+                  "modesto",
+                  "/location/location/contains"
+            ],
+            "head": "modesto",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "stanislaus_county",
+            "support_info": "according to the bureau , more than 7,000 thefts were reported in modesto and surrounding stanislaus_county . according to the bureau , more than 7,000 thefts were reported in modesto and surrounding stanislaus_county . ",
+            "ranking": [
+                  8,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "new_york",
+                  "alameda_county",
+                  "silicon_valley",
+                  "los_angeles_county",
+                  "arizona",
+                  "coconino_county",
+                  "marin_county",
+                  "contra_costa_county",
+                  "stanislaus_county",
+                  "riverside_county"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "georgia",
+                  "stanislaus_county",
+                  "new_jersey",
+                  "arizona",
+                  "coconino_county",
+                  "silicon_valley",
+                  "san_francisco_bay_area",
+                  "santa_clara_county",
+                  "los_angeles_county"
+            ],
+            "rank_o": [
+                  "stanislaus_county",
+                  "arizona",
+                  "new_york",
+                  "silicon_valley",
+                  "coconino_county",
+                  "san_francisco_bay_area",
+                  "new_jersey",
+                  "marin_county",
+                  "riverside_county",
+                  "los_angeles_county"
+            ]
+      },
+      "('m.03r4dz', '/location/location/contains')": {
+            "head_relation": [
+                  "leoben",
+                  "/location/location/contains"
+            ],
+            "head": "leoben",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "austria",
+            "support_info": "government officials told the news agency that mr. irving had been wanted since 1989 , when a warrant was issued for his arrest in connection with speeches he had made in vienna and in leoben , in southern austria . government officials told the news agency that mr. irving had been wanted since 1989 , when a warrant was issued for his arrest in connection with speeches he had made in vienna and in leoben , in southern austria . ",
+            "ranking": [
+                  8,
+                  2,
+                  1
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "switzerland",
+                  "sweden",
+                  "france",
+                  "new_york",
+                  "ukraine",
+                  "belgium",
+                  "united_kingdom",
+                  "austria",
+                  "slovenia"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "sweden",
+                  "austria",
+                  "united_kingdom",
+                  "bulgaria",
+                  "japan",
+                  "germany",
+                  "united_states_of_america",
+                  "ukraine",
+                  "lithuania"
+            ],
+            "rank_o": [
+                  "switzerland",
+                  "austria",
+                  "new_york",
+                  "germany",
+                  "france",
+                  "bulgaria",
+                  "japan",
+                  "slovenia",
+                  "lithuania",
+                  "ukraine"
+            ]
+      },
+      "('m.020x_1', '/location/location/contains')": {
+            "head_relation": [
+                  "tsim_sha_tsui",
+                  "/location/location/contains"
+            ],
+            "head": "tsim_sha_tsui",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "kowloon",
+            "support_info": "over the gut-busting meal , fed , a consummate shopper , gave me advice : skip the glossy shops of central , and make for tsim_sha_tsui in kowloon , paterson street in causeway bay , and the area around 3 pacific place in wan chai . ",
+            "ranking": [
+                  8,
+                  4,
+                  2
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "new_york",
+                  "xinjiang",
+                  "india",
+                  "hong_kong",
+                  "afghanistan",
+                  "china",
+                  "myanmar",
+                  "kowloon",
+                  "british_isles"
+            ],
+            "rank_s": [
+                  "japan",
+                  "new_york",
+                  "india",
+                  "minneapolis",
+                  "kowloon",
+                  "philadelphia",
+                  "asia",
+                  "texas",
+                  "china",
+                  "xinjiang"
+            ],
+            "rank_o": [
+                  "japan",
+                  "new_york",
+                  "kowloon",
+                  "china",
+                  "philadelphia",
+                  "asia",
+                  "afghanistan",
+                  "xinjiang",
+                  "myanmar",
+                  "india"
+            ]
+      },
+      "('m.058sc', '/location/location/contains')": {
+            "head_relation": [
+                  "montalcino",
+                  "/location/location/contains"
+            ],
+            "head": "montalcino",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "tuscany",
+            "support_info": "richard d. parsons , chairman and chief executive of time warner , owns a small vineyard in tuscany that produces a brunello di montalcino selling for $ 80 a bottle , adorned with a crest of the parsons family . the region , an undiscovered part of tuscany , stretches inland from the coast to montalcino and ends at the border of lazio , near capalbio . an alternative in italy could be a six-night trip to chianciano in southern tuscany with four cooking lessons and excursions to siena , montepulciano , montalcino , pienza and montefollonico . ",
+            "ranking": [
+                  6,
+                  4,
+                  2
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york",
+                  "england",
+                  "piedmont",
+                  "lombardy",
+                  "france",
+                  "tuscany",
+                  "abruzzo",
+                  "lazio",
+                  "calabria"
+            ],
+            "rank_s": [
+                  "sicily",
+                  "new_york",
+                  "massachusetts",
+                  "florence",
+                  "tuscany",
+                  "lazio",
+                  "abruzzo",
+                  "united_states_of_america",
+                  "piedmont",
+                  "salt_lake_county"
+            ],
+            "rank_o": [
+                  "lombardy",
+                  "sicily",
+                  "tuscany",
+                  "florence",
+                  "lazio",
+                  "france",
+                  "utah",
+                  "new_york",
+                  "calabria",
+                  "apulia"
+            ]
+      },
+      "('m.0y2wk', '/location/location/contains')": {
+            "head_relation": [
+                  "muttontown",
+                  "/location/location/contains"
+            ],
+            "head": "muttontown",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "nassau_county",
+            "support_info": "run-down no longer hidden behind brush and brambles on the 21-acre jericho preserve in muttontown , malcolm house , a little-known historic property acquired by nassau_county in 2001 , was in desperate need of a face-lift . along a six-mile stretch of jericho turnpike , through the hamlets of woodbury , syosset , jericho and muttontown in nassau_county , there are at least 10 developments with entrances on the four-lane highway . ",
+            "ranking": [
+                  6,
+                  1,
+                  0
+            ],
+            "rank_p": [
+                  "new_york_city",
+                  "pennsylvania",
+                  "westchester_county",
+                  "suffolk_county",
+                  "switzerland",
+                  "california",
+                  "nassau_county",
+                  "monroe_county",
+                  "dutchess_county",
+                  "old_westbury"
+            ],
+            "rank_s": [
+                  "illinois",
+                  "nassau_county",
+                  "west_virginia",
+                  "rockland_county",
+                  "suffolk_county",
+                  "missouri",
+                  "california",
+                  "westchester_county",
+                  "pennsylvania",
+                  "zimbabwe"
+            ],
+            "rank_o": [
+                  "nassau_county",
+                  "west_virginia",
+                  "westchester_county",
+                  "rockland_county",
+                  "illinois",
+                  "pennsylvania",
+                  "missouri",
+                  "suffolk_county",
+                  "california",
+                  "zimbabwe"
+            ]
+      },
+      "('m.0vh7g', '/location/location/contains')": {
+            "head_relation": [
+                  "almere",
+                  "/location/location/contains"
+            ],
+            "head": "almere",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "netherlands",
+            "support_info": "lg electronics europe , almere , the netherlands , part of lg electronics , consolidated its creative and media accounts , with combined billings estimated at $ 60 million . lg electronics europe , almere , the netherlands , part of lg electronics , consolidated its creative and media accounts , with combined billings estimated at $ 60 million . ",
+            "ranking": [
+                  5,
+                  3,
+                  2
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "scotland",
+                  "france",
+                  "brazil",
+                  "gelderland",
+                  "netherlands",
+                  "amsterdam",
+                  "united_kingdom",
+                  "russia",
+                  "friesland"
+            ],
+            "rank_s": [
+                  "japan",
+                  "united_kingdom",
+                  "russia",
+                  "netherlands",
+                  "germany",
+                  "united_states_of_america",
+                  "utrecht",
+                  "portugal",
+                  "brazil",
+                  "poland"
+            ],
+            "rank_o": [
+                  "france",
+                  "germany",
+                  "netherlands",
+                  "japan",
+                  "united_states_of_america",
+                  "russia",
+                  "poland",
+                  "utrecht",
+                  "scotland",
+                  "united_kingdom"
+            ]
+      },
+      "('m.03f7mb', '/location/location/contains')": {
+            "head_relation": [
+                  "barinas",
+                  "/location/location/contains"
+            ],
+            "head": "barinas",
+            "relation": "/location/location/contains_inv",
+            "ground_truth": "venezuela",
+            "support_info": "mr. correa met with mr. ch\u00e1vez in venezuela in august , spending the night at the home of mr. ch\u00e1vez 's parents in barinas , the provincial cattle-raising region where mr. ch\u00e1vez was raised . carlos tapia , another barinas resident and one of venezuela 's best-known harpists , said he welcomed the law because his brand of music had in recent years received little notice , as radio stations turned to rock , rap and pop . '' ",
+            "ranking": [
+                  3,
+                  2,
+                  0
+            ],
+            "rank_p": [
+                  "united_states_of_america",
+                  "new_york_city",
+                  "new_york",
+                  "venezuela",
+                  "african_american",
+                  "california",
+                  "canada",
+                  "pennsylvania",
+                  "harvard_university",
+                  "united_kingdom"
+            ],
+            "rank_s": [
+                  "new_york",
+                  "united_kingdom",
+                  "venezuela",
+                  "new_jersey",
+                  "texas",
+                  "united_states_of_america",
+                  "ohio",
+                  "canada",
+                  "african_american",
+                  "california"
+            ],
+            "rank_o": [
+                  "venezuela",
+                  "texas",
+                  "united_states_of_america",
+                  "california",
+                  "new_york",
+                  "new_jersey",
+                  "canada",
+                  "pennsylvania",
+                  "united_kingdom",
+                  "ohio"
+            ]
+      }
+}

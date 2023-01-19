@@ -1,6 +1,6 @@
 # TagReal
 
-TagReal reuses some modules from PKGC (Xin Lv, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach. *Findings of the Association for Computational Linguistics: ACL 2022.* GitHub: https://github.com/THU-KEG/PKGC). So, there will be some similar steps between those two frameworks.
+TagReal reuses some modules from PKGC (GitHub: https://github.com/THU-KEG/PKGC). So, there will be some similar steps between those two frameworks.
 
 
 ## Requirements

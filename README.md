@@ -71,7 +71,7 @@ python3 prompt_optim.py
 
 ``` bash
 cd ../..
-python3 bm25.py
+sh FB60K-NYT10_sup.sh
 ```
 
 
@@ -106,7 +106,7 @@ For `FB60K-NYT10`, using the following command.
 sh FB60K-NYT10.sh
 ```
 
-For `Wiki27K`, using the following command.
+For `UMLS-PubMed`, using the following command.
 
 ``` bash
 sh UMLS-PubMed.sh

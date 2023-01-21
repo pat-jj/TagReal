@@ -73,31 +73,31 @@ cd ../..
 sh FB60K-NYT10_sup.sh
 ```
 
-
 Our final dataset should contain the following files.
+Checklist:
 ``` bash
-entity2label.txt
-entity2label_kg.txt
-triple2text.txt
-query2text_head.txt
-query2text_tail.txt
-entity2definition.txt
-relation2label.json
-relation2template.json
-train.txt
-valid.txt
-test.txt
-valid_pos.txt # valid set (only positive triples) for triple classification under closed-world assumption
-valid_neg.txt # valid set (only negative triples) for triple classification under closed-world assumption
-test_pos.txt # test set (only positive triples) for triple classification under closed-world assumption
-test_neg.txt # test set (only negative triples) for triple classification under closed-world assumption
-link_prediction_head.txt # recall and re-ranking files for head entity link prediction
-link_prediction_tail.txt # recall and re-ranking files for tail entity link prediction
-train_neg_kge_all.txt # negative triples from kge models for training
-train_neg_rand.txt # negative triples by random replacement for training
+entity2label.txt                    # For FB60K-NYT10, use data_utils/FBNYT_mapping.ipynb to generate mapping. For UMLS-PubMed, use data_utils/UMLS_mapping.ipynb.
+entity2label_kg.txt                 
+triple2text.txt                     # Obtained by running FB60K-NYT10_sup.sh / UMLS-PubMed_sup.sh
+query2text_head.txt                 # Obtained by running FB60K-NYT10_sup.sh / UMLS-PubMed_sup.sh
+query2text_tail.txt                 # Obtained by running FB60K-NYT10_sup.sh / UMLS-PubMed_sup.sh
+relation2template.json              # Obtained by prompt_mining.py and prompt_optim.py.
+train.txt                           # downloaded from CPL repo
+valid.txt                           # downloaded from CPL repo
+test.txt                            # downloaded from CPL repo
+valid_pos.txt                       # valid set (only positive triples) for triple classification, obtained by pipeline.py
+valid_neg.txt                       # valid set (only negative triples) for triple classification, obtained by pipeline.py
+test_pos.txt                        # test set (only positive triples) for triple classification, obtained by pipeline.py
+test_neg.txt                        # test set (only negative triples) for triple classification, obtained by pipeline.py
+link_prediction_head.txt            # recall and re-ranking files for head entity link prediction, obtained by pipeline.py with the recalls from KGE
+link_prediction_tail.txt            # recall and re-ranking files for tail entity link prediction, obtained by pipeline.py with the recalls from KGE
+train_neg_kge_all.txt               # negative triples from kge models for training, obtained by pipeline.py
+train_neg_rand.txt                  # negative triples by random replacement for training, obtained by pipeline.py
 ```
 
-### Run our model
+## Run the TagReal 
+
+Once the data is ready (all files in checklist is ready), we can run our model by following commands.
 
 For `FB60K-NYT10`, using the following command.
 

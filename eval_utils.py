@@ -24,7 +24,7 @@ def setup_logger(name, f_name, level=logging.INFO):
 
     return logger
 
-logger = setup_logger("train_logger", "UMLS-PubMed-train")
+logger = setup_logger("train_logger", "FB60K-NYT10-train")
 
 
 def load_data(data_dir, data_type="train", reverse=False):

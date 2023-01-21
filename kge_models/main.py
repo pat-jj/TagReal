@@ -145,18 +145,6 @@ class Experiment:
                 
                 rank = np.where(sort_idxs[j]==e2_idx[j].item())[0][0]
 
-                # if self.filt:
-
-                #     for h in range(10):
-                #         e1_in = self.idxs_entity[e1_idx[j].item()]
-                #         r_in = self.idxs_relation[r_idx[j].item()]
-                #         e2_pred = self.idxs_entity[sort_idxs[j][h]]
-                #         # print((e1_in, r_in, e2_pred))
-                #         if (e1_in, r_in, e2_pred) in self.seen_data:
-                #             # take the highest rank
-                #             rank = h
-                #             break
-
                 ranks.append(rank+1)
 
                 for hits_level in range(10):
@@ -232,7 +220,7 @@ class Experiment:
             print('Epoch: {}, Time: {}s, Loss: {}'.format(it, time.time()-start_train, np.mean(losses)))
             model.eval()
             with torch.no_grad():
-                if it % 10 == 0 and it != 0:
+                if it % 50 == 0 and it != 0:
                     print("Test:")
                     self.evaluate(model, d.test_data, out_lp_constraints=False)
                 if it == self.num_iterations - 1:

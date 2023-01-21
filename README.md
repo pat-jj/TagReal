@@ -82,6 +82,7 @@ triple2text.txt                     # Obtained by running FB60K-NYT10_sup.sh / U
 query2text_head.txt                 # Obtained by running FB60K-NYT10_sup.sh / UMLS-PubMed_sup.sh
 query2text_tail.txt                 # Obtained by running FB60K-NYT10_sup.sh / UMLS-PubMed_sup.sh
 relation2template.json              # Obtained by prompt_mining.py and prompt_optim.py.
+prompt_weights.json                 # Obtained by prompt_optim, only needed when run ensemble_inference.py
 train.txt                           # downloaded from CPL repo
 valid.txt                           # downloaded from CPL repo
 test.txt                            # downloaded from CPL repo
@@ -110,6 +111,18 @@ For `UMLS-PubMed`, using the following command.
 ``` bash
 sh UMLS-PubMed.sh
 ```
+
+## Ensemble Inference
+
+e.g., With ensemble (P_{r_1} = (P_{1_0}, P_{1_1}, ..., P_{1_n}), P_{r_2} = (P_{2_0}, P_{2_1}, ..., P_{2_n}), ..., P_{r_m} = (P_{m_0}, P_{m_1}, ..., P_{m_n})).
+
+**Step 1**
+We create ``` relation2template_{i}.json ``` with ((P_{1_i}, P_{2_i}, ... P_{m_i}) and run the TagReal n times.
+Rename the link prediction (tail/head) results (output by running) to ``` ours.link_prediction_tail_scores_p{i}.txt ```
+
+**Step 2**
+Use ``` ensemble_inference.py ``` to run ensemble reference, with the obtained weight file ``` prompt_weights.json ``` which maps each prompt P_{x_y} to its weight.
+
 
 ### References
 Xin Lv, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach. *Findings of the Association for Computational Linguistics: ACL 2022.*

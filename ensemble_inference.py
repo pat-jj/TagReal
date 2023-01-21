@@ -189,19 +189,19 @@ def main():
             else:
                 hits_head[hits_level].append(0.0)
 
-        print("Tail Prediction:")
-        print('Hits @10: {0}'.format(np.mean(hits_tail[9])))
-        print('Hits @5: {0}'.format(np.mean(hits_tail[4])))
-        print('Hits @1: {0}'.format(np.mean(hits_tail[0])))
-        print('Mean rank: {0}'.format(np.mean(ranks_tail)))
-        print('Mean reciprocal rank: {0}'.format(np.mean(1./np.array(ranks_tail))))
+    print("Tail Prediction:")
+    print('Hits @10: {0}'.format(np.mean(hits_tail[9])))
+    print('Hits @5: {0}'.format(np.mean(hits_tail[4])))
+    print('Hits @1: {0}'.format(np.mean(hits_tail[0])))
+    print('Mean rank: {0}'.format(np.mean(ranks_tail)))
+    print('Mean reciprocal rank: {0}'.format(np.mean(1./np.array(ranks_tail))))
 
-        print("Head Prediction:")
-        print('Hits @10: {0}'.format(np.mean(hits_head[9])))
-        print('Hits @5: {0}'.format(np.mean(hits_head[4])))
-        print('Hits @1: {0}'.format(np.mean(hits_head[0])))
-        print('Mean rank: {0}'.format(np.mean(ranks_head)))
-        print('Mean reciprocal rank: {0}'.format(np.mean(1./np.array(ranks_head))))
+    print("Head Prediction:")
+    print('Hits @10: {0}'.format(np.mean(hits_head[9])))
+    print('Hits @5: {0}'.format(np.mean(hits_head[4])))
+    print('Hits @1: {0}'.format(np.mean(hits_head[0])))
+    print('Mean rank: {0}'.format(np.mean(ranks_head)))
+    print('Mean reciprocal rank: {0}'.format(np.mean(1./np.array(ranks_head))))
 
 
 if __name__ == '__main__':

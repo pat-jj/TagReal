@@ -45,6 +45,9 @@ cd ../dataset/FB60K-NYT10
 python3 pipeline.py
 ```
 
+## Prompt Generation
+
+
 ### Prompt Selection
 We use MetaPAD (https://github.com/mjiang89/MetaPAD) and TruePIE (https://github.com/qili5/TruePIE) for prompt selection.
 The phrase segmentation as well as frequent pattern mining are integrated in the code of MetaPAD. 
@@ -66,7 +69,7 @@ python3 prompt_optim.py
 ```
 
 
-### Support Information Retrieval
+## Support Information Retrieval
 
 ``` bash
 cd ../..

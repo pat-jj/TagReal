@@ -1,6 +1,7 @@
 # TagReal
 
-TagReal reuses some modules from PKGC (GitHub: https://github.com/THU-KEG/PKGC). So, there will be some similar steps between those two frameworks.
+Source code for the paper: "[Text-Augmented Open Knowledge Graph Completion via
+Pre-Trained Language Models]()" (ACL 23' Findings)
 
 
 ## Requirements

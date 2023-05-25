@@ -1,7 +1,7 @@
 # TagReal
 
 Source code for the paper: "[Text-Augmented Open Knowledge Graph Completion via
-Pre-Trained Language Models]()" (ACL 23' Findings)
+Pre-Trained Language Models](http://hanj.cs.illinois.edu/pdf/acl23_pjiang.pdf)" (ACL'23 Findings)
 
 
 ## Requirements

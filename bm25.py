@@ -140,7 +140,6 @@ def triple2text(args):
                         triple_text[triple] = text.lower().replace(head.lower(), head).replace(tail.lower(), tail)
         except:
             continue
-    
     # BM25
     corpus_text = []
     print("loading corpus text ...")
@@ -166,7 +165,6 @@ def triple2text(args):
             # print(f"{tail} not found in corpus")
             sub_corpus_text[tail] = []
         sub_text = sub_corpus_text[head]
-        sub_text.extend(sub_corpus_text[tail])
         # print(sub_text)
         if len(sub_text) == 0:
             continue

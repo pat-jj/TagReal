@@ -1,6 +1,6 @@
 /checkpoint/
 .vscode
-/dataset/
+# /dataset/
 /Volumes/
 /TuckER/data/nyt10/
 *.ipynb_checkpoints
